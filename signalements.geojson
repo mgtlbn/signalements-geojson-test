@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.971458435058594,
+          48.206018592882344
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "type": "Nid de poule",
+        "description": "ujhu",
+        "date": 1760018519.468,
+        "geometrie_type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.093338012695313,
+              48.09974122140333
+            ],
+            [
+              -3.0861282348632817,
+              48.09882408015755
+            ],
+            [
+              -3.086643218994141,
+              48.10306572126359
+            ],
+            [
+              -3.0895614624023438,
+              48.10340962277116
+            ],
+            [
+              -3.093338012695313,
+              48.09974122140333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "type": "Dégradation",
+        "description": "ee",
+        "date": 1760021793.548,
+        "geometrie_type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.109989166259766,
+            48.106963136957724
+          ],
+          [
+            -3.103466033935547,
+            48.10203400293597
+          ]
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "type": "Nid de poule",
+        "description": "",
+        "date": 1760021813.332,
+        "geometrie_type": "LineString"
+      }
+    }
+  ],
+  "metadata": {
+    "generated": "2025-10-10T07:58:29.945Z",
+    "source": "Grist",
+    "count": 3
+  }
+}
