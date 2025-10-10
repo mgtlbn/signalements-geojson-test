@@ -1,0 +1,49 @@
+name: Update GeoJSON from Grist
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: 📥 Checkout du repo
+        uses: actions/checkout@v4
+      
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: 🔄 Récupération et conversion des données
+        env:
+          GRIST_DOC_ID: ${{ secrets.GRIST_DOC_ID }}
+          GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}
+        run: |
+          node scripts/grist-to-geojson.js
+      
+      - name: 📊 Afficher les stats
+        run: |
+          if [ -f metadata.json ]; then
+            echo "📊 Statistiques :"
+            cat metadata.json
+          fi
+      
+      - name: 📤 Commit et push des changements
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add signalements.geojson metadata.json
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "🤖 Mise à jour automatique - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          )
