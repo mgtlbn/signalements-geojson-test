@@ -2,8 +2,8 @@ name: Update GeoJSON from Grist
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *'  # Toutes les 30 minutes
+  workflow_dispatch:  # Permet le déclenchement manuel
   push:
     branches:
       - main
