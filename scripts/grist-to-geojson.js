@@ -17,14 +17,16 @@ if (!GRIST_DOC_ID || !GRIST_API_KEY) {
 function fetchGristData() {
     return new Promise((resolve, reject) => {
         const options = {
-            hostname: 'grist.numerique.gouv.fr', // ⚠️ CHANGÉ : votre instance Grist
-            path: `/api/docs/${GRIST_DOC_ID}/tables/${TABLE_ID}/records`,
+            hostname: 'grist.dataregion.fr', // ✅ VOTRE instance Grist
+            path: `/o/inforoute/api/docs/${GRIST_DOC_ID}/tables/${TABLE_ID}/records`, // ✅ Avec organisation
             method: 'GET',
             headers: {
                 'Authorization': `Bearer ${GRIST_API_KEY}`,
                 'Content-Type': 'application/json'
             }
         };
+
+        console.log(`🔗 Connexion à: https://${options.hostname}${options.path}`);
 
         https.get(options, (res) => {
             let data = '';
@@ -34,17 +36,24 @@ function fetchGristData() {
             });
             
             res.on('end', () => {
+                console.log(`📡 Status code: ${res.statusCode}`);
+                
                 if (res.statusCode !== 200) {
+                    console.error(`❌ Réponse API: ${data}`);
                     reject(new Error(`Erreur API: ${res.statusCode} - ${data}`));
                 } else {
                     try {
-                        resolve(JSON.parse(data));
+                        const parsed = JSON.parse(data);
+                        console.log(`✅ Données reçues: ${parsed.records ? parsed.records.length : 0} enregistrements`);
+                        resolve(parsed);
                     } catch (e) {
+                        console.error('❌ Erreur parsing JSON:', data.substring(0, 200));
                         reject(new Error('Erreur parsing JSON: ' + e.message));
                     }
                 }
             });
         }).on('error', (err) => {
+            console.error('❌ Erreur HTTPS:', err.message);
             reject(err);
         });
     });
