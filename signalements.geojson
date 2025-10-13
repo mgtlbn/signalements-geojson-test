@@ -6,123 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.971458435058594,
-          48.206018592882344
+          -1.7390155792236328,
+          48.12593970878738
         ]
       },
       "properties": {
-        "id": 1,
-        "type": "Nid de poule",
-        "description": "ujhu",
-        "date": 1760018519.468,
-        "geometrie_type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -3.093338012695313,
-              48.09974122140333
-            ],
-            [
-              -3.0861282348632817,
-              48.09882408015755
-            ],
-            [
-              -3.086643218994141,
-              48.10306572126359
-            ],
-            [
-              -3.0895614624023438,
-              48.10340962277116
-            ],
-            [
-              -3.093338012695313,
-              48.09974122140333
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": 2,
-        "type": "Dégradation",
-        "description": "ee",
-        "date": 1760021793.548,
-        "geometrie_type": "Polygon"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -3.109989166259766,
-            48.106963136957724
-          ],
-          [
-            -3.103466033935547,
-            48.10203400293597
-          ]
-        ]
-      },
-      "properties": {
-        "id": 3,
-        "type": "Nid de poule",
+        "id": 37,
+        "administration": "test geojson",
+        "route": "N 12",
+        "commune": "Vezin-le-Coquet",
+        "type_coupure": "Totale",
+        "sens_circulation": "N/A",
+        "cause": "L, Autre",
+        "priorite": "Moyenne",
+        "statut": "Actif",
         "description": "",
-        "date": 1760021813.332,
-        "geometrie_type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.9553222656250004,
-            48.20407367875505
-          ],
-          [
-            -2.9414176940917973,
-            48.20727702450019
-          ],
-          [
-            -2.9307746887207036,
-            48.20842102799862
-          ],
-          [
-            -2.9209899902343754,
-            48.21002258996528
-          ],
-          [
-            -2.9165267944335938,
-            48.20990819434296
-          ],
-          [
-            -2.9129219055175786,
-            48.208649825631774
-          ],
-          [
-            -2.9057121276855473,
-            48.20681941594563
-          ],
-          [
-            -2.902450561523438,
-            48.20129919237834
-          ]
-        ]
-      },
-      "properties": {
-        "id": 4,
-        "type": "Fuite d'eau",
-        "description": "test MAJ",
-        "date": 1760088502.412,
-        "geometrie_type": "LineString"
+        "date_heure": 1760353423.652,
+        "geometrie_type": "Point"
       }
     },
     {
@@ -130,137 +30,157 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.1616592407226567,
-          48.54818665587578
+          -1.6755971212686327,
+          48.16323154420401
         ]
       },
       "properties": {
-        "id": 5,
-        "type": "Dégradation",
-        "description": "TEST MAJ",
-        "date": 1760088522.881,
+        "id": 38,
+        "administration": "Dpt 35",
+        "route": "Rond-Point de Betton",
+        "commune": "Betton",
+        "type_coupure": "Partielle",
+        "sens_circulation": "N/A",
+        "cause": "L, Accident",
+        "priorite": "Haute",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760359048.587,
         "geometrie_type": "Point"
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -3.9495849609375004,
-              48.304816251338075
-            ],
-            [
-              -3.6419677734375004,
-              48.54903894834268
-            ],
-            [
-              -3.5321044921875004,
-              48.337690530343444
-            ],
-            [
-              -3.8836669921875004,
-              48.224367699897286
-            ],
-            [
-              -3.9221191406250004,
-              48.264607803463555
-            ],
-            [
-              -3.9495849609375004,
-              48.304816251338075
-            ]
+            -1.6244274108089334,
+            48.14142102985918
+          ],
+          [
+            -1.622319652415212,
+            48.14249457835239
+          ],
+          [
+            -1.620673133771764,
+            48.14350011507731
           ]
         ]
       },
       "properties": {
-        "id": 6,
-        "type": "Nid de poule",
-        "description": "test MAJ",
-        "date": 1760088540.628,
-        "geometrie_type": "Polygon"
+        "id": 39,
+        "administration": "DIRO",
+        "route": "Rocade Est",
+        "commune": "Cesson-Sévigné",
+        "type_coupure": "Totale",
+        "sens_circulation": "Les deux sens",
+        "cause": "L, Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760359080.707,
+        "geometrie_type": "LineString"
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -2.931804656982422,
-              48.21093774574432
-            ],
-            [
-              -2.931632995605469,
-              48.20750582724424
-            ],
-            [
-              -2.9376411437988286,
-              48.2096794023317
-            ],
-            [
-              -2.931804656982422,
-              48.21093774574432
-            ]
+            -1.5732423474881907,
+            48.12232989258922
+          ],
+          [
+            -1.5722984149759769,
+            48.11917824442638
+          ],
+          [
+            -1.574057561930542,
+            48.115940440884124
+          ],
+          [
+            -1.5767606413973012,
+            48.11462233852525
+          ],
+          [
+            -1.5882165496135927,
+            48.110983054288155
           ]
         ]
       },
       "properties": {
-        "id": 7,
-        "type": "Éclairage défectueux",
-        "description": "xx",
-        "date": 1760097102.247,
-        "geometrie_type": "Polygon"
+        "id": 40,
+        "administration": "test",
+        "route": "Rocade Sud",
+        "commune": "Cesson-Sévigné",
+        "type_coupure": "Totale",
+        "sens_circulation": "Les deux sens",
+        "cause": "L, Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760360130.893,
+        "geometrie_type": "LineString"
       }
     },
     {
       "type": "Feature",
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -2.9323196411132817,
-              48.21082215998337
-            ],
-            [
-              -2.90914535522461,
-              48.2132243715138
-            ],
-            [
-              -2.9088020324707036,
-              48.202470738374494
-            ],
-            [
-              -2.9249382019042973,
-              48.199038252482474
-            ],
-            [
-              -2.9455375671386723,
-              48.20212750013506
-            ],
-            [
-              -2.9323196411132817,
-              48.21082215998337
-            ]
+            -1.7452145340382355,
+            48.10490628574095
+          ],
+          [
+            -1.7479034270094764,
+            48.10496593275277
+          ],
+          [
+            -1.7489975306031607,
+            48.104750981167676
+          ],
+          [
+            -1.750070181185217,
+            48.10423509369585
+          ],
+          [
+            -1.7510355667090587,
+            48.103618887985334
+          ],
+          [
+            -1.7520867642794684,
+            48.102744723025516
+          ],
+          [
+            -1.7534168510012107,
+            48.101813219412804
           ]
         ]
       },
       "properties": {
-        "id": 9,
-        "type": "Nid de poule",
-        "description": "tadata tsoin tsoin",
-        "date": 1760097228.283,
-        "geometrie_type": "Polygon"
+        "id": 41,
+        "administration": "Rennes Metropole",
+        "route": "Route de Lorient",
+        "commune": "Le Rheu",
+        "type_coupure": "Totale",
+        "sens_circulation": "Les deux sens",
+        "cause": "L, Inondation",
+        "priorite": "Critique",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760360174.847,
+        "geometrie_type": "LineString"
       }
     }
   ],
   "metadata": {
-    "generated": "2025-10-13T14:20:34.116Z",
-    "source": "Grist",
-    "count": 8
+    "generated": "2025-10-13T14:35:10.784Z",
+    "source": "Grist - Signalements routiers Ille-et-Vilaine",
+    "count": 5,
+    "doc_id": "n9MXV7uiYFKH",
+    "table": "Signalements"
   }
 }
