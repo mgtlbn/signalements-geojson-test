@@ -174,12 +174,50 @@
         "date_heure": 1760360174.847,
         "geometrie_type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6231679796357823,
+            48.1896363084455
+          ],
+          [
+            -1.623725757938448,
+            48.188119801863834
+          ],
+          [
+            -1.624176271182898,
+            48.186131107302295
+          ],
+          [
+            -1.6244551603342308,
+            48.18514388493861
+          ]
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "administration": "DIRO",
+        "route": "D 175",
+        "commune": "Betton",
+        "type_coupure": "Totale",
+        "sens_circulation": "Sens unique (aller)",
+        "cause": "L, Inondation",
+        "priorite": "Haute",
+        "statut": "Actif",
+        "description": "vers",
+        "date_heure": 1760368865.275,
+        "geometrie_type": "LineString"
+      }
     }
   ],
   "metadata": {
-    "generated": "2025-10-13T15:19:46.721Z",
+    "generated": "2025-10-13T15:40:12.310Z",
     "source": "Grist - Signalements routiers Ille-et-Vilaine",
-    "count": 5,
+    "count": 6,
     "doc_id": "n9MXV7uiYFKH",
     "table": "Signalements"
   }
