@@ -236,12 +236,74 @@
         "date_heure": 1760428274.098,
         "geometrie_type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7575760736640913,
+          48.03746147780318
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "administration": "CD56",
+        "route": "D 177",
+        "commune": "Bruz",
+        "type_coupure": "Déviation",
+        "sens_circulation": "N/A",
+        "cause": "L, Inondation",
+        "priorite": "Haute",
+        "statut": "Actif",
+        "description": "dans le sens",
+        "date_heure": 1760434564.294,
+        "geometrie_type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9179695516386033,
+            48.17383390982094
+          ],
+          [
+            -1.9146211994279463,
+            48.17202929317947
+          ],
+          [
+            -1.9099850194439674,
+            48.17025325923985
+          ],
+          [
+            -1.9091693951875335,
+            48.17016732055358
+          ]
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "administration": "CD35",
+        "route": "N 12",
+        "commune": "Pleumeleuc",
+        "type_coupure": "Totale",
+        "sens_circulation": "Les deux sens",
+        "cause": "L, Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760434725.09,
+        "geometrie_type": "LineString"
+      }
     }
   ],
   "metadata": {
-    "generated": "2025-10-14T09:21:21.683Z",
+    "generated": "2025-10-14T09:40:16.576Z",
     "source": "Grist - Signalements routiers Ille-et-Vilaine",
-    "count": 7,
+    "count": 9,
     "doc_id": "n9MXV7uiYFKH",
     "table": "Signalements"
   }
