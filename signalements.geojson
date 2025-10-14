@@ -212,12 +212,36 @@
         "date_heure": 1760368865.275,
         "geometrie_type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7167140849858533,
+          48.17432624343537
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "administration": "test",
+        "route": "D 137",
+        "commune": "Saint-Grégoire",
+        "type_coupure": "Totale",
+        "sens_circulation": "N/A",
+        "cause": "L, Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760428274.098,
+        "geometrie_type": "Point"
+      }
     }
   ],
   "metadata": {
-    "generated": "2025-10-14T07:39:05.588Z",
+    "generated": "2025-10-14T08:24:46.621Z",
     "source": "Grist - Signalements routiers Ille-et-Vilaine",
-    "count": 6,
+    "count": 7,
     "doc_id": "n9MXV7uiYFKH",
     "table": "Signalements"
   }
