@@ -8,6 +8,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout
@@ -31,4 +33,4 @@ jobs:
           git config user.email "actions@github.com"
           git add signalements.geojson metadata.json
           git commit -m "🔄 Update GeoJSON $(date)" || true
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
