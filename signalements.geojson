@@ -86,7 +86,7 @@
       },
       "properties": {
         "id": 45,
-        "administration": "null",
+        "administration": "Non spécifié",
         "route": "Rocade Sud",
         "commune": "Noyal-Châtillon-sur-Seiche",
         "type_coupure": "Totale",
@@ -116,7 +116,7 @@
       },
       "properties": {
         "id": 46,
-        "administration": "t",
+        "administration": "Non spécifié",
         "route": "D 29",
         "commune": "Montgermont",
         "type_coupure": "Totale",
@@ -128,12 +128,60 @@
         "date_heure": 1760690502.735,
         "geometrie_type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0661358125946765,
+          48.206683082822885
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "administration": "Non spécifié",
+        "route": "C 1",
+        "commune": "Montauban-de-Bretagne",
+        "type_coupure": "Totale",
+        "sens_circulation": "N/A",
+        "cause": "L, Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760692427.166,
+        "geometrie_type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9105458278679868,
+          48.1424201186463
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "administration": "Non spécifié",
+        "route": "dd",
+        "commune": "Breteil",
+        "type_coupure": "Totale",
+        "sens_circulation": "N/A",
+        "cause": "L, Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760692819.845,
+        "geometrie_type": "Point"
+      }
     }
   ],
   "metadata": {
-    "generated": "2025-10-17T08:48:13.113Z",
+    "generated": "2025-10-17T09:21:00.749Z",
     "source": "Grist - Signalements routiers Ille-et-Vilaine",
-    "count": 4,
+    "count": 6,
     "doc_id": "n9MXV7uiYFKH",
     "table": "Signalements"
   }
