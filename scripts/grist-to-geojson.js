@@ -1,32 +1,24 @@
 const https = require('https');
 const fs = require('fs');
 
-// ============================================
-// CONFIGURATION
-// ============================================
+// Configuration depuis les variables d'environnement
 const GRIST_DOC_ID = process.env.GRIST_DOC_ID;
 const GRIST_API_KEY = process.env.GRIST_API_KEY;
-const TABLE_SIGNALEMENTS = 'Signalements';
-const TABLE_CD44 = 'Routes_CD44'; // Nom de votre table pour les données du 44
-const TABLE_RENNES = 'Routes_Rennes'; // Nom de votre table pour les données Rennes
+const TABLE_ID = 'Signalements';
 
 if (!GRIST_DOC_ID || !GRIST_API_KEY) {
     console.error('❌ Variables d\'environnement manquantes');
+    console.error('GRIST_DOC_ID:', GRIST_DOC_ID ? '✓' : '✗');
+    console.error('GRIST_API_KEY:', GRIST_API_KEY ? '✓' : '✗');
     process.exit(1);
 }
 
-// ============================================
-// FONCTIONS UTILITAIRES
-// ============================================
-
-/**
- * Récupère les données d'une table Grist
- */
-function fetchGristTable(tableName) {
+// Fonction pour récupérer les données Grist
+function fetchGristData() {
     return new Promise((resolve, reject) => {
         const options = {
             hostname: 'grist.dataregion.fr',
-            path: `/o/inforoute/api/docs/${GRIST_DOC_ID}/tables/${tableName}/records`,
+            path: `/o/inforoute/api/docs/${GRIST_DOC_ID}/tables/${TABLE_ID}/records`,
             method: 'GET',
             headers: {
                 'Authorization': `Bearer ${GRIST_API_KEY}`,
@@ -34,7 +26,7 @@ function fetchGristTable(tableName) {
             }
         };
 
-        console.log(`🔗 Récupération table: ${tableName}`);
+        console.log(`🔗 Connexion à: https://${options.hostname}${options.path}`);
 
         https.get(options, (res) => {
             let data = '';
@@ -44,257 +36,152 @@ function fetchGristTable(tableName) {
             });
             
             res.on('end', () => {
+                console.log(`📡 Status code: ${res.statusCode}`);
+                
                 if (res.statusCode !== 200) {
-                    console.error(`❌ Erreur ${res.statusCode} pour ${tableName}`);
-                    reject(new Error(`Erreur API: ${res.statusCode}`));
+                    console.error(`❌ Réponse API: ${data}`);
+                    reject(new Error(`Erreur API: ${res.statusCode} - ${data}`));
                 } else {
                     try {
                         const parsed = JSON.parse(data);
-                        console.log(`✅ ${tableName}: ${parsed.records ? parsed.records.length : 0} enregistrements`);
+                        console.log(`✅ Données reçues: ${parsed.records ? parsed.records.length : 0} enregistrements`);
                         resolve(parsed);
                     } catch (e) {
+                        console.error('❌ Erreur parsing JSON:', data.substring(0, 200));
                         reject(new Error('Erreur parsing JSON: ' + e.message));
                     }
                 }
             });
         }).on('error', (err) => {
+            console.error('❌ Erreur HTTPS:', err.message);
             reject(err);
         });
     });
 }
 
-/**
- * Convertit un enregistrement Grist en feature GeoJSON
- */
-function recordToFeature(record, source) {
+// Conversion en GeoJSON
+async function convertToGeoJSON() {
     try {
-        let geometry;
-        const fields = record.fields;
+        console.log('🚀 Démarrage de la fusion...');
+        console.log('🔄 Récupération des données depuis Grist...');
+        const data = await fetchGristData();
         
-        // Gérer le format GeoJSON dans le champ geojson
-        if (fields.geojson) {
-            geometry = JSON.parse(fields.geojson);
-        }
-        // Gérer le format Latitude/Longitude
-        else if (fields.Latitude && fields.Longitude) {
-            if (fields.Latitude_fin && fields.Longitude_fin) {
-                geometry = {
-                    type: 'LineString',
-                    coordinates: [
-                        [fields.Longitude, fields.Latitude],
-                        [fields.Longitude_fin, fields.Latitude_fin]
-                    ]
-                };
-            } else {
-                geometry = {
-                    type: 'Point',
-                    coordinates: [fields.Longitude, fields.Latitude]
-                };
-            }
-        } else {
-            return null; // Pas de géométrie valide
-        }
+        console.log(`✅ ${data.records.length} enregistrements récupérés`);
         
-        // Construire les propriétés en normalisant les champs
-        return {
-            type: 'Feature',
-            geometry: geometry,
-            properties: {
-                id: `${source}_${record.id}`,
-                source: source,
-                geometry_type: fields.geometrie_type || geometry.type,
-                
-                // Champs principaux (normalisés)
-                route: fields.Route || fields.route || '',
-                commune: fields.Commune || fields.commune || '',
-                type_coupure: fields.Type_coupure || fields.type_coupure || '',
-                sens_circulation: fields.Sens_circulation || fields.sens_circulation || 'N/A',
-                priorite: fields.Priorite || fields.priorite || 'Moyenne',
-                statut: fields.Statut || fields.statut || 'Actif',
-                
-                // Cause(s)
-                cause: Array.isArray(fields.Cause) ? 
-                       fields.Cause.join(', ') : 
-                       (fields.Cause || fields.cause || ''),
-                
-                // Administration/Gestionnaire
-                administration: fields.Administration || fields.administration || '',
-                gestionnaire: fields.Gestionnaire || fields.gestionnaire || null,
-                agence: fields.Agence || fields.agence || null,
-                
-                // Informations complémentaires
-                description: fields.Description || fields.description || '',
-                restrictions: fields.Restrictions || fields.restrictions || '',
-                lineaire_inonde: fields.Lineaire_inonde || fields.lineaire_inonde || '',
-                evolution: fields.Evolution || fields.evolution || '',
-                
-                // Champs spécifiques CD35
-                prd: fields.PRD || fields.prd || null,
-                prf: fields.PRF || fields.prf || null,
-                agent: fields.Agent || fields.agent || null,
-                contact: fields.Contact || fields.contact || null,
-                utilisateur: fields.Utilisateur || fields.utilisateur || null,
-                
-                // Dates
-                date_heure: fields.Date_heure || fields.date_heure || fields.Date_debut || fields.date_debut || '',
-                date_debut: fields.Date_debut || fields.date_debut || null,
-                date_fin: fields.Date_fin || fields.date_fin || null
-            }
-        };
-    } catch (e) {
-        console.warn(`⚠️ Erreur pour l'enregistrement ${record.id} (${source}):`, e.message);
-        return null;
-    }
-}
-
-/**
- * Filtre les features pour ne garder que celles avec des valeurs non-null
- */
-function cleanProperties(feature) {
-    const cleaned = { ...feature };
-    const props = cleaned.properties;
-    
-    // Supprimer les propriétés null, undefined ou chaînes vides
-    Object.keys(props).forEach(key => {
-        if (props[key] === null || props[key] === undefined || props[key] === '') {
-            delete props[key];
-        }
-    });
-    
-    return cleaned;
-}
-
-// ============================================
-// FONCTION PRINCIPALE
-// ============================================
-
-async function generateUnifiedGeoJSON() {
-    try {
-        console.log('🚀 Démarrage de la fusion des données...\n');
-        
-        const allFeatures = [];
-        
-        // =============================================
-        // 1️⃣ RÉCUPÉRER LES SIGNALEMENTS GRIST (CD35)
-        // =============================================
-        try {
-            console.log('📋 Étape 1/3: Signalements Ille-et-Vilaine (CD35)');
-            const gristData = await fetchGristTable(TABLE_SIGNALEMENTS);
-            
-            const gristFeatures = gristData.records
-                .filter(record => {
-                    return record.fields.geojson || 
-                           (record.fields.Latitude && record.fields.Longitude);
-                })
-                .map(record => recordToFeature(record, 'CD35'))
-                .filter(f => f !== null)
-                .map(cleanProperties);
-            
-            allFeatures.push(...gristFeatures);
-            console.log(`✅ ${gristFeatures.length} signalements CD35 ajoutés\n`);
-        } catch (error) {
-            console.error('⚠️ Erreur lors de la récupération des signalements CD35:', error.message);
-        }
-        
-        // =============================================
-        // 2️⃣ RÉCUPÉRER LES DONNÉES CD44
-        // =============================================
-        try {
-            console.log('📋 Étape 2/3: Données Loire-Atlantique (CD44)');
-            const cd44Data = await fetchGristTable(TABLE_CD44);
-            
-            const cd44Features = cd44Data.records
-                .filter(record => {
-                    return record.fields.geojson || 
-                           (record.fields.Latitude && record.fields.Longitude);
-                })
-                .map(record => recordToFeature(record, 'CD44'))
-                .filter(f => f !== null)
-                .map(cleanProperties);
-            
-            allFeatures.push(...cd44Features);
-            console.log(`✅ ${cd44Features.length} signalements CD44 ajoutés\n`);
-        } catch (error) {
-            console.error('⚠️ Erreur lors de la récupération des données CD44:', error.message);
-            console.error('   → Assurez-vous que la table "Routes_CD44" existe dans Grist');
-        }
-        
-        // =============================================
-        // 3️⃣ RÉCUPÉRER LES DONNÉES RENNES MÉTROPOLE
-        // =============================================
-        try {
-            console.log('📋 Étape 3/3: Données Rennes Métropole');
-            const rennesData = await fetchGristTable(TABLE_RENNES);
-            
-            const rennesFeatures = rennesData.records
-                .filter(record => {
-                    return record.fields.geojson || 
-                           (record.fields.Latitude && record.fields.Longitude);
-                })
-                .map(record => recordToFeature(record, 'Rennes Metropole'))
-                .filter(f => f !== null)
-                .map(cleanProperties);
-            
-            allFeatures.push(...rennesFeatures);
-            console.log(`✅ ${rennesFeatures.length} signalements Rennes Métropole ajoutés\n`);
-        } catch (error) {
-            console.error('⚠️ Erreur lors de la récupération des données Rennes:', error.message);
-            console.error('   → Assurez-vous que la table "Routes_Rennes" existe dans Grist');
-        }
-        
-        // =============================================
-        // 4️⃣ CRÉER LE GEOJSON UNIFIÉ
-        // =============================================
-        console.log('🔨 Création du GeoJSON unifié...');
+        // Construire le GeoJSON
+        const features = data.records
+            .filter(record => {
+                return record.fields.geojson || 
+                       (record.fields.Latitude && record.fields.Longitude);
+            })
+            .map(record => {
+                try {
+                    let geometry;
+                    
+                    // Format GeoJSON
+                    if (record.fields.geojson) {
+                        geometry = JSON.parse(record.fields.geojson);
+                    }
+                    // Format Latitude/Longitude
+                    else if (record.fields.Latitude && record.fields.Longitude) {
+                        // Ligne (tronçon)
+                        if (record.fields.Latitude_fin && record.fields.Longitude_fin) {
+                            geometry = {
+                                type: 'LineString',
+                                coordinates: [
+                                    [record.fields.Longitude, record.fields.Latitude],
+                                    [record.fields.Longitude_fin, record.fields.Latitude_fin]
+                                ]
+                            };
+                        }
+                        // Point
+                        else {
+                            geometry = {
+                                type: 'Point',
+                                coordinates: [record.fields.Longitude, record.fields.Latitude]
+                            };
+                        }
+                    }
+                    
+                    return {
+                        type: 'Feature',
+                        geometry: geometry,
+                        properties: {
+                            id: record.id,
+                            administration: record.fields.Administration || record.fields.Agent || 'Non spécifié',
+                            route: record.fields.Route || '',
+                            commune: record.fields.Commune || '',
+                            type_coupure: record.fields.Type_coupure || '',
+                            sens_circulation: record.fields.Sens_circulation || 'N/A',
+                            cause: Array.isArray(record.fields.Cause) ? 
+                                   record.fields.Cause.join(', ') : 
+                                   (record.fields.Cause || ''),
+                            priorite: record.fields.Priorite || 'Moyenne',
+                            statut: record.fields.Statut || 'Actif',
+                            description: record.fields.Description || '',
+                            date_heure: record.fields.Date_heure || '',
+                            geometrie_type: record.fields.geometrie_type || geometry.type
+                        }
+                    };
+                } catch (e) {
+                    console.warn(`⚠️ Erreur pour l'enregistrement ${record.id}:`, e.message);
+                    return null;
+                }
+            })
+            .filter(f => f !== null);
         
         const geojson = {
             type: 'FeatureCollection',
-            features: allFeatures,
+            features: features,
             metadata: {
                 generated: new Date().toISOString(),
-                sources: {
-                    cd35: allFeatures.filter(f => f.properties.source === 'CD35').length,
-                    cd44: allFeatures.filter(f => f.properties.source === 'CD44').length,
-                    rennes: allFeatures.filter(f => f.properties.source === 'Rennes Metropole').length
-                },
-                total_features: allFeatures.length,
-                doc_id: GRIST_DOC_ID
+                source: 'Grist - Signalements routiers Ille-et-Vilaine',
+                count: features.length,
+                doc_id: GRIST_DOC_ID,
+                table: TABLE_ID
             }
         };
         
-        // =============================================
-        // 5️⃣ ÉCRIRE LES FICHIERS
-        // =============================================
-        const filename = 'signalements_routes_fusionnes.geojson';
-        fs.writeFileSync(filename, JSON.stringify(geojson, null, 2));
-        console.log(`✅ Fichier ${filename} créé avec succès !`);
+        console.log(`✅ ${features.length} features créées`);
         
-        // Créer aussi le fichier de métadonnées
+        // Écrire le fichier GeoJSON
+        fs.writeFileSync('signalements.geojson', JSON.stringify(geojson, null, 2));
+        console.log('✅ Fichier signalements.geojson créé avec succès !');
+        
+        // Créer métadonnées
         const metadata = {
-            date_generation: new Date().toISOString(),
-            sources: geojson.metadata.sources,
-            total: geojson.metadata.total_features
+            lastUpdate: new Date().toISOString(),
+            recordCount: features.length,
+            pointCount: features.filter(f => f.geometry.type === 'Point').length,
+            lineCount: features.filter(f => f.geometry.type === 'LineString').length,
+            polygonCount: features.filter(f => f.geometry.type === 'Polygon').length,
+            priorites: {
+                critique: features.filter(f => f.properties.priorite === 'Critique').length,
+                haute: features.filter(f => f.properties.priorite === 'Haute').length,
+                moyenne: features.filter(f => f.properties.priorite === 'Moyenne').length,
+                basse: features.filter(f => f.properties.priorite === 'Basse').length
+            },
+            statuts: {
+                actif: features.filter(f => f.properties.statut === 'Actif').length,
+                resolu: features.filter(f => f.properties.statut === 'Resolu').length
+            }
         };
-        fs.writeFileSync('metadata.json', JSON.stringify(metadata, null, 2));
-        console.log('✅ Fichier metadata.json créé avec succès !');
         
-        // =============================================
-        // 6️⃣ AFFICHER LES STATISTIQUES
-        // =============================================
-        console.log('\n📊 STATISTIQUES FINALES:');
-        console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-        console.log(`📍 CD35 (Ille-et-Vilaine):    ${geojson.metadata.sources.cd35} signalements`);
-        console.log(`📍 CD44 (Loire-Atlantique):   ${geojson.metadata.sources.cd44} signalements`);
-        console.log(`📍 Rennes Métropole:          ${geojson.metadata.sources.rennes} signalements`);
-        console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-        console.log(`🎯 TOTAL:                     ${geojson.metadata.total_features} signalements`);
-        console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+        fs.writeFileSync('metadata.json', JSON.stringify(metadata, null, 2));
+        console.log('✅ Métadonnées créées');
+        console.log('\n📊 Statistiques:');
+        console.log(`   - Points: ${metadata.pointCount}`);
+        console.log(`   - Lignes: ${metadata.lineCount}`);
+        console.log(`   - Polygones: ${metadata.polygonCount}`);
+        console.log(`   - Actifs: ${metadata.statuts.actif}`);
+        console.log(`   - Résolus: ${metadata.statuts.resolu}`);
         
     } catch (error) {
-        console.error('💥 Erreur fatale:', error);
+        console.error('❌ Erreur:', error.message);
+        console.error('Stack:', error.stack);
         process.exit(1);
     }
 }
 
-// Lancer la génération
-generateUnifiedGeoJSON();
+// Lancer la conversion
+convertToGeoJSON();
