@@ -20,6 +20,9 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Install dependencies
+        run: npm install
+
       - name: 🚀 Fusion des 3 sources (Grist 35 + CD44 + Rennes Métropole)
         env:
           GRIST_DOC_ID: ${{ secrets.GRIST_DOC_ID }}
