@@ -29,7 +29,7 @@ jobs:
           GRIST_DOC_ID: ${{ secrets.GRIST_DOC_ID }}
           GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}
         run: |
-          node scripts/grist-fusion-robot.js
+          node scripts/grist-to-geojson.js
       
       - name: 📊 Afficher les stats
         run: |
