@@ -1,5 +1,6 @@
 const https = require('https');
 const fs = require('fs');
+const fetch = require('node-fetch');
 
 const GRIST_DOC_ID = process.env.GRIST_DOC_ID;
 const GRIST_API_KEY = process.env.GRIST_API_KEY;
@@ -102,45 +103,17 @@ async function fetchCD44Data() {
     }
 }
 
-// Récupérer Rennes Métropole
+// Récupérer Rennes Métropole (avec node-fetch comme le HTML)
 async function fetchRennesMetropoleData() {
     try {
         console.log('🔗 [Rennes Métropole] Récupération...');
-        
-        return new Promise((resolve) => {
-            const options = {
-                hostname: 'data.rennesmetropole.fr',
-                path: '/api/explore/v2.1/catalog/datasets/travaux_1_jour/records?limit=100',
-                method: 'GET',
-                headers: {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-                }
-            };
-
-            https.get(options, (res) => {
-                let data = '';
-                res.on('data', chunk => { data += chunk; });
-                res.on('end', () => {
-                    if (res.statusCode === 200) {
-                        try {
-                            const response = JSON.parse(data);
-                            const records = response.results || [];
-                            console.log(`✅ [Rennes Métropole] ${records.length} records`);
-                            resolve(records);
-                        } catch (e) {
-                            console.error('❌ [Rennes Métropole] Parse error');
-                            resolve([]);
-                        }
-                    } else {
-                        console.error(`❌ [Rennes Métropole] HTTP ${res.statusCode}`);
-                        resolve([]);
-                    }
-                });
-            }).on('error', (err) => {
-                console.error('❌ [Rennes Métropole]', err.message);
-                resolve([]);
-            });
-        });
+        const response = await fetch(
+            'https://data.rennesmetropole.fr/api/explore/v2.1/catalog/datasets/travaux_1_jour/records?limit=100'
+        );
+        const data = await response.json();
+        const records = data.results || [];
+        console.log(`✅ [Rennes Métropole] ${records.length} records`);
+        return records;
     } catch (error) {
         console.error('❌ [Rennes Métropole]', error.message);
         return [];
