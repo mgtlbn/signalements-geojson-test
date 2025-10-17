@@ -4,130 +4,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7390155792236328,
-          48.12593970878738
-        ]
-      },
-      "properties": {
-        "id": 37,
-        "administration": "test geojson",
-        "route": "N 12",
-        "commune": "Vezin-le-Coquet",
-        "type_coupure": "Totale",
-        "sens_circulation": "N/A",
-        "cause": "L, Autre",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1760353423.652,
-        "geometrie_type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6755971212686327,
-          48.16323154420401
-        ]
-      },
-      "properties": {
-        "id": 38,
-        "administration": "Dpt 35",
-        "route": "Rond-Point de Betton",
-        "commune": "Betton",
-        "type_coupure": "Partielle",
-        "sens_circulation": "N/A",
-        "cause": "L, Accident",
-        "priorite": "Haute",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1760359048.587,
-        "geometrie_type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6244274108089334,
-            48.14142102985918
-          ],
-          [
-            -1.622319652415212,
-            48.14249457835239
-          ],
-          [
-            -1.620673133771764,
-            48.14350011507731
-          ]
-        ]
-      },
-      "properties": {
-        "id": 39,
-        "administration": "DIRO",
-        "route": "Rocade Est",
-        "commune": "Cesson-Sévigné",
-        "type_coupure": "Totale",
-        "sens_circulation": "Les deux sens",
-        "cause": "L, Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1760359080.707,
-        "geometrie_type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.5732423474881907,
-            48.12232989258922
-          ],
-          [
-            -1.5722984149759769,
-            48.11917824442638
-          ],
-          [
-            -1.574057561930542,
-            48.115940440884124
-          ],
-          [
-            -1.5767606413973012,
-            48.11462233852525
-          ],
-          [
-            -1.5882165496135927,
-            48.110983054288155
-          ]
-        ]
-      },
-      "properties": {
-        "id": 40,
-        "administration": "test",
-        "route": "Rocade Sud",
-        "commune": "Cesson-Sévigné",
-        "type_coupure": "Totale",
-        "sens_circulation": "Les deux sens",
-        "cause": "L, Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1760360130.893,
-        "geometrie_type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -162,7 +38,7 @@
       },
       "properties": {
         "id": 41,
-        "administration": "Rennes Metropole",
+        "administration": "Non spécifié",
         "route": "Route de Lorient",
         "commune": "Le Rheu",
         "type_coupure": "Totale",
@@ -178,68 +54,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6231679796357823,
-            48.1896363084455
-          ],
-          [
-            -1.623725757938448,
-            48.188119801863834
-          ],
-          [
-            -1.624176271182898,
-            48.186131107302295
-          ],
-          [
-            -1.6244551603342308,
-            48.18514388493861
-          ]
-        ]
-      },
-      "properties": {
-        "id": 42,
-        "administration": "DIRO",
-        "route": "D 175",
-        "commune": "Betton",
-        "type_coupure": "Totale",
-        "sens_circulation": "Sens unique (aller)",
-        "cause": "L, Inondation",
-        "priorite": "Haute",
-        "statut": "Actif",
-        "description": "vers",
-        "date_heure": 1760368865.275,
-        "geometrie_type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7167140849858533,
-          48.17432624343537
-        ]
-      },
-      "properties": {
-        "id": 43,
-        "administration": "test",
-        "route": "D 137",
-        "commune": "Saint-Grégoire",
-        "type_coupure": "Totale",
-        "sens_circulation": "N/A",
-        "cause": "L, Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1760428274.098,
-        "geometrie_type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.7575760736640913,
@@ -248,7 +62,7 @@
       },
       "properties": {
         "id": 44,
-        "administration": "CD56",
+        "administration": "Non spécifié",
         "route": "D 177",
         "commune": "Bruz",
         "type_coupure": "Déviation",
@@ -286,7 +100,7 @@
       },
       "properties": {
         "id": 45,
-        "administration": "CD35",
+        "administration": "Non spécifié",
         "route": "N 12",
         "commune": "Pleumeleuc",
         "type_coupure": "Totale",
@@ -301,9 +115,9 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-17T07:38:48.775Z",
+    "generated": "2025-10-17T08:26:51.825Z",
     "source": "Grist - Signalements routiers Ille-et-Vilaine",
-    "count": 9,
+    "count": 3,
     "doc_id": "n9MXV7uiYFKH",
     "table": "Signalements"
   }
