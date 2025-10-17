@@ -38,7 +38,6 @@ async function fetchGristData() {
         }
 
         console.log('🔗 [Grist 35] Récupération...');
-        const url = `https://grist.dataregion.fr/o/inforoute/api/docs/${GRIST_DOC_ID}/tables/${TABLE_ID}/records`;
         
         const options = {
             hostname: 'grist.dataregion.fr',
@@ -99,11 +98,44 @@ async function fetchCD44Data() {
 async function fetchRennesMetropoleData() {
     try {
         console.log('🔗 [Rennes Métropole] Récupération...');
-        const url = 'https://data.rennesmetropole.fr/api/explore/v2.1/catalog/datasets/travaux_1_jour/records?limit=50';
-        const response = await fetchUrl(url);
-        const count = response.results ? response.results.length : 0;
-        console.log(`✅ [Rennes Métropole] ${count} records`);
-        return response.results || [];
+        
+        const options = {
+            hostname: 'data.rennesmetropole.fr',
+            path: '/api/explore/v2.1/catalog/datasets/travaux_1_jour/records?limit=100',
+            method: 'GET',
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Accept': 'application/json',
+                'Connection': 'keep-alive'
+            }
+        };
+
+        return new Promise((resolve, reject) => {
+            https.get(options, (res) => {
+                let data = '';
+                res.on('data', chunk => { data += chunk; });
+                res.on('end', () => {
+                    if (res.statusCode !== 200) {
+                        console.error(`❌ [Rennes Métropole] HTTP ${res.statusCode}`);
+                        resolve([]);
+                        return;
+                    }
+                    
+                    try {
+                        const response = JSON.parse(data);
+                        const records = response.results || [];
+                        console.log(`✅ [Rennes Métropole] ${records.length} records`);
+                        resolve(records);
+                    } catch (e) {
+                        console.error('❌ [Rennes Métropole] Parse error');
+                        resolve([]);
+                    }
+                });
+            }).on('error', (err) => {
+                console.error('❌ [Rennes Métropole] Error:', err.message);
+                resolve([]);
+            });
+        });
     } catch (error) {
         console.error('❌ [Rennes Métropole] Error:', error.message);
         return [];
@@ -336,3 +368,136 @@ async function mergeSources() {
 
 // Lancer
 mergeSources();
+
+// Conversion en GeoJSON avec fusion de 3 sources
+async function convertToGeoJSON() {
+    try {
+        console.log('🚀 Démarrage de la fusion des 3 sources...\n');
+        
+        // Récupérer toutes les sources en parallèle (comme Promise.all en HTML)
+        const allData = await Promise.all(
+            GRIST_SOURCES.map(source => fetchGristData(source))
+        );
+        
+        // Fusionner tous les records de toutes les sources
+        const allRecords = allData.flatMap(data => data.records || []);
+        console.log(`\n✅ Total: ${allRecords.length} enregistrements récupérés`);
+        
+        // Construire le GeoJSON à partir de tous les records fusionnés
+        const features = allRecords
+            .filter(record => {
+                return record.fields.geojson || 
+                       (record.fields.Latitude && record.fields.Longitude);
+            })
+            .map(record => {
+                try {
+                    let geometry;
+                    
+                    // Format GeoJSON
+                    if (record.fields.geojson) {
+                        geometry = JSON.parse(record.fields.geojson);
+                    }
+                    // Format Latitude/Longitude
+                    else if (record.fields.Latitude && record.fields.Longitude) {
+                        // Ligne (tronçon)
+                        if (record.fields.Latitude_fin && record.fields.Longitude_fin) {
+                            geometry = {
+                                type: 'LineString',
+                                coordinates: [
+                                    [record.fields.Longitude, record.fields.Latitude],
+                                    [record.fields.Longitude_fin, record.fields.Latitude_fin]
+                                ]
+                            };
+                        }
+                        // Point
+                        else {
+                            geometry = {
+                                type: 'Point',
+                                coordinates: [record.fields.Longitude, record.fields.Latitude]
+                            };
+                        }
+                    }
+                    
+                    return {
+                        type: 'Feature',
+                        geometry: geometry,
+                        properties: {
+                            id: record.id,
+                            administration: record.fields.Administration || record.fields.Agent || 'Non spécifié',
+                            route: record.fields.Route || '',
+                            commune: record.fields.Commune || '',
+                            type_coupure: record.fields.Type_coupure || '',
+                            sens_circulation: record.fields.Sens_circulation || 'N/A',
+                            cause: Array.isArray(record.fields.Cause) ? 
+                                   record.fields.Cause.join(', ') : 
+                                   (record.fields.Cause || ''),
+                            priorite: record.fields.Priorite || 'Moyenne',
+                            statut: record.fields.Statut || 'Actif',
+                            description: record.fields.Description || '',
+                            date_heure: record.fields.Date_heure || '',
+                            geometrie_type: record.fields.geometrie_type || geometry.type
+                        }
+                    };
+                } catch (e) {
+                    console.warn(`⚠️ Erreur pour l'enregistrement ${record.id}:`, e.message);
+                    return null;
+                }
+            })
+            .filter(f => f !== null);
+        
+        const geojson = {
+            type: 'FeatureCollection',
+            features: features,
+            metadata: {
+                generated: new Date().toISOString(),
+                source: 'Grist - Signalements routiers Ille-et-Vilaine',
+                count: features.length,
+                doc_id: GRIST_DOC_ID,
+                table: TABLE_ID
+            }
+        };
+        
+        console.log(`✅ ${features.length} features créées`);
+        
+        // Écrire le fichier GeoJSON
+        fs.writeFileSync('signalements.geojson', JSON.stringify(geojson, null, 2));
+        console.log('✅ Fichier signalements.geojson créé avec succès !');
+        
+        // Créer métadonnées
+        const metadata = {
+            lastUpdate: new Date().toISOString(),
+            recordCount: features.length,
+            pointCount: features.filter(f => f.geometry.type === 'Point').length,
+            lineCount: features.filter(f => f.geometry.type === 'LineString').length,
+            polygonCount: features.filter(f => f.geometry.type === 'Polygon').length,
+            priorites: {
+                critique: features.filter(f => f.properties.priorite === 'Critique').length,
+                haute: features.filter(f => f.properties.priorite === 'Haute').length,
+                moyenne: features.filter(f => f.properties.priorite === 'Moyenne').length,
+                basse: features.filter(f => f.properties.priorite === 'Basse').length
+            },
+            statuts: {
+                actif: features.filter(f => f.properties.statut === 'Actif').length,
+                resolu: features.filter(f => f.properties.statut === 'Resolu').length
+            }
+        };
+        
+        fs.writeFileSync('metadata.json', JSON.stringify(metadata, null, 2));
+        console.log('✅ Métadonnées créées');
+        console.log('\n📊 Statistiques GLOBALES:');
+        console.log(`   - Total: ${metadata.recordCount}`);
+        console.log(`   - Points: ${metadata.pointCount}`);
+        console.log(`   - Lignes: ${metadata.lineCount}`);
+        console.log(`   - Polygones: ${metadata.polygonCount}`);
+        console.log(`   - Actifs: ${metadata.statuts.actif}`);
+        console.log(`   - Résolus: ${metadata.statuts.resolu}`);
+        
+    } catch (error) {
+        console.error('❌ Erreur:', error.message);
+        console.error('Stack:', error.stack);
+        process.exit(1);
+    }
+}
+
+// Lancer la conversion
+convertToGeoJSON();
