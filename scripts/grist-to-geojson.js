@@ -194,58 +194,69 @@ function cd44ToFeature(item) {
     }
 }
 
-// Convertir Rennes Métropole
-function rennesMetropoleToFeature(item) {
+// Convertir Rennes Métropole - CONVERTIR MultiLineString en plusieurs LineString
+function rennesMetropoleToFeatures(item) {
+    const features = [];
+    
     try {
-        let geometry = null;
+        let geometries = [];
         
         if (item.geo_shape && item.geo_shape.geometry) {
             const geom = item.geo_shape.geometry;
             if (geom.type === 'Point') {
-                geometry = {
+                geometries.push({
                     type: 'Point',
                     coordinates: geom.coordinates
-                };
+                });
             } else if (geom.type === 'LineString') {
-                geometry = {
+                geometries.push({
                     type: 'LineString',
                     coordinates: geom.coordinates
-                };
+                });
             } else if (geom.type === 'MultiLineString') {
-                geometry = {
-                    type: 'MultiLineString',
-                    coordinates: geom.coordinates
-                };
+                // Convertir chaque ligne du MultiLineString en feature séparée
+                geom.coordinates.forEach(lineCoords => {
+                    geometries.push({
+                        type: 'LineString',
+                        coordinates: lineCoords
+                    });
+                });
             }
         } else if (item.geo_point_2d) {
-            geometry = {
+            geometries.push({
                 type: 'Point',
                 coordinates: [item.geo_point_2d.lon, item.geo_point_2d.lat]
-            };
+            });
         }
         
-        if (!geometry) return null;
+        if (geometries.length === 0) return [];
         
-        return {
-            type: 'Feature',
-            geometry: geometry,
-            properties: {
-                id: `rm-${item.recordid}`,
-                source: 'Rennes Métropole',
-                gestionnaire: 'Rennes Métropole',
-                route: item.localisation || item.rue || '',
-                commune: item.commune || 'Rennes',
-                type_coupure: item.type || '',
-                cause: 'Travaux',
-                priorite: 'Moyenne',
-                statut: 'Actif',
-                description: item.libelle || '',
-                date_heure: item.date_deb || ''
-            }
-        };
+        // Créer une feature pour chaque géométrie
+        geometries.forEach((geometry, idx) => {
+            features.push({
+                type: 'Feature',
+                geometry: geometry,
+                properties: {
+                    id: `rm-${item.recordid}-${idx}`,
+                    source: 'Rennes Métropole',
+                    gestionnaire: 'Rennes Métropole',
+                    route: item.localisation || item.rue || '',
+                    commune: item.commune || 'Rennes',
+                    type_coupure: item.type || '',
+                    cause: 'Travaux',
+                    priorite: 'Moyenne',
+                    statut: 'Actif',
+                    description: item.libelle || '',
+                    date_heure: item.date_deb || ''
+                }
+            });
+        });
+        
     } catch (e) {
-        return null;
+        return [];
     }
+    
+    return features;
 }
 
 // Fusion principale
@@ -274,8 +285,8 @@ async function mergeSources() {
         });
         
         rennesMetropoleRecords.forEach(item => {
-            const feature = rennesMetropoleToFeature(item);
-            if (feature) features.push(feature);
+            const rmsFeatures = rennesMetropoleToFeatures(item);
+            features.push(...rmsFeatures);
         });
         
         console.log(`✅ ${features.length} features créées\n`);
@@ -309,7 +320,6 @@ async function mergeSources() {
             stats: {
                 points: features.filter(f => f.geometry.type === 'Point').length,
                 lines: features.filter(f => f.geometry.type === 'LineString').length,
-                multilines: features.filter(f => f.geometry.type === 'MultiLineString').length,
                 by_source: {
                     grist_35: features.filter(f => f.properties.source === 'Grist 35').length,
                     cd44: features.filter(f => f.properties.source === 'CD44').length,
@@ -328,7 +338,6 @@ async function mergeSources() {
         console.log(`   - Total features: ${features.length}`);
         console.log(`   - Points: ${metadata.stats.points}`);
         console.log(`   - Lignes: ${metadata.stats.lines}`);
-        console.log(`   - Multi-lignes: ${metadata.stats.multilines}`);
         
     } catch (error) {
         console.error('❌ Erreur fusion:', error.message);
