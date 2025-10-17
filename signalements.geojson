@@ -176,12 +176,84 @@
         "date_heure": 1760692819.845,
         "geometrie_type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.5516460441340985,
+            48.06058558591564
+          ],
+          [
+            -1.5497357662703262,
+            48.060248272708826
+          ],
+          [
+            -1.5476215823424402,
+            48.059989903651406
+          ],
+          [
+            -1.5468918132708878,
+            48.05987507254299
+          ],
+          [
+            -1.545045926795796,
+            48.05933679830794
+          ]
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "administration": "Margot",
+        "route": "Route de Rennes",
+        "commune": "Domloup",
+        "type_coupure": "Totale",
+        "sens_circulation": "Les deux sens",
+        "cause": "L, Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760692944.173,
+        "geometrie_type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6253972053527834,
+            48.137067396299344
+          ],
+          [
+            -1.6262876987457278,
+            48.13810557104711
+          ]
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "administration": "Non spécifié",
+        "route": "D 175",
+        "commune": "Cesson-Sévigné",
+        "type_coupure": "Totale",
+        "sens_circulation": "Les deux sens",
+        "cause": "L, Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760698427.591,
+        "geometrie_type": "LineString"
+      }
     }
   ],
   "metadata": {
-    "generated": "2025-10-17T09:21:00.749Z",
+    "generated": "2025-10-17T12:15:13.816Z",
     "source": "Grist - Signalements routiers Ille-et-Vilaine",
-    "count": 6,
+    "count": 8,
     "doc_id": "n9MXV7uiYFKH",
     "table": "Signalements"
   }
