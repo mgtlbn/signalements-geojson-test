@@ -69,9 +69,33 @@
         "sens_circulation": "N/A",
         "cause": "L, Inondation",
         "priorite": "Haute",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "dans le sens",
         "date_heure": 1760434564.294,
+        "geometrie_type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6822587576140238,
+          48.079872172427855
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "administration": "null",
+        "route": "Rocade Sud",
+        "commune": "Noyal-Châtillon-sur-Seiche",
+        "type_coupure": "Totale",
+        "sens_circulation": "Bidirectionnel",
+        "cause": "L, Inondation",
+        "priorite": "Haute",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760689710.719,
         "geometrie_type": "Point"
       }
     },
@@ -81,43 +105,35 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.9179695516386033,
-            48.17383390982094
+            -1.7104166654941193,
+            48.16652338769931
           ],
           [
-            -1.9146211994279463,
-            48.17202929317947
-          ],
-          [
-            -1.9099850194439674,
-            48.17025325923985
-          ],
-          [
-            -1.9091693951875335,
-            48.17016732055358
+            -1.7018311470052727,
+            48.15426045465755
           ]
         ]
       },
       "properties": {
-        "id": 45,
-        "administration": "Non spécifié",
-        "route": "N 12",
-        "commune": "Pleumeleuc",
+        "id": 46,
+        "administration": "t",
+        "route": "D 29",
+        "commune": "Montgermont",
         "type_coupure": "Totale",
-        "sens_circulation": "Les deux sens",
-        "cause": "L, Travaux",
+        "sens_circulation": "Sens unique (aller)",
+        "cause": "L, Inondation",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "",
-        "date_heure": 1760434725.09,
+        "description": "ffftt",
+        "date_heure": 1760690502.735,
         "geometrie_type": "LineString"
       }
     }
   ],
   "metadata": {
-    "generated": "2025-10-17T08:26:51.825Z",
+    "generated": "2025-10-17T08:48:13.113Z",
     "source": "Grist - Signalements routiers Ille-et-Vilaine",
-    "count": 3,
+    "count": 4,
     "doc_id": "n9MXV7uiYFKH",
     "table": "Signalements"
   }
