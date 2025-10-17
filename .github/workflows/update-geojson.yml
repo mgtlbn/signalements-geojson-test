@@ -24,13 +24,12 @@ jobs:
         with:
           node-version: '18'
       
-      - name: 🚀 Démarrage de la fusion...
+      - name: 🚀 Fusion des 3 sources (Grist 35 + CD44 + Rennes Métropole)
         env:
           GRIST_DOC_ID: ${{ secrets.GRIST_DOC_ID }}
           GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}
         run: |
-          echo "🚀 Démarrage de la fusion..."
-          node scripts/grist-to-geojson.js
+          node scripts/grist-fusion-robot.js
       
       - name: 📊 Afficher les stats
         run: |
