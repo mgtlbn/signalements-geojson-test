@@ -430,52 +430,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.444872039793476,
-          47.09465339346915
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D137 / Château-Thébaud",
-        "commune": "Château-Thébaud / Montbert",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-10-14T15:09:45+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.182267303579097,
-          47.30431816428401
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213-Pont de saint Nazaire",
-        "commune": "Montoir / Saint-Brevin-les-Pins",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2025-10-14T06:26:15+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5456161624720683,
           47.514749926814254
         ]
@@ -16064,12 +16018,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-17T21:37:24.341Z",
+    "generated": "2025-10-17T22:17:31.667Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 425,
+    "total_count": 423,
     "sources": {
       "grist_35": 8,
-      "cd44": 26,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
