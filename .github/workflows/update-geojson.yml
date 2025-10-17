@@ -1,4 +1,4 @@
-name: Mise à jour Routes - Fusion Multi-Sources
+name: Update GeoJSON from Grist
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  update-fusion:
+  update:
     runs-on: ubuntu-latest
     
     permissions:
@@ -24,48 +24,27 @@ jobs:
         with:
           node-version: '18'
       
-      - name: 🔄 Fusion des données (CD35 + CD44 + Rennes)
+      - name: 🚀 Démarrage de la fusion...
         env:
           GRIST_DOC_ID: ${{ secrets.GRIST_DOC_ID }}
           GRIST_API_KEY: ${{ secrets.GRIST_API_KEY }}
         run: |
           echo "🚀 Démarrage de la fusion..."
-          node scripts/grist-fusion-robot.js
+          node scripts/grist-to-geojson.js
       
-      - name: 📊 Afficher les statistiques
+      - name: 📊 Afficher les stats
         run: |
           if [ -f metadata.json ]; then
-            echo "📊 Statistiques de fusion :"
+            echo "📊 Statistiques :"
             cat metadata.json
-          fi
-      
-      - name: ✅ Vérifier le fichier généré
-        run: |
-          if [ -f signalements_routes_fusionnes.geojson ]; then
-            echo "✅ Fichier GeoJSON fusionné créé avec succès"
-            echo "📏 Taille: $(du -h signalements_routes_fusionnes.geojson | cut -f1)"
-            echo "📝 Nombre de features: $(grep -o '"type": "Feature"' signalements_routes_fusionnes.geojson | wc -l)"
-          else
-            echo "❌ Erreur: fichier non créé"
-            exit 1
           fi
       
       - name: 📤 Commit et push des changements
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add signalements_routes_fusionnes.geojson metadata.json
+          git add signalements.geojson metadata.json
           git diff --quiet && git diff --staged --quiet || (
-            git commit -m "🤖 Mise à jour fusion routes - $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "🤖 Mise à jour automatique - $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           )
-      
-      - name: 🎉 Résumé de l'exécution
-        if: always()
-        run: |
-          echo "════════════════════════════════════════"
-          echo "✅ Mise à jour terminée"
-          if [ -f metadata.json ]; then
-            echo "📊 Voir metadata.json pour les détails"
-          fi
-          echo "════════════════════════════════════════"
