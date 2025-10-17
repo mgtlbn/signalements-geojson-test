@@ -1,17 +1,18 @@
 {
-  "lastUpdate": "2025-10-17T12:15:26.921Z",
-  "recordCount": 8,
-  "pointCount": 4,
-  "lineCount": 4,
-  "polygonCount": 0,
-  "priorites": {
-    "critique": 1,
-    "haute": 2,
-    "moyenne": 5,
-    "basse": 0
+  "lastUpdate": "2025-10-17T12:27:06.830Z",
+  "sources": {
+    "grist_35": 8,
+    "cd44": 25,
+    "rennes_metropole": 50,
+    "total": 33
   },
-  "statuts": {
-    "actif": 7,
-    "resolu": 0
+  "stats": {
+    "points": 29,
+    "lines": 4,
+    "by_source": {
+      "grist_35": 8,
+      "cd44": 25,
+      "rennes_metropole": 0
+    }
   }
 }
