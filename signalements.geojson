@@ -338,52 +338,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1173828662959646,
-          47.48715553289519
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D28 / Maumusson",
-        "commune": "Saint-Mars-la-Jaille / Maumusson",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-10-16T15:29:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1198329490462648,
-          47.48334442470309
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D22 / Maumusson",
-        "commune": "Maumusson / Pannecé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-10-16T15:29:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.124758680647657,
           47.44182081343768
         ]
@@ -21652,12 +21606,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-19T21:37:29.908Z",
+    "generated": "2025-10-19T22:17:27.768Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 573,
+    "total_count": 571,
     "sources": {
       "grist_35": 8,
-      "cd44": 24,
+      "cd44": 22,
       "rennes_metropole": 100
     }
   }
