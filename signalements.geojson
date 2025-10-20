@@ -352,29 +352,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4319513537908128,
-          47.22068036942699
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D115 / Saint-Julien-de-Concelles",
-        "commune": "St Julien de Concelles- Hte Goulai",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-10-20T12:35:04+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.909113379229254,
           47.43253705424203
         ]
@@ -22301,12 +22278,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T13:48:09.979Z",
+    "generated": "2025-10-20T14:19:05.785Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 594,
+    "total_count": 593,
     "sources": {
       "grist_35": 12,
-      "cd44": 27,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
