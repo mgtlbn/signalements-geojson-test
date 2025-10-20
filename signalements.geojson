@@ -350,6 +350,66 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.817293167114258,
+            48.068845575590856
+          ],
+          [
+            -1.813945770263672,
+            48.07022208334323
+          ],
+          [
+            -1.8079376220703125,
+            48.07251618111359
+          ],
+          [
+            -1.804933547973633,
+            48.07354849174446
+          ]
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "source": "Grist 35",
+        "gestionnaire": "Rennes Métropole",
+        "route": "N 24",
+        "commune": "Mordelles",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760973148.835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2237087710724806,
+          47.49146193683384
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Accident / D18",
+        "commune": "Pouillé-les-Côteaux",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-10-20T14:44:07+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.8943511379579536,
@@ -375,29 +435,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2240670139679273,
-          47.491615960162385
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D878 / Pannecé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-20T14:34:55+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.222322690645569,
           47.49464386639961
         ]
@@ -407,7 +444,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D9 / Pannecé",
-        "commune": "Commune",
+        "commune": "Bonnoeuvre / Pannecé",
         "type_coupure": "Accident",
         "cause": "Accident",
         "priorite": "Moyenne",
@@ -430,7 +467,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Travaux de réfection de chaussée",
-        "commune": "Commune",
+        "commune": "D149 - Gorges",
         "type_coupure": "Tous les véhicules",
         "cause": "Déviation",
         "priorite": "Moyenne",
@@ -453,7 +490,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D254 / Mouzillon",
-        "commune": "Commune",
+        "commune": "Mouzillon / Gorges",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -522,7 +559,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Bonnoeuvre",
-        "commune": "Commune",
+        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -545,7 +582,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -568,7 +605,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Bonnoeuvre",
-        "commune": "Commune",
+        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -591,7 +628,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D14 / Teillé",
-        "commune": "Commune",
+        "commune": "Teillé / Mésanger",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -614,7 +651,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D25 / Couffé",
-        "commune": "Commune",
+        "commune": "Mésanger / Couffé",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -637,7 +674,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / La Roche-Blanche",
-        "commune": "Commune",
+        "commune": "La Roche-Bl / Pouillé-les-Côteaux",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -660,7 +697,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Saffré",
-        "commune": "Commune",
+        "commune": "Saffré / Puceul",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -683,7 +720,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D1 / Saffré",
-        "commune": "Commune",
+        "commune": "Abbaretz / Saffré",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -706,7 +743,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Plessé",
-        "commune": "Commune",
+        "commune": "Le Gâvre / Plessé",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -729,7 +766,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D129 / Conquereuil",
-        "commune": "Commune",
+        "commune": "Guémené-Penfao / Conquereuil",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -752,7 +789,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D100 / Donges",
-        "commune": "Commune",
+        "commune": "Donges / Montoir-de-Bretagne",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -775,7 +812,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "Commune",
+        "commune": "St Léger vers Port St Pere",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -798,7 +835,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "Commune",
+        "commune": "Saint-Léger vers Port St Pere",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -821,7 +858,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Commune",
+        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -867,7 +904,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D773 / Donges",
-        "commune": "Commune",
+        "commune": "Besné / Donges",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -890,7 +927,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -913,7 +950,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Commune",
+        "commune": "Machecoul vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -936,7 +973,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Commune",
+        "commune": "Orvault / Treillières",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -22301,11 +22338,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T14:43:13.237Z",
+    "generated": "2025-10-20T15:20:03.267Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 594,
+    "total_count": 595,
     "sources": {
-      "grist_35": 12,
+      "grist_35": 13,
       "cd44": 27,
       "rennes_metropole": 100
     }
