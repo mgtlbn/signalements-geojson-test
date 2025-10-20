@@ -389,6 +389,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7194768037047006,
+          47.138570062824165
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Saint-Léger-les-Vignes",
+        "commune": "St Léger vers Port St Pere",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-10-20T19:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1011315760383624,
           47.331848333802256
         ]
@@ -773,29 +796,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "2025-06-10T13:42:16+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7194768037047006,
-          47.138570062824165
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "St Léger vers Port St Pere",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-04-10T08:13:46+00:00"
       }
     },
     {
@@ -22315,7 +22315,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T18:53:14.948Z",
+    "generated": "2025-10-20T19:16:18.694Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 594,
     "sources": {
