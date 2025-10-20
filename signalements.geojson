@@ -246,6 +246,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7469120025634768,
+          48.219443859852234
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "source": "Grist 35",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Melesse",
+        "commune": "La Mézière",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760956518.863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0270612814318594,
+          48.19688581541832
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "N 12",
+        "commune": "Montauban-de-Bretagne",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760956520.948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.909113379229254,
           47.43253705424203
         ]
@@ -22103,11 +22149,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T10:27:45.465Z",
+    "generated": "2025-10-20T10:45:50.111Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 586,
+    "total_count": 588,
     "sources": {
-      "grist_35": 8,
+      "grist_35": 10,
       "cd44": 23,
       "rennes_metropole": 100
     }
