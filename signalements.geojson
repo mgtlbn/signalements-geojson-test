@@ -246,29 +246,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3140045534512315,
-          48.07718259174537
-        ]
-      },
-      "properties": {
-        "id": 51,
-        "source": "Grist 35",
-        "gestionnaire": "CD35",
-        "route": "N 157",
-        "commune": "Cornillé",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1760948982.189
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2345530279060744,
           47.527487795162074
         ]
@@ -22103,11 +22080,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T08:34:06.579Z",
+    "generated": "2025-10-20T08:55:41.275Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 586,
+    "total_count": 585,
     "sources": {
-      "grist_35": 9,
+      "grist_35": 8,
       "cd44": 22,
       "rennes_metropole": 100
     }
