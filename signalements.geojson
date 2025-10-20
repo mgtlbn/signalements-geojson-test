@@ -246,328 +246,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6218282645603095,
-          47.167100958887225
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2025-10-20T05:06:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Bac de réserve",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bac de réserve",
-        "date_heure": "2025-10-17T15:10:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2344427024410032,
-          47.53829304912548
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D21 / Bonnoeuvre",
-        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-10-17T15:07:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2692086616346898,
-          47.45679434778679
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D14 / Teillé",
-        "commune": "Teillé / Mésanger",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-10-17T15:07:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2960267060919277,
-          47.40873069128658
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D25 / Couffé",
-        "commune": "Mésanger / Couffé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-10-17T15:06:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.124758680647657,
-          47.44182081343768
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / La Roche-Blanche",
-        "commune": "La Roche-Bl / Pouillé-les-Côteaux",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-10-16T06:41:22+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5835719876618564,
-          47.50157033033594
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saffré",
-        "commune": "Saffré / Puceul",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-10-15T06:00:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5456161624720683,
-          47.514749926814254
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D1 / Saffré",
-        "commune": "Abbaretz / Saffré",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-10-13T07:47:52+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8743843235391644,
-          47.54323839546153
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D2 / Plessé",
-        "commune": "Le Gâvre / Plessé",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-10-13T07:47:21+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7836021878359964,
-          47.65704036763818
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D129 / Conquereuil",
-        "commune": "Guémené-Penfao / Conquereuil",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-06-10T13:42:16+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1011315760383624,
-          47.331848333802256
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D100 / Donges",
-        "commune": "Donges / Montoir-de-Bretagne",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-04-10T08:14:12+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7194768037047006,
-          47.138570062824165
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "St Léger vers Port St Pere",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-04-10T08:13:46+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7191523709366827,
-          47.13872841192744
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "Saint-Léger vers Port St Pere",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-04-10T08:13:17+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0296761823388727,
-          47.44610587634307
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
-        "type_coupure": "Divers",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Divers",
-        "date_heure": "2025-09-15T14:43:08+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2345530279060744,
           47.527487795162074
         ]
@@ -583,7 +261,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2025-09-15T06:36:02+00:00"
+        "date_heure": "2025-10-20T06:00:31+00:00"
       }
     },
     {
@@ -606,7 +284,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2025-09-15T06:35:59+00:00"
+        "date_heure": "2025-10-20T06:00:31+00:00"
       }
     },
     {
@@ -623,13 +301,335 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Bonnoeuvre",
-        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
-        "date_heure": "2025-09-15T06:35:55+00:00"
+        "date_heure": "2025-10-20T06:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6218282645603095,
+          47.167100958887225
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Commune",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2025-10-20T05:06:59+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Bac de réserve",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bac de réserve",
+        "date_heure": "2025-10-17T15:10:35+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2344427024410032,
+          47.53829304912548
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D21 / Bonnoeuvre",
+        "commune": "Commune",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "2025-10-17T15:07:35+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2692086616346898,
+          47.45679434778679
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D14 / Teillé",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2025-10-17T15:07:35+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2960267060919277,
+          47.40873069128658
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D25 / Couffé",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2025-10-17T15:06:35+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.124758680647657,
+          47.44182081343768
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D18 / La Roche-Blanche",
+        "commune": "Commune",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2025-10-16T06:41:22+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5835719876618564,
+          47.50157033033594
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Saffré",
+        "commune": "Commune",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "2025-10-15T06:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5456161624720683,
+          47.514749926814254
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D1 / Saffré",
+        "commune": "Commune",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-10-13T07:47:52+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8743843235391644,
+          47.54323839546153
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D2 / Plessé",
+        "commune": "Commune",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2025-10-13T07:47:21+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7836021878359964,
+          47.65704036763818
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D129 / Conquereuil",
+        "commune": "Commune",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "2025-06-10T13:42:16+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1011315760383624,
+          47.331848333802256
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D100 / Donges",
+        "commune": "Commune",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-04-10T08:14:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7194768037047006,
+          47.138570062824165
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Saint-Léger-les-Vignes",
+        "commune": "Commune",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-04-10T08:13:46+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7191523709366827,
+          47.13872841192744
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Saint-Léger-les-Vignes",
+        "commune": "Commune",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-04-10T08:13:17+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0296761823388727,
+          47.44610587634307
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Sainte-Anne-sur-Brivet",
+        "commune": "Commune",
+        "type_coupure": "Divers",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Divers",
+        "date_heure": "2025-09-15T14:43:08+00:00"
       }
     },
     {
@@ -669,7 +669,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D773 / Donges",
-        "commune": "Besné / Donges",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -692,7 +692,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -715,7 +715,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Machecoul vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -738,7 +738,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Orvault / Treillières",
+        "commune": "Commune",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -21629,7 +21629,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T05:41:09.455Z",
+    "generated": "2025-10-20T06:30:53.989Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 572,
     "sources": {
