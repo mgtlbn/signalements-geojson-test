@@ -292,6 +292,112 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8940682739590844,
+          48.057987908720726
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "N 24",
+        "commune": "Bréal-sous-Montfort",
+        "type_coupure": "Partielle",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760963915.609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.5157046484919892,
+            48.107508646735695
+          ],
+          [
+            -1.5133543628056592,
+            48.10740109198483
+          ],
+          [
+            -1.5119592160512154,
+            48.1073007073476
+          ],
+          [
+            -1.5099845467987816,
+            48.10707842638171
+          ]
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "N 157",
+        "commune": "Noyal-sur-Vilaine",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1760963952.112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4319513537908128,
+          47.22068036942699
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D115 / Saint-Julien-de-Concelles",
+        "commune": "St Julien de Concelles- Hte Goulai",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-10-20T12:35:04+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.909113379229254,
+          47.43253705424203
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D43 / Bouvron",
+        "commune": "Quilly / Bouvron",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-10-20T11:50:15+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.282724158481199,
           47.125501876575015
         ]
@@ -354,29 +460,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "2025-10-20T10:59:12+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.909113379229254,
-          47.43253705424203
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D43 / Bouvron",
-        "commune": "Quilly / Bouvron",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-10-20T10:20:25+00:00"
       }
     },
     {
@@ -22218,12 +22301,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T11:37:28.404Z",
+    "generated": "2025-10-20T12:41:15.640Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 591,
+    "total_count": 594,
     "sources": {
-      "grist_35": 10,
-      "cd44": 26,
+      "grist_35": 12,
+      "cd44": 27,
       "rennes_metropole": 100
     }
   }
