@@ -404,7 +404,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2025-10-20T14:44:07+00:00"
+        "date_heure": "2025-10-20T16:49:26+00:00"
       }
     },
     {
@@ -428,29 +428,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "2025-10-20T14:40:16+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.222322690645569,
-          47.49464386639961
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D9 / Pannecé",
-        "commune": "Bonnoeuvre / Pannecé",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-10-20T14:34:52+00:00"
       }
     },
     {
@@ -22338,12 +22315,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T16:46:36.993Z",
+    "generated": "2025-10-20T17:17:32.240Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 595,
+    "total_count": 594,
     "sources": {
       "grist_35": 13,
-      "cd44": 27,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
