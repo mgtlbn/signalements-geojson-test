@@ -292,6 +292,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.282724158481199,
+          47.125501876575015
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux de réfection de chaussée",
+        "commune": "D149 - Gorges",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-10-20T11:00:26+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.282769070040469,
+          47.125489051767694
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D254 / Mouzillon",
+        "commune": "Mouzillon / Gorges",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2025-10-20T11:00:22+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8943511379579536,
+          47.41715262078392
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Accident / D3 / Campbon",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-10-20T10:59:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.909113379229254,
           47.43253705424203
         ]
@@ -22149,12 +22218,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T10:45:50.111Z",
+    "generated": "2025-10-20T11:17:10.582Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 588,
+    "total_count": 591,
     "sources": {
       "grist_35": 10,
-      "cd44": 23,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
