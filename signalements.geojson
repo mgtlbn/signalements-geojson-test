@@ -389,6 +389,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1011315760383624,
+          47.331848333802256
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D100 / Donges",
+        "commune": "Donges / Montoir-de-Bretagne",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-10-20T18:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2237087710724806,
           47.49146193683384
         ]
@@ -750,29 +773,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "2025-06-10T13:42:16+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1011315760383624,
-          47.331848333802256
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D100 / Donges",
-        "commune": "Donges / Montoir-de-Bretagne",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-04-10T08:14:12+00:00"
       }
     },
     {
@@ -22315,7 +22315,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-20T17:40:05.027Z",
+    "generated": "2025-10-20T18:29:43.429Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 594,
     "sources": {
