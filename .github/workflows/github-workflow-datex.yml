@@ -25,9 +25,14 @@ jobs:
         run: |
           pip install requests lxml
 
+      - name: Liste des fichiers (debug)
+        run: |
+          pwd
+          ls -R
+
       - name: Exécution du script DATEX DIR Ouest
         run: |
-          python fetch_datex_diro.py
+          python scripts/fetch_datex_diro.py
 
       - name: Commit et push des fichiers générés
         run: |
