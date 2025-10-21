@@ -1,0 +1,63 @@
+name: 🚗 Récupération DATEX II DIR Ouest
+
+on:
+  # Automatique toutes les 15 minutes
+  schedule:
+    - cron: '*/15 * * * *'
+  
+  # Manuel aussi (bouton dans GitHub)
+  workflow_dispatch:
+  
+  # À chaque push sur main (pour tester)
+  push:
+    branches: [ main ]
+
+jobs:
+  fetch-datex:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout du repo
+      uses: actions/checkout@v4
+      
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 📦 Installer dépendances
+      run: |
+        pip install requests lxml
+    
+    - name: 🚗 Récupérer et filtrer DATEX II DIR Ouest
+      run: |
+        python scripts/fetch_datex_diro.py
+    
+    - name: 📊 Afficher statistiques
+      run: |
+        if [ -f data/datex-diro.geojson ]; then
+          echo "✅ Fichier généré avec succès"
+          cat data/datex-diro-stats.txt
+        else
+          echo "❌ Erreur : fichier non généré"
+          exit 1
+        fi
+    
+    - name: 💾 Commit et push des données
+      run: |
+        git config user.name "DATEX Bot"
+        git config user.email "datex-bot@ille-et-vilaine.gouv.fr"
+        git add data/datex-diro.geojson data/datex-diro-stats.txt
+        git diff --quiet && git diff --staged --quiet || \
+          (git commit -m "🤖 MAJ DATEX DIR Ouest - $(date +'%Y-%m-%d %H:%M')" && git push)
+    
+    - name: 📈 Résumé
+      if: always()
+      run: |
+        echo "========================================="
+        echo "📊 RÉSUMÉ DE L'EXÉCUTION"
+        echo "========================================="
+        if [ -f data/datex-diro-stats.txt ]; then
+          cat data/datex-diro-stats.txt
+        fi
+        echo "========================================="
