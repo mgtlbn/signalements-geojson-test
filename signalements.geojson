@@ -389,6 +389,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2508602817771286,
+          47.074598726963025
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D88 / Gétigné",
+        "commune": "Gétigné / Clisson",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-10-21T06:35:13+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2659282137135597,
+          47.40685298842333
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée",
+        "commune": "D25 - Mésanger",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-10-21T06:34:49+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2955901203633382,
+          47.389575471517894
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée",
+        "commune": "D164 - Saint-Géréon",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-10-21T06:34:45+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2847841394241335,
+          47.39593364813404
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D21 / Couffé",
+        "commune": "Mésanger / Couffé",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-10-21T06:34:42+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6218282645603095,
           47.167100958887225
         ]
@@ -22269,12 +22361,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-21T06:29:34.967Z",
+    "generated": "2025-10-21T06:51:38.181Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 592,
+    "total_count": 596,
     "sources": {
       "grist_35": 13,
-      "cd44": 24,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
