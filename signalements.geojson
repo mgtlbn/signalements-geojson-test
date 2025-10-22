@@ -520,6 +520,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1663731961055563,
+          47.27978205156331
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de Saint-Nazaire",
+        "commune": "Saint-Nazaire / Saint-Brevin",
+        "type_coupure": "Vent",
+        "cause": "Vent",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Vent > 80km/h",
+        "date_heure": "2025-10-22T18:01:43+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1646317113792937,
+          47.27659293441918
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de st Nazaire",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "2025-10-22T17:44:55+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.179566448410508,
           47.300717513443466
         ]
@@ -18583,12 +18629,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-22T17:39:04.400Z",
+    "generated": "2025-10-22T18:30:29.866Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 504,
+    "total_count": 506,
     "sources": {
       "grist_35": 18,
-      "cd44": 30,
+      "cd44": 32,
       "rennes_metropole": 100
     }
   }
