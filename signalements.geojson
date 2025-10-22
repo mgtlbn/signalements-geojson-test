@@ -389,6 +389,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.179566448410508,
+          47.300717513443466
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de St Nazaire",
+        "commune": "Saint-Nazaire / Saint-Brevin",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2025-10-22T04:17:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2508602817771286,
           47.074598726963025
         ]
@@ -17635,12 +17658,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-22T03:54:29.877Z",
+    "generated": "2025-10-22T04:23:21.373Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 488,
+    "total_count": 489,
     "sources": {
       "grist_35": 13,
-      "cd44": 27,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
