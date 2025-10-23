@@ -773,52 +773,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2237087710724806,
-          47.49146193683384
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D18",
-        "commune": "Pouillé-les-Côteaux",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-20T16:49:26+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8943511379579536,
-          47.41715262078392
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D16 / Campbon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-20T14:40:16+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.282724158481199,
           47.125501876575015
         ]
@@ -15789,12 +15743,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-23T21:37:11.231Z",
+    "generated": "2025-10-23T22:18:07.364Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 422,
+    "total_count": 420,
     "sources": {
       "grist_35": 18,
-      "cd44": 32,
+      "cd44": 30,
       "rennes_metropole": 100
     }
   }
