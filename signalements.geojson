@@ -543,29 +543,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.773927067367981,
-          47.152614413459084
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D103 / Port-Saint-Père",
-        "commune": "Port-Saint-Père / Cheix-en-Retz",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-10-24T05:39:36+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -18144,12 +18121,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-24T07:19:08.105Z",
+    "generated": "2025-10-24T07:38:36.682Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 507,
+    "total_count": 506,
     "sources": {
       "grist_35": 18,
-      "cd44": 31,
+      "cd44": 30,
       "rennes_metropole": 100
     }
   }
