@@ -1,17 +1,18 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2025-10-24T18:36:37.592872",
+    "generated_at": "2025-10-25T01:52:27.181742",
     "source": "DATEX II - Bison Futé",
     "filter": "DIR Ouest (Bretagne / Pays de la Loire) - Événements actifs",
-    "count": 40,
+    "count": 43,
     "statistics": {
-      "total_situations": 248,
-      "dir_ouest": 93,
-      "actifs": 40,
+      "total_situations": 215,
+      "dir_ouest": 88,
+      "actifs": 43,
       "par_severite": {
-        "medium": 37,
-        "high": 3
+        "medium": 39,
+        "high": 3,
+        "low": 1
       },
       "par_type": {
         "ConstructionWorks": 5,
@@ -21,7 +22,8 @@
         "ReroutingManagement": 5,
         "MaintenanceWorks": 7,
         "GeneralNetworkManagement": 1,
-        "AbnormalTraffic": 3
+        "InfrastructureDamageObstruction": 2,
+        "VehicleObstruction": 4
       },
       "sans_coords": 0
     }
@@ -46,7 +48,7 @@
         "description": "Travaux de construction | DIR Ouest/District de Saint-Brieuc/CEI de Rostrenen | Arrêté SR033-6 | Point particulier : début : situé 2879 m à l'ouest de 47621, fin : situé 6500 m à l'est de Le Moustoir",
         "start_date": "2025-06-27T17:30:00.000+02:00",
         "end_date": "2025-10-31T17:30:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.584980"
+        "updated_at": "2025-10-25T01:52:27.174192"
       }
     },
     {
@@ -68,7 +70,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Rostrenen | Point particulier : début : situé 3074 m à l'ouest de 47621, fin : situé 2555 m à l'est de La Pie | De Rennes vers Chateaulin",
         "start_date": "2025-06-27T17:30:00.000+02:00",
         "end_date": "2025-10-31T17:30:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585073"
+        "updated_at": "2025-10-25T01:52:27.174287"
       }
     },
     {
@@ -90,7 +92,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Rostrenen | La circulation des convois exceptionnels est :\n-interdite aux convois de largeur supérieur à 3.50 m dans le sens Rostrenen vers Carhaix ,\ninterdit",
         "start_date": "2025-06-27T17:30:00.000+02:00",
         "end_date": "2025-10-31T17:30:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585160"
+        "updated_at": "2025-10-25T01:52:27.174375"
       }
     },
     {
@@ -112,7 +114,7 @@
         "description": "Travaux de construction | DIR Ouest/District de Rennes/CEI de Châteaubourg | Construction d'un mur anti-bruit. | Cause chantier | Point particulier : début : situé 0 m à l'est de Cesson - Porte de la ",
         "start_date": "2025-07-21T19:00:00.000+02:00",
         "end_date": "2025-12-31T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585334"
+        "updated_at": "2025-10-25T01:52:27.174519"
       }
     },
     {
@@ -134,7 +136,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Châteaubourg | Cause chantier | Point particulier : début : situé 2264 m à l'est de Cesson - Porte de la Rigourdiè, fin : situé 380 m à l'ouest de Acigné | De Renne",
         "start_date": "2025-07-22T23:16:01.693+02:00",
         "end_date": "2025-12-31T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585418"
+        "updated_at": "2025-10-25T01:52:27.174601"
       }
     },
     {
@@ -156,7 +158,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Châteaubourg | Cause chantier | Point particulier : début : situé 0 m à l'est de Cesson - Porte de la Rigourdiè, fin : situé 1877 m à l'ouest de Acigné | De Rennes ",
         "start_date": "2025-07-22T23:16:01.693+02:00",
         "end_date": "2025-12-31T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585500"
+        "updated_at": "2025-10-25T01:52:27.174684"
       }
     },
     {
@@ -178,7 +180,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Châteaubourg | Cause chantier | Point particulier : début : situé 1465 m à l'est de Cesson - Porte de la Rigourdiè, fin : situé 280 m à l'ouest de Acigné | De Renne",
         "start_date": "2025-07-22T23:16:01.693+02:00",
         "end_date": "2025-12-31T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585574"
+        "updated_at": "2025-10-25T01:52:27.174758"
       }
     },
     {
@@ -200,7 +202,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Châteaubourg | Cause chantier | Point particulier : début : situé 1465 m à l'est de Cesson - Porte de la Rigourdiè, fin : situé 280 m à l'ouest de Acigné | De Renne",
         "start_date": "2025-07-22T23:16:01.693+02:00",
         "end_date": "2025-12-31T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585654"
+        "updated_at": "2025-10-25T01:52:27.174850"
       }
     },
     {
@@ -222,7 +224,7 @@
         "description": "Travaux de construction | DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | sur bretelle de sortie | Cause chantier | situé 63 m au nord de Thorigné-Fouillard - Porte de | De Caen vers Renn",
         "start_date": "2025-09-04T15:30:21.177+02:00",
         "end_date": "2025-12-19T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585857"
+        "updated_at": "2025-10-25T01:52:27.175053"
       }
     },
     {
@@ -244,7 +246,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | sur bretelle de sortie | Cause chantier | situé 63 m au nord de Thorigné-Fouillard - Porte de | De Caen vers Rennes",
         "start_date": "2025-09-04T15:30:21.177+02:00",
         "end_date": "2025-12-19T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.585929"
+        "updated_at": "2025-10-25T01:52:27.175129"
       }
     },
     {
@@ -266,7 +268,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Rennes | Point particulier : début : situé 2852 m au nord de Rennes - Porte d'Angers - Port, fin : situé 438 m au sud de Rennes - Porte de Bréquigny",
         "start_date": "2025-09-10T17:30:00.000+02:00",
         "end_date": "2025-12-31T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586034"
+        "updated_at": "2025-10-25T01:52:27.175237"
       }
     },
     {
@@ -288,7 +290,7 @@
         "description": "DIR Ouest/District de Vannes/CEI de Vannes | Point particulier : début : situé 562 m au sud de Elven Kerzio, fin : situé 2720 m au nord de Kerboulard | De Ploërmel vers Vannes",
         "start_date": "2025-09-15T13:00:00.000+02:00",
         "end_date": "2025-10-31T13:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586119"
+        "updated_at": "2025-10-25T01:52:27.175322"
       }
     },
     {
@@ -310,7 +312,7 @@
         "description": "DIR Ouest/District de Vannes/CEI de Vannes | \nLes convois exceptionnels sont interdit.\n\nRN166 sens Ploërmel vers Vannes : de largeur supérieure à 3.00m et longueur supérieure à 16.50m\nRN166 sens Vanne",
         "start_date": "2025-09-15T13:00:00.000+02:00",
         "end_date": "2025-10-31T13:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586203"
+        "updated_at": "2025-10-25T01:52:27.175402"
       }
     },
     {
@@ -332,7 +334,7 @@
         "description": "DIR Ouest/District de Vannes/CEI de Vannes | sur bretelle d'entrée | \n Suivre déviation mise en place | Cause chantier | Point particulier : début : situé 359 m au sud de Elven, fin : situé 4074 m au ",
         "start_date": "2025-09-15T13:00:00.000+02:00",
         "end_date": "2025-10-31T13:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586297"
+        "updated_at": "2025-10-25T01:52:27.175481"
       }
     },
     {
@@ -354,7 +356,7 @@
         "description": "DIR Ouest/District de Vannes/CEI de Vannes | sur bretelle de sortie | \nSuivre déviation mise en place | Cause chantier | Point particulier : début : situé 1934 m au sud de Elven Kerzio, fin : situé 22",
         "start_date": "2025-09-15T13:00:00.000+02:00",
         "end_date": "2025-10-31T13:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586383"
+        "updated_at": "2025-10-25T01:52:27.175563"
       }
     },
     {
@@ -376,7 +378,7 @@
         "description": "DIR Ouest/District de Vannes/CEI de Vannes | sur bretelle de sortie | \nSuivre déviation mise en place | Cause chantier | Point particulier : début : situé 2328 m au sud de Saint-Guyomard, fin : situé ",
         "start_date": "2025-09-15T13:00:00.000+02:00",
         "end_date": "2025-10-31T13:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586463"
+        "updated_at": "2025-10-25T01:52:27.175641"
       }
     },
     {
@@ -398,7 +400,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Loudéac | situé 25 m à l'est de Loudéac - Trévé | De Rennes vers Chateaulin",
         "start_date": "2025-09-25T12:00:00.000+02:00",
         "end_date": "2025-11-28T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586572"
+        "updated_at": "2025-10-25T01:52:27.175746"
       }
     },
     {
@@ -420,7 +422,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Loudéac | Cause chantier | situé 279 m à l'est de Loudéac - Trévé | De Rennes vers Chateaulin",
         "start_date": "2025-09-25T12:00:00.000+02:00",
         "end_date": "2025-11-28T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586635"
+        "updated_at": "2025-10-25T01:52:27.175821"
       }
     },
     {
@@ -442,7 +444,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Loudéac | sur bretelle de sortie | itinéraire de déviation:\n=> traverser la RD41\n=> Prendre la bretelle d'insertion pour retrouver la RN 164 direction Quimper",
         "start_date": "2025-09-25T12:00:00.000+02:00",
         "end_date": "2025-11-28T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586712"
+        "updated_at": "2025-10-25T01:52:27.175904"
       }
     },
     {
@@ -464,7 +466,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Bain-de-Bretagne | Interdiction aux véhicules de plus de 44 tonnes de circuler sur l'ouvrage. | Point particulier : début : situé 3074 m au nord de Aire du Hil, fin",
         "start_date": "2025-09-10T17:00:00.000+02:00",
         "end_date": "2025-12-31T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586830"
+        "updated_at": "2025-10-25T01:52:27.176022"
       }
     },
     {
@@ -486,7 +488,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | Point particulier : début : situé 3225 m au nord de Liffré - Beaugé - Ercé, fin : situé 1119 m au sud de Aire de Gosné | De Rennes vers Cae",
         "start_date": "2024-04-17T11:06:00.000+02:00",
         "end_date": "2025-12-31T08:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.586982"
+        "updated_at": "2025-10-25T01:52:27.176172"
       }
     },
     {
@@ -508,7 +510,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | Point particulier : début : situé 3425 m au nord de Liffré - Beaugé - Ercé, fin : situé 4135 m au sud de Saint-Aubin-du-Cormier | De Rennes",
         "start_date": "2024-04-17T08:00:00.000+02:00",
         "end_date": "2025-12-31T08:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.587059"
+        "updated_at": "2025-10-25T01:52:27.176242"
       }
     },
     {
@@ -530,7 +532,7 @@
         "description": "Travaux de construction | DIR Ouest/District de Saint-Brieuc/CEI de Loudéac | Arrêté SO032-24\n | Point particulier : début : situé 4432 m à l'ouest de Laurenan, fin : situé 3274 m à l'est de La Prénes",
         "start_date": "2025-10-09T14:00:00.000+02:00",
         "end_date": "2025-12-05T12:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.587293"
+        "updated_at": "2025-10-25T01:52:27.176457"
       }
     },
     {
@@ -552,7 +554,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Loudéac | Cause chantier | Point particulier : début : situé 2410 m à l'est de La Prénessaye, fin : situé 1339 m à l'ouest de Laurenan | De Chateaulin vers Re",
         "start_date": "2025-09-05T17:00:00.000+02:00",
         "end_date": "2025-12-05T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.587375"
+        "updated_at": "2025-10-25T01:52:27.176535"
       }
     },
     {
@@ -574,7 +576,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Loudéac | La largeur de voie sur la RN164 est de 3,50 m. La largeur de la bande d'arrêt d'urgence est de 2,50 m. | Point particulier : début : situé 3823 m à ",
         "start_date": "2025-10-09T17:43:20.888+02:00",
         "end_date": "2025-12-05T12:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.587446"
+        "updated_at": "2025-10-25T01:52:27.176607"
       }
     },
     {
@@ -596,7 +598,7 @@
         "description": "DIR Ouest/District de Saint-Brieuc/CEI de Loudéac | La largeur de voie sur la RN164 est de 3,50 m. La largeur de la bande d’arrêt d’urgence est de 2,50 m, réduite ponctuellement à 2,00 m entre les PR2",
         "start_date": "2025-10-09T17:43:20.888+02:00",
         "end_date": "2025-12-05T12:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.587542"
+        "updated_at": "2025-10-25T01:52:27.176702"
       }
     },
     {
@@ -618,7 +620,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | Point particulier : début : situé 392 m au sud de Liffré - Beaugé - Ercé, fin : situé 3765 m au nord de Thorigné-Fouillard - Porte de | De ",
         "start_date": "2025-10-09T17:00:00.000+02:00",
         "end_date": "2025-12-31T06:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.587640"
+        "updated_at": "2025-10-25T01:52:27.176811"
       }
     },
     {
@@ -640,7 +642,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Rennes | sur bretelle de sortie | Bretelle de sortie vers Rennes-centre fermée\nLa mesure est obligatoire | situé 387 m à l'ouest de Rennes - Porte de Nantes - Por",
         "start_date": "2025-10-14T17:39:01.816+02:00",
         "end_date": null,
-        "updated_at": "2025-10-24T18:36:37.588020"
+        "updated_at": "2025-10-25T01:52:27.177188"
       }
     },
     {
@@ -662,7 +664,7 @@
         "description": "DIR Ouest/District de Brest/CEI de Saint-Thégonnec | Arrêté BS075-2\nla circulation des convois exceptionnels est :\n- Interdite aux convois de largeur supérieure à 3.5m dans le sens Brest-Rennes\n- Inte",
         "start_date": "2025-10-20T09:00:00.000+02:00",
         "end_date": "2025-11-07T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.588558"
+        "updated_at": "2025-10-25T01:52:27.177697"
       }
     },
     {
@@ -684,7 +686,7 @@
         "description": "Basculement total des voies | DIR Ouest/District de Brest/CEI de Saint-Thégonnec | Cause chantier | Point particulier : début : situé 116 m à l'ouest de La Boissière, fin : situé 624 m à l'est de Ar-G",
         "start_date": "2025-10-20T09:00:00.000+02:00",
         "end_date": "2025-11-07T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.588637"
+        "updated_at": "2025-10-25T01:52:27.177778"
       }
     },
     {
@@ -706,7 +708,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Châteaubourg | sur bretelle de sortie | situé 1248 m à l'est de Montigné | De Le Mans vers Rennes",
         "start_date": "2025-10-21T07:44:31.420+02:00",
         "end_date": null,
-        "updated_at": "2025-10-24T18:36:37.588750"
+        "updated_at": "2025-10-25T01:52:27.177908"
       }
     },
     {
@@ -728,7 +730,7 @@
         "description": "Hors voie de circulation | DIR Ouest/District de Rennes/CEI de Châteaubourg | La mesure est obligatoire | Point particulier : début : situé 2264 m à l'est de Cesson - Porte de la Rigourdiè, fin : situ",
         "start_date": "2025-10-17T06:15:57.977+02:00",
         "end_date": null,
-        "updated_at": "2025-10-24T18:36:37.589165"
+        "updated_at": "2025-10-25T01:52:27.178321"
       }
     },
     {
@@ -750,7 +752,7 @@
         "description": "Hors voie de circulation | DIR Ouest/District de Rennes/CEI de Châteaubourg | Point particulier : début : situé 2264 m à l'est de Cesson - Porte de la Rigourdiè, fin : situé 279 m à l'ouest de Acigné ",
         "start_date": "2025-08-11T19:32:43.673+02:00",
         "end_date": null,
-        "updated_at": "2025-10-24T18:36:37.589236"
+        "updated_at": "2025-10-25T01:52:27.178393"
       }
     },
     {
@@ -772,7 +774,7 @@
         "description": "Travaux d'élargissement | DIR Ouest/District de Rennes/CEI de Rennes | Aménagement de la VRTC.\nVitesse limitée à 50km/h. Interdiction de doubler pour les poids lourds.\nRéduction de la largeur des voie",
         "start_date": "2025-08-01T17:01:00.000+02:00",
         "end_date": "2025-11-21T20:30:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.589552"
+        "updated_at": "2025-10-25T01:52:27.178654"
       }
     },
     {
@@ -794,7 +796,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Rennes | Cause chantier | Point particulier : début : situé 3600 m à l'est de Le Rheu La Croix-Verte, fin : situé 2187 m à l'ouest de Rennes Porte de Lorient | De L",
         "start_date": "2025-08-01T17:00:00.000+02:00",
         "end_date": "2025-11-21T20:30:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.589630"
+        "updated_at": "2025-10-25T01:52:27.178733"
       }
     },
     {
@@ -816,29 +818,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Rennes | Cause chantier | Point particulier : début : situé 2753 m à l'ouest de Rennes Porte de Tizé, fin : situé 2543 m à l'est de Rennes - Porte de Nantes - Por",
         "start_date": "2025-09-08T20:01:00.000+02:00",
         "end_date": "2025-11-07T06:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.589710"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7097234,
-          48.130634
-        ]
-      },
-      "properties": {
-        "id": "251024-001529",
-        "source": "Direction interdépartementale des routes/DIR Ouest",
-        "road": "N0136",
-        "type": "AbnormalTraffic",
-        "problem": "Trafic anormal",
-        "severity": "medium",
-        "description": "DIR Ouest/District de Rennes/CEI de Rennes | Point particulier : début : situé 995 m à l'est de Rennes - Porte de Nantes - Por, fin : situé 1818 m à l'ouest de Rennes Porte de Saint-Malo - P",
-        "start_date": "2025-10-24T14:54:49.034+02:00",
-        "end_date": null,
-        "updated_at": "2025-10-24T18:36:37.590695"
+        "updated_at": "2025-10-25T01:52:27.178828"
       }
     },
     {
@@ -860,7 +840,7 @@
         "description": "DIR Ouest/District de Rennes/CEI de Pleumeleuc | Travaux de fauchage | Point particulier : début : situé 7442 m à l'ouest de Montauban-de-Bretagne, fin : situé 5071 m à l'est de Merdrignac Z.A.",
         "start_date": "2025-10-20T08:30:00.000+02:00",
         "end_date": "2025-10-30T17:00:00.000+01:00",
-        "updated_at": "2025-10-24T18:36:37.590936"
+        "updated_at": "2025-10-25T01:52:27.179802"
       }
     },
     {
@@ -868,21 +848,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6677958,
-          48.081066
+          -4.015356,
+          48.51956
         ]
       },
       "properties": {
-        "id": "251024-001277",
+        "id": "251024-002400",
         "source": "Direction interdépartementale des routes/DIR Ouest",
-        "road": "N0136",
-        "type": "AbnormalTraffic",
-        "problem": "Trafic anormal",
+        "road": "N0012",
+        "type": "InfrastructureDamageObstruction",
+        "problem": "Autre",
         "severity": "medium",
-        "description": "DIR Ouest/District de Rennes/CEI de Rennes | Point particulier : début : situé 642 m à l'est de Rennes - Porte de Saint-Nazair, fin : situé 2587 m à l'ouest de Rennes - Porte d'Angers - Port",
-        "start_date": "2025-10-24T13:44:23.727+02:00",
-        "end_date": null,
-        "updated_at": "2025-10-24T18:36:37.591341"
+        "description": "DIR Ouest/District de Brest/CEI de Saint-Thégonnec | situé 1934 m à l'ouest de Kermat | De Brest vers Paris",
+        "start_date": "2025-10-24T18:47:17.613+02:00",
+        "end_date": "2025-10-31T20:45:36.747+01:00",
+        "updated_at": "2025-10-25T01:52:27.179935"
       }
     },
     {
@@ -890,21 +870,109 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6714488,
-          48.14163
+          -4.234896,
+          48.488632
         ]
       },
       "properties": {
-        "id": "251024-001525",
+        "id": "251024-002421",
         "source": "Direction interdépartementale des routes/DIR Ouest",
-        "road": "N0136",
-        "type": "AbnormalTraffic",
-        "problem": "Trafic anormal",
+        "road": "N0012",
+        "type": "VehicleObstruction",
+        "problem": "Autre",
         "severity": "medium",
-        "description": "DIR Ouest/District de Rennes/CEI de Rennes | Point particulier : début : situé 1511 m à l'ouest de Rennes Porte de Normandie, fin : situé 1525 m à l'est de Rennes Porte de Saint-Malo - P",
-        "start_date": "2025-10-24T14:53:38.708+02:00",
+        "description": "DIR Ouest/District de Brest/CEI de Saint-Thégonnec | situé 4487 m à l'ouest de Prat-Lédan | De Brest vers Paris",
+        "start_date": "2025-10-24T18:55:56.806+02:00",
         "end_date": null,
-        "updated_at": "2025-10-24T18:36:37.591419"
+        "updated_at": "2025-10-25T01:52:27.180005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.210532,
+          48.493668
+        ]
+      },
+      "properties": {
+        "id": "251024-002396",
+        "source": "Direction interdépartementale des routes/DIR Ouest",
+        "road": "N0012",
+        "type": "InfrastructureDamageObstruction",
+        "problem": "Autre",
+        "severity": "medium",
+        "description": "DIR Ouest/District de Brest/CEI de Saint-Thégonnec | situé 2587 m à l'ouest de Prat-Lédan | De Brest vers Paris",
+        "start_date": "2025-10-24T18:46:13.252+02:00",
+        "end_date": "2025-10-31T19:44:08.505+01:00",
+        "updated_at": "2025-10-25T01:52:27.180079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7572507,
+          48.099045
+        ]
+      },
+      "properties": {
+        "id": "251024-002839",
+        "source": "Direction interdépartementale des routes/DIR Ouest",
+        "road": "N0024",
+        "type": "VehicleObstruction",
+        "problem": "Autre",
+        "severity": "medium",
+        "description": "DIR Ouest/District de Rennes/CEI de Rennes | situé 70 m à l'ouest de Le Rheu Les Landes d'Apigné | De Lorient vers Rennes",
+        "start_date": "2025-10-24T22:33:27.153+02:00",
+        "end_date": null,
+        "updated_at": "2025-10-25T01:52:27.180212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5926889,
+          48.56618
+        ]
+      },
+      "properties": {
+        "id": "251025-000042",
+        "source": "Direction interdépartementale des routes/DIR Ouest",
+        "road": "N0176",
+        "type": "VehicleObstruction",
+        "problem": "Autre",
+        "severity": "medium",
+        "description": "DIR Ouest/District de Saint-Brieuc/CEI de Pleslin-Trigavou | situé 9727 m à l'est de Baguer-Pican | De Avranches vers Saint-Brieuc",
+        "start_date": "2025-10-25T01:00:27.198+02:00",
+        "end_date": null,
+        "updated_at": "2025-10-25T01:52:27.180343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3035316,
+          48.37749
+        ]
+      },
+      "properties": {
+        "id": "251025-000057",
+        "source": "Direction interdépartementale des routes/DIR Ouest",
+        "road": "A0084",
+        "type": "VehicleObstruction",
+        "problem": "Autre",
+        "severity": "low",
+        "description": "Hors voie de circulation | DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | situé 4209 m au nord de Romagné | De Caen vers Rennes",
+        "start_date": "2025-10-25T01:27:59.830+02:00",
+        "end_date": null,
+        "updated_at": "2025-10-25T01:52:27.180457"
       }
     }
   ]
