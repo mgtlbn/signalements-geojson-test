@@ -589,75 +589,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Vent fort",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Vent fort",
-        "date_heure": "2025-10-23T09:01:19+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Vent fort",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Vent fort",
-        "date_heure": "2025-10-23T08:19:45+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2025-10-23T05:56:10+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2508602817771286,
           47.074598726963025
         ]
@@ -19273,12 +19204,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-26T22:40:09.134Z",
+    "generated": "2025-10-26T23:17:40.515Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 508,
+    "total_count": 505,
     "sources": {
       "grist_35": 18,
-      "cd44": 27,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
