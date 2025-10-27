@@ -520,6 +520,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.282724158481199,
+          47.125501876575015
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux de réfection de chaussée",
+        "commune": "D149 - Gorges",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-10-27T07:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.282769070040469,
+          47.125489051767694
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D254 / Mouzillon",
+        "commune": "Mouzillon / Gorges",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2025-10-27T07:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6218282645603095,
+          47.167100958887225
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2025-10-27T06:24:21+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8743843235391644,
           47.54323839546153
         ]
@@ -651,52 +720,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-10-20T18:00:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.282724158481199,
-          47.125501876575015
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux de réfection de chaussée",
-        "commune": "D149 - Gorges",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-20T11:00:26+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.282769070040469,
-          47.125489051767694
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D254 / Mouzillon",
-        "commune": "Mouzillon / Gorges",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-10-20T11:00:22+00:00"
       }
     },
     {
@@ -19204,12 +19227,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-27T06:33:12.939Z",
+    "generated": "2025-10-27T07:19:43.812Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 505,
+    "total_count": 506,
     "sources": {
       "grist_35": 18,
-      "cd44": 24,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
