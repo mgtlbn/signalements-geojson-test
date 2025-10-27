@@ -612,75 +612,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8743843235391644,
-          47.54323839546153
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D2 / Plessé",
-        "commune": "Le Gâvre / Plessé",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-10-25T07:56:45+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7963679908834174,
-          46.98977631542837
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D73 / Paulx",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-24T17:11:20+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.60246619319283,
-          46.938673039580614
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D178 / Legé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-24T11:37:34+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2508602817771286,
           47.074598726963025
         ]
@@ -15767,12 +15698,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-27T22:40:39.806Z",
+    "generated": "2025-10-27T23:17:24.034Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 444,
+    "total_count": 441,
     "sources": {
       "grist_35": 20,
-      "cd44": 24,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
