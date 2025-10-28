@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Script de récupération DATEX II - DIR Ouest
-Récupère les événements routiers actifs de la DIR Ouest (Bretagne/Pays de la Loire)
+Script de récupération DATEX II - Inondations DIR Ouest
+Récupère les inondations (actives ET terminées) de la DIR Ouest (Bretagne/Pays de la Loire)
 """
 
 import requests
@@ -13,8 +13,8 @@ import os
 
 # Configuration
 DATEX_URL = 'https://tipi.bison-fute.gouv.fr/bison-fute-ouvert/publicationsDIR/Evenementiel-DIR/grt/RRN/content.xml'
-OUTPUT_FILE = 'data/datex-diro.geojson'
-STATS_FILE = 'data/datex-diro-stats.txt'
+OUTPUT_FILE = 'data/inondations-diro.geojson'
+STATS_FILE = 'data/inondations-diro-stats.txt'
 
 # Namespaces XML
 NS = {
@@ -37,7 +37,7 @@ def fetch_xml():
         raise
 
 def parse_datex(xml_content):
-    """Parse le XML DATEX II et extrait les événements DIR Ouest actifs"""
+    """Parse le XML DATEX II et extrait les inondations DIR Ouest (actives ET terminées)"""
     print("🔍 Parsing du XML...")
     
     try:
@@ -54,9 +54,12 @@ def parse_datex(xml_content):
     stats = {
         'total_situations': len(situations),
         'dir_ouest': 0,
-        'actifs': 0,
+        'environmental_obstruction': 0,
+        'inondations': 0,
+        'actives': 0,
+        'terminees': 0,
         'par_severite': {},
-        'par_type': {},
+        'par_subtype': {},
         'sans_coords': 0
     }
     
@@ -69,7 +72,7 @@ def parse_datex(xml_content):
         
         for record in situation.findall('.//ns2:situationRecord', NS):
             
-            # Vérifier la source (DIR Ouest uniquement)
+            # FILTRE 1 : Vérifier la source (DIR Ouest uniquement)
             source_elem = record.find('.//ns2:sourceIdentification', NS)
             if source_elem is None:
                 continue
@@ -82,7 +85,34 @@ def parse_datex(xml_content):
             
             stats['dir_ouest'] += 1
             
-            # Vérifier si l'événement est actif
+            # FILTRE 2 : Type d'événement = EnvironmentalObstruction
+            record_type_raw = record.get('{http://www.w3.org/2001/XMLSchema-instance}type', '')
+            record_type = record_type_raw.replace('ns2:', '')
+            
+            if 'EnvironmentalObstruction' not in record_type_raw:
+                continue
+            
+            stats['environmental_obstruction'] += 1
+            
+            # FILTRE 3 : Sous-type = flooding ou flashFloods
+            env_type_elem = record.find('.//ns2:environmentalObstructionType', NS)
+            env_subtype = None
+            
+            if env_type_elem is not None:
+                env_subtype = env_type_elem.text
+                if env_subtype not in ['flooding', 'flashFloods']:
+                    continue  # Pas une inondation
+            else:
+                # Fallback : chercher mots-clés d'inondation
+                record_text = etree.tostring(record, encoding='unicode').lower()
+                if not any(kw in record_text for kw in ['inond', 'crue', 'flood']):
+                    continue
+                env_subtype = 'flooding-detected-by-keywords'
+            
+            stats['inondations'] += 1
+            stats['par_subtype'][env_subtype] = stats['par_subtype'].get(env_subtype, 0) + 1
+            
+            # Extraire les dates
             start_elem = record.find('.//ns2:overallStartTime', NS)
             if start_elem is None:
                 continue
@@ -92,20 +122,24 @@ def parse_datex(xml_content):
             except:
                 continue
             
-            # Vérifier date de fin
+            # Vérifier date de fin et calculer le statut
             end_elem = record.find('.//ns2:overallEndTime', NS)
+            is_active = True  # Par défaut en cours
+            end_date_iso = None
+            
             if end_elem is not None:
+                end_date_iso = end_elem.text
                 try:
                     end_date = datetime.fromisoformat(end_elem.text.replace('+02:00', '').replace('+01:00', ''))
-                    if now > end_date:
-                        continue  # Événement terminé
+                    is_active = now <= end_date  # Actif si date fin pas encore passée
                 except:
                     pass
             
-            if start_date > now:
-                continue  # Événement pas encore commencé
-            
-            stats['actifs'] += 1
+            # Compter actifs/terminés
+            if is_active:
+                stats['actives'] += 1
+            else:
+                stats['terminees'] += 1
             
             # Extraire coordonnées GPS
             lat_elems = record.findall('.//ns2:latitude', NS)
@@ -126,10 +160,6 @@ def parse_datex(xml_content):
             road_elem = record.find('.//ns2:roadNumber', NS)
             road = road_elem.text if road_elem is not None else 'N/A'
             
-            # Type d'événement
-            record_type = record.get('{http://www.w3.org/2001/XMLSchema-instance}type', 'N/A')
-            record_type = record_type.replace('ns2:', '')
-            
             # Extraire descriptions
             comments = []
             for comment_elem in record.findall('.//ns2:generalPublicComment/ns2:comment/ns2:values/ns2:value[@lang="fr"]', NS):
@@ -138,25 +168,8 @@ def parse_datex(xml_content):
             
             description = ' | '.join(comments) if comments else 'Pas de description'
             
-            # Type de problème spécifique
-            problem_type = 'Autre'
-            problem_mapping = {
-                'roadClosed': 'Route fermée',
-                'laneClosures': 'Voie fermée',
-                'weightRestrictionInOperation': 'Restriction poids',
-                'abnormalTrafficType': 'Trafic anormal',
-                'obstructionType': 'Obstruction'
-            }
-            
-            record_text = etree.tostring(record, encoding='unicode')
-            for key, label in problem_mapping.items():
-                if key in record_text:
-                    problem_type = label
-                    break
-            
             # Stats
             stats['par_severite'][severity] = stats['par_severite'].get(severity, 0) + 1
-            stats['par_type'][record_type] = stats['par_type'].get(record_type, 0) + 1
             
             # Créer la feature GeoJSON
             feature = {
@@ -170,18 +183,21 @@ def parse_datex(xml_content):
                     "source": source,
                     "road": road,
                     "type": record_type,
-                    "problem": problem_type,
+                    "subtype": env_subtype,
+                    "problem": "Inondation",
                     "severity": severity,
-                    "description": description[:200],  # Limiter la longueur
+                    "description": description[:300],
                     "start_date": start_elem.text,
-                    "end_date": end_elem.text if end_elem is not None else None,
+                    "end_date": end_date_iso,
+                    "is_active": is_active,
+                    "status": "en_cours" if is_active else "terminee",
                     "updated_at": datetime.now().isoformat()
                 }
             }
             
             features.append(feature)
     
-    print(f"✅ {len(features)} événements DIR Ouest actifs extraits")
+    print(f"✅ {stats['inondations']} inondations DIR Ouest extraites ({stats['actives']} actives, {stats['terminees']} terminées)")
     return features, stats
 
 def create_geojson(features, stats):
@@ -191,8 +207,10 @@ def create_geojson(features, stats):
         "metadata": {
             "generated_at": datetime.now().isoformat(),
             "source": "DATEX II - Bison Futé",
-            "filter": "DIR Ouest (Bretagne / Pays de la Loire) - Événements actifs",
+            "filter": "Inondations DIR Ouest (Bretagne / Pays de la Loire)",
             "count": len(features),
+            "count_active": stats['actives'],
+            "count_finished": stats['terminees'],
             "statistics": stats
         },
         "features": features
@@ -209,13 +227,17 @@ def create_geojson(features, stats):
     
     # Créer le fichier de stats
     with open(STATS_FILE, 'w', encoding='utf-8') as f:
-        f.write(f"📊 STATISTIQUES DATEX II DIR OUEST\n")
+        f.write(f"🌊 STATISTIQUES INONDATIONS DIR OUEST\n")
         f.write(f"=" * 50 + "\n\n")
         f.write(f"🕐 Généré le: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"📍 Zone: DIR Ouest (Bretagne / Pays de la Loire)\n\n")
+        f.write(f"📍 Zone: DIR Ouest (Bretagne / Pays de la Loire)\n")
+        f.write(f"🔎 Filtre: EnvironmentalObstruction + flooding/flashFloods\n\n")
         f.write(f"Situations totales: {stats['total_situations']}\n")
         f.write(f"Situations DIR Ouest: {stats['dir_ouest']}\n")
-        f.write(f"✅ Événements actifs: {len(features)}\n")
+        f.write(f"EnvironmentalObstruction: {stats['environmental_obstruction']}\n")
+        f.write(f"🌊 INONDATIONS: {stats['inondations']}\n")
+        f.write(f"  ├─ 🔴 En cours: {stats['actives']}\n")
+        f.write(f"  └─ 🟢 Terminées: {stats['terminees']}\n")
         f.write(f"⚠️  Sans coordonnées: {stats['sans_coords']}\n\n")
         
         if stats['par_severite']:
@@ -223,9 +245,9 @@ def create_geojson(features, stats):
             for sev, count in sorted(stats['par_severite'].items()):
                 f.write(f"  - {sev}: {count}\n")
         
-        if stats['par_type']:
-            f.write("\nPar type:\n")
-            for typ, count in sorted(stats['par_type'].items(), key=lambda x: x[1], reverse=True):
+        if stats['par_subtype']:
+            f.write("\nPar sous-type:\n")
+            for typ, count in sorted(stats['par_subtype'].items()):
                 f.write(f"  - {typ}: {count}\n")
     
     print(f"📈 Stats sauvegardées: {STATS_FILE}")
@@ -233,7 +255,7 @@ def create_geojson(features, stats):
 def main():
     """Fonction principale"""
     print("=" * 60)
-    print("🚗 RÉCUPÉRATION DATEX II - DIR OUEST")
+    print("🌊 RÉCUPÉRATION INONDATIONS DATEX II - DIR OUEST")
     print("=" * 60)
     
     try:
@@ -247,7 +269,7 @@ def main():
         create_geojson(features, stats)
         
         print("\n" + "=" * 60)
-        print("✅ SUCCÈS - Données mises à jour")
+        print("✅ SUCCÈS - Données inondations mises à jour")
         print("=" * 60)
         
     except Exception as e:
