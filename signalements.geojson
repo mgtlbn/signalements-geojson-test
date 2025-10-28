@@ -566,22 +566,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6218282645603095,
-          47.167100958887225
+          -2.1779154525742417,
+          47.296822887133565
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bouchon sur 2 km",
-        "date_heure": "2025-10-28T06:05:28+00:00"
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "2025-10-28T08:32:34+00:00"
       }
     },
     {
@@ -15044,7 +15044,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-28T08:27:35.436Z",
+    "generated": "2025-10-28T08:50:10.372Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 397,
     "sources": {
