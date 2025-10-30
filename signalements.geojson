@@ -619,6 +619,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.178044620191301,
+          47.29712975818096
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-10-30T11:21:43+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1779154525742417,
           47.296822887133565
         ]
@@ -19858,12 +19881,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-30T11:17:12.813Z",
+    "generated": "2025-10-30T11:38:22.512Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 511,
+    "total_count": 512,
     "sources": {
       "grist_35": 21,
-      "cd44": 22,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
