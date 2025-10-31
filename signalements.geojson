@@ -711,52 +711,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1779154525742417,
-          47.296822887133565
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "2025-10-29T05:18:28+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1011315760383624,
-          47.331848333802256
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D100 / Donges",
-        "commune": "Donges / Montoir-de-Bretagne",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-10-28T11:02:12+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2508602817771286,
           47.074598726963025
         ]
@@ -12953,12 +12907,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-10-31T23:18:04.970Z",
+    "generated": "2025-10-31T23:36:00.942Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 366,
+    "total_count": 364,
     "sources": {
       "grist_35": 21,
-      "cd44": 22,
+      "cd44": 20,
       "rennes_metropole": 100
     }
   }
