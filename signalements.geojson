@@ -619,6 +619,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0296761823388727,
+          47.44610587634307
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Sainte-Anne-sur-Brivet",
+        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
+        "type_coupure": "Divers",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Divers",
+        "date_heure": "2025-01-11T11:02:52+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -911,29 +934,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-04-10T08:13:17+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0296761823388727,
-          47.44610587634307
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
-        "type_coupure": "Divers",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Divers",
-        "date_heure": "2025-09-15T14:43:08+00:00"
       }
     },
     {
@@ -13037,7 +13037,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-01T10:40:03.596Z",
+    "generated": "2025-11-01T11:14:28.256Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 370,
     "sources": {
