@@ -619,6 +619,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.105080989600077,
+          47.35636363992174
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D773 / Donges",
+        "commune": "Besné / Donges",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-03-11T07:06:56+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2508602817771286,
+          47.074598726963025
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D88 / Gétigné",
+        "commune": "Gétigné / Clisson",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-03-11T07:06:56+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -796,29 +842,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-10-31T04:50:29+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2508602817771286,
-          47.074598726963025
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D88 / Gétigné",
-        "commune": "Gétigné / Clisson",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-10-21T06:35:13+00:00"
       }
     },
     {
@@ -1026,29 +1049,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "2025-08-29T07:40:10+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.105080989600077,
-          47.35636363992174
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D773 / Donges",
-        "commune": "Besné / Donges",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-08-29T07:40:06+00:00"
       }
     },
     {
@@ -16492,7 +16492,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-03T06:31:44.267Z",
+    "generated": "2025-11-03T07:19:43.984Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 463,
     "sources": {
