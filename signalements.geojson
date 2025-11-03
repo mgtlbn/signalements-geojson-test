@@ -1048,6 +1048,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5371711225794478,
+          47.11307536273751
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Pont-Saint-Martin",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2025-03-11T16:09:35+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5835719876618564,
           47.50157033033594
         ]
@@ -1064,29 +1087,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "2025-03-11T15:16:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.17065632662583,
-          47.28518966931715
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "2025-03-11T15:15:51+00:00"
       }
     },
     {
@@ -15896,7 +15896,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-03T15:42:47.282Z",
+    "generated": "2025-11-03T16:23:54.542Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 459,
     "sources": {
