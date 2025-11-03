@@ -813,7 +813,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1762178999.863
       }
@@ -897,6 +897,150 @@
         "statut": "Résolu",
         "description": "",
         "date_heure": 1762179327.885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.402768882726336,
+            47.941829521387845
+          ],
+          [
+            -2.400108709282851,
+            47.94269231210689
+          ]
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "Boulevard Robert Schuman",
+        "commune": "Ploërmel",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762179666.758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4427958374952756,
+          48.225372165301565
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "D 6",
+        "commune": "Saint-Vran",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762180005.886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.449271386591037,
+          48.193963478979704
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "N 164",
+        "commune": "Merdrignac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762180043.503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5779055450347736,
+          48.17207756729317
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "N 164",
+        "commune": "Plémet",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762180096.637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.021486854374386,
+          48.298152152518504
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "D 25",
+        "commune": "Plouasne",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762180134.154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1026155862759792,
+          48.089176069536556
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "N 157",
+        "commune": "Erbrée",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762180431.049
       }
     },
     {
@@ -15729,11 +15873,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-03T14:20:10.852Z",
+    "generated": "2025-11-03T14:45:02.843Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 452,
+    "total_count": 458,
     "sources": {
-      "grist_35": 32,
+      "grist_35": 38,
       "cd44": 28,
       "rennes_metropole": 100
     }
