@@ -487,7 +487,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1761136605.046
       }
@@ -612,6 +612,291 @@
         "statut": "Résolu",
         "description": "Test troncon résolu",
         "date_heure": 1761753982.348
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.201557062383296,
+          48.07187356261881
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "N 157",
+        "commune": "Étrelles",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762177130.988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.279560212709887,
+            48.075597113070124
+          ],
+          [
+            -1.2702066996344152,
+            48.07525288673568
+          ]
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "N 157",
+        "commune": "Torcé",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762177160.252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9218033568768569,
+          48.11143482239626
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "D 62",
+        "commune": "Talensac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762177740.996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.336934190722775,
+          47.71091435061764
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "D 774",
+        "commune": "Pluherlin",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762178017.092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.487555752829586,
+          47.83443035727872
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "D 163",
+        "commune": "Thourie",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762178347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.21676270667085,
+            48.19332098985172
+          ],
+          [
+            -2.2125579163892106,
+            48.189772019321
+          ],
+          [
+            -2.209897742945746,
+            48.18633729768348
+          ],
+          [
+            -2.2050064562915983,
+            48.180955770966264
+          ]
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "N 164",
+        "commune": "Saint-Méen-le-Grand",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762178679.538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7356016312532287,
+          48.167456945604606
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "D 700",
+        "commune": "Loudéac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762178954.048
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1616453639860205,
+          48.272570208963366
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "N 12",
+        "commune": "Saint-Jouan-de-l'Isle",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762178999.863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.4893713529867838,
+            47.96692083663524
+          ],
+          [
+            -1.4819915169822888,
+            47.97416431271857
+          ]
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "D 777",
+        "commune": "Janzé",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762179049.178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0880698198804675,
+          48.0081521544619
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "source": "Grist 35",
+        "gestionnaire": "Rennes Métropole",
+        "route": "D 61",
+        "commune": "Plélan-le-Grand",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762179292.704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.968101429961057,
+            48.05627532746954
+          ],
+          [
+            -0.9599492855374848,
+            48.056504896576975
+          ]
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "Rue Principale",
+        "commune": "Loiron-Ruillé",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762179327.885
       }
     },
     {
@@ -15444,11 +15729,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-03T13:30:55.288Z",
+    "generated": "2025-11-03T14:20:10.852Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 441,
+    "total_count": 452,
     "sources": {
-      "grist_35": 21,
+      "grist_35": 32,
       "cd44": 28,
       "rennes_metropole": 100
     }
