@@ -619,6 +619,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0483678524744464,
+          47.130485983472106
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D751 / Pornic",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-03-11T09:13:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.050183286183444,
+          47.1194731984549
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D6 / Chauvé",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-03-11T09:13:09+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.04795268947461,
+          47.12899775626146
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D6 / Pornic",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2025-03-11T09:13:05+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1859829885165918,
           47.43141861582423
         ]
@@ -1049,29 +1118,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-10-13T07:47:52+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7836021878359964,
-          47.65704036763818
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D129 / Conquereuil",
-        "commune": "Commune",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-06-10T13:42:16+00:00"
       }
     },
     {
@@ -15398,12 +15444,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-03T08:52:12.161Z",
+    "generated": "2025-11-03T09:24:27.686Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 439,
+    "total_count": 441,
     "sources": {
       "grist_35": 21,
-      "cd44": 26,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
