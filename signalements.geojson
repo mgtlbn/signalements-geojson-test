@@ -1094,6 +1094,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.850706626140151,
+          47.9229112453083
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "D 177",
+        "commune": "Guignen",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762267615.22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.83871829811354,
+            47.93318780255634
+          ],
+          [
+            -1.835328722274272,
+            47.935287585800374
+          ],
+          [
+            -1.8312526500624962,
+            47.938106338825314
+          ],
+          [
+            -1.8308664958529477,
+            47.93891166860739
+          ]
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "D 177",
+        "commune": "Guignen",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762267661.533
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2025-04-11T15:06:25+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.175475415190956,
           47.291482819559995
         ]
@@ -17600,12 +17683,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-04T14:45:29.481Z",
+    "generated": "2025-11-04T15:22:12.985Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 479,
+    "total_count": 482,
     "sources": {
-      "grist_35": 40,
-      "cd44": 25,
+      "grist_35": 42,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
