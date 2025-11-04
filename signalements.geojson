@@ -282,7 +282,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1760956520.948
       }
@@ -798,29 +798,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1616453639860205,
-          48.272570208963366
-        ]
-      },
-      "properties": {
-        "id": 71,
-        "source": "Grist 35",
-        "gestionnaire": "CD44",
-        "route": "N 12",
-        "commune": "Saint-Jouan-de-l'Isle",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Résolu",
-        "description": "",
-        "date_heure": 1762178999.863
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -1041,6 +1018,75 @@
         "statut": "Résolu",
         "description": "",
         "date_heure": 1762180431.049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3887190507768412,
+          48.0917026273022
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "N 157",
+        "commune": "Saint-Didier",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762254003.829
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9882027231103132,
+          48.185519140984546
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "N 12",
+        "commune": "Bédée",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762254712.955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2852221678031164,
+          48.34132400417822
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "N 12",
+        "commune": "Trémeur",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762254780.677
       }
     },
     {
@@ -17554,11 +17600,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-04T10:47:25.650Z",
+    "generated": "2025-11-04T11:18:09.507Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 477,
+    "total_count": 479,
     "sources": {
-      "grist_35": 38,
+      "grist_35": 40,
       "cd44": 25,
       "rennes_metropole": 100
     }
