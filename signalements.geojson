@@ -1210,6 +1210,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.72210693359375,
+          48.06012683815906
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "D 177",
+        "commune": "Chartres-de-Bretagne",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1762428234.248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5456161624720683,
           47.514749926814254
         ]
@@ -15143,11 +15166,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-06T11:18:01.960Z",
+    "generated": "2025-11-06T11:38:41.068Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 442,
+    "total_count": 443,
     "sources": {
-      "grist_35": 44,
+      "grist_35": 45,
       "cd44": 33,
       "rennes_metropole": 100
     }
