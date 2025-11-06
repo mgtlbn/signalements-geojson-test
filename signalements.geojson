@@ -1233,6 +1233,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.160995759171181,
+          47.92464509481752
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "N 24",
+        "commune": "Guer",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1762438539.979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5456161624720683,
           47.514749926814254
         ]
@@ -15166,11 +15189,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-06T13:31:43.386Z",
+    "generated": "2025-11-06T14:20:35.168Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 443,
+    "total_count": 444,
     "sources": {
-      "grist_35": 45,
+      "grist_35": 46,
       "cd44": 33,
       "rennes_metropole": 100
     }
