@@ -1670,29 +1670,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5835719876618564,
-          47.50157033033594
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saffré",
-        "commune": "Saffré / Puceul",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-03-11T15:16:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.1859829885165918,
           47.43141861582423
         ]
@@ -1801,29 +1778,6 @@
         "statut": "Actif",
         "description": "Divers",
         "date_heure": "2025-01-11T11:02:52+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Bac de réserve",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bac de réserve",
-        "date_heure": "2025-10-31T14:05:30+00:00"
       }
     },
     {
@@ -15212,12 +15166,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-06T22:41:41.935Z",
+    "generated": "2025-11-06T23:18:12.561Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 445,
+    "total_count": 443,
     "sources": {
       "grist_35": 46,
-      "cd44": 34,
+      "cd44": 32,
       "rennes_metropole": 100
     }
   }
