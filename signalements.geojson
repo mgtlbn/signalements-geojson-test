@@ -1256,6 +1256,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1681534313883852,
+          47.28209407833602
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de St Nazaire",
+        "commune": "Pont de St Nazaire",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "2025-06-11T17:33:40+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -15235,12 +15258,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-06T17:19:31.075Z",
+    "generated": "2025-11-06T17:42:13.734Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 446,
+    "total_count": 447,
     "sources": {
       "grist_35": 46,
-      "cd44": 35,
+      "cd44": 36,
       "rennes_metropole": 100
     }
   }
