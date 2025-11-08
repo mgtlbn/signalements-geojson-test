@@ -1256,29 +1256,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1792164792383346,
-          47.29998614004293
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "2025-08-11T09:40:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -1479,6 +1456,29 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-06-11T10:29:43+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2025-06-11T05:48:14+00:00"
       }
     },
     {
@@ -18234,7 +18234,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-08T10:18:21.492Z",
+    "generated": "2025-11-08T10:39:54.891Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 523,
     "sources": {
