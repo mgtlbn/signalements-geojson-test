@@ -1256,6 +1256,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8269176352700858,
+          46.951397969284336
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D95 / Machecoul-Saint-Même",
+        "commune": "Machecoul-Saint-Même / Paulx",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-12-11T14:41:16+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5456161624720683,
           47.514749926814254
         ]
@@ -17089,12 +17112,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-12T14:21:27.437Z",
+    "generated": "2025-11-12T14:45:31.048Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 464,
+    "total_count": 465,
     "sources": {
       "grist_35": 46,
-      "cd44": 13,
+      "cd44": 14,
       "rennes_metropole": 100
     }
   }
