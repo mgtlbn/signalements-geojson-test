@@ -1256,52 +1256,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1773613432179824,
-          47.29550514885643
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de St Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "2025-12-11T17:23:12+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9399234131100949,
-          47.37095408499638
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D3 / Savenay",
-        "commune": "Campbon / Savenay",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-12-11T15:07:45+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5456161624720683,
           47.514749926814254
         ]
@@ -17135,12 +17089,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-12T17:41:17.367Z",
+    "generated": "2025-11-12T18:28:41.129Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 466,
+    "total_count": 464,
     "sources": {
       "grist_35": 46,
-      "cd44": 15,
+      "cd44": 13,
       "rennes_metropole": 100
     }
   }
