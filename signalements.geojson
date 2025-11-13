@@ -2028,6 +2028,39 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.717747702910751,
+            48.121459978839525
+          ],
+          [
+            -1.717822190697877,
+            48.12145692309
+          ],
+          [
+            -1.718962240989737,
+            48.12171051549454
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Guyenne à partir du numéro 23 et jusqu'a la zone de retournement en bout de l'Avenue",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'extension et de restructuration du groupe scolaire Guyenne",
+        "date_heure": "2025-01-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.637466021632065,
             48.095672952121795
           ],
@@ -2462,39 +2495,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2024-12-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.717747702910751,
-            48.121459978839525
-          ],
-          [
-            -1.717822190697877,
-            48.12145692309
-          ],
-          [
-            -1.718962240989737,
-            48.12171051549454
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue de Guyenne à partir du numéro 23 et jusqu'a la zone de retournement en bout de l'Avenue",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'extension et de restructuration du groupe scolaire Guyenne",
-        "date_heure": "2025-01-17T00:00:00+00:00"
       }
     },
     {
@@ -14764,7 +14764,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-13T19:16:17.955Z",
+    "generated": "2025-11-13T19:37:25.671Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 423,
     "sources": {
