@@ -1279,29 +1279,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8296298182081812,
-          47.00257113112172
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D13 / Machecoul-Saint-Même",
-        "commune": "Machecoul-Saint-Même",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "2025-11-14T15:22:19+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7191523709366827,
           47.13872841192744
         ]
@@ -15570,12 +15547,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-14T16:26:22.532Z",
+    "generated": "2025-11-14T16:49:55.091Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 425,
+    "total_count": 424,
     "sources": {
       "grist_35": 46,
-      "cd44": 15,
+      "cd44": 14,
       "rennes_metropole": 100
     }
   }
