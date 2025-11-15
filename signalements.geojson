@@ -1256,6 +1256,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.124758680647657,
+          47.44182081343768
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D18 / La Roche-Blanche",
+        "commune": "La Roche-Bl / Pouillé-les-Côteaux",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2025-11-15T16:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1859829885165918,
+          47.43141861582423
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D19 / Maumusson",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-11-15T16:00:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.526600977684357,
           47.39519422723796
         ]
@@ -1371,29 +1417,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1859829885165918,
-          47.43141861582423
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D19 / Maumusson",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-03-11T08:44:44+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0296761823388727,
           47.44610587634307
         ]
@@ -1479,29 +1502,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "2025-10-20T06:00:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.124758680647657,
-          47.44182081343768
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / La Roche-Blanche",
-        "commune": "La Roche-Bl / Pouillé-les-Côteaux",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-10-16T06:41:22+00:00"
       }
     },
     {
@@ -14557,7 +14557,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-15T15:38:22.145Z",
+    "generated": "2025-11-15T16:22:02.310Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 402,
     "sources": {
