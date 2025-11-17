@@ -1256,6 +1256,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2089194821179923,
+          47.43269718280346
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D25 / Mésanger",
+        "commune": "La Roche-Blanche / Mésanger",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-11-17T09:52:02+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7836021878359964,
           47.65704036763818
         ]
@@ -1357,7 +1380,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D323 / Oudon",
-        "commune": "Commune",
+        "commune": "Oudon / Le Cellier",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1380,7 +1403,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D878 / Saint-Mars-la-Jaille",
-        "commune": "Commune",
+        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1403,7 +1426,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D130 / Pierric",
-        "commune": "Commune",
+        "commune": "Pierric / Conquereuil",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1426,7 +1449,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D129 / Conquereuil",
-        "commune": "Commune",
+        "commune": "Guémené-Penfao / Conquereuil",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1449,7 +1472,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / La Roche-Blanche",
-        "commune": "Commune",
+        "commune": "La Roche-Bl / Pouillé-les-Côteaux",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1495,7 +1518,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D35 / Plessé",
-        "commune": "Commune",
+        "commune": "Le Gâvre / Plessé",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1518,7 +1541,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D14 / Grand-Auverné",
-        "commune": "Commune",
+        "commune": "Grand-Auverné / Riaillé",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -1541,7 +1564,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D69 / Casson",
-        "commune": "Commune",
+        "commune": "Casson / Sucé-sur-Erdre",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -1564,7 +1587,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "Commune",
+        "commune": "Saint-Léger vers Port St Pere",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1587,7 +1610,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D1 / Saffré",
-        "commune": "Commune",
+        "commune": "Abbaretz / Saffré",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1633,7 +1656,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Commune",
+        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -1702,7 +1725,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Bonnoeuvre",
-        "commune": "Commune",
+        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -1725,7 +1748,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -1748,7 +1771,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Commune",
+        "commune": "Orvault / Treillières",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -13553,12 +13576,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-17T09:45:58.146Z",
+    "generated": "2025-11-17T10:23:43.233Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 388,
+    "total_count": 389,
     "sources": {
       "grist_35": 46,
-      "cd44": 23,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
