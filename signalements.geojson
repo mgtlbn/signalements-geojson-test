@@ -1256,6 +1256,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7836021878359964,
+          47.65704036763818
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D130 / Pierric",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-11-17T08:30:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7856518418964957,
           47.69100660935287
         ]
@@ -13354,12 +13377,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-17T08:30:29.600Z",
+    "generated": "2025-11-17T08:53:31.972Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 383,
+    "total_count": 384,
     "sources": {
       "grist_35": 46,
-      "cd44": 22,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
