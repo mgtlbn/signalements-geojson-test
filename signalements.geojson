@@ -27,43 +27,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.1386845227993616,
-            47.685030973799
-          ],
-          [
-            -2.136194828278235,
-            47.682689818043734
-          ],
-          [
-            -2.131258365003603,
-            47.680175126308974
-          ],
-          [
-            -2.1265794563346145,
-            47.677544686860195
-          ]
-        ]
-      },
-      "properties": {
-        "id": 91,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "D 764",
-        "commune": "Saint-Perreux",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Résolu",
-        "description": "",
-        "date_heure": 1763383294.355
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.6743617405076974,
@@ -13383,11 +13346,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-18T15:23:02.901Z",
+    "generated": "2025-11-18T15:45:17.975Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 364,
+    "total_count": 363,
     "sources": {
-      "grist_35": 2,
+      "grist_35": 1,
       "cd44": 23,
       "rennes_metropole": 100
     }
