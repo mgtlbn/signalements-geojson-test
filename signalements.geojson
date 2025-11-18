@@ -29,6 +29,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8094825744628908,
+          48.07177061055603
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "source": "Grist 35",
+        "gestionnaire": "DIRO",
+        "route": "N 24",
+        "commune": "Mordelles",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1763481445.228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -13346,11 +13369,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-18T15:45:17.975Z",
+    "generated": "2025-11-18T16:28:07.637Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 363,
+    "total_count": 364,
     "sources": {
-      "grist_35": 1,
+      "grist_35": 2,
       "cd44": 23,
       "rennes_metropole": 100
     }
