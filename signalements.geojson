@@ -50,6 +50,43 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78085274389145,
+            48.14422315012563
+          ],
+          [
+            -1.7736445319800724,
+            48.140326989655236
+          ],
+          [
+            -1.7595713563435902,
+            48.13253378153885
+          ],
+          [
+            -1.7448116843345998,
+            48.127261234691694
+          ]
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "source": "Grist 35",
+        "gestionnaire": "DIRO",
+        "route": "N 12",
+        "commune": "Pacé",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1763546681.28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.1784591914895355,
@@ -16933,11 +16970,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-19T09:43:10.927Z",
+    "generated": "2025-11-19T10:22:59.619Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 458,
+    "total_count": 459,
     "sources": {
-      "grist_35": 2,
+      "grist_35": 3,
       "cd44": 22,
       "rennes_metropole": 100
     }
