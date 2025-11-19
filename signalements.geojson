@@ -411,29 +411,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3217412728050657,
-          47.58176975719642
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D14 / Grand-Auverné",
-        "commune": "Grand-Auverné / Riaillé",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "2025-11-16T13:29:32+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7191523709366827,
           47.13872841192744
         ]
@@ -16993,12 +16970,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-19T22:41:22.498Z",
+    "generated": "2025-11-19T23:18:45.027Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 460,
+    "total_count": 459,
     "sources": {
       "grist_35": 4,
-      "cd44": 22,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
