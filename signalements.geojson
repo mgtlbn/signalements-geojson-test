@@ -89,6 +89,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2848379032008947,
+          47.34707706297137
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D323 / Oudon",
+        "commune": "Oudon / Couffé",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-11-19T13:49:55+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1784591914895355,
           47.2981180521444
         ]
@@ -16970,12 +16993,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-19T13:32:03.678Z",
+    "generated": "2025-11-19T14:20:06.816Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 459,
+    "total_count": 460,
     "sources": {
       "grist_35": 3,
-      "cd44": 22,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
