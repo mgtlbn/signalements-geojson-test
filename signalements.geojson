@@ -79,7 +79,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1763546681.28
       }
@@ -105,6 +105,107 @@
         "statut": "Actif",
         "description": "",
         "date_heure": 1763563111.972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.62592508565979,
+          48.17214975360465
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "C 13",
+        "commune": "Betton",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1763634950.06
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6311675799075844,
+            48.077337401760126
+          ],
+          [
+            -1.6293646210249337,
+            48.075359886464334
+          ],
+          [
+            -1.6271323862178357,
+            48.07364024616481
+          ],
+          [
+            -1.625501137704948,
+            48.07203519669989
+          ]
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "source": "Grist 35",
+        "gestionnaire": "DIRO",
+        "route": "Route d'Angers",
+        "commune": "Vern-sur-Seiche",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1763635016.179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7133090675571985,
+            48.08659280675512
+          ],
+          [
+            -1.7094885118296534,
+            48.08687934530955
+          ],
+          [
+            -1.707342132207437,
+            48.08707992134783
+          ],
+          [
+            -1.7086728875732196,
+            48.08510278053884
+          ],
+          [
+            -1.7104329188634297,
+            48.08292497226795
+          ]
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "source": "Grist 35",
+        "gestionnaire": "DIRO",
+        "route": "Rue du Temple de Blosne",
+        "commune": "Saint-Jacques-de-la-Lande",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1763635100.472
       }
     },
     {
@@ -18992,11 +19093,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-20T10:22:25.849Z",
+    "generated": "2025-11-20T10:45:32.222Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 517,
+    "total_count": 520,
     "sources": {
-      "grist_35": 4,
+      "grist_35": 7,
       "cd44": 21,
       "rennes_metropole": 100
     }
