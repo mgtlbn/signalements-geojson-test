@@ -213,29 +213,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.090393749613403,
-          47.41187970566108
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D773 / Pontchâteau",
-        "commune": "Pontchâteau / Besné",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-11-20T12:21:39+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -19116,12 +19093,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-20T14:42:13.603Z",
+    "generated": "2025-11-20T15:21:42.063Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 521,
+    "total_count": 520,
     "sources": {
       "grist_35": 7,
-      "cd44": 22,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
