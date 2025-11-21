@@ -27,29 +27,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8094825744628908,
-          48.07177061055603
-        ]
-      },
-      "properties": {
-        "id": 91,
-        "source": "Grist 35",
-        "gestionnaire": "DIRO",
-        "route": "N 24",
-        "commune": "Mordelles",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1763481445.228
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -82,29 +59,6 @@
         "statut": "Résolu",
         "description": "",
         "date_heure": 1763546681.28
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.778068542480469,
-          48.02506490761254
-        ]
-      },
-      "properties": {
-        "id": 93,
-        "source": "Grist 35",
-        "gestionnaire": "CD35",
-        "route": "D 177",
-        "commune": "Goven",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1763563111.972
       }
     },
     {
@@ -165,47 +119,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": 1763635016.179
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7133090675571985,
-            48.08659280675512
-          ],
-          [
-            -1.7094885118296534,
-            48.08687934530955
-          ],
-          [
-            -1.707342132207437,
-            48.08707992134783
-          ],
-          [
-            -1.7086728875732196,
-            48.08510278053884
-          ],
-          [
-            -1.7104329188634297,
-            48.08292497226795
-          ]
-        ]
-      },
-      "properties": {
-        "id": 96,
-        "source": "Grist 35",
-        "gestionnaire": "DIRO",
-        "route": "Rue du Temple de Blosne",
-        "commune": "Saint-Jacques-de-la-Lande",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1763635100.472
       }
     },
     {
@@ -14215,11 +14128,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-21T11:37:38.678Z",
+    "generated": "2025-11-21T12:40:07.100Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 390,
+    "total_count": 387,
     "sources": {
-      "grist_35": 7,
+      "grist_35": 4,
       "cd44": 17,
       "rennes_metropole": 100
     }
