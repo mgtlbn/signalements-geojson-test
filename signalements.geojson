@@ -126,29 +126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1650870729566583,
-          47.277536586032596
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "2025-11-21T17:25:19+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1784591914895355,
           47.2981180521444
         ]
@@ -14151,12 +14128,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-21T17:40:41.974Z",
+    "generated": "2025-11-21T18:26:53.589Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 388,
+    "total_count": 387,
     "sources": {
       "grist_35": 4,
-      "cd44": 18,
+      "cd44": 17,
       "rennes_metropole": 100
     }
   }
