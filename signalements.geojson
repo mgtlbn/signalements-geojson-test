@@ -126,6 +126,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Autre",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause MANOEUVRE SDIS 44",
+        "date_heure": "2025-11-22T10:06:22+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1784591914895355,
           47.2981180521444
         ]
@@ -142,29 +165,6 @@
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
         "date_heure": "2025-11-21T05:18:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Autre",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause MANOEUVRE SDIS 44",
-        "date_heure": "2025-11-19T16:31:39+00:00"
       }
     },
     {
@@ -13527,7 +13527,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-22T09:38:25.450Z",
+    "generated": "2025-11-22T10:19:15.039Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 374,
     "sources": {
