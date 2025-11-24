@@ -126,52 +126,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8069025389259534,
-          47.67183915681312
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D129 / Conquereuil",
-        "commune": "Guémené-Penfao / Conquereuil",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-11-24T14:04:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7836021878359964,
-          47.65704036763818
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D130 / Pierric",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-11-24T14:04:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -17339,12 +17293,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-24T22:41:53.764Z",
+    "generated": "2025-11-24T23:18:45.765Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 468,
+    "total_count": 466,
     "sources": {
       "grist_35": 4,
-      "cd44": 14,
+      "cd44": 12,
       "rennes_metropole": 100
     }
   }
