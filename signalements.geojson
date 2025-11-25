@@ -20,7 +20,7 @@
         "cause": "Inondation",
         "priorite": "Moyenne",
         "statut": "Résolu",
-        "description": "",
+        "description": "TEST",
         "date_heure": 1763383211.571
       }
     },
@@ -30,35 +30,27 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.78085274389145,
-            48.14422315012563
+            -2.0553377021816526,
+            47.63493984952522
           ],
           [
-            -1.7736445319800724,
-            48.140326989655236
-          ],
-          [
-            -1.7595713563435902,
-            48.13253378153885
-          ],
-          [
-            -1.7448116843345998,
-            48.127261234691694
+            -2.0532343395689705,
+            47.63384048836151
           ]
         ]
       },
       "properties": {
-        "id": 92,
+        "id": 91,
         "source": "Grist 35",
-        "gestionnaire": "DIRO",
-        "route": "N 12",
-        "commune": "Pacé",
+        "gestionnaire": "Redon Agglo",
+        "route": "D 164",
+        "commune": "Avessac",
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
-        "description": "",
-        "date_heure": 1763546681.28
+        "statut": "Actif",
+        "description": "TEST",
+        "date_heure": 1764076173.678
       }
     },
     {
@@ -66,22 +58,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.62592508565979,
-          48.17214975360465
+          -2.286974856996276,
+          47.59331104156952
         ]
       },
       "properties": {
-        "id": 94,
+        "id": 92,
         "source": "Grist 35",
-        "gestionnaire": "CD35",
-        "route": "C 13",
-        "commune": "Betton",
+        "gestionnaire": "Redon Agglo",
+        "route": "D 20",
+        "commune": "Béganne",
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
-        "date_heure": 1763634950.06
+        "date_heure": 1764076890.336
       }
     },
     {
@@ -90,35 +82,31 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.6311675799075844,
-            48.077337401760126
+            -2.0564404608398816,
+            47.69011821403397
           ],
           [
-            -1.6293646210249337,
-            48.075359886464334
+            -2.0509913958830683,
+            47.69270467215058
           ],
           [
-            -1.6271323862178357,
-            48.07364024616481
-          ],
-          [
-            -1.625501137704948,
-            48.07203519669989
+            -2.0446413044373357,
+            47.69393283359927
           ]
         ]
       },
       "properties": {
-        "id": 95,
+        "id": 93,
         "source": "Grist 35",
-        "gestionnaire": "DIRO",
-        "route": "Route d'Angers",
-        "commune": "Vern-sur-Seiche",
-        "type_coupure": "Totale",
+        "gestionnaire": "Redon Agglo",
+        "route": "D 177",
+        "commune": "Bains-sur-Oust",
+        "type_coupure": "Partielle",
         "cause": "Inondation",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "",
-        "date_heure": 1763635016.179
+        "description": "sens vers Redon",
+        "date_heure": 1764077595.587
       }
     },
     {
@@ -18051,7 +18039,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-25T12:43:04.617Z",
+    "generated": "2025-11-25T13:34:11.337Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 484,
     "sources": {
