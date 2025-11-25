@@ -126,6 +126,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8062725240293296,
+          47.6352021067768
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Accident / D3 / Guémené-Penfao",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-11-25T09:08:36+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -135,7 +158,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -181,7 +204,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D130 / Pierric",
-        "commune": "Pierric / Conquereuil",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -204,7 +227,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "Saint-Léger vers Port St Pere",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -227,7 +250,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
+        "commune": "Commune",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -296,7 +319,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Bonnoeuvre",
-        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -319,7 +342,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -342,7 +365,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Orvault / Treillières",
+        "commune": "Commune",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -18028,12 +18051,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-25T08:53:35.405Z",
+    "generated": "2025-11-25T09:24:34.322Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 483,
+    "total_count": 484,
     "sources": {
       "grist_35": 4,
-      "cd44": 11,
+      "cd44": 12,
       "rennes_metropole": 100
     }
   }
