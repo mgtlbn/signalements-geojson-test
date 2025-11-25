@@ -147,6 +147,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon sur 2.9 km",
+        "date_heure": "2025-11-25T16:20:04+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5371711225794478,
+          47.11307536273751
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Pont-Saint-Martin",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon sur 2.9 km",
+        "date_heure": "2025-11-25T16:19:40+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8062725240293296,
           47.6352021067768
         ]
@@ -179,7 +225,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -225,7 +271,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D130 / Pierric",
-        "commune": "Commune",
+        "commune": "Pierric / Conquereuil",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -248,7 +294,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "Commune",
+        "commune": "Saint-Léger vers Port St Pere",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -271,7 +317,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Commune",
+        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -340,7 +386,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Bonnoeuvre",
-        "commune": "Commune",
+        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -363,7 +409,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -386,7 +432,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Commune",
+        "commune": "Orvault / Treillières",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -18072,12 +18118,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-25T15:45:10.146Z",
+    "generated": "2025-11-25T16:28:04.183Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 485,
+    "total_count": 487,
     "sources": {
       "grist_35": 5,
-      "cd44": 12,
+      "cd44": 14,
       "rennes_metropole": 100
     }
   }
