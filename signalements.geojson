@@ -114,22 +114,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5371711225794478,
-          47.11307536273751
+          -1.2375007611923028,
+          47.48336482871341
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
+        "route": "D18 / Pannecé",
+        "commune": "Pouillé-les-Côteaux / Pannecé",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bouchon sur 2.9 km",
-        "date_heure": "2025-11-26T06:57:57+00:00"
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-11-26T10:22:27+00:00"
       }
     },
     {
@@ -137,22 +137,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6218282645603095,
-          47.167100958887225
+          -1.2555358408512636,
+          47.35296519810325
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
+        "route": "D723 / Oudon",
+        "commune": "Oudon / Saint-Géréon",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bouchon sur 2 km",
-        "date_heure": "2025-11-26T06:57:42+00:00"
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-11-26T10:22:05+00:00"
       }
     },
     {
@@ -14851,7 +14851,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-26T09:45:16.429Z",
+    "generated": "2025-11-26T10:23:58.111Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 422,
     "sources": {
