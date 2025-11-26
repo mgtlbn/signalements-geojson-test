@@ -112,39 +112,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.061661134587549,
-            48.20785429385215
-          ],
-          [
-            -2.050934628767061,
-            48.20756817684635
-          ],
-          [
-            -2.0408946193191007,
-            48.20636646796701
-          ]
-        ]
-      },
-      "properties": {
-        "id": 94,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "N 12",
-        "commune": "Montauban-de-Bretagne",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1764077776.118
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.5371711225794478,
@@ -14884,11 +14851,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-26T08:52:14.642Z",
+    "generated": "2025-11-26T09:23:58.927Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 423,
+    "total_count": 422,
     "sources": {
-      "grist_35": 5,
+      "grist_35": 4,
       "cd44": 13,
       "rennes_metropole": 100
     }
