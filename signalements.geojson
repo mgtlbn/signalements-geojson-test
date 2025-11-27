@@ -114,6 +114,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1842753659849348,
+          47.30567772927332
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Nazaire",
+        "commune": "Saint-Nazaire / Saint-Brevin",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2025-11-27T08:59:16+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5371711225794478,
           47.11307536273751
         ]
@@ -18108,12 +18131,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-27T08:52:25.327Z",
+    "generated": "2025-11-27T09:23:33.172Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 489,
+    "total_count": 490,
     "sources": {
       "grist_35": 4,
-      "cd44": 20,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
