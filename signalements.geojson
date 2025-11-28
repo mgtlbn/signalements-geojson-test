@@ -114,6 +114,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5371711225794478,
+          47.11307536273751
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Pont-Saint-Martin",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2025-11-28T15:57:21+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.05081437508118,
+          47.10460361812235
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pornic",
+        "commune": "Pornic / La Bernerie-en-Retz",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-11-28T15:54:28+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7191523709366827,
           47.13872841192744
         ]
@@ -198,29 +244,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 2 km",
-        "date_heure": "2025-11-28T08:50:55+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5371711225794478,
-          47.11307536273751
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon sur 2.9 km",
         "date_heure": "2025-11-28T08:50:55+00:00"
       }
     },
@@ -14333,12 +14356,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-28T15:40:36.762Z",
+    "generated": "2025-11-28T16:26:06.533Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 396,
+    "total_count": 397,
     "sources": {
       "grist_35": 4,
-      "cd44": 23,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
