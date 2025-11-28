@@ -114,45 +114,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7191523709366827,
-          47.13872841192744
+          -1.6218282645603095,
+          47.167100958887225
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "St-Léger-les-Vignes / Port-st-Père",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-11-28T07:04:49+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bouchon sur 2.9 km",
-        "date_heure": "2025-11-28T06:09:05+00:00"
+        "description": "Bouchon sur 2 km",
+        "date_heure": "2025-11-28T08:50:55+00:00"
       }
     },
     {
@@ -175,7 +152,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 2.9 km",
-        "date_heure": "2025-11-28T06:08:50+00:00"
+        "date_heure": "2025-11-28T08:50:55+00:00"
       }
     },
     {
@@ -183,22 +160,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6218282645603095,
-          47.167100958887225
+          -1.516057609329174,
+          47.13440081645723
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bouchon sur 2 km",
-        "date_heure": "2025-11-28T06:08:36+00:00"
+        "description": "Bouchon sur 2.9 km",
+        "date_heure": "2025-11-28T08:49:54+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2021783104781645,
+          47.30657762132129
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Trignac",
+        "commune": "Trignac vers Saint-Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2025-11-28T08:34:41+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7191523709366827,
+          47.13872841192744
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Saint-Léger-les-Vignes",
+        "commune": "St-Léger-les-Vignes / Port-st-Père",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-11-28T07:04:49+00:00"
       }
     },
     {
@@ -14287,12 +14310,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-28T08:28:48.878Z",
+    "generated": "2025-11-28T08:52:25.478Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 394,
+    "total_count": 395,
     "sources": {
       "grist_35": 4,
-      "cd44": 21,
+      "cd44": 22,
       "rennes_metropole": 100
     }
   }
