@@ -114,22 +114,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2021783104781645,
-          47.30657762132129
+          -1.7191523709366827,
+          47.13872841192744
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Trignac",
-        "commune": "Trignac vers Saint-Nazaire",
-        "type_coupure": "Entretien courant",
+        "route": "D751 / Saint-Léger-les-Vignes",
+        "commune": "St-Léger-les-Vignes / Port-st-Père",
+        "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2025-11-28T11:12:01+00:00"
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-11-28T12:02:24+00:00"
       }
     },
     {
@@ -152,7 +152,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
-        "date_heure": "2025-11-28T11:11:04+00:00"
+        "date_heure": "2025-11-28T11:47:18+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2021783104781645,
+          47.30657762132129
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Trignac",
+        "commune": "Trignac vers Saint-Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2025-11-28T11:12:01+00:00"
       }
     },
     {
@@ -222,29 +245,6 @@
         "statut": "Actif",
         "description": "Bouchon sur 2.9 km",
         "date_heure": "2025-11-28T08:49:54+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7191523709366827,
-          47.13872841192744
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "St-Léger-les-Vignes / Port-st-Père",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-11-28T07:04:49+00:00"
       }
     },
     {
@@ -14333,7 +14333,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-28T11:37:59.006Z",
+    "generated": "2025-11-28T12:41:25.491Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 396,
     "sources": {
