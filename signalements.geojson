@@ -390,29 +390,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8062725240293296,
-          47.6352021067768
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D3 / Guémené-Penfao",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-11-25T09:08:36+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7856518418964957,
           47.69100660935287
         ]
@@ -14310,12 +14287,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-28T22:40:40.927Z",
+    "generated": "2025-11-28T23:18:51.120Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 395,
+    "total_count": 394,
     "sources": {
       "grist_35": 4,
-      "cd44": 22,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
