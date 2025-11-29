@@ -298,52 +298,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4819291710234335,
-          47.43052375945438
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Nort-sur-Erdre",
-        "commune": "Nort-sur-Erdre / Petit-Mars",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-11-26T15:51:26+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1801550163406747,
-          47.30173854040014
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2025-11-26T15:26:15+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3514853886315494,
           47.34132885776252
         ]
@@ -13662,12 +13616,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-29T22:41:09.984Z",
+    "generated": "2025-11-29T23:18:31.643Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 385,
+    "total_count": 383,
     "sources": {
       "grist_35": 4,
-      "cd44": 21,
+      "cd44": 19,
       "rennes_metropole": 100
     }
   }
