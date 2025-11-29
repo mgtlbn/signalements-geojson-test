@@ -6,6 +6,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0804887101704495,
+          47.67278291908351
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "D 873",
+        "commune": "Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "TEST",
+        "date_heure": 1763383211.571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0553377021816526,
+            47.63493984952522
+          ],
+          [
+            -2.0532343395689705,
+            47.63384048836151
+          ]
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "D 164",
+        "commune": "Avessac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "TEST",
+        "date_heure": 1764076173.678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.286974856996276,
+          47.59331104156952
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "D 20",
+        "commune": "Béganne",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1764076890.336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0564404608398816,
+            47.69011821403397
+          ],
+          [
+            -2.0509913958830683,
+            47.69270467215058
+          ],
+          [
+            -2.0446413044373357,
+            47.69393283359927
+          ]
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "D 177",
+        "commune": "Bains-sur-Oust",
+        "type_coupure": "Partielle",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sens vers Redon",
+        "date_heure": 1764077595.587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2555358408512636,
           47.35296519810325
         ]
@@ -14179,11 +14287,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-11-28T23:40:48.206Z",
+    "generated": "2025-11-29T01:37:05.546Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 390,
+    "total_count": 394,
     "sources": {
-      "grist_35": 0,
+      "grist_35": 4,
       "cd44": 21,
       "rennes_metropole": 100
     }
