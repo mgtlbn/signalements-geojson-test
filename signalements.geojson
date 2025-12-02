@@ -114,6 +114,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7340315287828472,
+          47.318491814274765
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D81 / Vigneux-de-Bretagne",
+        "commune": "Vigneux-de-Bretagne / Sautron",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-02-12T09:45:56+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9880399942874725,
+          47.14984688558939
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D136 / Chauvé",
+        "commune": "Chauvé / Saint-Michel-Chef-Chef",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2025-02-12T09:45:33+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3402529682501751,
+          47.460706526542744
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D38 / Mouzeil",
+        "commune": "Trans-sur-Erdre / Mouzeil",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "2025-02-12T09:45:16+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1628137285229636,
+          47.509920671329375
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D28 / Saint-Mars-la-Jaille",
+        "commune": "Saint-Mars-la-Jaille / Maumusson",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2025-02-12T09:45:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7191523709366827,
           47.13872841192744
         ]
@@ -14227,12 +14319,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-02T09:26:38.817Z",
+    "generated": "2025-12-02T09:48:52.860Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 388,
+    "total_count": 392,
     "sources": {
       "grist_35": 4,
-      "cd44": 14,
+      "cd44": 18,
       "rennes_metropole": 100
     }
   }
