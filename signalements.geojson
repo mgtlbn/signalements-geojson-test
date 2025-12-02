@@ -114,6 +114,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2692086616346898,
+          47.45679434778679
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D14 / Teillé",
+        "commune": "Teillé / Mésanger",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2025-02-12T09:49:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7340315287828472,
           47.318491814274765
         ]
@@ -14319,12 +14342,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-02T09:48:52.860Z",
+    "generated": "2025-12-02T10:24:23.599Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 392,
+    "total_count": 393,
     "sources": {
       "grist_35": 4,
-      "cd44": 18,
+      "cd44": 19,
       "rennes_metropole": 100
     }
   }
