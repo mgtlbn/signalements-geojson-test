@@ -56,29 +56,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.286974856996276,
-          47.59331104156952
-        ]
-      },
-      "properties": {
-        "id": 92,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "D 20",
-        "commune": "Béganne",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Résolu",
-        "description": "",
-        "date_heure": 1764076890.336
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -14342,11 +14319,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-02T14:23:23.744Z",
+    "generated": "2025-12-02T14:48:54.430Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 393,
+    "total_count": 392,
     "sources": {
-      "grist_35": 4,
+      "grist_35": 3,
       "cd44": 19,
       "rennes_metropole": 100
     }
