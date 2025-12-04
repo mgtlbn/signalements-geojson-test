@@ -91,6 +91,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2025-04-12T10:47:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "2025-04-12T10:45:38+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5528742161378355,
           47.06192753825533
         ]
@@ -100,13 +146,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D117 / Geneston",
-        "commune": "Geneston / Saint-Philbert",
+        "commune": "Geneston / Saint Philbert",
         "type_coupure": "Accident",
         "cause": "Accident",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Accident",
-        "date_heure": "2025-04-12T09:43:26+00:00"
+        "date_heure": "2025-04-12T10:30:14+00:00"
       }
     },
     {
@@ -13293,12 +13339,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-04T10:25:00.482Z",
+    "generated": "2025-12-04T10:48:58.777Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 370,
+    "total_count": 372,
     "sources": {
       "grist_35": 3,
-      "cd44": 21,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
