@@ -252,29 +252,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3402529682501751,
-          47.460706526542744
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D38 / Mouzeil",
-        "commune": "Trans-sur-Erdre / Mouzeil",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-03-12T06:54:38+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2692086616346898,
           47.45679434778679
         ]
@@ -13323,12 +13300,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-05T22:41:56.429Z",
+    "generated": "2025-12-05T23:19:15.563Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 370,
+    "total_count": 369,
     "sources": {
       "grist_35": 3,
-      "cd44": 26,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
