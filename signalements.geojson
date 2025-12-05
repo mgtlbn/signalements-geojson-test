@@ -106,30 +106,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Arrêt cause EXERCICE SECURITE",
-        "date_heure": "2025-05-12T15:16:11+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5528742161378355,
-          47.06192753825533
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D117 / Geneston",
-        "commune": "Geneston / St-Philbert",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-04-12T19:14:20+00:00"
+        "date_heure": "2025-05-12T19:30:34+00:00"
       }
     },
     {
@@ -13346,12 +13323,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-05T19:17:17.661Z",
+    "generated": "2025-12-05T19:38:01.762Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 371,
+    "total_count": 370,
     "sources": {
       "grist_35": 3,
-      "cd44": 27,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
