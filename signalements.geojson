@@ -91,6 +91,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Autre",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause EXERCICE SECURITE",
+        "date_heure": "2025-05-12T15:16:11+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5528742161378355,
           47.06192753825533
         ]
@@ -13369,12 +13392,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-05T14:45:03.249Z",
+    "generated": "2025-12-05T15:22:34.760Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 372,
+    "total_count": 373,
     "sources": {
       "grist_35": 3,
-      "cd44": 28,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
