@@ -91,6 +91,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2025-06-12T05:17:34+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -13300,12 +13323,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-06T04:43:54.097Z",
+    "generated": "2025-12-06T05:19:44.405Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 369,
+    "total_count": 370,
     "sources": {
       "grist_35": 3,
-      "cd44": 25,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
