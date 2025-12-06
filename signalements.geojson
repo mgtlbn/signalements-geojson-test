@@ -206,29 +206,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7340315287828472,
-          47.318491814274765
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D81 / Vigneux-de-Bretagne",
-        "commune": "Vigneux-de-Bretagne / Sautron",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-06-12T08:43:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7855770907900756,
           47.6912127689407
         ]
@@ -406,29 +383,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Ravitaillement",
         "date_heure": "2025-04-12T10:45:38+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4221445884521424,
-          47.01943552306116
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D137 / Remouillé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-03-12T17:53:42+00:00"
       }
     },
     {
@@ -709,12 +663,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-06T22:41:00.032Z",
+    "generated": "2025-12-06T23:18:32.237Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 30,
+    "total_count": 28,
     "sources": {
       "grist_35": 3,
-      "cd44": 27,
+      "cd44": 25,
       "rennes_metropole": 1
     }
   }
