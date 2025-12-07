@@ -367,29 +367,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7191523709366827,
-          47.13872841192744
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Saint-Léger-les-Vignes",
-        "commune": "St-Léger-les-Vignes / Port-st-Père",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-11-28T12:02:24+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6218282645603095,
           47.167100958887225
         ]
@@ -640,12 +617,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-07T22:40:38.742Z",
+    "generated": "2025-12-07T23:17:48.962Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 27,
+    "total_count": 26,
     "sources": {
       "grist_35": 3,
-      "cd44": 24,
+      "cd44": 23,
       "rennes_metropole": 1
     }
   }
