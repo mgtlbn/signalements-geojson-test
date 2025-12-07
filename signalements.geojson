@@ -105,8 +105,8 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2025-07-12T05:48:18+00:00"
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2025-07-12T06:52:45+00:00"
       }
     },
     {
@@ -153,29 +153,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2025-06-12T18:07:55+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2025-06-12T10:38:46+00:00"
       }
     },
     {
@@ -360,29 +337,6 @@
         "statut": "Actif",
         "description": "Arrêt cause EXERCICE SECURITE",
         "date_heure": "2025-05-12T19:30:34+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2025-04-12T10:47:12+00:00"
       }
     },
     {
@@ -686,12 +640,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-07T06:50:33.897Z",
+    "generated": "2025-12-07T07:18:44.987Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 29,
+    "total_count": 27,
     "sources": {
       "grist_35": 3,
-      "cd44": 26,
+      "cd44": 24,
       "rennes_metropole": 1
     }
   }
