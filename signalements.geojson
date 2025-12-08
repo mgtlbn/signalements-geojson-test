@@ -167,121 +167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1628137285229636,
-          47.509920671329375
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D28 / Saint-Mars-la-Jaille",
-        "commune": "Commune",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2025-06-12T08:45:38+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9880399942874725,
-          47.14984688558939
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D136 / Chauvé",
-        "commune": "Commune",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-06-12T08:44:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7855770907900756,
-          47.6912127689407
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D130 / Pierric",
-        "commune": "Commune",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-06-12T08:42:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7856518418964957,
-          47.69100660935287
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D46 / Pierric",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-06-12T08:42:36+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2692086616346898,
-          47.45679434778679
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D14 / Teillé",
-        "commune": "Commune",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2025-06-12T08:42:36+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -578,12 +463,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-08T22:43:09.557Z",
+    "generated": "2025-12-08T23:19:59.496Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 25,
+    "total_count": 20,
     "sources": {
       "grist_35": 0,
-      "cd44": 25,
+      "cd44": 20,
       "rennes_metropole": 1
     }
   }
