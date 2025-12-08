@@ -91,6 +91,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1651791245934744,
+          47.277726223092316
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "2025-08-12T08:05:02+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.051512411892119,
+          47.21243968252024
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D114 / St-Père",
+        "commune": "Commune",
+        "type_coupure": "VL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-08-12T07:50:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95523806767799,
+          47.24704283599146
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D78 / Frossay",
+        "commune": "Commune",
+        "type_coupure": "PL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-08-12T07:49:30+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.021530586688954,
+          47.25200139725331
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D86 / Saint-Viaud",
+        "commune": "Saint-Viaud / Saint-Père-en-Retz",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "2025-08-12T07:49:13+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -617,12 +709,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-08T07:43:40.054Z",
+    "generated": "2025-12-08T08:32:09.904Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 26,
+    "total_count": 30,
     "sources": {
       "grist_35": 3,
-      "cd44": 23,
+      "cd44": 27,
       "rennes_metropole": 1
     }
   }
