@@ -6,91 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0804887101704495,
-          47.67278291908351
-        ]
-      },
-      "properties": {
-        "id": 90,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "D 873",
-        "commune": "Redon",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Résolu",
-        "description": "TEST",
-        "date_heure": 1763383211.571
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0553377021816526,
-            47.63493984952522
-          ],
-          [
-            -2.0532343395689705,
-            47.63384048836151
-          ]
-        ]
-      },
-      "properties": {
-        "id": 91,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "D 164",
-        "commune": "Avessac",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "TEST",
-        "date_heure": 1764076173.678
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0564404608398816,
-            47.69011821403397
-          ],
-          [
-            -2.0509913958830683,
-            47.69270467215058
-          ],
-          [
-            -2.0446413044373357,
-            47.69393283359927
-          ]
-        ]
-      },
-      "properties": {
-        "id": 93,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "D 177",
-        "commune": "Bains-sur-Oust",
-        "type_coupure": "Partielle",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sens vers Redon",
-        "date_heure": 1764077595.587
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.051512411892119,
           47.21243968252024
         ]
@@ -686,11 +601,11 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-08T14:23:23.108Z",
+    "generated": "2025-12-08T14:47:42.770Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 29,
+    "total_count": 26,
     "sources": {
-      "grist_35": 3,
+      "grist_35": 0,
       "cd44": 26,
       "rennes_metropole": 1
     }
