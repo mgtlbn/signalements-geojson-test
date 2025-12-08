@@ -29,29 +29,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6218282645603095,
-          47.167100958887225
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2025-08-12T16:15:39+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.051512411892119,
           47.21243968252024
         ]
@@ -624,12 +601,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-08T17:20:50.052Z",
+    "generated": "2025-12-08T17:43:44.635Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 27,
+    "total_count": 26,
     "sources": {
       "grist_35": 0,
-      "cd44": 27,
+      "cd44": 26,
       "rennes_metropole": 1
     }
   }
