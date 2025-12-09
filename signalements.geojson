@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8636840263419112,
+          47.10296737141246
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D61 / Saint-Hilaire-de-Chaléons",
+        "commune": "Ste-Pazanne /St-Hilaire-de-Chaléons",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "2025-09-12T19:40:24+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3081738080133858,
           47.101498253685946
         ]
@@ -13411,12 +13434,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-09T19:38:05.502Z",
+    "generated": "2025-12-09T20:21:05.842Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 380,
+    "total_count": 381,
     "sources": {
       "grist_35": 0,
-      "cd44": 26,
+      "cd44": 27,
       "rennes_metropole": 100
     }
   }
