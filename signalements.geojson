@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8781056508446425,
+          47.10635358992746
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D80 / Saint-Hilaire-de-Chaléons",
+        "commune": "Saint-Hilaire-de-Chaléons",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "2025-10-12T13:18:38+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1776738523283665,
           47.29624975729855
         ]
@@ -22,29 +45,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-10-12T09:48:14+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8636840263419112,
-          47.10296737141246
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D61 / Saint-Hilaire-de-Chaléons",
-        "commune": "Ste-Pazanne /St-Hilaire-de-Chaléons",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "2025-09-12T19:40:24+00:00"
       }
     },
     {
@@ -18783,7 +18783,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-10T12:46:03.745Z",
+    "generated": "2025-12-10T13:37:29.632Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 532,
     "sources": {
