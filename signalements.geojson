@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1776738523283665,
+          47.29624975729855
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Saint-Brevin / Saint-Nazaire",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2025-10-12T14:09:54+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8781056508446425,
           47.10635358992746
         ]
@@ -20,8 +43,8 @@
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "2025-10-12T13:18:38+00:00"
+        "description": "Secteur autour de l'église fermé",
+        "date_heure": "2025-10-12T13:47:38+00:00"
       }
     },
     {
@@ -29,22 +52,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1776738523283665,
-          47.29624975729855
+          -1.8792712892200958,
+          47.10733236453733
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
+        "route": "Obstacle sur la chaussée / D758",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-10-12T09:48:14+00:00"
+        "description": "Déviation",
+        "date_heure": "2025-10-12T13:37:32+00:00"
       }
     },
     {
@@ -18783,12 +18806,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-10T13:37:29.632Z",
+    "generated": "2025-12-10T14:23:36.717Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 532,
+    "total_count": 533,
     "sources": {
       "grist_35": 0,
-      "cd44": 24,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
