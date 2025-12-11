@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2025-11-12T15:26:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8792712892200958,
           47.10733236453733
         ]
@@ -14822,12 +14845,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-11T15:25:41.312Z",
+    "generated": "2025-12-11T15:48:17.509Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 419,
+    "total_count": 420,
     "sources": {
       "grist_35": 0,
-      "cd44": 22,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
