@@ -6,29 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2374084199297752,
-          47.290067028104424
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Nazaire",
-        "commune": "Saint-Nazaire vers Guérande",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-11-12T17:42:52+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8792712892200958,
           47.10733236453733
         ]
@@ -14845,12 +14822,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-11T18:31:30.680Z",
+    "generated": "2025-12-11T19:19:55.574Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 420,
+    "total_count": 419,
     "sources": {
       "grist_35": 0,
-      "cd44": 23,
+      "cd44": 22,
       "rennes_metropole": 100
     }
   }
