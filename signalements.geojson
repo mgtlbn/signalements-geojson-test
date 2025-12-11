@@ -6,29 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.160330671135861,
-          47.26257796427125
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Brevin-les-Pins vers Montoir",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2025-11-12T08:25:01+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8792712892200958,
           47.10733236453733
         ]
@@ -14845,12 +14822,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-11T14:45:46.877Z",
+    "generated": "2025-12-11T15:25:41.312Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 420,
+    "total_count": 419,
     "sources": {
       "grist_35": 0,
-      "cd44": 23,
+      "cd44": 22,
       "rennes_metropole": 100
     }
   }
