@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2699918833972832,
+          47.35304938138909
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D323 / Oudon",
+        "commune": "Couffé / Oudon",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2025-12-12T15:57:48+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.516057609329174,
           47.13440081645723
         ]
@@ -13483,12 +13506,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-12T15:44:50.104Z",
+    "generated": "2025-12-12T16:26:49.706Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 372,
+    "total_count": 373,
     "sources": {
       "grist_35": 0,
-      "cd44": 24,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
