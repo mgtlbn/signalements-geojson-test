@@ -6,22 +6,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3081738080133858,
-          47.101498253685946
+          -1.3320061045743727,
+          47.43012729992172
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D59 / Gorges",
-        "commune": "Gorges / Monnières",
-        "type_coupure": "Autres",
+        "route": "Travaux sur réseaux / D16",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-12-15T05:03:02+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3320061045743727,
+          47.43012729992172
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D16 / Teillé",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-12-15T05:02:59+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3320061045743727,
+          47.43012729992172
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D24 / Mouzeil",
+        "commune": "Commune",
+        "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-12-13T18:00:31+00:00"
+        "description": "Travaux sur réseaux",
+        "date_heure": "2025-12-15T05:02:55+00:00"
       }
     },
     {
@@ -38,13 +84,105 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D323 / Oudon",
-        "commune": "Couffé / Oudon",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Autres",
-        "date_heure": "2025-12-12T15:57:48+00:00"
+        "date_heure": "2025-12-15T04:46:02+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2859333684155942,
+          47.346468056086316
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D723 / Oudon",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-12-15T04:45:01+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2954579132101196,
+          47.345228857276304
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D323 / Oudon",
+        "commune": "Commune",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2025-12-15T04:45:01+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.310923044558315,
+          47.360611375607725
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D323 / Oudon",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-12-15T04:45:01+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3081738080133858,
+          47.101498253685946
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D59 / Gorges",
+        "commune": "Commune",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2025-12-15T04:45:01+00:00"
       }
     },
     {
@@ -107,82 +245,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Pannecé",
-        "commune": "Pouillé-les-Côteaux / Pannecé",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-09-12T12:41:07+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.310923044558315,
-          47.360611375607725
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D323 / Oudon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-09-12T12:40:29+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2859333684155942,
-          47.346468056086316
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D723 / Oudon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-09-12T12:40:15+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2954579132101196,
-          47.345228857276304
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D323 / Oudon",
-        "commune": "Oudon / Le Cellier",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-09-12T12:40:11+00:00"
       }
     },
     {
@@ -245,7 +314,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D86 / Saint-Viaud",
-        "commune": "Saint-Viaud / Saint-Père-en-Retz",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -268,7 +337,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Ligné / Le Cellier",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -291,7 +360,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Pannecé",
-        "commune": "Pouillé-les-Côteaux / Pannecé",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -314,7 +383,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
+        "commune": "Commune",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -383,7 +452,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Bonnoeuvre",
-        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -406,7 +475,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -429,7 +498,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Orvault / Treillières",
+        "commune": "Commune",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -17191,12 +17260,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-15T04:40:53.748Z",
+    "generated": "2025-12-15T05:26:12.256Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 492,
+    "total_count": 495,
     "sources": {
       "grist_35": 0,
-      "cd44": 20,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
