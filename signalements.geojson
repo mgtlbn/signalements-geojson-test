@@ -190,98 +190,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2699918833972832,
-          47.35304938138909
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D323 / Oudon",
-        "commune": "Couffé / Oudon",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-12-15T04:46:02+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2859333684155942,
-          47.346468056086316
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D723 / Oudon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-12-15T04:45:01+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2954579132101196,
-          47.345228857276304
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D323 / Oudon",
-        "commune": "Oudon / Le Cellier",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "2025-12-15T04:45:01+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.310923044558315,
-          47.360611375607725
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D323 / Oudon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-12-15T04:45:01+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3081738080133858,
           47.101498253685946
         ]
@@ -13861,12 +13769,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-15T22:44:36.598Z",
+    "generated": "2025-12-15T23:20:44.892Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 394,
+    "total_count": 390,
     "sources": {
       "grist_35": 0,
-      "cd44": 28,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
