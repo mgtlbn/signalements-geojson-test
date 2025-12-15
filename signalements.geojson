@@ -6,29 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6218282645603095,
-          47.167100958887225
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon sur 2 km",
-        "date_heure": "2025-12-15T16:16:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5371711225794478,
           47.11307536273751
         ]
@@ -44,7 +21,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 2.9 km",
-        "date_heure": "2025-12-15T16:16:44+00:00"
+        "date_heure": "2025-12-15T19:13:03+00:00"
       }
     },
     {
@@ -67,7 +44,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 2.9 km",
-        "date_heure": "2025-12-15T16:16:29+00:00"
+        "date_heure": "2025-12-15T19:13:03+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6218282645603095,
+          47.167100958887225
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon sur 2 km",
+        "date_heure": "2025-12-15T19:12:02+00:00"
       }
     },
     {
@@ -13861,7 +13861,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-15T18:33:13.778Z",
+    "generated": "2025-12-15T19:20:10.470Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 394,
     "sources": {
