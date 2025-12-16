@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3978471828796155,
+          47.10255403412319
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D58 / Maisdon-sur-Sèvre",
+        "commune": "Maisdon-sur-Sèvre / Château-Thébaud",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-12-16T12:53:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.15939688951541,
           47.25105762222196
         ]
@@ -15046,12 +15069,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-16T12:46:20.682Z",
+    "generated": "2025-12-16T13:38:36.220Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 427,
+    "total_count": 428,
     "sources": {
       "grist_35": 0,
-      "cd44": 24,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
