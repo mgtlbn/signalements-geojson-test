@@ -582,97 +582,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.67023610059904,
-            48.12708327489192
-          ],
-          [
-            -1.670177307674545,
-            48.12703852807494
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-09-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.670177307674545,
-            48.12703852807494
-          ],
-          [
-            -1.669866322835382,
-            48.1268018382327
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-09-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.669866322835382,
-            48.1268018382327
-          ],
-          [
-            -1.669742289658206,
-            48.1267073964217
-          ],
-          [
-            -1.669609706654609,
-            48.12660611338612
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-09-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.652254401076656,
             48.01832942421657
           ],
@@ -688,7 +597,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -729,7 +638,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -766,7 +675,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -819,7 +728,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -868,7 +777,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -921,7 +830,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -935,16 +844,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.773050775081252,
-            48.115008257113026
+            -1.640970023049327,
+            48.09675507330905
           ],
           [
-            -1.772847007287443,
-            48.115179421714174
-          ],
-          [
-            -1.772662145909805,
-            48.11535293003882
+            -1.640831707188348,
+            48.096679720618056
           ]
         ]
       },
@@ -952,14 +857,101 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "le Pont de Verrière,à l'intersection de la Route de Vezin et de la Route départementale 68",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-02-03T00:00:00+00:00"
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641627130927377,
+            48.096936449970656
+          ],
+          [
+            -1.641008907543338,
+            48.09661005908829
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641585218763114,
+            48.09708027015921
+          ],
+          [
+            -1.642095857543015,
+            48.09734825711253
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639656118203989,
+            48.09605006867267
+          ],
+          [
+            -1.639846391478215,
+            48.096151981952524
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
     {
@@ -8571,6 +8563,97 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.67023610059904,
+            48.12708327489192
+          ],
+          [
+            -1.670177307674545,
+            48.12703852807494
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-09-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.670177307674545,
+            48.12703852807494
+          ],
+          [
+            -1.669866322835382,
+            48.1268018382327
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-09-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.669866322835382,
+            48.1268018382327
+          ],
+          [
+            -1.669742289658206,
+            48.1267073964217
+          ],
+          [
+            -1.669609706654609,
+            48.12660611338612
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-09-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.652254401076656,
             48.01832942421657
           ],
@@ -8586,7 +8669,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -8627,7 +8710,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -8664,7 +8747,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -8717,7 +8800,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -8766,7 +8849,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -8819,7 +8902,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Rue de la Ruée, Avenue Alexandre Guillois",
         "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -8833,12 +8916,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.640970023049327,
-            48.09675507330905
+            -1.773050775081252,
+            48.115008257113026
           ],
           [
-            -1.640831707188348,
-            48.096679720618056
+            -1.772847007287443,
+            48.115179421714174
+          ],
+          [
+            -1.772662145909805,
+            48.11535293003882
           ]
         ]
       },
@@ -8846,101 +8933,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
+        "route": "le Pont de Verrière,à l'intersection de la Route de Vezin et de la Route départementale 68",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.641627130927377,
-            48.096936449970656
-          ],
-          [
-            -1.641008907543338,
-            48.09661005908829
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.641585218763114,
-            48.09708027015921
-          ],
-          [
-            -1.642095857543015,
-            48.09734825711253
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.639656118203989,
-            48.09605006867267
-          ],
-          [
-            -1.639846391478215,
-            48.096151981952524
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
+        "date_heure": "2025-02-03T00:00:00+00:00"
       }
     },
     {
@@ -13748,7 +13748,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-17T17:48:06.028Z",
+    "generated": "2025-12-17T18:33:39.362Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 379,
     "sources": {
