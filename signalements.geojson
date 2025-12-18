@@ -6,52 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2025-12-18T06:07:10+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6001085359788476,
-          47.18599126737503
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouguenais / Rezé",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2025-12-18T06:06:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1766350799348295,
           47.29377674482418
         ]
@@ -719,6 +673,2320 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.645723027275991,
+            48.09909040895321
+          ],
+          [
+            -1.645493207824852,
+            48.09901871869995
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "face au 148 Rue de Châteaugiron",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.702743249597822,
+            48.1078453983097
+          ],
+          [
+            -1.707673153828012,
+            48.109445835526934
+          ],
+          [
+            -1.71595241206791,
+            48.10761471667746
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue Amiral Courbet jusqu'au Boulevard Marbeuf",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67774404368127,
+            48.11726275554669
+          ],
+          [
+            -1.677639712433695,
+            48.11724713867254
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Rue d'Antrain et de la Place Saint-Jean Eudes",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2024-01-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784566350417601,
+            48.15762910827599
+          ],
+          [
+            -1.784423340977569,
+            48.15763505397551
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784160599020116,
+            48.15631511066563
+          ],
+          [
+            -1.78417510601303,
+            48.15638771729041
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7842046580261,
+            48.157091359184534
+          ],
+          [
+            -1.784195311908767,
+            48.15704248897119
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783970916582734,
+            48.15633204133162
+          ],
+          [
+            -1.783958416840061,
+            48.15626747241243
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784789666518177,
+            48.15520483913842
+          ],
+          [
+            -1.784388953859065,
+            48.15535442970479
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784329363938628,
+            48.15763896102742
+          ],
+          [
+            -1.784307865021193,
+            48.157594438441876
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784329363938628,
+            48.15763896102742
+          ],
+          [
+            -1.784351843538539,
+            48.15770541956883
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784307865021193,
+            48.157594438441876
+          ],
+          [
+            -1.784303234585943,
+            48.157584849166824
+          ],
+          [
+            -1.784254984142694,
+            48.15735450935854
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784116325080145,
+            48.15666708761522
+          ],
+          [
+            -1.784070123222337,
+            48.1563972126093
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.785650652097476,
+            48.15746532067303
+          ],
+          [
+            -1.785555325500283,
+            48.15747373870056
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783986433859867,
+            48.15550469268538
+          ],
+          [
+            -1.78393719085175,
+            48.155523075223755
+          ],
+          [
+            -1.783877437752047,
+            48.15558204113594
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783985022997083,
+            48.15640490954342
+          ],
+          [
+            -1.783970916582734,
+            48.15633204133162
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784118781871427,
+            48.157048487388856
+          ],
+          [
+            -1.78411035514976,
+            48.1570079428553
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-12",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783900117188096,
+            48.15561315741513
+          ],
+          [
+            -1.783919210707657,
+            48.155639353759035
+          ],
+          [
+            -1.783964258539149,
+            48.1558622463805
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-13",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784442271274381,
+            48.15769267431769
+          ],
+          [
+            -1.784858434069282,
+            48.15767023684554
+          ],
+          [
+            -1.784961400339838,
+            48.15766338823923
+          ],
+          [
+            -1.785089935412928,
+            48.157642639577446
+          ],
+          [
+            -1.785190413079329,
+            48.15761846734754
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-14",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784423340977569,
+            48.15763505397551
+          ],
+          [
+            -1.784329363938628,
+            48.15763896102742
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-15",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784423340977569,
+            48.15763505397551
+          ],
+          [
+            -1.784404826760762,
+            48.15757870001883
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-16",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783836130762401,
+            48.155635780094464
+          ],
+          [
+            -1.78382718814324,
+            48.15558958469046
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-17",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78382718814324,
+            48.15558958469046
+          ],
+          [
+            -1.783782832305101,
+            48.155596243446624
+          ],
+          [
+            -1.783280628153695,
+            48.155724948416484
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-18",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784750981949471,
+            48.155165888423404
+          ],
+          [
+            -1.78469502319353,
+            48.1552401707657
+          ],
+          [
+            -1.783966694850099,
+            48.155479144263566
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-19",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783877437752047,
+            48.15558204113594
+          ],
+          [
+            -1.783900117188096,
+            48.15561315741513
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-20",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.785190413079329,
+            48.15761846734754
+          ],
+          [
+            -1.78529636438452,
+            48.15759297818864
+          ],
+          [
+            -1.785505902615031,
+            48.15753548502888
+          ],
+          [
+            -1.785602908066265,
+            48.15750577747502
+          ],
+          [
+            -1.785652598610825,
+            48.157503711066525
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-21",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784307865021193,
+            48.157594438441876
+          ],
+          [
+            -1.784234720621765,
+            48.15760631087466
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-22",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784148989067629,
+            48.15625700337978
+          ],
+          [
+            -1.784160599020116,
+            48.15631511066563
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-23",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784185820130721,
+            48.15699737761938
+          ],
+          [
+            -1.78411035514976,
+            48.1570079428553
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-24",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78382718814324,
+            48.15558958469046
+          ],
+          [
+            -1.783815417346352,
+            48.1555287794185
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-25",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783877437752047,
+            48.15558204113594
+          ],
+          [
+            -1.78382718814324,
+            48.15558958469046
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-26",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78411035514976,
+            48.1570079428553
+          ],
+          [
+            -1.784062259800061,
+            48.156776534695545
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-27",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784308571192626,
+            48.157079671663254
+          ],
+          [
+            -1.784299622706389,
+            48.15703327854569
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-28",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784195311908767,
+            48.15704248897119
+          ],
+          [
+            -1.784185820130721,
+            48.15699737761938
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-29",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784185820130721,
+            48.15699737761938
+          ],
+          [
+            -1.784137985587503,
+            48.156770034230036
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-30",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784404826760762,
+            48.15757870001883
+          ],
+          [
+            -1.784308571192626,
+            48.157079671663254
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-31",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784308571192626,
+            48.157079671663254
+          ],
+          [
+            -1.7842046580261,
+            48.157091359184534
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-32",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78404519451319,
+            48.156262705348304
+          ],
+          [
+            -1.783958416840061,
+            48.15626747241243
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-33",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784404826760762,
+            48.15757870001883
+          ],
+          [
+            -1.784307865021193,
+            48.157594438441876
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-34",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784033735649635,
+            48.15556591584553
+          ],
+          [
+            -1.784017711840935,
+            48.15559995764998
+          ],
+          [
+            -1.784068372777857,
+            48.15585351890354
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-35",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784935669280471,
+            48.1551815274285
+          ],
+          [
+            -1.78482720514236,
+            48.155190825430964
+          ],
+          [
+            -1.784789666518177,
+            48.15520483913842
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-36",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.785652598610825,
+            48.157503711066525
+          ],
+          [
+            -1.785694644447951,
+            48.15750196255051
+          ],
+          [
+            -1.785776009727356,
+            48.157454250565316
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-37",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784062259800061,
+            48.156776534695545
+          ],
+          [
+            -1.783985022997083,
+            48.15640490954342
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-38",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.785555325500283,
+            48.15747373870056
+          ],
+          [
+            -1.785262764808734,
+            48.15754623736393
+          ],
+          [
+            -1.785167582997793,
+            48.15756820002035
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-39",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784845740636548,
+            48.15526129892641
+          ],
+          [
+            -1.784792823832778,
+            48.155269917624295
+          ],
+          [
+            -1.784430653921743,
+            48.155411142913266
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-40",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784430653921743,
+            48.155411142913266
+          ],
+          [
+            -1.784033735649635,
+            48.15556591584553
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-41",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784442271274381,
+            48.15769267431769
+          ],
+          [
+            -1.784423340977569,
+            48.15763505397551
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-42",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784227106383521,
+            48.15665731708359
+          ],
+          [
+            -1.78417510601303,
+            48.15638771729041
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-43",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784148989067629,
+            48.15625700337978
+          ],
+          [
+            -1.78404519451319,
+            48.156262705348304
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-44",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784068372777857,
+            48.15585351890354
+          ],
+          [
+            -1.784148989067629,
+            48.15625700337978
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-45",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784070123222337,
+            48.1563972126093
+          ],
+          [
+            -1.784057626907444,
+            48.15632421840564
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-46",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784183487744887,
+            48.157359812366515
+          ],
+          [
+            -1.784129450386992,
+            48.15709981801452
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-47",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784249705563719,
+            48.15772635365194
+          ],
+          [
+            -1.784234720621765,
+            48.15760631087466
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-48",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7842046580261,
+            48.157091359184534
+          ],
+          [
+            -1.784129450386992,
+            48.15709981801452
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-49",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78428988774613,
+            48.156982807879864
+          ],
+          [
+            -1.784185820130721,
+            48.15699737761938
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-50",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78428988774613,
+            48.156982807879864
+          ],
+          [
+            -1.784227106383521,
+            48.15665731708359
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-51",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783966694850099,
+            48.155479144263566
+          ],
+          [
+            -1.783815417346352,
+            48.1555287794185
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-52",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784351843538539,
+            48.15770541956883
+          ],
+          [
+            -1.784442271274381,
+            48.15769267431769
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-53",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784234720621765,
+            48.15760631087466
+          ],
+          [
+            -1.784183487744887,
+            48.157359812366515
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-54",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784129450386992,
+            48.15709981801452
+          ],
+          [
+            -1.784118781871427,
+            48.157048487388856
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-55",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783964258539149,
+            48.1558622463805
+          ],
+          [
+            -1.78404519451319,
+            48.156262705348304
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-56",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.783958416840061,
+            48.15626747241243
+          ],
+          [
+            -1.783836130762401,
+            48.155635780094464
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-57",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784299622706389,
+            48.15703327854569
+          ],
+          [
+            -1.78428988774613,
+            48.156982807879864
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-58",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.78404519451319,
+            48.156262705348304
+          ],
+          [
+            -1.784057626907444,
+            48.15632421840564
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-59",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784254984142694,
+            48.15735450935854
+          ],
+          [
+            -1.7842046580261,
+            48.157091359184534
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-60",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784137985587503,
+            48.156770034230036
+          ],
+          [
+            -1.784116325080145,
+            48.15666708761522
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-61",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.784388953859065,
+            48.15535442970479
+          ],
+          [
+            -1.783986433859867,
+            48.15550469268538
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-62",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.785167582997793,
+            48.15756820002035
+          ],
+          [
+            -1.785052394868041,
+            48.157594778898144
+          ],
+          [
+            -1.784942734168017,
+            48.15761217537316
+          ],
+          [
+            -1.784633241745008,
+            48.157626327169275
+          ],
+          [
+            -1.784566350417601,
+            48.15762910827599
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-63",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.785776009727356,
+            48.157454250565316
+          ],
+          [
+            -1.785650652097476,
+            48.15746532067303
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-64",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Simone de Beauvoir - 16 Giséle Halimi",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.652254401076656,
+            48.01832942421657
+          ],
+          [
+            -1.652229679587199,
+            48.01820304161481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.652229679587199,
+            48.01820304161481
+          ],
+          [
+            -1.652211787216338,
+            48.01811156909259
+          ],
+          [
+            -1.652166085724341,
+            48.017877930671226
+          ],
+          [
+            -1.652135251811195,
+            48.017665467634465
+          ],
+          [
+            -1.652159212649752,
+            48.01745401751694
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6526978841247,
+            48.0163661337207
+          ],
+          [
+            -1.652787701746116,
+            48.016266335382625
+          ],
+          [
+            -1.652994380501037,
+            48.01607448338378
+          ],
+          [
+            -1.653106682092558,
+            48.01597982284169
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.652508490431708,
+            48.01958342813429
+          ],
+          [
+            -1.652487099852967,
+            48.01950400781853
+          ],
+          [
+            -1.652432730334221,
+            48.01932584935323
+          ],
+          [
+            -1.652245300799318,
+            48.01903769833828
+          ],
+          [
+            -1.652151716102564,
+            48.01885235014639
+          ],
+          [
+            -1.652129466942216,
+            48.01871913360905
+          ],
+          [
+            -1.652151936177039,
+            48.018627091087495
+          ],
+          [
+            -1.652254401076656,
+            48.01832942421657
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.652159212649752,
+            48.01745401751694
+          ],
+          [
+            -1.652190158312475,
+            48.01731032336827
+          ],
+          [
+            -1.652242661096898,
+            48.0171262145067
+          ],
+          [
+            -1.652315141849484,
+            48.016951466195366
+          ],
+          [
+            -1.652410012079281,
+            48.01675359156254
+          ],
+          [
+            -1.652523216233854,
+            48.01658431885457
+          ],
+          [
+            -1.6526978841247,
+            48.0163661337207
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.653106682092558,
+            48.01597982284169
+          ],
+          [
+            -1.653311201897878,
+            48.01580742914952
+          ],
+          [
+            -1.653408275078256,
+            48.01571507267214
+          ],
+          [
+            -1.653489687915412,
+            48.01561340411883
+          ],
+          [
+            -1.653487719706898,
+            48.015518431419075
+          ],
+          [
+            -1.653408266360624,
+            48.01531275968169
+          ],
+          [
+            -1.653354209370884,
+            48.01515137320297
+          ],
+          [
+            -1.653319138310817,
+            48.0149004794848
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.652254401076656,
             48.01832942421657
           ],
@@ -1006,6 +3274,151 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-02-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.704638323328419,
+            48.10951552129253
+          ],
+          [
+            -1.704347259329381,
+            48.10841485011289
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Levot, de la Rue de La Bletterie jusqu'à la Rue de Lorient",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640970023049327,
+            48.09675507330905
+          ],
+          [
+            -1.640831707188348,
+            48.096679720618056
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641627130927377,
+            48.096936449970656
+          ],
+          [
+            -1.641008907543338,
+            48.09661005908829
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641585218763114,
+            48.09708027015921
+          ],
+          [
+            -1.642095857543015,
+            48.09734825711253
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639656118203989,
+            48.09605006867267
+          ],
+          [
+            -1.639846391478215,
+            48.096151981952524
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
     {
@@ -1711,674 +4124,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.669417183814927,
-            47.99653739285398
-          ],
-          [
-            -1.669131207121929,
-            47.996768238882176
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668333808670436,
-            47.99778342039692
-          ],
-          [
-            -1.668420462733404,
-            47.997886474079394
-          ],
-          [
-            -1.668456078159233,
-            47.998004591935725
-          ],
-          [
-            -1.668424663165301,
-            47.99813022032382
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668537313295452,
-            47.99815433243501
-          ],
-          [
-            -1.668411322480443,
-            47.998416096102396
-          ],
-          [
-            -1.668250795010148,
-            47.998690458148154
-          ],
-          [
-            -1.668007954926268,
-            47.99896099630687
-          ],
-          [
-            -1.667747036447279,
-            47.999268138907404
-          ],
-          [
-            -1.667545292253102,
-            47.999520263498724
-          ],
-          [
-            -1.667470727437435,
-            47.9996811258593
-          ],
-          [
-            -1.667383506235718,
-            47.999855048846086
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667287744580675,
-            47.999820682528814
-          ],
-          [
-            -1.667182563190215,
-            47.99981372278341
-          ],
-          [
-            -1.66693269552959,
-            47.99977626340832
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666575428283514,
-            48.00131492269712
-          ],
-          [
-            -1.666377651547996,
-            48.00169403178689
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667383506235718,
-            47.999855048846086
-          ],
-          [
-            -1.667287744580675,
-            47.999820682528814
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668424663165301,
-            47.99813022032382
-          ],
-          [
-            -1.668339989088936,
-            47.998336930363614
-          ],
-          [
-            -1.668227124603534,
-            47.998547178837974
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.669131207121929,
-            47.996768238882176
-          ],
-          [
-            -1.668804155712079,
-            47.99704546402044
-          ],
-          [
-            -1.668689445001996,
-            47.99714438446914
-          ],
-          [
-            -1.668609440604532,
-            47.99723617809399
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666694828064569,
-            48.00108604652367
-          ],
-          [
-            -1.666575428283514,
-            48.00131492269712
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668554955057272,
-            47.99787621835547
-          ],
-          [
-            -1.66857073078046,
-            47.99772134624818
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667287744580675,
-            47.999820682528814
-          ],
-          [
-            -1.667134508786574,
-            48.000175394021305
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668227124603534,
-            47.998547178837974
-          ],
-          [
-            -1.668118817243927,
-            47.99868446092886
-          ],
-          [
-            -1.667970982985179,
-            47.998862652926114
-          ],
-          [
-            -1.667689620519315,
-            47.999180192238555
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667134508786574,
-            48.000175394021305
-          ],
-          [
-            -1.666912617546279,
-            48.000639098948106
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-12",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668537313295452,
-            47.99815433243501
-          ],
-          [
-            -1.668553880657712,
-            47.998022133733556
-          ],
-          [
-            -1.668554955057272,
-            47.99787621835547
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-13",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668424663165301,
-            47.99813022032382
-          ],
-          [
-            -1.668537313295452,
-            47.99815433243501
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-14",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667383506235718,
-            47.999855048846086
-          ],
-          [
-            -1.667247701910538,
-            48.000166006497516
-          ],
-          [
-            -1.667134508786574,
-            48.000175394021305
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-15",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667689620519315,
-            47.999180192238555
-          ],
-          [
-            -1.667518542362088,
-            47.99941672207623
-          ],
-          [
-            -1.667410622089063,
-            47.999602854402056
-          ],
-          [
-            -1.667287744580675,
-            47.999820682528814
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-16",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666912617546279,
-            48.000639098948106
-          ],
-          [
-            -1.666694828064569,
-            48.00108604652367
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-17",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668609440604532,
-            47.99723617809399
-          ],
-          [
-            -1.668411551705368,
-            47.997181729387826
-          ],
-          [
-            -1.668333176723386,
-            47.99707632581968
-          ],
-          [
-            -1.668280025964072,
-            47.99705180037374
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-18",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668609440604532,
-            47.99723617809399
-          ],
-          [
-            -1.66849153819173,
-            47.997403057424876
-          ],
-          [
-            -1.668443813003537,
-            47.997510673759514
-          ],
-          [
-            -1.668385474893162,
-            47.99761732373628
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-19",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes",
-        "commune": "35208 - Orgères",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.613172892755443,
             48.01932681744402
           ],
@@ -2502,6 +4247,35 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-10-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663372235868115,
+            48.111665745080536
+          ],
+          [
+            -1.663413508542641,
+            48.1119147271791
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "32 Rue Armand Barbès",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "élagage",
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -2674,105 +4448,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.76765348351011,
-            48.146403966896614
-          ],
-          [
-            -1.768157069751117,
-            48.14649528560168
-          ],
-          [
-            -1.768240592808213,
-            48.14651770651733
-          ],
-          [
-            -1.768313666801028,
-            48.14655655462747
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue Jean-Marie Tullou",
-        "commune": "35210 - Pacé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.766660997924725,
-            48.14629315028907
-          ],
-          [
-            -1.767386993145859,
-            48.1463666825944
-          ],
-          [
-            -1.76765348351011,
-            48.146403966896614
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue Jean-Marie Tullou",
-        "commune": "35210 - Pacé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.766049923204145,
-            48.14629430219444
-          ],
-          [
-            -1.766660997924725,
-            48.14629315028907
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue Jean-Marie Tullou",
-        "commune": "35210 - Pacé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.690502772292782,
             48.11433427164217
           ],
@@ -2868,20 +4543,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.887537233076201,
-            48.216257788379714
+            -1.615258532698901,
+            47.9951822217099
           ],
           [
-            -1.887433237699553,
-            48.216264865582666
-          ],
-          [
-            -1.887232773152364,
-            48.216291327254105
-          ],
-          [
-            -1.887052776537777,
-            48.21633936573499
+            -1.615243725622999,
+            47.995206618818514
           ]
         ]
       },
@@ -2889,626 +4556,13 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue des Trois Evêchés",
-        "commune": "35245 - Romillé",
+        "route": "27 Rue de l'Ancienne Mairie",
+        "commune": "35032 - Bourgbarré",
         "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.891323934537233,
-            48.215890759934204
-          ],
-          [
-            -1.891121550816938,
-            48.215923586912645
-          ],
-          [
-            -1.890735941979355,
-            48.215968231267546
-          ],
-          [
-            -1.890064193085657,
-            48.2160230007558
-          ],
-          [
-            -1.889926187707798,
-            48.216034252271946
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue des Trois Evêchés",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.886752451319396,
-            48.21634671419484
-          ],
-          [
-            -1.886677074128386,
-            48.21634593266959
-          ],
-          [
-            -1.885864148015109,
-            48.21640820567201
-          ],
-          [
-            -1.885010484051828,
-            48.21648996387636
-          ],
-          [
-            -1.884434211803352,
-            48.21654515127079
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue des Trois Evêchés",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.889599139106969,
-            48.21609106074684
-          ],
-          [
-            -1.889475029019973,
-            48.21608141776083
-          ],
-          [
-            -1.888791810038156,
-            48.21614272443658
-          ],
-          [
-            -1.888517901247479,
-            48.21615434757145
-          ],
-          [
-            -1.888284460012383,
-            48.216178390197996
-          ],
-          [
-            -1.888092059300266,
-            48.216220885252554
-          ],
-          [
-            -1.887744645358913,
-            48.21624367304709
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue des Trois Evêchés",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.887744645358913,
-            48.21624367304709
-          ],
-          [
-            -1.887537233076201,
-            48.216257788379714
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue des Trois Evêchés",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.889944421383013,
-            48.21569404932011
-          ],
-          [
-            -1.889926187707798,
-            48.216034252271946
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue des Trois Evêchés",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.889926187707798,
-            48.216034252271946
-          ],
-          [
-            -1.889788422241346,
-            48.21604682271846
-          ],
-          [
-            -1.889720423436657,
-            48.21607556449723
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "5 Rue des Trois Evêchés",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.798269462548919,
-            48.22288326829415
-          ],
-          [
-            -1.79776847838758,
-            48.222890724852
-          ],
-          [
-            -1.797322290846209,
-            48.222894040596294
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.79559760628528,
-            48.22289999960525
-          ],
-          [
-            -1.795486599372518,
-            48.222919331497835
-          ],
-          [
-            -1.795144833181753,
-            48.22300159670068
-          ],
-          [
-            -1.795047368137666,
-            48.222967071411944
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.800069694605865,
-            48.22455772428057
-          ],
-          [
-            -1.799985886456337,
-            48.22427340675616
-          ],
-          [
-            -1.800001198898244,
-            48.22410184344496
-          ],
-          [
-            -1.800080229415692,
-            48.223829953095425
-          ],
-          [
-            -1.800246500142882,
-            48.223570862433306
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.79678590385398,
-            48.222896511982945
-          ],
-          [
-            -1.796116301277617,
-            48.222885766874015
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.80009272422311,
-            48.22462779817306
-          ],
-          [
-            -1.800069694605865,
-            48.22455772428057
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.796116301277617,
-            48.222885766874015
-          ],
-          [
-            -1.795853534637986,
-            48.222870958351436
-          ],
-          [
-            -1.79559760628528,
-            48.22289999960525
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.800246500142882,
-            48.223570862433306
-          ],
-          [
-            -1.800253386768023,
-            48.223560391762064
-          ],
-          [
-            -1.800381304774175,
-            48.2233649510553
-          ],
-          [
-            -1.800446334413284,
-            48.22319480464912
-          ],
-          [
-            -1.800439539108087,
-            48.22306602104889
-          ],
-          [
-            -1.800394505294426,
-            48.22298423894532
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.800394505294426,
-            48.22298423894532
-          ],
-          [
-            -1.80022591279487,
-            48.22290225057934
-          ],
-          [
-            -1.800038744924856,
-            48.22285423559237
-          ],
-          [
-            -1.799850589875333,
-            48.22282195839164
-          ],
-          [
-            -1.799703791287608,
-            48.22281586379999
-          ],
-          [
-            -1.799529515668781,
-            48.222823123073105
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.797322290846209,
-            48.222894040596294
-          ],
-          [
-            -1.79678590385398,
-            48.222896511982945
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.799529515668781,
-            48.222823123073105
-          ],
-          [
-            -1.799294991318235,
-            48.22282904276068
-          ],
-          [
-            -1.798770961984056,
-            48.2228610788038
-          ],
-          [
-            -1.798269462548919,
-            48.22288326829415
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.795011014365562,
-            48.222922507337906
-          ],
-          [
-            -1.795062124735099,
-            48.22288195732043
-          ],
-          [
-            -1.795226226454099,
-            48.222833935333
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Tertre",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
+        "description": "sur réseaux ou ouvrages de fibre optique",
         "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
@@ -3547,32 +4601,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.844389504990639,
-            48.203195380514074
+            -1.704638323328419,
+            48.10951552129253
           ],
           [
-            -1.844285568297509,
-            48.20252971008904
-          ],
-          [
-            -1.844193267737031,
-            48.201793292630484
-          ],
-          [
-            -1.844125519109519,
-            48.201518421019536
-          ],
-          [
-            -1.8440546440735,
-            48.20138146449334
-          ],
-          [
-            -1.843967281968079,
-            48.20127192844372
-          ],
-          [
-            -1.84376563444113,
-            48.201114636762
+            -1.706064586538285,
+            48.109352354532746
           ]
         ]
       },
@@ -3580,9 +4614,38 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "47 bis la Brandelais",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Circulation alternée",
+        "route": "Rue de La Bletterie, de la Rue Levot jusqu'à la Rue Kerviler,Rue Kerviler, de la Rue de La Bletterie jusqu'au Boulevard Marbeuf",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation à double sens",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.706064586538285,
+            48.109352354532746
+          ],
+          [
+            -1.706167175770511,
+            48.10978797994087
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de La Bletterie, de la Rue Levot jusqu'à la Rue Kerviler,Rue Kerviler, de la Rue de La Bletterie jusqu'au Boulevard Marbeuf",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation à double sens",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -3990,6 +5053,35 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-09-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679774636609357,
+            48.097105918624
+          ],
+          [
+            -1.679742824458724,
+            48.09698569841296
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 24 au 26 Rue Bernard Palissy",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2025-11-26T00:00:00+00:00"
       }
     },
     {
@@ -4573,39 +5665,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.90528143075214,
-            48.215121770459966
-          ],
-          [
-            -1.907095472158705,
-            48.21485877554211
-          ],
-          [
-            -1.907562794888967,
-            48.21482922819329
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "le Fail",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.649251880144264,
             48.10017932992236
           ],
@@ -4627,35 +5686,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
         "date_heure": "2025-12-03T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.692808165374198,
-            48.15531168948139
-          ],
-          [
-            -1.692842531604248,
-            48.15518075827523
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée du Stade",
-        "commune": "35278 - Saint-Grégoire",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-04T00:00:00+00:00"
       }
     },
     {
@@ -5815,6 +6845,80 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.66333308838101,
+            48.128237233305136
+          ],
+          [
+            -1.663309030418233,
+            48.128233420366854
+          ],
+          [
+            -1.662970257858058,
+            48.128192302185994
+          ],
+          [
+            -1.662552854677079,
+            48.12815535000133
+          ],
+          [
+            -1.659299142624567,
+            48.127915413062055
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Rochester, de l'Avenue Général George S. Patton jusqu'à la Rue Poullart des Places sur la partie Nord",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.662327605951633,
+            48.12830717375395
+          ],
+          [
+            -1.661287404831163,
+            48.12822919560272
+          ],
+          [
+            -1.658903318551466,
+            48.1280875443878
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Rochester, de l'Avenue Général George S. Patton jusqu'à la Rue Poullart des Places sur la partie Nord",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.690502772292782,
             48.11433427164217
           ],
@@ -5993,6 +7097,35 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-11-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.671624041729431,
+            48.1015154716244
+          ],
+          [
+            -1.670819886154264,
+            48.10152691510156
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 11 au 15 Rue de Quineleu sur terrain vague Rennes Metropole et Territoire public",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "fermeture definitive de parking sur terrain vague",
+        "date_heure": "2025-11-22T00:00:00+00:00"
       }
     },
     {
@@ -7993,35 +9126,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.661745928081014,
-            48.10324603849461
-          ],
-          [
-            -1.661843426646016,
-            48.10329853518799
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 127 au 125 Rue Saint-Hélier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-11T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.661843426646016,
             48.10329853518799
           ],
@@ -8051,12 +9155,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.71596180651649,
-            48.10760950211399
+            -1.661745928081014,
+            48.10324603849461
           ],
           [
-            -1.707603362843997,
-            48.109473900513926
+            -1.661843426646016,
+            48.10329853518799
           ]
         ]
       },
@@ -8064,14 +9168,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Boulevard Marbeuf au pont de la RN 136",
+        "route": "du 127 au 125 Rue Saint-Hélier",
         "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
+        "type_coupure": "Neutralisation de voie",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
+        "date_heure": "2025-12-11T00:00:00+00:00"
       }
     },
     {
@@ -8191,146 +9295,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.921165503017275,
-            48.28302227041461
-          ],
-          [
-            -1.921177171708766,
-            48.28309786946335
-          ],
-          [
-            -1.921276315433445,
-            48.28351113971701
-          ],
-          [
-            -1.921344037322825,
-            48.28392193288005
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "9 le Fresne",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.921344037322825,
-            48.28392193288005
-          ],
-          [
-            -1.9210670369142,
-            48.28399341848577
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "9 le Fresne",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.921316615693886,
-            48.28478444933755
-          ],
-          [
-            -1.921111899603714,
-            48.285396760569654
-          ],
-          [
-            -1.921062561838425,
-            48.28555813787393
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "9 le Fresne",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.921344037322825,
-            48.28392193288005
-          ],
-          [
-            -1.921353124130744,
-            48.28397705379107
-          ],
-          [
-            -1.921404824167342,
-            48.28429065843013
-          ],
-          [
-            -1.921393909153952,
-            48.284504998752254
-          ],
-          [
-            -1.921316615693886,
-            48.28478444933755
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "9 le Fresne",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
         "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
@@ -8485,6 +9449,39 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.65841127448504,
+            48.091093929903224
+          ],
+          [
+            -1.658633204991564,
+            48.09038660976582
+          ],
+          [
+            -1.660470556032064,
+            48.0892308429489
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Andrée Viollis",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.709949042319969,
             48.12450297515608
           ],
@@ -8526,16 +9523,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.65841127448504,
-            48.091093929903224
+            -1.604502254627515,
+            48.04510618635545
           ],
           [
-            -1.658633204991564,
-            48.09038660976582
-          ],
-          [
-            -1.660470556032064,
-            48.0892308429489
+            -1.604157025354388,
+            48.045219766328714
           ]
         ]
       },
@@ -8543,14 +9536,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Andrée Viollis",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
+        "route": "Chemin des Marais et rue Queffelec",
+        "commune": "35352 - Vern-sur-Seiche",
+        "type_coupure": "Sens interdit (ou sens unique)",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-10-06T00:00:00+00:00"
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -8559,111 +9552,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.67774404368127,
-            48.11726275554669
+            -1.603801417595498,
+            48.04444481971135
           ],
           [
-            -1.677639712433695,
-            48.11724713867254
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Rue d'Antrain et de la Place Saint-Jean Eudes",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2024-01-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.645723027275991,
-            48.09909040895321
+            -1.603977018228644,
+            48.04411811335287
           ],
           [
-            -1.645493207824852,
-            48.09901871869995
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "face au 148 Rue de Châteaugiron",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652254401076656,
-            48.01832942421657
+            -1.604151484977438,
+            48.0438082365547
           ],
           [
-            -1.652229679587199,
-            48.01820304161481
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652229679587199,
-            48.01820304161481
+            -1.604236231479219,
+            48.04360819866646
           ],
           [
-            -1.652211787216338,
-            48.01811156909259
+            -1.604255241286221,
+            48.04350492212835
           ],
           [
-            -1.652166085724341,
-            48.017877930671226
+            -1.604252319281728,
+            48.04337371615208
           ],
           [
-            -1.652135251811195,
-            48.017665467634465
+            -1.60425987454548,
+            48.043272883855025
           ],
           [
-            -1.652159212649752,
-            48.01745401751694
+            -1.604285368476639,
+            48.04316912295779
+          ],
+          [
+            -1.604338282146063,
+            48.0431316510376
+          ],
+          [
+            -1.604417770321032,
+            48.04309532197876
           ]
         ]
       },
@@ -8671,14 +9597,14 @@
         "id": "rm-undefined-1",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "route": "Chemin des Marais et rue Queffelec",
+        "commune": "35352 - Vern-sur-Seiche",
+        "type_coupure": "Sens interdit (ou sens unique)",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -8687,20 +9613,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.6526978841247,
-            48.0163661337207
+            -1.603337129022416,
+            48.04541707373764
           ],
           [
-            -1.652787701746116,
-            48.016266335382625
+            -1.603414635671218,
+            48.04529890559858
           ],
           [
-            -1.652994380501037,
-            48.01607448338378
+            -1.603444356805801,
+            48.04523927994844
           ],
           [
-            -1.653106682092558,
-            48.01597982284169
+            -1.60362272626478,
+            48.04524478030848
+          ],
+          [
+            -1.603729267291948,
+            48.04525075027679
+          ],
+          [
+            -1.603842134481386,
+            48.04527503850653
           ]
         ]
       },
@@ -8708,14 +9642,14 @@
         "id": "rm-undefined-2",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "route": "Chemin des Marais et rue Queffelec",
+        "commune": "35352 - Vern-sur-Seiche",
+        "type_coupure": "Sens interdit (ou sens unique)",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -8724,36 +9658,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.652508490431708,
-            48.01958342813429
+            -1.604157025354388,
+            48.045219766328714
           ],
           [
-            -1.652487099852967,
-            48.01950400781853
+            -1.604042156697267,
+            48.04525960843108
           ],
           [
-            -1.652432730334221,
-            48.01932584935323
+            -1.603941026429987,
+            48.04526366287712
           ],
           [
-            -1.652245300799318,
-            48.01903769833828
+            -1.603885532792174,
+            48.045263771122656
           ],
           [
-            -1.652151716102564,
-            48.01885235014639
-          ],
-          [
-            -1.652129466942216,
-            48.01871913360905
-          ],
-          [
-            -1.652151936177039,
-            48.018627091087495
-          ],
-          [
-            -1.652254401076656,
-            48.01832942421657
+            -1.603842134481386,
+            48.04527503850653
           ]
         ]
       },
@@ -8761,14 +9683,14 @@
         "id": "rm-undefined-3",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "route": "Chemin des Marais et rue Queffelec",
+        "commune": "35352 - Vern-sur-Seiche",
+        "type_coupure": "Sens interdit (ou sens unique)",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -8777,114 +9699,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.652159212649752,
-            48.01745401751694
+            -1.690502772292782,
+            48.11433427164217
           ],
           [
-            -1.652190158312475,
-            48.01731032336827
+            -1.691329139809296,
+            48.11351085020249
           ],
           [
-            -1.652242661096898,
-            48.0171262145067
+            -1.691340993770076,
+            48.11346620694697
           ],
           [
-            -1.652315141849484,
-            48.016951466195366
-          ],
-          [
-            -1.652410012079281,
-            48.01675359156254
-          ],
-          [
-            -1.652523216233854,
-            48.01658431885457
-          ],
-          [
-            -1.6526978841247,
-            48.0163661337207
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.653106682092558,
-            48.01597982284169
-          ],
-          [
-            -1.653311201897878,
-            48.01580742914952
-          ],
-          [
-            -1.653408275078256,
-            48.01571507267214
-          ],
-          [
-            -1.653489687915412,
-            48.01561340411883
-          ],
-          [
-            -1.653487719706898,
-            48.015518431419075
-          ],
-          [
-            -1.653408266360624,
-            48.01531275968169
-          ],
-          [
-            -1.653354209370884,
-            48.01515137320297
-          ],
-          [
-            -1.653319138310817,
-            48.0149004794848
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Ruée, Avenue Alexandre Guillois",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.640970023049327,
-            48.09675507330905
-          ],
-          [
-            -1.640831707188348,
-            48.096679720618056
+            -1.691097164379817,
+            48.11334226025331
           ]
         ]
       },
@@ -8892,14 +9720,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
         "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
+        "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -8908,12 +9736,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.641627130927377,
-            48.096936449970656
+            -1.692143905468232,
+            48.115037112008665
           ],
           [
-            -1.641008907543338,
-            48.09661005908829
+            -1.690502772292782,
+            48.11433427164217
           ]
         ]
       },
@@ -8921,14 +9749,14 @@
         "id": "rm-undefined-1",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
         "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
+        "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -8937,12 +9765,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.641585218763114,
-            48.09708027015921
+            -1.690502772292782,
+            48.11433427164217
           ],
           [
-            -1.642095857543015,
-            48.09734825711253
+            -1.690077965024883,
+            48.11416264226175
           ]
         ]
       },
@@ -8950,101 +9778,14 @@
         "id": "rm-undefined-2",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
         "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
+        "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.639656118203989,
-            48.09605006867267
-          ],
-          [
-            -1.639846391478215,
-            48.096151981952524
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 171 au 197 Rue de Châteaugiron dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.68380531747901,
-            48.11745380603588
-          ],
-          [
-            -1.684342399489,
-            48.11758221966861
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 33 au 41 Rue Legraverend",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-10-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.656091853274101,
-            48.11183396823842
-          ],
-          [
-            -1.656135732741049,
-            48.11183936383391
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de Strasbourg, dans le sens nord-sud à l'intersection de la Rue Durafour et débouché de rue Durafour vers Boulevard de Strasbourg",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-12T00:00:00+00:00"
+        "date_heure": "2025-12-19T00:00:00+00:00"
       }
     },
     {
@@ -9354,6 +10095,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.656091853274101,
+            48.11183396823842
+          ],
+          [
+            -1.656135732741049,
+            48.11183936383391
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de Strasbourg, dans le sens nord-sud à l'intersection de la Rue Durafour et débouché de rue Durafour vers Boulevard de Strasbourg",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.633814103662264,
             48.102254622294076
           ],
@@ -9374,6 +10144,39 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.69957690076801,
+            47.971722473937646
+          ],
+          [
+            -1.699745261017796,
+            47.97171878412827
+          ],
+          [
+            -1.69980258109695,
+            47.97172498235635
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "7 Rue de la Plaine",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2025-12-08T00:00:00+00:00"
       }
     },
@@ -10245,7 +11048,7 @@
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "",
+        "description": "sur réseaux ou ouvrages de télécommunications",
         "date_heure": "2025-12-10T00:00:00+00:00"
       }
     },
@@ -10290,7 +11093,7 @@
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "",
+        "description": "sur réseaux ou ouvrages de télécommunications",
         "date_heure": "2025-12-10T00:00:00+00:00"
       }
     },
@@ -10327,7 +11130,7 @@
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "",
+        "description": "sur réseaux ou ouvrages de télécommunications",
         "date_heure": "2025-12-10T00:00:00+00:00"
       }
     },
@@ -10502,12 +11305,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.615258532698901,
-            47.9951822217099
+            -1.627884057627375,
+            48.1251580234692
           ],
           [
-            -1.615243725622999,
-            47.995206618818514
+            -1.628120185023913,
+            48.12591440348493
           ]
         ]
       },
@@ -10515,42 +11318,13 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "27 Rue de l'Ancienne Mairie",
-        "commune": "35032 - Bourgbarré",
+        "route": "Rue du Clos Courtel",
+        "commune": "35051 - Cesson-Sévigné, 35238 - Rennes",
         "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de fibre optique",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.615308025369432,
-            47.99530591648681
-          ],
-          [
-            -1.615368803461162,
-            47.99531430906581
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Impasse de la Motte",
-        "commune": "35032 - Bourgbarré",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
+        "description": "",
         "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
@@ -10675,35 +11449,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.659703904207917,
-            48.09963522870308
-          ],
-          [
-            -1.659741917462246,
-            48.099580343057156
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "face au 21 Rue de Vouziers",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
     {
@@ -11420,6 +12165,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.6520885985778,
+            48.10330023838468
+          ],
+          [
+            -1.652012941848054,
+            48.103326204716055
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "face au 48 Avenue Monseigneur Mouézy",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.693905494947112,
             48.069804300976884
           ],
@@ -11788,6 +12562,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.627996869545861,
+            48.12744350542464
+          ],
+          [
+            -1.627751631757816,
+            48.12747589848649
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Belle Fontaine face à la station \"ATALANTE\"",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.683159709981929,
             48.119957936858306
           ],
@@ -11886,35 +12689,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6520885985778,
-            48.10330023838468
-          ],
-          [
-            -1.652012941848054,
-            48.103326204716055
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "face au 48 Avenue Monseigneur Mouézy",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
     {
@@ -12466,6 +13240,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.659703904207917,
+            48.09963522870308
+          ],
+          [
+            -1.659741917462246,
+            48.099580343057156
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "face au 21 Rue de Vouziers",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.64477459501859,
             48.09048740094317
           ],
@@ -12495,16 +13298,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.69957690076801,
-            47.971722473937646
+            -1.65767079380614,
+            48.11249834767895
           ],
           [
-            -1.699745261017796,
-            47.97171878412827
+            -1.657671376992274,
+            48.11260014384925
           ],
           [
-            -1.69980258109695,
-            47.97172498235635
+            -1.657688994648903,
+            48.112698366618
+          ],
+          [
+            -1.657719071377344,
+            48.112776621810234
+          ],
+          [
+            -1.657760851620208,
+            48.11285782695065
+          ],
+          [
+            -1.657818181499177,
+            48.112924976407285
+          ],
+          [
+            -1.657895299599021,
+            48.11296987902506
+          ],
+          [
+            -1.658187089798865,
+            48.11316737508954
+          ],
+          [
+            -1.65825199424368,
+            48.113349643347995
+          ],
+          [
+            -1.658692074153773,
+            48.11328658118096
           ]
         ]
       },
@@ -12512,14 +13343,326 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "7 Rue de la Plaine",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2025-12-08T00:00:00+00:00"
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657806173167012,
+            48.11138879462371
+          ],
+          [
+            -1.657970338288193,
+            48.111804561562884
+          ],
+          [
+            -1.657982643300396,
+            48.11187524686626
+          ],
+          [
+            -1.657973448380827,
+            48.11193283668901
+          ],
+          [
+            -1.657927809099251,
+            48.11204128095855
+          ],
+          [
+            -1.657900771676295,
+            48.11210094514371
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.656969444355507,
+            48.11194187696932
+          ],
+          [
+            -1.657097071904374,
+            48.1119441866608
+          ],
+          [
+            -1.657294998592912,
+            48.11197104107609
+          ],
+          [
+            -1.657402944514128,
+            48.111986314623486
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657402944514128,
+            48.111986314623486
+          ],
+          [
+            -1.657483626705153,
+            48.11199773116581
+          ],
+          [
+            -1.657682465259246,
+            48.11203914517129
+          ],
+          [
+            -1.657900771676295,
+            48.11210094514371
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657900771676295,
+            48.11210094514371
+          ],
+          [
+            -1.658049375907296,
+            48.11216268499723
+          ],
+          [
+            -1.65818659247552,
+            48.1122309231079
+          ],
+          [
+            -1.658289490393058,
+            48.1122975778962
+          ],
+          [
+            -1.65840443969305,
+            48.11237698995596
+          ],
+          [
+            -1.658507757526975,
+            48.112463180575986
+          ],
+          [
+            -1.65860653195279,
+            48.11256162940511
+          ],
+          [
+            -1.658684230952644,
+            48.112659129920345
+          ],
+          [
+            -1.65876224714157,
+            48.112782477988134
+          ],
+          [
+            -1.658798563082844,
+            48.11287615863668
+          ],
+          [
+            -1.658823743877953,
+            48.11297020032639
+          ],
+          [
+            -1.658773409452928,
+            48.11307730336875
+          ],
+          [
+            -1.658723717445238,
+            48.11317960472864
+          ],
+          [
+            -1.658692074153773,
+            48.11328658118096
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.658692074153773,
+            48.11328658118096
+          ],
+          [
+            -1.658973370573683,
+            48.11421228739009
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.656091853274101,
+            48.11183396823842
+          ],
+          [
+            -1.656969444355507,
+            48.11194187696932
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657404312099246,
+            48.11322458317103
+          ],
+          [
+            -1.657831593144262,
+            48.1145020090009
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.656969444355507,
+            48.11194187696932
+          ],
+          [
+            -1.657404312099246,
+            48.11322458317103
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place Lucien Daniel, douze emplacements, pour l'installation de la base-vie, Rue Edouard Jordan, Rue Durafour, Rue René Marcille",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-12T00:00:00+00:00"
       }
     },
     {
@@ -13547,35 +14690,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.671624041729431,
-            48.1015154716244
-          ],
-          [
-            -1.670819886154264,
-            48.10152691510156
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 11 au 15 Rue de Quineleu sur terrain vague Rennes Metropole et Territoire public",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-11-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.66705171739535,
             48.10222760877263
           ],
@@ -13597,35 +14711,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-11-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679774636609357,
-            48.097105918624
-          ],
-          [
-            -1.679742824458724,
-            48.09698569841296
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 24 au 26 Rue Bernard Palissy",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-11-26T00:00:00+00:00"
       }
     },
     {
@@ -13794,12 +14879,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-18T07:42:33.237Z",
+    "generated": "2025-12-18T08:30:25.523Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 381,
+    "total_count": 418,
     "sources": {
       "grist_35": 0,
-      "cd44": 27,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
