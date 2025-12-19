@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.95523806767799,
+          47.24704283599146
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D78 / Frossay",
+        "commune": "Commune",
+        "type_coupure": "PL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-12-19T04:37:39+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.021530586688954,
+          47.25200139725331
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D86 / Saint-Viaud",
+        "commune": "Commune",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "2025-12-19T04:37:39+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.051512411892119,
+          47.21243968252024
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D114 / St-Père",
+        "commune": "Commune",
+        "type_coupure": "VL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2025-12-19T04:37:39+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1766350799348295,
           47.29377674482418
         ]
@@ -15,7 +84,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Saint-Nazaire",
-        "commune": "Saint-Brevin / Saint-Nazaire",
+        "commune": "Commune",
         "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -38,7 +107,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D58 / Maisdon-sur-Sèvre",
-        "commune": "Maisdon-sur-Sèvre / Château-Thébaud",
+        "commune": "Commune",
         "type_coupure": "Accident",
         "cause": "Accident",
         "priorite": "Moyenne",
@@ -61,7 +130,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "St Brevin vers Montoir de Bretagne",
+        "commune": "Commune",
         "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -84,7 +153,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -107,7 +176,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -176,7 +245,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D24 / Mouzeil",
-        "commune": "Couffé / Mouzeil",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -245,82 +314,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Pannecé",
-        "commune": "Pouillé-les-Côteaux / Pannecé",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "2025-09-12T12:41:07+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.051512411892119,
-          47.21243968252024
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D114 / St-Père",
-        "commune": "Commune",
-        "type_coupure": "VL",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-08-12T07:50:12+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.95523806767799,
-          47.24704283599146
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D78 / Frossay",
-        "commune": "Commune",
-        "type_coupure": "PL",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-08-12T07:49:30+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.021530586688954,
-          47.25200139725331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D86 / Saint-Viaud",
-        "commune": "Saint-Viaud / Saint-Père-en-Retz",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-08-12T07:49:13+00:00"
       }
     },
     {
@@ -337,7 +337,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Ligné / Le Cellier",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -360,7 +360,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Pannecé",
-        "commune": "Pouillé-les-Côteaux / Pannecé",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -383,7 +383,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
+        "commune": "Commune",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -452,7 +452,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Bonnoeuvre",
-        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -475,7 +475,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -498,7 +498,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Orvault / Treillières",
+        "commune": "Commune",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -14833,7 +14833,7 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-19T04:08:58.714Z",
+    "generated": "2025-12-19T04:53:54.479Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 416,
     "sources": {
