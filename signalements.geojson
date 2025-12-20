@@ -75,29 +75,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1766350799348295,
-          47.29377674482418
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Nazaire",
-        "commune": "Commune",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2025-12-17T16:09:25+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5371711225794478,
           47.11307536273751
         ]
@@ -11063,12 +11040,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-20T22:41:02.511Z",
+    "generated": "2025-12-20T23:18:46.041Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 306,
+    "total_count": 305,
     "sources": {
       "grist_35": 0,
-      "cd44": 21,
+      "cd44": 20,
       "rennes_metropole": 100
     }
   }
