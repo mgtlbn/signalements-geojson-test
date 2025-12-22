@@ -6,29 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3795993427607693,
-          47.66742702545432
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Moisdon-la-Rivière",
-        "commune": "Erbray / Moisdon-la-Rivière",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2025-12-22T17:23:06+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2375007611923028,
           47.48336482871341
         ]
@@ -13000,12 +12977,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-22T18:32:12.527Z",
+    "generated": "2025-12-22T19:18:08.204Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 357,
+    "total_count": 356,
     "sources": {
       "grist_35": 0,
-      "cd44": 18,
+      "cd44": 17,
       "rennes_metropole": 100
     }
   }
