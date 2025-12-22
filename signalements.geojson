@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3795993427607693,
+          47.66742702545432
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Moisdon-la-Rivière",
+        "commune": "Erbray / Moisdon-la-Rivière",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-12-22T17:23:06+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2375007611923028,
           47.48336482871341
         ]
@@ -7547,6 +7570,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.712019187880383,
+            48.10221835865249
+          ],
+          [
+            -1.712013226858849,
+            48.10213408160701
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 150 au 152 Rue Eugène Pottier",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.90528143075214,
             48.215121770459966
           ],
@@ -7725,93 +7777,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.709391250811937,
-            48.1244925305452
-          ],
-          [
-            -1.709152616227778,
-            48.124514817081526
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de tourner",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-10-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.709391250811937,
-            48.1244925305452
-          ],
-          [
-            -1.709152616227778,
-            48.124514817081526
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de tourner",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-10-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.712019187880383,
-            48.10221835865249
-          ],
-          [
-            -1.712013226858849,
-            48.10213408160701
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 150 au 152 Rue Eugène Pottier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.66363496433257,
             48.12919469014338
           ],
@@ -7862,6 +7827,64 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.709391250811937,
+            48.1244925305452
+          ],
+          [
+            -1.709152616227778,
+            48.124514817081526
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de tourner",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.709391250811937,
+            48.1244925305452
+          ],
+          [
+            -1.709152616227778,
+            48.124514817081526
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de tourner",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-20T00:00:00+00:00"
       }
     },
     {
@@ -9942,35 +9965,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
         "date_heure": "2025-12-11T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.670216995944737,
-            48.092907730284196
-          ],
-          [
-            -1.670028077986618,
-            48.092886076247744
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "11 Rue Joüon des Longrais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2025-12-15T00:00:00+00:00"
       }
     },
     {
@@ -12462,6 +12456,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.670216995944737,
+            48.092907730284196
+          ],
+          [
+            -1.670028077986618,
+            48.092886076247744
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "11 Rue Joüon des Longrais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.745797894236256,
             48.01951787905774
           ],
@@ -12977,12 +13000,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-22T17:19:17.826Z",
+    "generated": "2025-12-22T17:42:33.006Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 356,
+    "total_count": 357,
     "sources": {
       "grist_35": 0,
-      "cd44": 17,
+      "cd44": 18,
       "rennes_metropole": 100
     }
   }
