@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8145372319566384,
+          47.417578773698395
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Fay-de-Bretagne",
+        "commune": "Fay-de-Bretagne / Bouvron",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2025-12-24T17:51:17+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5371711225794478,
           47.11307536273751
         ]
@@ -14729,12 +14752,12 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-24T17:41:41.191Z",
+    "generated": "2025-12-24T18:31:13.832Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 400,
+    "total_count": 401,
     "sources": {
       "grist_35": 0,
-      "cd44": 15,
+      "cd44": 16,
       "rennes_metropole": 100
     }
   }
