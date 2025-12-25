@@ -352,35 +352,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.67774404368127,
-            48.11726275554669
-          ],
-          [
-            -1.677639712433695,
-            48.11724713867254
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Rue d'Antrain et de la Place Saint-Jean Eudes",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2024-01-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.67023610059904,
             48.12708327489192
           ],
@@ -464,6 +435,35 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-09-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67774404368127,
+            48.11726275554669
+          ],
+          [
+            -1.677639712433695,
+            48.11724713867254
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Rue d'Antrain et de la Place Saint-Jean Eudes",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2024-01-15T00:00:00+00:00"
       }
     },
     {
@@ -1146,6 +1146,39 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages de télécommunications",
         "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.662819628554788,
+            48.109415757317294
+          ],
+          [
+            -1.662818773230222,
+            48.10936926580769
+          ],
+          [
+            -1.662804240189251,
+            48.10932380091534
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "14 Rue Bara",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "déménagement",
+        "date_heure": "2025-12-26T00:00:00+00:00"
       }
     },
     {
@@ -3606,64 +3639,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.709946367872661,
-            48.1244092206321
-          ],
-          [
-            -1.709763318614877,
-            48.12442610325538
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Charles et Raymonde Tillon dans le sens Ouest-Est",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de tourner",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.70964510892606,
-            48.124538887700055
-          ],
-          [
-            -1.709733142034549,
-            48.124530589531844
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Charles et Raymonde Tillon dans le sens Ouest-Est",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de tourner",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.64972961036065,
             48.10383968573769
           ],
@@ -5331,6 +5306,64 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.709946367872661,
+            48.1244092206321
+          ],
+          [
+            -1.709763318614877,
+            48.12442610325538
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Charles et Raymonde Tillon dans le sens Ouest-Est",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de tourner",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.70964510892606,
+            48.124538887700055
+          ],
+          [
+            -1.709733142034549,
+            48.124530589531844
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Charles et Raymonde Tillon dans le sens Ouest-Est",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de tourner",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.708072511594358,
             48.12464950297508
           ],
@@ -5773,6 +5806,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.68380531747901,
+            48.11745380603588
+          ],
+          [
+            -1.684342399489,
+            48.11758221966861
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 33 au 41 Rue Legraverend",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.69920976978966,
             48.088538607326896
           ],
@@ -5814,35 +5876,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-11-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.68380531747901,
-            48.11745380603588
-          ],
-          [
-            -1.684342399489,
-            48.11758221966861
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 33 au 41 Rue Legraverend",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-10-27T00:00:00+00:00"
       }
     },
     {
@@ -6247,39 +6280,6 @@
         "statut": "Actif",
         "description": "de la prolongation de la ligne de métro A",
         "date_heure": "2025-09-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.698520412637204,
-            48.08636117324124
-          ],
-          [
-            -1.698791440962682,
-            48.086152977947435
-          ],
-          [
-            -1.698534222155535,
-            48.08591287757624
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 32 au 36 Rue Frédéric Le Guyader dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Limitation de vitesse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-10-27T00:00:00+00:00"
       }
     },
     {
@@ -7514,6 +7514,39 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.698520412637204,
+            48.08636117324124
+          ],
+          [
+            -1.698791440962682,
+            48.086152977947435
+          ],
+          [
+            -1.698534222155535,
+            48.08591287757624
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 32 au 36 Rue Frédéric Le Guyader dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.745797894236256,
             48.01951787905774
           ],
@@ -8225,20 +8258,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.739806441183871,
-            48.10478415162242
+            -1.605870779807425,
+            48.07691917156132
           ],
           [
-            -1.739889664095613,
-            48.10459371993201
+            -1.605853273516619,
+            48.0771135909254
           ],
           [
-            -1.739868498670029,
-            48.104501265355864
-          ],
-          [
-            -1.739668364869991,
-            48.104309915799504
+            -1.605775521261752,
+            48.07740976401806
           ]
         ]
       },
@@ -8246,14 +8275,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
+        "route": "la Planche",
+        "commune": "35055 - Chantepie, 35352 - Vern-sur-Seiche",
+        "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
+        "date_heure": "2025-12-26T00:00:00+00:00"
       }
     },
     {
@@ -8262,24 +8291,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.738289389158903,
-            48.102903395529516
+            -1.605852779095368,
+            48.076144521538644
           ],
           [
-            -1.738334693710281,
-            48.102844965826954
+            -1.605888254832409,
+            48.0763808516139
           ],
           [
-            -1.738440704513785,
-            48.10280383148551
+            -1.605885879493782,
+            48.076676530456396
           ],
           [
-            -1.73962930352278,
-            48.10273658611379
-          ],
-          [
-            -1.739808456417873,
-            48.102728148065296
+            -1.605870779807425,
+            48.07691917156132
           ]
         ]
       },
@@ -8287,411 +8312,14 @@
         "id": "rm-undefined-1",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
+        "route": "la Planche",
+        "commune": "35055 - Chantepie, 35352 - Vern-sur-Seiche",
+        "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.740108994553319,
-            48.1047922166255
-          ],
-          [
-            -1.740111371950696,
-            48.1046431433532
-          ],
-          [
-            -1.739912845472556,
-            48.10444228132476
-          ],
-          [
-            -1.739744389576171,
-            48.104270043155005
-          ],
-          [
-            -1.739668364869991,
-            48.104309915799504
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.741982729726715,
-            48.104721665592116
-          ],
-          [
-            -1.741947198222388,
-            48.10470354260488
-          ],
-          [
-            -1.741905549779022,
-            48.1046343584421
-          ],
-          [
-            -1.741948369373874,
-            48.10457673080263
-          ],
-          [
-            -1.742062903421385,
-            48.10446779713945
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.743285382763632,
-            48.104871682841846
-          ],
-          [
-            -1.742718009733816,
-            48.10478346967546
-          ],
-          [
-            -1.742161019477524,
-            48.10476132739831
-          ],
-          [
-            -1.742021242655179,
-            48.10474131013798
-          ],
-          [
-            -1.741982729726715,
-            48.104721665592116
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.739335382038049,
-            48.10407640241906
-          ],
-          [
-            -1.738720723159778,
-            48.104050834273124
-          ],
-          [
-            -1.738519893473138,
-            48.104025175249696
-          ],
-          [
-            -1.738429543126547,
-            48.103961024293966
-          ],
-          [
-            -1.738347757899389,
-            48.10363064229926
-          ],
-          [
-            -1.738261622578198,
-            48.10301483609742
-          ],
-          [
-            -1.738289389158903,
-            48.102903395529516
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.739808456417873,
-            48.102728148065296
-          ],
-          [
-            -1.74119742172889,
-            48.10266272110268
-          ],
-          [
-            -1.741632242417068,
-            48.10265964566539
-          ],
-          [
-            -1.741748542534688,
-            48.10269429704128
-          ],
-          [
-            -1.742840834465499,
-            48.10327990798029
-          ],
-          [
-            -1.743000726742337,
-            48.10338084313155
-          ],
-          [
-            -1.743087761422654,
-            48.10345626988191
-          ],
-          [
-            -1.743090090209708,
-            48.10354271132028
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.743090090209708,
-            48.10354271132028
-          ],
-          [
-            -1.74309125547304,
-            48.103585941464885
-          ],
-          [
-            -1.742871197354629,
-            48.10385182783969
-          ],
-          [
-            -1.74270108064453,
-            48.10406485711116
-          ],
-          [
-            -1.742505310340808,
-            48.10422814629118
-          ],
-          [
-            -1.742062903421385,
-            48.10446779713945
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.739668364869991,
-            48.104309915799504
-          ],
-          [
-            -1.739641645020228,
-            48.104284368606855
-          ],
-          [
-            -1.739335382038049,
-            48.10407640241906
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742062903421385,
-            48.10446779713945
-          ],
-          [
-            -1.741710196292221,
-            48.104658855249
-          ],
-          [
-            -1.74139592752955,
-            48.10482210784101
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.737990074820096,
-            48.10288577343133
-          ],
-          [
-            -1.738207782812559,
-            48.10298147016085
-          ],
-          [
-            -1.73834150792008,
-            48.10398903342337
-          ],
-          [
-            -1.738418938681318,
-            48.10404786695465
-          ],
-          [
-            -1.738553299489811,
-            48.104091719151015
-          ],
-          [
-            -1.73908595935321,
-            48.1041030721781
-          ],
-          [
-            -1.739225708458934,
-            48.104112243141074
-          ],
-          [
-            -1.739373080617135,
-            48.104167044146074
-          ],
-          [
-            -1.73960537775521,
-            48.10434354247528
-          ],
-          [
-            -1.739668364869991,
-            48.104309915799504
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
+        "date_heure": "2025-12-26T00:00:00+00:00"
       }
     },
     {
@@ -9172,741 +8800,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2024-11-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.891060079994356,
-            48.212651543033765
-          ],
-          [
-            -1.890197546949123,
-            48.21140136169131
-          ],
-          [
-            -1.8900172790456,
-            48.21120229500231
-          ],
-          [
-            -1.8897630399472,
-            48.21097940299479
-          ],
-          [
-            -1.889196021388299,
-            48.21052781381726
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit du 26 bis Rue des Templiers",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.889196021388299,
-            48.21052781381726
-          ],
-          [
-            -1.88896155899291,
-            48.210325052909255
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit du 26 bis Rue des Templiers",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.892244516167006,
-            48.214393422509254
-          ],
-          [
-            -1.891964739365828,
-            48.214006823800005
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit du 26 bis Rue des Templiers",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.891964739365828,
-            48.214006823800005
-          ],
-          [
-            -1.891654201386834,
-            48.21351405072992
-          ],
-          [
-            -1.891544519359555,
-            48.213340000969076
-          ],
-          [
-            -1.891060079994356,
-            48.212651543033765
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit du 26 bis Rue des Templiers",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684436907377407,
-            48.11016440712451
-          ],
-          [
-            -1.684598233443371,
-            48.110164190429465
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.682394657729474,
-            48.110169535149346
-          ],
-          [
-            -1.683136812517992,
-            48.11016614515085
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.683136812517992,
-            48.11016614515085
-          ],
-          [
-            -1.684436907377407,
-            48.11016440712451
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680201854557511,
-            48.11017734029025
-          ],
-          [
-            -1.681114480482063,
-            48.11017537087952
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.681114480482063,
-            48.11017537087952
-          ],
-          [
-            -1.682394657729474,
-            48.110169535149346
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684185743880203,
-            48.109773532671504
-          ],
-          [
-            -1.684256140283947,
-            48.10977011408246
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680184769686593,
-            48.10985121526322
-          ],
-          [
-            -1.681184412833765,
-            48.10984926675328
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684256140283947,
-            48.10977011408246
-          ],
-          [
-            -1.684584987872656,
-            48.109753276946044
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.681184412833765,
-            48.10984926675328
-          ],
-          [
-            -1.682000057354958,
-            48.10984651236484
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.682000057354958,
-            48.10984651236484
-          ],
-          [
-            -1.68376440794569,
-            48.10984058856381
-          ],
-          [
-            -1.684109572147884,
-            48.109777231670996
-          ],
-          [
-            -1.684185743880203,
-            48.109773532671504
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680184769686593,
-            48.10985121526322
-          ],
-          [
-            -1.680167327328615,
-            48.10936696582154
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680132392745359,
-            48.10816959533863
-          ],
-          [
-            -1.680122376601629,
-            48.10795248309834
-          ],
-          [
-            -1.68026138733629,
-            48.10750953176733
-          ],
-          [
-            -1.680316674232133,
-            48.10746757700071
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680153211649472,
-            48.10883338213784
-          ],
-          [
-            -1.680146299016823,
-            48.10860154614619
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-12",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680167327328615,
-            48.10936696582154
-          ],
-          [
-            -1.680153211649472,
-            48.10883338213784
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-13",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680201854557511,
-            48.11017734029025
-          ],
-          [
-            -1.680184769686593,
-            48.10985121526322
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-14",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680146299016823,
-            48.10860154614619
-          ],
-          [
-            -1.680132392745359,
-            48.10816959533863
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-15",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684598233443371,
-            48.110164190429465
-          ],
-          [
-            -1.684584987872656,
-            48.109753276946044
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-16",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684186154540281,
-            48.1097914343563
-          ],
-          [
-            -1.68419094505096,
-            48.1100002647548
-          ],
-          [
-            -1.684200263957001,
-            48.110036835072286
-          ],
-          [
-            -1.684219029342989,
-            48.11005856185618
-          ],
-          [
-            -1.684260395114085,
-            48.11009141679316
-          ],
-          [
-            -1.684436907377407,
-            48.11016440712451
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-17",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684256140283947,
-            48.10977011408246
-          ],
-          [
-            -1.684270194845761,
-            48.109990798924926
-          ],
-          [
-            -1.684301736558997,
-            48.110036516768915
-          ],
-          [
-            -1.68436473192952,
-            48.110105762399925
-          ],
-          [
-            -1.684463956958601,
-            48.110131635649
-          ],
-          [
-            -1.684598233443371,
-            48.110164190429465
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-18",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-10T00:00:00+00:00"
       }
     },
     {
@@ -12906,6 +11799,1216 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.739806441183871,
+            48.10478415162242
+          ],
+          [
+            -1.739889664095613,
+            48.10459371993201
+          ],
+          [
+            -1.739868498670029,
+            48.104501265355864
+          ],
+          [
+            -1.739668364869991,
+            48.104309915799504
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.738289389158903,
+            48.102903395529516
+          ],
+          [
+            -1.738334693710281,
+            48.102844965826954
+          ],
+          [
+            -1.738440704513785,
+            48.10280383148551
+          ],
+          [
+            -1.73962930352278,
+            48.10273658611379
+          ],
+          [
+            -1.739808456417873,
+            48.102728148065296
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.740108994553319,
+            48.1047922166255
+          ],
+          [
+            -1.740111371950696,
+            48.1046431433532
+          ],
+          [
+            -1.739912845472556,
+            48.10444228132476
+          ],
+          [
+            -1.739744389576171,
+            48.104270043155005
+          ],
+          [
+            -1.739668364869991,
+            48.104309915799504
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.741982729726715,
+            48.104721665592116
+          ],
+          [
+            -1.741947198222388,
+            48.10470354260488
+          ],
+          [
+            -1.741905549779022,
+            48.1046343584421
+          ],
+          [
+            -1.741948369373874,
+            48.10457673080263
+          ],
+          [
+            -1.742062903421385,
+            48.10446779713945
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.743285382763632,
+            48.104871682841846
+          ],
+          [
+            -1.742718009733816,
+            48.10478346967546
+          ],
+          [
+            -1.742161019477524,
+            48.10476132739831
+          ],
+          [
+            -1.742021242655179,
+            48.10474131013798
+          ],
+          [
+            -1.741982729726715,
+            48.104721665592116
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.739335382038049,
+            48.10407640241906
+          ],
+          [
+            -1.738720723159778,
+            48.104050834273124
+          ],
+          [
+            -1.738519893473138,
+            48.104025175249696
+          ],
+          [
+            -1.738429543126547,
+            48.103961024293966
+          ],
+          [
+            -1.738347757899389,
+            48.10363064229926
+          ],
+          [
+            -1.738261622578198,
+            48.10301483609742
+          ],
+          [
+            -1.738289389158903,
+            48.102903395529516
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.739808456417873,
+            48.102728148065296
+          ],
+          [
+            -1.74119742172889,
+            48.10266272110268
+          ],
+          [
+            -1.741632242417068,
+            48.10265964566539
+          ],
+          [
+            -1.741748542534688,
+            48.10269429704128
+          ],
+          [
+            -1.742840834465499,
+            48.10327990798029
+          ],
+          [
+            -1.743000726742337,
+            48.10338084313155
+          ],
+          [
+            -1.743087761422654,
+            48.10345626988191
+          ],
+          [
+            -1.743090090209708,
+            48.10354271132028
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.743090090209708,
+            48.10354271132028
+          ],
+          [
+            -1.74309125547304,
+            48.103585941464885
+          ],
+          [
+            -1.742871197354629,
+            48.10385182783969
+          ],
+          [
+            -1.74270108064453,
+            48.10406485711116
+          ],
+          [
+            -1.742505310340808,
+            48.10422814629118
+          ],
+          [
+            -1.742062903421385,
+            48.10446779713945
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.739668364869991,
+            48.104309915799504
+          ],
+          [
+            -1.739641645020228,
+            48.104284368606855
+          ],
+          [
+            -1.739335382038049,
+            48.10407640241906
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742062903421385,
+            48.10446779713945
+          ],
+          [
+            -1.741710196292221,
+            48.104658855249
+          ],
+          [
+            -1.74139592752955,
+            48.10482210784101
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.737990074820096,
+            48.10288577343133
+          ],
+          [
+            -1.738207782812559,
+            48.10298147016085
+          ],
+          [
+            -1.73834150792008,
+            48.10398903342337
+          ],
+          [
+            -1.738418938681318,
+            48.10404786695465
+          ],
+          [
+            -1.738553299489811,
+            48.104091719151015
+          ],
+          [
+            -1.73908595935321,
+            48.1041030721781
+          ],
+          [
+            -1.739225708458934,
+            48.104112243141074
+          ],
+          [
+            -1.739373080617135,
+            48.104167044146074
+          ],
+          [
+            -1.73960537775521,
+            48.10434354247528
+          ],
+          [
+            -1.739668364869991,
+            48.104309915799504
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Maréchales :  voie de sortie de la rue Maréchales (Maître Kanter) et au droit de  la route de Lorient",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.891060079994356,
+            48.212651543033765
+          ],
+          [
+            -1.890197546949123,
+            48.21140136169131
+          ],
+          [
+            -1.8900172790456,
+            48.21120229500231
+          ],
+          [
+            -1.8897630399472,
+            48.21097940299479
+          ],
+          [
+            -1.889196021388299,
+            48.21052781381726
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "au droit du 26 bis Rue des Templiers",
+        "commune": "35245 - Romillé",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.889196021388299,
+            48.21052781381726
+          ],
+          [
+            -1.88896155899291,
+            48.210325052909255
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "au droit du 26 bis Rue des Templiers",
+        "commune": "35245 - Romillé",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.892244516167006,
+            48.214393422509254
+          ],
+          [
+            -1.891964739365828,
+            48.214006823800005
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "au droit du 26 bis Rue des Templiers",
+        "commune": "35245 - Romillé",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.891964739365828,
+            48.214006823800005
+          ],
+          [
+            -1.891654201386834,
+            48.21351405072992
+          ],
+          [
+            -1.891544519359555,
+            48.213340000969076
+          ],
+          [
+            -1.891060079994356,
+            48.212651543033765
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "au droit du 26 bis Rue des Templiers",
+        "commune": "35245 - Romillé",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684436907377407,
+            48.11016440712451
+          ],
+          [
+            -1.684598233443371,
+            48.110164190429465
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.682394657729474,
+            48.110169535149346
+          ],
+          [
+            -1.683136812517992,
+            48.11016614515085
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.683136812517992,
+            48.11016614515085
+          ],
+          [
+            -1.684436907377407,
+            48.11016440712451
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680201854557511,
+            48.11017734029025
+          ],
+          [
+            -1.681114480482063,
+            48.11017537087952
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.681114480482063,
+            48.11017537087952
+          ],
+          [
+            -1.682394657729474,
+            48.110169535149346
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684185743880203,
+            48.109773532671504
+          ],
+          [
+            -1.684256140283947,
+            48.10977011408246
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680184769686593,
+            48.10985121526322
+          ],
+          [
+            -1.681184412833765,
+            48.10984926675328
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684256140283947,
+            48.10977011408246
+          ],
+          [
+            -1.684584987872656,
+            48.109753276946044
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.681184412833765,
+            48.10984926675328
+          ],
+          [
+            -1.682000057354958,
+            48.10984651236484
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.682000057354958,
+            48.10984651236484
+          ],
+          [
+            -1.68376440794569,
+            48.10984058856381
+          ],
+          [
+            -1.684109572147884,
+            48.109777231670996
+          ],
+          [
+            -1.684185743880203,
+            48.109773532671504
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680184769686593,
+            48.10985121526322
+          ],
+          [
+            -1.680167327328615,
+            48.10936696582154
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680132392745359,
+            48.10816959533863
+          ],
+          [
+            -1.680122376601629,
+            48.10795248309834
+          ],
+          [
+            -1.68026138733629,
+            48.10750953176733
+          ],
+          [
+            -1.680316674232133,
+            48.10746757700071
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680153211649472,
+            48.10883338213784
+          ],
+          [
+            -1.680146299016823,
+            48.10860154614619
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-12",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680167327328615,
+            48.10936696582154
+          ],
+          [
+            -1.680153211649472,
+            48.10883338213784
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-13",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680201854557511,
+            48.11017734029025
+          ],
+          [
+            -1.680184769686593,
+            48.10985121526322
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-14",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680146299016823,
+            48.10860154614619
+          ],
+          [
+            -1.680132392745359,
+            48.10816959533863
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-15",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684598233443371,
+            48.110164190429465
+          ],
+          [
+            -1.684584987872656,
+            48.109753276946044
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-16",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684186154540281,
+            48.1097914343563
+          ],
+          [
+            -1.68419094505096,
+            48.1100002647548
+          ],
+          [
+            -1.684200263957001,
+            48.110036835072286
+          ],
+          [
+            -1.684219029342989,
+            48.11005856185618
+          ],
+          [
+            -1.684260395114085,
+            48.11009141679316
+          ],
+          [
+            -1.684436907377407,
+            48.11016440712451
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-17",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684256140283947,
+            48.10977011408246
+          ],
+          [
+            -1.684270194845761,
+            48.109990798924926
+          ],
+          [
+            -1.684301736558997,
+            48.110036516768915
+          ],
+          [
+            -1.68436473192952,
+            48.110105762399925
+          ],
+          [
+            -1.684463956958601,
+            48.110131635649
+          ],
+          [
+            -1.684598233443371,
+            48.110164190429465
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-18",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Quai Duguay-Trouin, à l'avancement des travaux, Pont de la Mission, Pont de Nemours, Quai Lamennais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.821359568420266,
             48.12097321230237
           ],
@@ -13074,35 +13177,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-09-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.616724486523428,
-            48.10436243740117
-          ],
-          [
-            -1.616894934709924,
-            48.104317580422816
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 21 Rue des Mesliers",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
       }
     },
     {
@@ -13386,6 +13460,101 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.690502772292782,
+            48.11433427164217
+          ],
+          [
+            -1.691329139809296,
+            48.11351085020249
+          ],
+          [
+            -1.691340993770076,
+            48.11346620694697
+          ],
+          [
+            -1.691097164379817,
+            48.11334226025331
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.692143905468232,
+            48.115037112008665
+          ],
+          [
+            -1.690502772292782,
+            48.11433427164217
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.690502772292782,
+            48.11433427164217
+          ],
+          [
+            -1.690077965024883,
+            48.11416264226175
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
       }
     },
     {
@@ -13972,39 +14141,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.69131283767935,
-            48.11308685157537
-          ],
-          [
-            -1.691277792491401,
-            48.11311358477436
-          ],
-          [
-            -1.69110827327248,
-            48.113328196449665
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 10 au 16 Rue Constant Véron",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.666483143704546,
             48.125204032759456
           ],
@@ -14239,6 +14375,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.713491988215752,
+            48.121373710485706
+          ],
+          [
+            -1.714635455052025,
+            48.12139485972819
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-09-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.817987697519755,
             48.122170587792915
           ],
@@ -14465,20 +14630,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.690502772292782,
-            48.11433427164217
+            -1.69131283767935,
+            48.11308685157537
           ],
           [
-            -1.691329139809296,
-            48.11351085020249
+            -1.691277792491401,
+            48.11311358477436
           ],
           [
-            -1.691340993770076,
-            48.11346620694697
-          ],
-          [
-            -1.691097164379817,
-            48.11334226025331
+            -1.69110827327248,
+            48.113328196449665
           ]
         ]
       },
@@ -14486,252 +14647,21 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Allée Aline Landais, Rue de la Petite Touche",
+        "route": "du 10 au 16 Rue Constant Véron",
         "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.692143905468232,
-            48.115037112008665
-          ],
-          [
-            -1.690502772292782,
-            48.11433427164217
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée Aline Landais, Rue de la Petite Touche",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.690502772292782,
-            48.11433427164217
-          ],
-          [
-            -1.690077965024883,
-            48.11416264226175
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée Aline Landais, Rue de la Petite Touche",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.713491988215752,
-            48.121373710485706
-          ],
-          [
-            -1.714635455052025,
-            48.12139485972819
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-09-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679982769304165,
-            48.12431925946228
-          ],
-          [
-            -1.678788060723492,
-            48.12409385167927
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Plaisance, de la Rue Armand Rébillon jusqu'au 12,Rue Victor Ségalen, de la Rue Louis Rossel jusqu'à la Rue de Plaisance",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678375264161089,
-            48.12332382744633
-          ],
-          [
-            -1.67852185083721,
-            48.12351988495818
-          ],
-          [
-            -1.678548490378539,
-            48.1235939507427
-          ],
-          [
-            -1.678652977489862,
-            48.12380361488262
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Plaisance, de la Rue Armand Rébillon jusqu'au 12,Rue Victor Ségalen, de la Rue Louis Rossel jusqu'à la Rue de Plaisance",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678652977489862,
-            48.12380361488262
-          ],
-          [
-            -1.678767528302443,
-            48.12403963141326
-          ],
-          [
-            -1.678788060723492,
-            48.12409385167927
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Plaisance, de la Rue Armand Rébillon jusqu'au 12,Rue Victor Ségalen, de la Rue Louis Rossel jusqu'à la Rue de Plaisance",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678788060723492,
-            48.12409385167927
-          ],
-          [
-            -1.678772066830733,
-            48.12410891949915
-          ],
-          [
-            -1.67872240437509,
-            48.12414301801522
-          ],
-          [
-            -1.678667872539662,
-            48.124170916978315
-          ],
-          [
-            -1.678601209806176,
-            48.12419119974091
-          ],
-          [
-            -1.678254632464149,
-            48.12426738318824
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Plaisance, de la Rue Armand Rébillon jusqu'au 12,Rue Victor Ségalen, de la Rue Louis Rossel jusqu'à la Rue de Plaisance",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
       }
     }
   ],
   "metadata": {
-    "generated": "2025-12-25T07:41:42.724Z",
+    "generated": "2025-12-25T08:29:20.854Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 400,
+    "total_count": 398,
     "sources": {
       "grist_35": 0,
       "cd44": 15,
