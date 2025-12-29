@@ -381,97 +381,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.67023610059904,
-            48.12708327489192
-          ],
-          [
-            -1.670177307674545,
-            48.12703852807494
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-09-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.670177307674545,
-            48.12703852807494
-          ],
-          [
-            -1.669866322835382,
-            48.1268018382327
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-09-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.669866322835382,
-            48.1268018382327
-          ],
-          [
-            -1.669742289658206,
-            48.1267073964217
-          ],
-          [
-            -1.669609706654609,
-            48.12660611338612
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-09-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.655171597536679,
             48.10160104342985
           ],
@@ -1475,12 +1384,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.66562125792889,
-            48.117813773233564
+            -1.709391250811937,
+            48.1244925305452
           ],
           [
-            -1.665682667966451,
-            48.11796529460145
+            -1.709152616227778,
+            48.124514817081526
           ]
         ]
       },
@@ -1488,43 +1397,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "face au 3 Rue Duboys des Sauzais,4 Rue Duboys des Sauzais",
+        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
         "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "type_coupure": "Interdiction de tourner",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2025-12-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.665747803115226,
-            48.11812600621983
-          ],
-          [
-            -1.665809213895627,
-            48.11827752751028
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "face au 3 Rue Duboys des Sauzais,4 Rue Duboys des Sauzais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2025-12-29T00:00:00+00:00"
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
       }
     },
     {
@@ -1670,35 +1550,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.709391250811937,
-            48.1244925305452
-          ],
-          [
-            -1.709152616227778,
-            48.124514817081526
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de tourner",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
       }
     },
     {
@@ -2936,35 +2787,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.670216995944737,
-            48.092907730284196
-          ],
-          [
-            -1.670028077986618,
-            48.092886076247744
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "11 Rue Joüon des Longrais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.698520412637204,
             48.08636117324124
           ],
@@ -2998,6 +2820,68 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.698520412637204,
+            48.08636117324124
+          ],
+          [
+            -1.698791440962682,
+            48.086152977947435
+          ],
+          [
+            -1.698534222155535,
+            48.08591287757624
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 32 au 36 Rue Frédéric Le Guyader dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.670216995944737,
+            48.092907730284196
+          ],
+          [
+            -1.670028077986618,
+            48.092886076247744
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "11 Rue Joüon des Longrais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.674985404948579,
             48.0876942430111
           ],
@@ -3019,6 +2903,355 @@
         "statut": "Actif",
         "description": "de mise en place d'un arrêt de régulations horaire de bus pendant les travaux sur les quais bus",
         "date_heure": "2025-11-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.66363496433257,
+            48.12919469014338
+          ],
+          [
+            -1.663697574382537,
+            48.1291071373555
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Général George S. Patton, de la Rue Franz Heller jusqu'au Boulevard d'Armorique",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663697574382537,
+            48.1291071373555
+          ],
+          [
+            -1.664114975641712,
+            48.128590068504536
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Général George S. Patton, de la Rue Franz Heller jusqu'au Boulevard d'Armorique",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.834393386192699,
+            48.161929528998705
+          ],
+          [
+            -1.835671266613412,
+            48.16231245341047
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "la Croix Denieul - la Lande du Mortier",
+        "commune": "35275 - Saint-Gilles",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.832835272577485,
+            48.161599928977246
+          ],
+          [
+            -1.832738963738828,
+            48.16145200875517
+          ],
+          [
+            -1.83250398142759,
+            48.161369505471555
+          ],
+          [
+            -1.83223238784715,
+            48.16130045795436
+          ],
+          [
+            -1.831953292929588,
+            48.16119894809999
+          ],
+          [
+            -1.831807558557214,
+            48.16111963713697
+          ],
+          [
+            -1.83166438234368,
+            48.16099454159931
+          ],
+          [
+            -1.83153919607311,
+            48.16079939742234
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "la Croix Denieul - la Lande du Mortier",
+        "commune": "35275 - Saint-Gilles",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.832835272577485,
+            48.161599928977246
+          ],
+          [
+            -1.832700426091599,
+            48.16165301238463
+          ],
+          [
+            -1.832410596223077,
+            48.16179331008315
+          ],
+          [
+            -1.832101101549176,
+            48.16203276177536
+          ],
+          [
+            -1.831765142972287,
+            48.16236863821754
+          ],
+          [
+            -1.831435554417519,
+            48.16267895366429
+          ],
+          [
+            -1.83105497271994,
+            48.163059324685015
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "la Croix Denieul - la Lande du Mortier",
+        "commune": "35275 - Saint-Gilles",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.834534219199611,
+            48.16156194232094
+          ],
+          [
+            -1.834061502941784,
+            48.161506858316166
+          ],
+          [
+            -1.833645499544688,
+            48.16148523207727
+          ],
+          [
+            -1.833334110745331,
+            48.16148853510678
+          ],
+          [
+            -1.83313673615278,
+            48.16151311573268
+          ],
+          [
+            -1.832835272577485,
+            48.161599928977246
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "la Croix Denieul - la Lande du Mortier",
+        "commune": "35275 - Saint-Gilles",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.83153919607311,
+            48.16079939742234
+          ],
+          [
+            -1.831264273920923,
+            48.160173109391884
+          ],
+          [
+            -1.831128822627293,
+            48.159956886552756
+          ],
+          [
+            -1.831041786848991,
+            48.15984377493308
+          ],
+          [
+            -1.830873728414921,
+            48.15972822663536
+          ],
+          [
+            -1.830693853914626,
+            48.15964966271694
+          ],
+          [
+            -1.830393129923036,
+            48.15958638864832
+          ],
+          [
+            -1.828987380699284,
+            48.15943233628032
+          ],
+          [
+            -1.828411920595236,
+            48.1593732875553
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "la Croix Denieul - la Lande du Mortier",
+        "commune": "35275 - Saint-Gilles",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.834534219199611,
+            48.16156194232094
+          ],
+          [
+            -1.834393386192699,
+            48.161929528998705
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "la Croix Denieul - la Lande du Mortier",
+        "commune": "35275 - Saint-Gilles",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.834393386192699,
+            48.161929528998705
+          ],
+          [
+            -1.833242286025935,
+            48.16159991545533
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "la Croix Denieul - la Lande du Mortier",
+        "commune": "35275 - Saint-Gilles",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
       }
     },
     {
@@ -3174,6 +3407,97 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.67023610059904,
+            48.12708327489192
+          ],
+          [
+            -1.670177307674545,
+            48.12703852807494
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "modification des conditions de circulation de la rue de la Motte-Brûlon",
+        "date_heure": "2025-09-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.670177307674545,
+            48.12703852807494
+          ],
+          [
+            -1.669866322835382,
+            48.1268018382327
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "modification des conditions de circulation de la rue de la Motte-Brûlon",
+        "date_heure": "2025-09-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.669866322835382,
+            48.1268018382327
+          ],
+          [
+            -1.669742289658206,
+            48.1267073964217
+          ],
+          [
+            -1.669609706654609,
+            48.12660611338612
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Motte-Brûlon, de la Rue Gustave Toudouze jusqu'au 22",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "modification des conditions de circulation de la rue de la Motte-Brûlon",
+        "date_heure": "2025-09-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.683159709981929,
             48.119957936858306
           ],
@@ -3272,35 +3596,6 @@
         "statut": "Actif",
         "description": "sur voirie",
         "date_heure": "2025-02-03T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.712019187880383,
-            48.10221835865249
-          ],
-          [
-            -1.712013226858849,
-            48.10213408160701
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 150 au 152 Rue Eugène Pottier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-08T00:00:00+00:00"
       }
     },
     {
@@ -3590,6 +3885,35 @@
         "route": "du 12 au 16 Allée des Hortensias",
         "commune": "35352 - Vern-sur-Seiche",
         "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.712019187880383,
+            48.10221835865249
+          ],
+          [
+            -1.712013226858849,
+            48.10213408160701
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 150 au 152 Rue Eugène Pottier",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -3899,12 +4223,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.675145605767354,
-            48.11240856375021
+            -1.594663140431112,
+            48.15474806615375
           ],
           [
-            -1.673488307298251,
-            48.11240403036563
+            -1.594441028641407,
+            48.154852665639574
           ]
         ]
       },
@@ -3912,14 +4236,101 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue Victor Hugo, de la Rue Gambetta jusqu'à la Rue Martenot, au droit du bâtiment de la piscine",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
+        "route": "Route de Fougères (la Touche Martin)",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-29T00:00:00+00:00"
+        "date_heure": "2025-12-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.685201705584906,
+            48.11047543397691
+          ],
+          [
+            -1.685383539839664,
+            48.11085666026391
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-11-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.685383539839664,
+            48.11085666026391
+          ],
+          [
+            -1.685508843056028,
+            48.111119174954496
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-11-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.685606687804323,
+            48.111343894463374
+          ],
+          [
+            -1.685605791776582,
+            48.11133108833262
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-11-28T00:00:00+00:00"
       }
     },
     {
@@ -4147,93 +4558,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-11-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.685201705584906,
-            48.11047543397691
-          ],
-          [
-            -1.685383539839664,
-            48.11085666026391
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-11-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.685383539839664,
-            48.11085666026391
-          ],
-          [
-            -1.685508843056028,
-            48.111119174954496
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-11-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.685606687804323,
-            48.111343894463374
-          ],
-          [
-            -1.685605791776582,
-            48.11133108833262
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-11-28T00:00:00+00:00"
       }
     },
     {
@@ -5640,6 +5964,413 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.715337361702071,
+            47.980171655288586
+          ],
+          [
+            -1.715341412721435,
+            47.98020653284058
+          ],
+          [
+            -1.715269867574267,
+            47.98059272287435
+          ],
+          [
+            -1.71525707054733,
+            47.98073682051675
+          ],
+          [
+            -1.715251188690215,
+            47.980821193033876
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715562343043659,
+            47.98221300327883
+          ],
+          [
+            -1.715606158721447,
+            47.98236957555742
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.716106838535185,
+            47.98248172346831
+          ],
+          [
+            -1.716223282610205,
+            47.98254156869433
+          ],
+          [
+            -1.716505346506905,
+            47.982633241927346
+          ],
+          [
+            -1.717948636665111,
+            47.982995342737944
+          ],
+          [
+            -1.718914627944196,
+            47.983221502157946
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715911820754137,
+            47.98231964034011
+          ],
+          [
+            -1.715960645949727,
+            47.982385331194116
+          ],
+          [
+            -1.716041813269965,
+            47.98244830429532
+          ],
+          [
+            -1.716106838535185,
+            47.98248172346831
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715338685944223,
+            47.98080957742258
+          ],
+          [
+            -1.715342413646233,
+            47.98086394122985
+          ],
+          [
+            -1.715411716681567,
+            47.981074639173556
+          ],
+          [
+            -1.715443431708156,
+            47.98116891466409
+          ],
+          [
+            -1.715498685753408,
+            47.98135118394185
+          ],
+          [
+            -1.715567512298275,
+            47.98157102750234
+          ],
+          [
+            -1.715601852861739,
+            47.981761361613856
+          ],
+          [
+            -1.715616741639927,
+            47.98185861681012
+          ],
+          [
+            -1.71566233993269,
+            47.98197651746374
+          ],
+          [
+            -1.71567281111486,
+            47.981991994608684
+          ],
+          [
+            -1.715736516040096,
+            47.982056281089676
+          ],
+          [
+            -1.71581639887908,
+            47.98211612361008
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.716106838535185,
+            47.98248172346831
+          ],
+          [
+            -1.716211959160413,
+            47.98245759353295
+          ],
+          [
+            -1.716576651556735,
+            47.9824494751369
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715251188690215,
+            47.980821193033876
+          ],
+          [
+            -1.715261620287525,
+            47.98100601505059
+          ],
+          [
+            -1.715392044482336,
+            47.981480624084774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.718890110713116,
+            47.98329379985434
+          ],
+          [
+            -1.718891136607862,
+            47.9832673078037
+          ],
+          [
+            -1.718914627944196,
+            47.983221502157946
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715551316910532,
+            47.982144624329
+          ],
+          [
+            -1.715562343043659,
+            47.98221300327883
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715295389246448,
+            47.98011205380728
+          ],
+          [
+            -1.715337361702071,
+            47.980171655288586
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715392044482336,
+            47.981480624084774
+          ],
+          [
+            -1.715445939452113,
+            47.98175133330793
+          ],
+          [
+            -1.715551316910532,
+            47.982144624329
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Stade",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.706860218394201,
             48.100446147777
           ],
@@ -6735,413 +7466,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.715337361702071,
-            47.980171655288586
-          ],
-          [
-            -1.715341412721435,
-            47.98020653284058
-          ],
-          [
-            -1.715269867574267,
-            47.98059272287435
-          ],
-          [
-            -1.71525707054733,
-            47.98073682051675
-          ],
-          [
-            -1.715251188690215,
-            47.980821193033876
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715562343043659,
-            47.98221300327883
-          ],
-          [
-            -1.715606158721447,
-            47.98236957555742
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.716106838535185,
-            47.98248172346831
-          ],
-          [
-            -1.716223282610205,
-            47.98254156869433
-          ],
-          [
-            -1.716505346506905,
-            47.982633241927346
-          ],
-          [
-            -1.717948636665111,
-            47.982995342737944
-          ],
-          [
-            -1.718914627944196,
-            47.983221502157946
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715911820754137,
-            47.98231964034011
-          ],
-          [
-            -1.715960645949727,
-            47.982385331194116
-          ],
-          [
-            -1.716041813269965,
-            47.98244830429532
-          ],
-          [
-            -1.716106838535185,
-            47.98248172346831
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715338685944223,
-            47.98080957742258
-          ],
-          [
-            -1.715342413646233,
-            47.98086394122985
-          ],
-          [
-            -1.715411716681567,
-            47.981074639173556
-          ],
-          [
-            -1.715443431708156,
-            47.98116891466409
-          ],
-          [
-            -1.715498685753408,
-            47.98135118394185
-          ],
-          [
-            -1.715567512298275,
-            47.98157102750234
-          ],
-          [
-            -1.715601852861739,
-            47.981761361613856
-          ],
-          [
-            -1.715616741639927,
-            47.98185861681012
-          ],
-          [
-            -1.71566233993269,
-            47.98197651746374
-          ],
-          [
-            -1.71567281111486,
-            47.981991994608684
-          ],
-          [
-            -1.715736516040096,
-            47.982056281089676
-          ],
-          [
-            -1.71581639887908,
-            47.98211612361008
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.716106838535185,
-            47.98248172346831
-          ],
-          [
-            -1.716211959160413,
-            47.98245759353295
-          ],
-          [
-            -1.716576651556735,
-            47.9824494751369
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715251188690215,
-            47.980821193033876
-          ],
-          [
-            -1.715261620287525,
-            47.98100601505059
-          ],
-          [
-            -1.715392044482336,
-            47.981480624084774
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.718890110713116,
-            47.98329379985434
-          ],
-          [
-            -1.718891136607862,
-            47.9832673078037
-          ],
-          [
-            -1.718914627944196,
-            47.983221502157946
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715551316910532,
-            47.982144624329
-          ],
-          [
-            -1.715562343043659,
-            47.98221300327883
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715295389246448,
-            47.98011205380728
-          ],
-          [
-            -1.715337361702071,
-            47.980171655288586
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715392044482336,
-            47.981480624084774
-          ],
-          [
-            -1.715445939452113,
-            47.98175133330793
-          ],
-          [
-            -1.715551316910532,
-            47.982144624329
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Stade",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.590688904908134,
             48.15868438393239
           ],
@@ -7963,97 +8287,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2024-12-31T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.698520412637204,
-            48.08636117324124
-          ],
-          [
-            -1.698791440962682,
-            48.086152977947435
-          ],
-          [
-            -1.698534222155535,
-            48.08591287757624
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 32 au 36 Rue Frédéric Le Guyader dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-10-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.66363496433257,
-            48.12919469014338
-          ],
-          [
-            -1.663697574382537,
-            48.1291071373555
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Général George S. Patton, de la Rue Franz Heller jusqu'au Boulevard d'Armorique",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.663697574382537,
-            48.1291071373555
-          ],
-          [
-            -1.664114975641712,
-            48.128590068504536
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Général George S. Patton, de la Rue Franz Heller jusqu'au Boulevard d'Armorique",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-01T00:00:00+00:00"
       }
     },
     {
@@ -9177,39 +9410,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.662819628554788,
-            48.109415757317294
-          ],
-          [
-            -1.662818773230222,
-            48.10936926580769
-          ],
-          [
-            -1.662804240189251,
-            48.10932380091534
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue Bara",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "déménagement",
-        "date_heure": "2025-12-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.6435935359351,
             48.10754037866479
           ],
@@ -9411,6 +9611,64 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.66562125792889,
+            48.117813773233564
+          ],
+          [
+            -1.665682667966451,
+            48.11796529460145
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "face au 3 Rue Duboys des Sauzais,4 Rue Duboys des Sauzais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.665747803115226,
+            48.11812600621983
+          ],
+          [
+            -1.665809213895627,
+            48.11827752751028
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "face au 3 Rue Duboys des Sauzais,4 Rue Duboys des Sauzais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2025-12-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.640970023049327,
             48.09675507330905
           ],
@@ -9519,76 +9777,6 @@
         "statut": "Actif",
         "description": "d'aménagement de chaussée",
         "date_heure": "2025-12-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.709949042319969,
-            48.12450297515608
-          ],
-          [
-            -1.709935558391339,
-            48.12440653445588
-          ],
-          [
-            -1.70969953717556,
-            48.12443184389098
-          ],
-          [
-            -1.709707795446355,
-            48.124522240968496
-          ],
-          [
-            -1.709953698256025,
-            48.12450278448261
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Charles et Raymonde Tillon  à l'intersection de la rue Doyen Denis Leroy et dans le sens Est-Ouest",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de tourner",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.704465253104401,
-            48.108861054483356
-          ],
-          [
-            -1.704347259329381,
-            48.10841485011289
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Levot, du 8 jusqu'à la Rue de Lorient",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-16T00:00:00+00:00"
       }
     },
     {
@@ -9791,6 +9979,76 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2025-12-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.704465253104401,
+            48.108861054483356
+          ],
+          [
+            -1.704347259329381,
+            48.10841485011289
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Levot, du 8 jusqu'à la Rue de Lorient",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-16T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.709949042319969,
+            48.12450297515608
+          ],
+          [
+            -1.709935558391339,
+            48.12440653445588
+          ],
+          [
+            -1.70969953717556,
+            48.12443184389098
+          ],
+          [
+            -1.709707795446355,
+            48.124522240968496
+          ],
+          [
+            -1.709953698256025,
+            48.12450278448261
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Charles et Raymonde Tillon  à l'intersection de la rue Doyen Denis Leroy et dans le sens Est-Ouest",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de tourner",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
       }
     },
     {
@@ -10336,6 +10594,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.709391250811937,
+            48.1244925305452
+          ],
+          [
+            -1.709152616227778,
+            48.124514817081526
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-12-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.64477459501859,
             48.09048740094317
           ],
@@ -10386,39 +10673,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages de télécommunications",
         "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.717747702910751,
-            48.121459978839525
-          ],
-          [
-            -1.717822190697877,
-            48.12145692309
-          ],
-          [
-            -1.718962240989737,
-            48.12171051549454
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue de Guyenne à partir du numéro 23 et jusqu'a la zone de retournement en bout de l'Avenue",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-11T00:00:00+00:00"
       }
     },
     {
@@ -11600,16 +11854,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.64972961036065,
-            48.10383968573769
+            -1.717747702910751,
+            48.121459978839525
           ],
           [
-            -1.64976309778621,
-            48.103858962112845
+            -1.717822190697877,
+            48.12145692309
           ],
           [
-            -1.649943494142902,
-            48.10393837312476
+            -1.718962240989737,
+            48.12171051549454
           ]
         ]
       },
@@ -11617,1619 +11871,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
+        "route": "Avenue de Guyenne à partir du numéro 23 et jusqu'a la zone de retournement en bout de l'Avenue",
         "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
+        "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.655051723022806,
-            48.10928301533464
-          ],
-          [
-            -1.654854385048039,
-            48.109149268110045
-          ],
-          [
-            -1.65473640893052,
-            48.10909133059232
-          ],
-          [
-            -1.654339384431341,
-            48.10892746156267
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650461266385224,
-            48.10512343121352
-          ],
-          [
-            -1.650299643304393,
-            48.10455887917177
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65280108645411,
-            48.10827574854082
-          ],
-          [
-            -1.652385129336692,
-            48.108099369532475
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649616513943711,
-            48.101536438489454
-          ],
-          [
-            -1.649533639659463,
-            48.10158561408843
-          ],
-          [
-            -1.649210174395045,
-            48.103342260782654
-          ],
-          [
-            -1.649236747156504,
-            48.10337688569318
-          ],
-          [
-            -1.649240450484543,
-            48.10346527073237
-          ],
-          [
-            -1.649282333820318,
-            48.10352783608556
-          ],
-          [
-            -1.649325008619709,
-            48.10357004413029
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650887960346985,
-            48.10671329531463
-          ],
-          [
-            -1.650881869651976,
-            48.10658757400746
-          ],
-          [
-            -1.650862833532368,
-            48.10651822474654
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649424762811529,
-            48.103534802034304
-          ],
-          [
-            -1.649389404818017,
-            48.103500730365376
-          ],
-          [
-            -1.649342143692705,
-            48.10343758542951
-          ],
-          [
-            -1.64931690440102,
-            48.10335309592577
-          ],
-          [
-            -1.649319825829157,
-            48.10326611598739
-          ],
-          [
-            -1.649334364948737,
-            48.103115502188636
-          ],
-          [
-            -1.649484361536341,
-            48.10226190258846
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65064552093337,
-            48.105735763440826
-          ],
-          [
-            -1.650501310957208,
-            48.1052557084053
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649484361536341,
-            48.10226190258846
-          ],
-          [
-            -1.649616513943711,
-            48.101536438489454
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649943494142902,
-            48.10393837312476
-          ],
-          [
-            -1.649919201465386,
-            48.10389198713683
-          ],
-          [
-            -1.649867094166816,
-            48.10382732638169
-          ],
-          [
-            -1.649835845539684,
-            48.10380750552623
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654339384431341,
-            48.10892746156267
-          ],
-          [
-            -1.653165575270542,
-            48.108430192323524
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649616513943711,
-            48.101536438489454
-          ],
-          [
-            -1.649684445513379,
-            48.1011635131761
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.651090289788338,
-            48.10724693289531
-          ],
-          [
-            -1.651015843072923,
-            48.107095254730766
-          ],
-          [
-            -1.65098463022678,
-            48.10700799488934
-          ],
-          [
-            -1.650887960346985,
-            48.10671329531463
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-12",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.653165575270542,
-            48.108430192323524
-          ],
-          [
-            -1.65280108645411,
-            48.10827574854082
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-13",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649835845539684,
-            48.10380750552623
-          ],
-          [
-            -1.649459251872652,
-            48.10356818799065
-          ],
-          [
-            -1.649424762811529,
-            48.103534802034304
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-14",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65147263051391,
-            48.1076711088589
-          ],
-          [
-            -1.651397894867259,
-            48.107616249393516
-          ],
-          [
-            -1.651309691262687,
-            48.10753628976244
-          ],
-          [
-            -1.651240481478214,
-            48.10747151038946
-          ],
-          [
-            -1.65115158217579,
-            48.10735702418393
-          ],
-          [
-            -1.651110597295835,
-            48.107277549246305
-          ],
-          [
-            -1.651090289788338,
-            48.10724693289531
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-15",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649684445513379,
-            48.1011635131761
-          ],
-          [
-            -1.649792482003188,
-            48.10057041183468
-          ],
-          [
-            -1.649921991686652,
-            48.100393972627494
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-16",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.655472762831799,
-            48.10993262400457
-          ],
-          [
-            -1.655273864373455,
-            48.10954992570331
-          ],
-          [
-            -1.655227183458693,
-            48.109487389997014
-          ],
-          [
-            -1.65515449862535,
-            48.10939761385141
-          ],
-          [
-            -1.655092521071,
-            48.10932957021603
-          ],
-          [
-            -1.655051723022806,
-            48.10928301533464
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-17",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652385129336692,
-            48.108099369532475
-          ],
-          [
-            -1.652071195516649,
-            48.10797051606481
-          ],
-          [
-            -1.651710110773716,
-            48.10781410490079
-          ],
-          [
-            -1.65147263051391,
-            48.1076711088589
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-18",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650862833532368,
-            48.10651822474654
-          ],
-          [
-            -1.650674900633575,
-            48.105833562364644
-          ],
-          [
-            -1.65064552093337,
-            48.105735763440826
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-19",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650299643304393,
-            48.10455887917177
-          ],
-          [
-            -1.65023460970214,
-            48.10433146997986
-          ],
-          [
-            -1.650197853388044,
-            48.10425952060712
-          ],
-          [
-            -1.650153784225394,
-            48.10419300303475
-          ],
-          [
-            -1.650112837497915,
-            48.10414958208031
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-20",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649325008619709,
-            48.10357004413029
-          ],
-          [
-            -1.649357235012267,
-            48.103601917983354
-          ],
-          [
-            -1.649452609183664,
-            48.10366660398592
-          ],
-          [
-            -1.649687767023422,
-            48.10381559941274
-          ],
-          [
-            -1.64972961036065,
-            48.10383968573769
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-21",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650501310957208,
-            48.1052557084053
-          ],
-          [
-            -1.650461266385224,
-            48.10512343121352
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-22",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.64972961036065,
-            48.10383968573769
-          ],
-          [
-            -1.64976309778621,
-            48.103858962112845
-          ],
-          [
-            -1.649943494142902,
-            48.10393837312476
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-23",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.655051723022806,
-            48.10928301533464
-          ],
-          [
-            -1.654854385048039,
-            48.109149268110045
-          ],
-          [
-            -1.65473640893052,
-            48.10909133059232
-          ],
-          [
-            -1.654339384431341,
-            48.10892746156267
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-24",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650461266385224,
-            48.10512343121352
-          ],
-          [
-            -1.650299643304393,
-            48.10455887917177
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-25",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65280108645411,
-            48.10827574854082
-          ],
-          [
-            -1.652385129336692,
-            48.108099369532475
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-26",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649616513943711,
-            48.101536438489454
-          ],
-          [
-            -1.649533639659463,
-            48.10158561408843
-          ],
-          [
-            -1.649210174395045,
-            48.103342260782654
-          ],
-          [
-            -1.649236747156504,
-            48.10337688569318
-          ],
-          [
-            -1.649240450484543,
-            48.10346527073237
-          ],
-          [
-            -1.649282333820318,
-            48.10352783608556
-          ],
-          [
-            -1.649325008619709,
-            48.10357004413029
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-27",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650887960346985,
-            48.10671329531463
-          ],
-          [
-            -1.650881869651976,
-            48.10658757400746
-          ],
-          [
-            -1.650862833532368,
-            48.10651822474654
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-28",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649424762811529,
-            48.103534802034304
-          ],
-          [
-            -1.649389404818017,
-            48.103500730365376
-          ],
-          [
-            -1.649342143692705,
-            48.10343758542951
-          ],
-          [
-            -1.64931690440102,
-            48.10335309592577
-          ],
-          [
-            -1.649319825829157,
-            48.10326611598739
-          ],
-          [
-            -1.649334364948737,
-            48.103115502188636
-          ],
-          [
-            -1.649484361536341,
-            48.10226190258846
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-29",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65064552093337,
-            48.105735763440826
-          ],
-          [
-            -1.650501310957208,
-            48.1052557084053
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-30",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649484361536341,
-            48.10226190258846
-          ],
-          [
-            -1.649616513943711,
-            48.101536438489454
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-31",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649943494142902,
-            48.10393837312476
-          ],
-          [
-            -1.649919201465386,
-            48.10389198713683
-          ],
-          [
-            -1.649867094166816,
-            48.10382732638169
-          ],
-          [
-            -1.649835845539684,
-            48.10380750552623
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-32",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654339384431341,
-            48.10892746156267
-          ],
-          [
-            -1.653165575270542,
-            48.108430192323524
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-33",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649616513943711,
-            48.101536438489454
-          ],
-          [
-            -1.649684445513379,
-            48.1011635131761
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-34",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.651090289788338,
-            48.10724693289531
-          ],
-          [
-            -1.651015843072923,
-            48.107095254730766
-          ],
-          [
-            -1.65098463022678,
-            48.10700799488934
-          ],
-          [
-            -1.650887960346985,
-            48.10671329531463
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-35",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.653165575270542,
-            48.108430192323524
-          ],
-          [
-            -1.65280108645411,
-            48.10827574854082
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-36",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649835845539684,
-            48.10380750552623
-          ],
-          [
-            -1.649459251872652,
-            48.10356818799065
-          ],
-          [
-            -1.649424762811529,
-            48.103534802034304
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-37",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65147263051391,
-            48.1076711088589
-          ],
-          [
-            -1.651397894867259,
-            48.107616249393516
-          ],
-          [
-            -1.651309691262687,
-            48.10753628976244
-          ],
-          [
-            -1.651240481478214,
-            48.10747151038946
-          ],
-          [
-            -1.65115158217579,
-            48.10735702418393
-          ],
-          [
-            -1.651110597295835,
-            48.107277549246305
-          ],
-          [
-            -1.651090289788338,
-            48.10724693289531
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-38",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649684445513379,
-            48.1011635131761
-          ],
-          [
-            -1.649792482003188,
-            48.10057041183468
-          ],
-          [
-            -1.649921991686652,
-            48.100393972627494
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-39",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.655472762831799,
-            48.10993262400457
-          ],
-          [
-            -1.655273864373455,
-            48.10954992570331
-          ],
-          [
-            -1.655227183458693,
-            48.109487389997014
-          ],
-          [
-            -1.65515449862535,
-            48.10939761385141
-          ],
-          [
-            -1.655092521071,
-            48.10932957021603
-          ],
-          [
-            -1.655051723022806,
-            48.10928301533464
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-40",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652385129336692,
-            48.108099369532475
-          ],
-          [
-            -1.652071195516649,
-            48.10797051606481
-          ],
-          [
-            -1.651710110773716,
-            48.10781410490079
-          ],
-          [
-            -1.65147263051391,
-            48.1076711088589
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-41",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650862833532368,
-            48.10651822474654
-          ],
-          [
-            -1.650674900633575,
-            48.105833562364644
-          ],
-          [
-            -1.65064552093337,
-            48.105735763440826
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-42",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650299643304393,
-            48.10455887917177
-          ],
-          [
-            -1.65023460970214,
-            48.10433146997986
-          ],
-          [
-            -1.650197853388044,
-            48.10425952060712
-          ],
-          [
-            -1.650153784225394,
-            48.10419300303475
-          ],
-          [
-            -1.650112837497915,
-            48.10414958208031
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-43",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.649325008619709,
-            48.10357004413029
-          ],
-          [
-            -1.649357235012267,
-            48.103601917983354
-          ],
-          [
-            -1.649452609183664,
-            48.10366660398592
-          ],
-          [
-            -1.649687767023422,
-            48.10381559941274
-          ],
-          [
-            -1.64972961036065,
-            48.10383968573769
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-44",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650501310957208,
-            48.1052557084053
-          ],
-          [
-            -1.650461266385224,
-            48.10512343121352
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-45",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Voie réservée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-22T00:00:00+00:00"
+        "date_heure": "2025-12-11T00:00:00+00:00"
       }
     },
     {
@@ -13259,6 +11908,35 @@
         "statut": "Actif",
         "description": "d'installation de chantier",
         "date_heure": "2025-06-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680952761962769,
+            48.10228117400091
+          ],
+          [
+            -1.68197912887169,
+            48.102149900903235
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard du Colombier, dans le parking situé entre la Rue du 7ème d'Artillerie et la Rue du Père Janvier",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-08-04T00:00:00+00:00"
       }
     },
     {
@@ -13300,35 +11978,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.680952761962769,
-            48.10228117400091
-          ],
-          [
-            -1.68197912887169,
-            48.102149900903235
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard du Colombier, dans le parking situé entre la Rue du 7ème d'Artillerie et la Rue du Père Janvier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-08-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.64972961036065,
             48.10383968573769
           ],
@@ -13348,7 +11997,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13385,7 +12034,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13414,7 +12063,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13443,7 +12092,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13492,7 +12141,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13525,7 +12174,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13574,7 +12223,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13603,7 +12252,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13632,7 +12281,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13669,7 +12318,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13698,7 +12347,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13727,7 +12376,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13764,7 +12413,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13793,7 +12442,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13826,7 +12475,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13875,7 +12524,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13908,7 +12557,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13953,7 +12602,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -13990,7 +12639,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14023,7 +12672,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14064,7 +12713,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14105,7 +12754,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14134,7 +12783,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14167,7 +12816,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14204,7 +12853,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14233,7 +12882,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14262,7 +12911,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14311,7 +12960,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14344,7 +12993,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14393,7 +13042,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14422,7 +13071,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14451,7 +13100,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14488,7 +13137,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14517,7 +13166,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14546,7 +13195,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14583,7 +13232,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14612,7 +13261,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14645,7 +13294,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14694,7 +13343,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14727,7 +13376,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14772,7 +13421,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14809,7 +13458,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14842,7 +13491,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14883,7 +13532,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14924,7 +13573,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14953,7 +13602,7 @@
         "gestionnaire": "Rennes Métropole",
         "route": "Boulevard Villebois-Mareuil, Boulevard Villebois-Mareuil",
         "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
+        "type_coupure": "Voie réservée",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
@@ -14963,9 +13612,9 @@
     }
   ],
   "metadata": {
-    "generated": "2025-12-29T07:46:12.198Z",
+    "generated": "2025-12-29T08:32:42.042Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 414,
+    "total_count": 375,
     "sources": {
       "grist_35": 0,
       "cd44": 15,
