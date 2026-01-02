@@ -6,6 +6,121 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.310633266219278,
+          47.107226357190974
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D76 / Gorges",
+        "commune": "Gorges / Clisson",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T08:39:37+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1785584526196455,
+          47.21443418549026
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D116 / La Remaudière",
+        "commune": "La Regrippière /Département 49",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T08:39:19+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2816700164306631,
+          47.25280065413448
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D115 / Le Loroux-Bottereau",
+        "commune": "Le Loroux-Bottereau/Département 49",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T08:38:59+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4433375574529956,
+          47.78200305241024
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D36 / Rougé",
+        "commune": "Villepot / Rougé",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T08:38:34+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.161345360804903,
+          47.26591481128493
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "St-Brevin-les-Pins vers St-Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2026-02-01T08:32:18+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -14642,12 +14757,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-02T08:30:13.140Z",
+    "generated": "2026-01-02T08:55:22.520Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 415,
+    "total_count": 420,
     "sources": {
       "grist_35": 0,
-      "cd44": 16,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
