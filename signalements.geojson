@@ -52,167 +52,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.163904771152164,
-          47.178510969850585
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D756 / La Regrippière",
-        "commune": "La Regrippière / Vallet",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T09:17:11+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2841321404373602,
-          47.29520768667484
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D105 / Divatte-sur-Loire",
-        "commune": "Divatte-sur-Loire / Le Cellier",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T09:13:01+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1774237529930576,
-          47.216184393964035
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D116 / La Remaudière",
-        "commune": "La Remaudière / La Regrippière",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T09:11:13+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1845888379436285,
-          47.20900017757804
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D116 / La Remaudière",
-        "commune": "La Regrippière / La Remaudière",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T08:56:20+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.310633266219278,
-          47.107226357190974
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D76 / Gorges",
-        "commune": "Gorges / Clisson",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T08:39:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1785584526196455,
-          47.21443418549026
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D116 / La Remaudière",
-        "commune": "La Regrippière /Département 49",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T08:39:19+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2816700164306631,
-          47.25280065413448
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D115 / Le Loroux-Bottereau",
-        "commune": "Le Loroux-Bottereau/Département 49",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T08:38:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -14849,12 +14688,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-02T11:39:20.291Z",
+    "generated": "2026-01-02T12:42:32.750Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 424,
+    "total_count": 417,
     "sources": {
       "grist_35": 0,
-      "cd44": 25,
+      "cd44": 18,
       "rennes_metropole": 100
     }
   }
