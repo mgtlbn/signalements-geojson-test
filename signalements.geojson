@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.161345360804903,
+          47.26591481128493
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "St-Brevin-les-Pins vers St-Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2026-02-01T09:40:24+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.163904771152164,
           47.178510969850585
         ]
@@ -160,52 +183,6 @@
         "statut": "Actif",
         "description": "Accident",
         "date_heure": "2026-02-01T08:38:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4433375574529956,
-          47.78200305241024
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D36 / Rougé",
-        "commune": "Villepot / Rougé",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-01T08:38:34+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.161345360804903,
-          47.26591481128493
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "St-Brevin-les-Pins vers St-Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2026-02-01T08:32:18+00:00"
       }
     },
     {
@@ -14849,12 +14826,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-02T09:25:44.561Z",
+    "generated": "2026-01-02T09:46:42.047Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 424,
+    "total_count": 423,
     "sources": {
       "grist_35": 0,
-      "cd44": 25,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
