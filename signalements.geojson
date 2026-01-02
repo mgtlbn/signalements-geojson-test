@@ -6,6 +6,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.163904771152164,
+          47.178510969850585
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D756 / La Regrippière",
+        "commune": "La Regrippière / Vallet",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T09:17:11+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2841321404373602,
+          47.29520768667484
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D105 / Divatte-sur-Loire",
+        "commune": "Divatte-sur-Loire / Le Cellier",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T09:13:01+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1774237529930576,
+          47.216184393964035
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D116 / La Remaudière",
+        "commune": "La Remaudière / La Regrippière",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T09:11:13+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1845888379436285,
+          47.20900017757804
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D116 / La Remaudière",
+        "commune": "La Regrippière / La Remaudière",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-02-01T08:56:20+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.310633266219278,
           47.107226357190974
         ]
@@ -14757,12 +14849,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-02T08:55:22.520Z",
+    "generated": "2026-01-02T09:25:44.561Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 420,
+    "total_count": 424,
     "sources": {
       "grist_35": 0,
-      "cd44": 21,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
