@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.827304975909905,
+          47.0290040182834
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D87 / Villeneuve-en-Retz",
+        "commune": "Machecoul-Saint-Même /",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "2026-04-01T12:39:39+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -22801,12 +22824,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-04T11:38:24.843Z",
+    "generated": "2026-01-04T12:41:12.783Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 672,
+    "total_count": 673,
     "sources": {
       "grist_35": 0,
-      "cd44": 17,
+      "cd44": 18,
       "rennes_metropole": 100
     }
   }
