@@ -6,6 +6,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.162196258990624,
+          47.26880052912811
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2026-05-01T18:48:20+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Glaces",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Glaces",
+        "date_heure": "2026-05-01T18:48:20+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -20,8 +66,8 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Risque d'arrêt cause Glaces",
-        "date_heure": "2026-05-01T18:10:59+00:00"
+        "description": "Arrêt cause Glaces",
+        "date_heure": "2026-05-01T18:38:59+00:00"
       }
     },
     {
@@ -68,29 +114,6 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "2026-05-01T13:18:03+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.162196258990624,
-          47.26880052912811
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2026-05-01T08:15:31+00:00"
       }
     },
     {
@@ -12123,12 +12146,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-05T18:33:53.267Z",
+    "generated": "2026-01-05T19:21:03.183Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 354,
+    "total_count": 355,
     "sources": {
       "grist_35": 0,
-      "cd44": 21,
+      "cd44": 22,
       "rennes_metropole": 100
     }
   }
