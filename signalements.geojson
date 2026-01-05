@@ -6,22 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.162196258990624,
-          47.26880052912811
+          -1.827304975909905,
+          47.0290040182834
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
+        "route": "D87 / Villeneuve-en-Retz",
+        "commune": "Machecoul-Saint-Même /",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2026-05-01T08:15:31+00:00"
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "2026-05-01T13:18:03+00:00"
       }
     },
     {
@@ -44,7 +44,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Accident",
-        "date_heure": "2026-05-01T08:01:02+00:00"
+        "date_heure": "2026-05-01T13:03:55+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.162196258990624,
+          47.26880052912811
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2026-05-01T08:15:31+00:00"
       }
     },
     {
@@ -183,29 +206,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "2026-05-01T07:00:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.827304975909905,
-          47.0290040182834
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D87 / Villeneuve-en-Retz",
-        "commune": "Machecoul-Saint-Même /",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "2026-04-01T12:39:39+00:00"
       }
     },
     {
@@ -12100,7 +12100,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-05T12:49:30.647Z",
+    "generated": "2026-01-05T13:41:02.705Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 353,
     "sources": {
