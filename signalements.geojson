@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.403732832903656,
+          47.374152230388106
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D48 / Saint-Molf",
+        "commune": "Guérande / Saint-Molf",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-05-01T14:26:31+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.827304975909905,
           47.0290040182834
         ]
@@ -22,29 +45,6 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "2026-05-01T13:18:03+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.403732832903656,
-          47.374152230388106
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D48 / Saint-Molf",
-        "commune": "Guérande / Saint-Molf",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-05-01T13:03:55+00:00"
       }
     },
     {
@@ -12100,7 +12100,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-05T14:25:29.602Z",
+    "generated": "2026-01-05T14:51:15.979Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 353,
     "sources": {
