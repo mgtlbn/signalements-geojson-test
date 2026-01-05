@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3079787662525457,
+          47.07677088218835
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D113 / Saint-Hilaire-de-Clisson",
+        "commune": "Gorges / Saint-Hilaire-de-Clisson",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "2026-05-01T22:27:34+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.162196258990624,
           47.26880052912811
         ]
@@ -12146,12 +12169,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-05T22:21:31.880Z",
+    "generated": "2026-01-05T22:46:03.678Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 355,
+    "total_count": 356,
     "sources": {
       "grist_35": 0,
-      "cd44": 22,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
