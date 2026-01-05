@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Glaces",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Glaces",
+        "date_heure": "2026-05-01T15:17:30+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.403732832903656,
           47.374152230388106
         ]
@@ -12100,12 +12123,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-05T14:51:15.979Z",
+    "generated": "2026-01-05T15:25:24.554Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 353,
+    "total_count": 354,
     "sources": {
       "grist_35": 0,
-      "cd44": 20,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
