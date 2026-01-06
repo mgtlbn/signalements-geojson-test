@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.4212503566334749,
+          47.1582532361081
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D359 / La Haie-Fouassière",
+        "commune": "Vertou / La Haie-Fouassière",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "2026-06-30T23:06:32+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3079787662525457,
           47.07677088218835
         ]
@@ -11834,12 +11857,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-06T22:46:26.468Z",
+    "generated": "2026-01-06T23:21:18.342Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 343,
+    "total_count": 344,
     "sources": {
       "grist_35": 0,
-      "cd44": 20,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
