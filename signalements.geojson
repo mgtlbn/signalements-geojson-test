@@ -190,75 +190,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.162196258990624,
-          47.26880052912811
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2026-05-01T18:48:20+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.403732832903656,
-          47.374152230388106
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D48 / Saint-Molf",
-        "commune": "Guérande / Saint-Molf",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-05-01T14:26:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.827304975909905,
-          47.0290040182834
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D87 / Villeneuve-en-Retz",
-        "commune": "Machecoul-Saint-Même /",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "2026-05-01T13:18:03+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2395302843244205,
           47.48544314211681
         ]
@@ -15409,12 +15340,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-08T22:46:28.883Z",
+    "generated": "2026-01-08T23:18:42.963Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 434,
+    "total_count": 431,
     "sources": {
       "grist_35": 0,
-      "cd44": 26,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
