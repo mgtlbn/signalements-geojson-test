@@ -6,6 +6,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Machecoul / Nantes",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-08-01T06:03:07+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6001085359788476,
+          47.18599126737503
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Pornic / Nantes",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-08-01T06:02:22+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4212503566334749,
           47.1582532361081
         ]
@@ -16790,12 +16836,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-08T05:48:48.025Z",
+    "generated": "2026-01-08T06:35:46.383Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 469,
+    "total_count": 471,
     "sources": {
       "grist_35": 0,
-      "cd44": 21,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
