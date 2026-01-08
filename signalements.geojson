@@ -6,6 +6,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Vent fort",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Vent fort",
+        "date_heure": "2026-08-01T18:53:41+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "vent fort",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause vent fort",
+        "date_heure": "2026-08-01T18:53:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1663731961055563,
           47.27978205156331
         ]
@@ -45,29 +91,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Ravitaillement",
         "date_heure": "2026-08-01T15:16:49+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Vent fort",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Vent fort",
-        "date_heure": "2026-08-01T09:36:37+00:00"
       }
     },
     {
@@ -15363,12 +15386,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-08T18:29:55.153Z",
+    "generated": "2026-01-08T18:55:43.428Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 432,
+    "total_count": 433,
     "sources": {
       "grist_35": 0,
-      "cd44": 24,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
