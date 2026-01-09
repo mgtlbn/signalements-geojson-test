@@ -16,12 +16,12 @@
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
         "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Vent fort",
+        "type_coupure": "Ravitaillement",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Risque d'arrêt cause Vent fort",
-        "date_heure": "2026-08-01T18:53:41+00:00"
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "2026-09-01T14:43:12+00:00"
       }
     },
     {
@@ -39,12 +39,12 @@
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
         "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Ravitaillement",
+        "type_coupure": "Vent fort",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "2026-08-01T15:16:49+00:00"
+        "description": "Risque d'arrêt cause Vent fort",
+        "date_heure": "2026-08-01T18:53:41+00:00"
       }
     },
     {
@@ -26654,7 +26654,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-09T14:25:11.100Z",
+    "generated": "2026-01-09T14:50:03.117Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 761,
     "sources": {
