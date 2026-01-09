@@ -75,29 +75,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1663731961055563,
-          47.27978205156331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint-Nazaire",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Vent",
-        "cause": "Vent",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Vent > 120km/h",
-        "date_heure": "2026-08-01T17:15:32+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -15340,12 +15317,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-09T01:48:30.677Z",
+    "generated": "2026-01-09T03:40:19.472Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 431,
+    "total_count": 430,
     "sources": {
       "grist_35": 0,
-      "cd44": 23,
+      "cd44": 22,
       "rennes_metropole": 100
     }
   }
