@@ -6,6 +6,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5553392477036867,
+          47.42775616347085
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Nort-sur-Erdre",
+        "commune": "Nort-sur-Erdre / Héric",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-12-01T14:03:55+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3501254690805258,
+          47.31409768516848
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D68 / Le Cellier",
+        "commune": "Le Cellier / Mauves-sur-Loire",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2026-12-01T14:00:53+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -22,29 +68,6 @@
         "statut": "Actif",
         "description": "Arrêt cause sécurité",
         "date_heure": "2026-12-01T10:51:24+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5553392477036867,
-          47.42775616347085
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D16 / Nort-sur-Erdre",
-        "commune": "Nort-sur-Erdre / Héric",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-12-01T10:22:59+00:00"
       }
     },
     {
@@ -26277,12 +26300,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-12T13:42:28.586Z",
+    "generated": "2026-01-12T14:26:33.742Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 738,
+    "total_count": 739,
     "sources": {
       "grist_35": 0,
-      "cd44": 22,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
