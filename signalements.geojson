@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5553392477036867,
+          47.42775616347085
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Nort-sur-Erdre",
+        "commune": "Nort-sur-Erdre / Héric",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-12-01T10:22:59+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.516057609329174,
           47.13440081645723
         ]
@@ -26231,12 +26254,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-12T09:33:02.643Z",
+    "generated": "2026-01-12T10:26:43.706Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 736,
+    "total_count": 737,
     "sources": {
       "grist_35": 0,
-      "cd44": 20,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
