@@ -213,29 +213,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1325437987119784,
-          47.50026211599107
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D773 / Drefféac",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-01-13T07:15:40+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3501254690805258,
           47.31409768516848
         ]
@@ -13367,12 +13344,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-16T22:45:58.231Z",
+    "generated": "2026-01-16T23:20:56.899Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 388,
+    "total_count": 387,
     "sources": {
       "grist_35": 0,
-      "cd44": 26,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
