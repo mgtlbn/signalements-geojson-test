@@ -6,22 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1238241720751136,
-          47.5024234391956
+          -1.516057609329174,
+          47.13440081645723
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D923 / Vallons de l'Erdre",
-        "commune": "Candé / Pouillé-les-Côteaux",
-        "type_coupure": "Accident",
-        "cause": "Accident",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-01-19T06:25:56+00:00"
+        "description": "Bouchon",
+        "date_heure": "2026-01-19T17:36:17+00:00"
       }
     },
     {
@@ -183,29 +183,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Ravitaillement",
         "date_heure": "2026-01-15T10:14:45+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon sur 2.9 km",
-        "date_heure": "2026-01-15T08:13:09+00:00"
       }
     },
     {
@@ -22945,12 +22922,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-19T17:23:55.688Z",
+    "generated": "2026-01-19T17:47:53.206Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 670,
+    "total_count": 669,
     "sources": {
       "grist_35": 0,
-      "cd44": 26,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
