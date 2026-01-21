@@ -6,6 +6,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.9512782733010583,
+          47.45619985094601
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D100 / Quilly",
+        "commune": "Quilly / Campbon",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-21T14:27:29+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Autre",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause",
+        "date_heure": "2026-01-21T14:06:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -24208,12 +24254,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-21T13:46:55.585Z",
+    "generated": "2026-01-21T14:31:37.033Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 697,
+    "total_count": 699,
     "sources": {
       "grist_35": 0,
-      "cd44": 32,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
