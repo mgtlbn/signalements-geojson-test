@@ -6,6 +6,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.4496293474759239,
+          47.69239254713441
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D40 / Saint-Aubin-des-Châteaux",
+        "commune": "Louisfert / St-Aubin-des-Châteaux",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-21T05:47:09+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8396592053290075,
+          47.30161768805503
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D17 / Cordemais",
+        "commune": "Cordemais / St-Etienne-de-Montluc",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-21T05:32:16+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3597281207382528,
           47.67791975342566
         ]
@@ -23855,12 +23901,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-21T05:28:59.531Z",
+    "generated": "2026-01-21T05:53:25.536Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 696,
+    "total_count": 698,
     "sources": {
       "grist_35": 0,
-      "cd44": 26,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
