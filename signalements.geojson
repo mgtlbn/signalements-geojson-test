@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6321326850176636,
+          47.49172654680792
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Saffré",
+        "commune": "Saffré / Puceul",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-21T07:49:08+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.9259484317057027,
           47.445644432841554
         ]
@@ -45,29 +68,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-21T06:11:08+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6321326850176636,
-          47.49172654680792
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saffré",
-        "commune": "Saffré / Puceul",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-21T06:09:38+00:00"
       }
     },
     {
@@ -23947,7 +23947,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-21T07:29:02.735Z",
+    "generated": "2026-01-21T07:51:56.481Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 700,
     "sources": {
