@@ -4,6 +4,98 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1211123466491704,
+            47.65918756632059
+          ],
+          [
+            -2.1203613281250004,
+            47.66014142809198
+          ],
+          [
+            -2.1197175979614262,
+            47.66061835244255
+          ],
+          [
+            -2.1191167831420903,
+            47.66077732625787
+          ],
+          [
+            -2.1183872222900395,
+            47.66071951765375
+          ],
+          [
+            -2.1174645423889165,
+            47.66054609145734
+          ],
+          [
+            -2.116606235504151,
+            47.66058944806046
+          ],
+          [
+            -2.115104198455811,
+            47.66089294327405
+          ],
+          [
+            -2.1142888069152836,
+            47.66116753266133
+          ],
+          [
+            -2.112035751342774,
+            47.66219361706316
+          ],
+          [
+            -2.1111774444580083,
+            47.66269942589629
+          ],
+          [
+            -2.109782695770264,
+            47.663320841467865
+          ]
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "VCIC 106",
+        "commune": "Saint-Perreux",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation du marais",
+        "date_heure": 1769011728.109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6938408462079186,
+          47.45356485910358
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D132 / Héric",
+        "commune": "Héric / Blain",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-21T15:39:51+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.9512782733010583,
@@ -24254,12 +24346,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-21T15:33:18.689Z",
+    "generated": "2026-01-21T16:50:50.500Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 699,
+    "total_count": 701,
     "sources": {
-      "grist_35": 0,
-      "cd44": 34,
+      "grist_35": 1,
+      "cd44": 35,
       "rennes_metropole": 100
     }
   }
