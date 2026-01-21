@@ -6,6 +6,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.9259484317057027,
+          47.445644432841554
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D3 / Quilly",
+        "commune": "Quilly / Campbon",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-21T07:04:06+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -23924,12 +23947,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-21T06:37:31.666Z",
+    "generated": "2026-01-21T07:29:02.735Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 699,
+    "total_count": 700,
     "sources": {
       "grist_35": 0,
-      "cd44": 29,
+      "cd44": 30,
       "rennes_metropole": 100
     }
   }
