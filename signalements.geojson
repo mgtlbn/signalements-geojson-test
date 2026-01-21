@@ -673,75 +673,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2345530279060744,
-          47.527487795162074
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D120 / Saint-Sulpice",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-20T06:00:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1843208417877313,
-          47.524417704208005
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D14 / Riaillé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2025-10-20T06:00:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2345812446447124,
-          47.527488229655766
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Bonnoeuvre",
-        "commune": "Saint-Mars-la-Jaille / Bonnoeuvre",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2025-10-20T06:00:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6454427970987844,
           47.16743664838338
         ]
@@ -24277,12 +24208,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-21T11:48:22.630Z",
+    "generated": "2026-01-21T12:52:02.045Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 700,
+    "total_count": 697,
     "sources": {
       "grist_35": 0,
-      "cd44": 35,
+      "cd44": 32,
       "rennes_metropole": 100
     }
   }
