@@ -75,6 +75,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6595310531841698,
+          47.03290860559974
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D117 / Saint-Philbert-de-Grand-Lieu",
+        "commune": "St-Philbert / Machecoul",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-01-22T08:40:07+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -35670,12 +35693,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-22T08:33:50.351Z",
+    "generated": "2026-01-22T09:33:27.655Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1035,
+    "total_count": 1036,
     "sources": {
       "grist_35": 1,
-      "cd44": 36,
+      "cd44": 37,
       "rennes_metropole": 100
     }
   }
