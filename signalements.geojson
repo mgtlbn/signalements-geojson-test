@@ -75,6 +75,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6938408462079186,
+          47.45356485910358
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D132 / Héric",
+        "commune": "Héric / Blain",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-22T05:15:18+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -114,29 +137,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-21T19:28:19+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6938408462079186,
-          47.45356485910358
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D132 / Héric",
-        "commune": "Héric / Blain",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-21T15:39:51+00:00"
       }
     },
     {
@@ -298,29 +298,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-01-21T08:06:03+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.630392318910894,
-          47.492857540453464
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saffré",
-        "commune": "Saffré / Puceul",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-01-21T08:03:47+00:00"
       }
     },
     {
@@ -24369,12 +24346,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-22T04:49:27.353Z",
+    "generated": "2026-01-22T05:28:58.981Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 702,
+    "total_count": 701,
     "sources": {
       "grist_35": 1,
-      "cd44": 36,
+      "cd44": 35,
       "rennes_metropole": 100
     }
   }
