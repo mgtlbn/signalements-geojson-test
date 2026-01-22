@@ -65,9 +65,32 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "Inondation du marais",
         "date_heure": 1769011728.109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1442587354919698,
+          47.21811014564894
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D96 / Saint-Père-en-Retz",
+        "commune": "Saint-Père / Saint-Brevin-les-Pins",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-22T10:46:58+00:00"
       }
     },
     {
@@ -35624,12 +35647,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-22T10:28:28.629Z",
+    "generated": "2026-01-22T10:55:39.568Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1033,
+    "total_count": 1034,
     "sources": {
       "grist_35": 1,
-      "cd44": 34,
+      "cd44": 35,
       "rennes_metropole": 100
     }
   }
