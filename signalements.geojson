@@ -73,6 +73,114 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0251965522766118,
+            47.66362432080272
+          ],
+          [
+            -2.0254969596862797,
+            47.664159018195235
+          ],
+          [
+            -2.0259261131286626,
+            47.66434688354646
+          ],
+          [
+            -2.0265269279479985,
+            47.664433590403604
+          ],
+          [
+            -2.028007507324219,
+            47.664549199322394
+          ],
+          [
+            -2.0284795761108403,
+            47.66480931845359
+          ],
+          [
+            -2.028565406799317,
+            47.66532955282729
+          ],
+          [
+            -2.0287799835205083,
+            47.66638445661299
+          ],
+          [
+            -2.029380798339844,
+            47.668277449676125
+          ],
+          [
+            -2.0295739173889165,
+            47.668638700093084
+          ],
+          [
+            -2.0298743247985844,
+            47.66889879884506
+          ],
+          [
+            -2.032084465026856,
+            47.670098126321776
+          ],
+          [
+            -2.0326638221740727,
+            47.670343768308065
+          ],
+          [
+            -2.0336723327636723,
+            47.67067610562572
+          ],
+          [
+            -2.034208774566651,
+            47.67097954219793
+          ],
+          [
+            -2.0355391502380376,
+            47.6724244540526
+          ]
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "VCIC 3",
+        "commune": "Sainte-Marie",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1769098096.252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-01-22T16:10:28+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.1442587354919698,
@@ -84,13 +192,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D96 / Saint-Père-en-Retz",
-        "commune": "St-Père-en-Retz / St-Brevin",
+        "commune": "Saint-Père / Saint-Brevin-les-Pins",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-01-22T15:03:46+00:00"
+        "date_heure": "2026-01-22T15:56:47+00:00"
       }
     },
     {
@@ -35670,12 +35778,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-22T15:31:53.163Z",
+    "generated": "2026-01-22T16:36:27.411Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1035,
+    "total_count": 1037,
     "sources": {
-      "grist_35": 1,
-      "cd44": 36,
+      "grist_35": 2,
+      "cd44": 37,
       "rennes_metropole": 100
     }
   }
