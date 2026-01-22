@@ -89,6 +89,52 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-01-22T06:09:09+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2026-01-22T06:01:05+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
         "description": "Arrêt cause Marée haute",
         "date_heure": "2026-01-22T05:48:38+00:00"
       }
@@ -24369,12 +24415,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-22T05:54:23.344Z",
+    "generated": "2026-01-22T06:36:37.471Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 702,
+    "total_count": 704,
     "sources": {
       "grist_35": 1,
-      "cd44": 36,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
