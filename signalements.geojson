@@ -160,6 +160,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5640729146058525,
+          47.50559743234553
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Saffré",
+        "commune": "Joué-sur-Erdre / Saffré",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-01-23T07:04:43+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -35709,12 +35732,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-23T06:36:50.523Z",
+    "generated": "2026-01-23T07:26:18.225Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1034,
+    "total_count": 1035,
     "sources": {
       "grist_35": 2,
-      "cd44": 34,
+      "cd44": 35,
       "rennes_metropole": 100
     }
   }
