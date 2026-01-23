@@ -1118,29 +1118,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5380473726131947,
-          47.48512148899029
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D1 / Saffré",
-        "commune": "Saffré / Nort-sur-Erdre",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-01-23T08:37:15+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -15678,12 +15655,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-23T12:49:42.609Z",
+    "generated": "2026-01-23T13:42:50.336Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 429,
+    "total_count": 428,
     "sources": {
       "grist_35": 13,
-      "cd44": 34,
+      "cd44": 33,
       "rennes_metropole": 100
     }
   }
