@@ -1689,29 +1689,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.558290112316702,
-          47.34046843061638
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D49 / Sucé-sur-Erdre",
-        "commune": "Sucé-sur-Erdre / La Chapelle",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-23T16:56:48+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -16295,12 +16272,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-23T17:25:53.277Z",
+    "generated": "2026-01-23T17:47:41.299Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 440,
+    "total_count": 439,
     "sources": {
       "grist_35": 23,
-      "cd44": 35,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
