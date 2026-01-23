@@ -229,6 +229,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8686413764953616,
+          47.63447502950229
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "La Potinais",
+        "commune": "Guémené-Penfao",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route barrée localement par la commune",
+        "date_heure": 1769160253.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9056987762451174,
+          47.65883347683378
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Pont Robert",
+        "commune": "Paimbu",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route barrée localement par la commune",
+        "date_heure": 1769160361.453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8646126985549927,
+          47.62795342298829
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Route de Orvault",
+        "commune": "Guémené-Penfao",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route barrée localement par la commune",
+        "date_heure": 1769160440.322
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5380473726131947,
+          47.48512148899029
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D1 / Saffré",
+        "commune": "Saffré / Nort-sur-Erdre",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "2026-01-23T08:37:15+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -245,29 +337,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-23T07:31:45+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5640729146058525,
-          47.50559743234553
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saffré",
-        "commune": "Joué-sur-Erdre / Saffré",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-01-23T07:04:43+00:00"
       }
     },
     {
@@ -337,29 +406,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-01-22T15:56:47+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-01-22T12:46:15+00:00"
       }
     },
     {
@@ -498,52 +544,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-21T06:11:08+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4496293474759239,
-          47.69239254713441
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D40 / Saint-Aubin-des-Châteaux",
-        "commune": "Louisfert / St-Aubin-des-Châteaux",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-21T05:47:09+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3597281207382528,
-          47.67791975342566
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D41 / Erbray",
-        "commune": "Châteaubriant / Erbray",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-21T05:21:18+00:00"
       }
     },
     {
@@ -14881,12 +14881,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-23T08:31:43.951Z",
+    "generated": "2026-01-23T09:31:33.382Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 422,
     "sources": {
-      "grist_35": 5,
-      "cd44": 35,
+      "grist_35": 8,
+      "cd44": 32,
       "rennes_metropole": 100
     }
   }
