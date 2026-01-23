@@ -1641,6 +1641,76 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9257081393251796,
+            47.67881064490923
+          ],
+          [
+            -1.9228766415232745,
+            47.68366132772416
+          ],
+          [
+            -1.9243352919060743,
+            47.686548424795696
+          ],
+          [
+            -1.9276816074901642,
+            47.68753000139864
+          ],
+          [
+            -1.9287970460181871,
+            47.68966631015119
+          ]
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "source": "Grist 35",
+        "gestionnaire": "CD44",
+        "route": "D 125",
+        "commune": "Paimbu",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1769190480.919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.167659027936371,
+            47.722296607886975
+          ],
+          [
+            -2.163797894570117,
+            47.72503732185672
+          ]
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "D 138",
+        "commune": "La Gacilly",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1769190543.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.1442587354919698,
@@ -1705,29 +1775,6 @@
         "statut": "Actif",
         "description": "Arrêt cause",
         "date_heure": "2026-01-23T16:04:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2026-01-23T15:45:51+00:00"
       }
     },
     {
@@ -16272,12 +16319,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-23T17:47:41.299Z",
+    "generated": "2026-01-23T18:35:02.189Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 439,
+    "total_count": 440,
     "sources": {
-      "grist_35": 23,
-      "cd44": 34,
+      "grist_35": 25,
+      "cd44": 33,
       "rennes_metropole": 100
     }
   }
