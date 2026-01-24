@@ -1740,6 +1740,55 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0987351344604814,
+            47.64140118054226
+          ],
+          [
+            -2.098306119642011,
+            47.64179126363197
+          ],
+          [
+            -2.0977054988961523,
+            47.64223913321711
+          ],
+          [
+            -2.0972121318549113,
+            47.64258586832347
+          ],
+          [
+            -2.096525708145358,
+            47.64286036531719
+          ],
+          [
+            -2.095882185917653,
+            47.64306262533698
+          ],
+          [
+            -2.0949598040579214,
+            47.64317820213955
+          ]
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "D 775",
+        "commune": "Saint-Jean-la-Poterie",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1769273188.769
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.9171665554242303,
@@ -16746,11 +16795,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-24T16:25:54.415Z",
+    "generated": "2026-01-24T16:48:50.853Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 457,
+    "total_count": 458,
     "sources": {
-      "grist_35": 26,
+      "grist_35": 27,
       "cd44": 34,
       "rennes_metropole": 100
     }
