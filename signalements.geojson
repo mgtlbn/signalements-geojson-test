@@ -1711,6 +1711,35 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.13050018975504,
+            47.66895010834059
+          ],
+          [
+            -2.1339752097846714,
+            47.66669742667307
+          ]
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Pont du Plessis",
+        "commune": "Allaire",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1769243415.997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.6743617405076974,
@@ -1727,8 +1756,8 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-01-24T08:07:57+00:00"
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-01-24T08:44:25+00:00"
       }
     },
     {
@@ -1844,29 +1873,6 @@
         "statut": "Actif",
         "description": "Arrêt cause",
         "date_heure": "2026-01-23T16:04:35+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-01-23T10:28:45+00:00"
       }
     },
     {
@@ -16717,12 +16723,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-24T08:28:07.260Z",
+    "generated": "2026-01-24T08:51:14.654Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 456,
     "sources": {
-      "grist_35": 25,
-      "cd44": 34,
+      "grist_35": 26,
+      "cd44": 33,
       "rennes_metropole": 100
     }
   }
