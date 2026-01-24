@@ -1742,6 +1742,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.977222928337461,
+          47.68034031371199
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D255 / Avessac",
+        "commune": "Massérac / Avessac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-24T11:48:07+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -1758,29 +1781,6 @@
         "statut": "Actif",
         "description": "Arrêt cause sécurité",
         "date_heure": "2026-01-24T10:50:48+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.977222928337461,
-          47.68034031371199
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D255 / Avessac",
-        "commune": "Massérac / Avessac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-24T09:17:45+00:00"
       }
     },
     {
@@ -16746,7 +16746,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-24T11:39:20.874Z",
+    "generated": "2026-01-24T12:41:59.480Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 457,
     "sources": {
