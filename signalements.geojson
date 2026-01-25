@@ -1925,29 +1925,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9171665554242303,
-          47.67319829920705
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Massérac",
-        "commune": "Massérac / Avessac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-24T14:29:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1442587354919698,
           47.21811014564894
         ]
@@ -1963,7 +1940,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-01-24T14:22:40+00:00"
+        "date_heure": "2026-01-25T09:57:19+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9171665554242303,
+          47.67319829920705
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D125 / Massérac",
+        "commune": "Massérac / Avessac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-25T09:54:44+00:00"
       }
     },
     {
@@ -1986,7 +1986,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-01-24T11:48:07+00:00"
+        "date_heure": "2026-01-25T09:52:27+00:00"
       }
     },
     {
@@ -15804,7 +15804,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-25T09:43:31.077Z",
+    "generated": "2026-01-25T10:22:49.356Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 425,
     "sources": {
