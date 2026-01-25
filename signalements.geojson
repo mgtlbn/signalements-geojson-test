@@ -1923,6 +1923,59 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9777033768096988,
+            47.680043876619926
+          ],
+          [
+            -1.976030219017644,
+            47.67969739020791
+          ],
+          [
+            -1.9756441056810208,
+            47.678888912964496
+          ],
+          [
+            -1.9754724997536326,
+            47.67810929804325
+          ],
+          [
+            -1.9670638093115715,
+            47.67230513190762
+          ],
+          [
+            -1.965690961892466,
+            47.671871959293235
+          ],
+          [
+            -1.9644897204007485,
+            47.67155429709083
+          ],
+          [
+            -1.9626449566813258,
+            47.671496540118994
+          ]
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "C 16",
+        "commune": "Lézin",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1769349192.029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.1442587354919698,
@@ -15804,11 +15857,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-25T13:32:29.059Z",
+    "generated": "2026-01-25T14:19:49.402Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 425,
+    "total_count": 426,
     "sources": {
-      "grist_35": 29,
+      "grist_35": 30,
       "cd44": 31,
       "rennes_metropole": 100
     }
