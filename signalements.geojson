@@ -3832,68 +3832,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.68380531747901,
-            48.11745380603588
-          ],
-          [
-            -1.684342399489,
-            48.11758221966861
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 33 au 41 Rue Legraverend",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-10-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.773050775081252,
-            48.115008257113026
-          ],
-          [
-            -1.772847007287443,
-            48.115179421714174
-          ],
-          [
-            -1.772662145909805,
-            48.11535293003882
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "le Pont de Verrière,à l'intersection de la Route de Vezin et de la Route départementale 68",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2024-10-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.658467979503552,
             48.10926520420856
           ],
@@ -13124,6 +13062,68 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.68380531747901,
+            48.11745380603588
+          ],
+          [
+            -1.684342399489,
+            48.11758221966861
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 33 au 41 Rue Legraverend",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-10-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.773050775081252,
+            48.115008257113026
+          ],
+          [
+            -1.772847007287443,
+            48.115179421714174
+          ],
+          [
+            -1.772662145909805,
+            48.11535293003882
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "le Pont de Verrière,à l'intersection de la Route de Vezin et de la Route départementale 68",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2024-10-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.747197966692018,
             48.023969379181324
           ],
@@ -16539,7 +16539,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-26T22:23:17.230Z",
+    "generated": "2026-01-26T22:48:00.994Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 428,
     "sources": {
