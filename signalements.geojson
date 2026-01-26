@@ -2897,6 +2897,74 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1059095859527592,
+            47.66635555542347
+          ],
+          [
+            -2.1057486534118657,
+            47.666182147950195
+          ],
+          [
+            -2.105587720870972,
+            47.66593648637691
+          ],
+          [
+            -2.1055018901824956,
+            47.665813655156704
+          ],
+          [
+            -2.1054804325103764,
+            47.66562579508436
+          ],
+          [
+            -2.1055555343627934,
+            47.6654668360335
+          ]
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "Rue de la Mairie",
+        "commune": "Saint-Perreux",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1769444755.202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Nantes / Machecoul",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-01-26T16:11:26+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.1442587354919698,
@@ -16494,12 +16562,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-26T15:35:26.621Z",
+    "generated": "2026-01-26T16:35:28.554Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 427,
+    "total_count": 429,
     "sources": {
-      "grist_35": 43,
-      "cd44": 29,
+      "grist_35": 44,
+      "cd44": 30,
       "rennes_metropole": 100
     }
   }
