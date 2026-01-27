@@ -2967,29 +2967,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.399735721162307,
-          47.07644771084935
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D137 / Aigrefeuille-sur-Maine",
-        "commune": "Aigrefeuille-sur-Maine / Montbert",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "2026-01-27T07:53:25+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3240984867362946,
           47.11538821237573
         ]
@@ -17195,12 +17172,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-27T09:34:07.846Z",
+    "generated": "2026-01-27T10:28:49.557Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 442,
+    "total_count": 441,
     "sources": {
       "grist_35": 44,
-      "cd44": 30,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
