@@ -2967,29 +2967,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3240984867362946,
-          47.11538821237573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D76 / Gorges",
-        "commune": "Gorges / Monnières",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-27T07:21:54+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1442587354919698,
           47.21811014564894
         ]
@@ -17172,12 +17149,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-27T10:56:56.337Z",
+    "generated": "2026-01-27T11:27:59.952Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 441,
+    "total_count": 440,
     "sources": {
       "grist_35": 44,
-      "cd44": 29,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
