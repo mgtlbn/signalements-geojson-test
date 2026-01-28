@@ -2989,6 +2989,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-01-28T06:09:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-01-28T06:08:58+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.977222928337461,
           47.68034031371199
         ]
@@ -3327,29 +3373,6 @@
         "statut": "Actif",
         "description": "Passage à niveau",
         "date_heure": "2026-01-15T14:05:24+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6328789844689204,
-          47.16350343080919
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon sur 3.7 km",
-        "date_heure": "2026-01-15T08:13:09+00:00"
       }
     },
     {
@@ -17148,12 +17171,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-28T05:53:30.106Z",
+    "generated": "2026-01-28T06:37:28.616Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 439,
+    "total_count": 440,
     "sources": {
       "grist_35": 45,
-      "cd44": 26,
+      "cd44": 27,
       "rennes_metropole": 100
     }
   }
