@@ -2989,45 +2989,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1792443674511706,
-          47.300053827505536
+          -1.977222928337461,
+          47.68034031371199
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Maintenance",
-        "date_heure": "2026-01-27T14:41:38+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1442587354919698,
-          47.21811014564894
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D96 / Saint-Père-en-Retz",
-        "commune": "Saint-Père-en-Retz / Saint-Brevin",
+        "route": "D255 / Avessac",
+        "commune": "Massérac / Avessac",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-01-26T18:40:30+00:00"
+        "date_heure": "2026-01-28T05:16:16+00:00"
       }
     },
     {
@@ -3050,7 +3027,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-01-26T18:39:48+00:00"
+        "date_heure": "2026-01-28T05:15:57+00:00"
       }
     },
     {
@@ -3058,22 +3035,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.977222928337461,
-          47.68034031371199
+          -2.1442587354919698,
+          47.21811014564894
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D255 / Avessac",
-        "commune": "Massérac / Avessac",
+        "route": "D96 / Saint-Père-en-Retz",
+        "commune": "S-Père-en-Retz / St-Brevin-les-Pins",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-01-26T18:38:59+00:00"
+        "date_heure": "2026-01-28T05:15:39+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1792443674511706,
+          47.300053827505536
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Maintenance",
+        "date_heure": "2026-01-27T14:41:38+00:00"
       }
     },
     {
@@ -17148,7 +17148,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-28T04:45:01.031Z",
+    "generated": "2026-01-28T05:28:30.157Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 439,
     "sources": {
