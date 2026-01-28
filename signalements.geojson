@@ -14518,16 +14518,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.707595930874103,
-            48.109458980745856
+            -1.690502772292782,
+            48.11433427164217
           ],
           [
-            -1.707265206654199,
-            48.109395567943665
+            -1.691329139809296,
+            48.11351085020249
           ],
           [
-            -1.705964017537463,
-            48.10896981098708
+            -1.691340993770076,
+            48.11346620694697
+          ],
+          [
+            -1.691097164379817,
+            48.11334226025331
           ]
         ]
       },
@@ -14535,14 +14539,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
         "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2026-01-19T00:00:00+00:00"
+        "date_heure": "2025-12-24T00:00:00+00:00"
       }
     },
     {
@@ -14551,12 +14555,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.708368587461749,
-            48.10932691772409
+            -1.692143905468232,
+            48.115037112008665
           ],
           [
-            -1.708320822673263,
-            48.10923466587559
+            -1.690502772292782,
+            48.11433427164217
           ]
         ]
       },
@@ -14564,14 +14568,14 @@
         "id": "rm-undefined-1",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
         "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2026-01-19T00:00:00+00:00"
+        "date_heure": "2025-12-24T00:00:00+00:00"
       }
     },
     {
@@ -14580,12 +14584,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.705964017537463,
-            48.10896981098708
+            -1.690502772292782,
+            48.11433427164217
           ],
           [
-            -1.704347259329381,
-            48.10841485011289
+            -1.690077965024883,
+            48.11416264226175
           ]
         ]
       },
@@ -14593,14 +14597,14 @@
         "id": "rm-undefined-2",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "route": "Allée Aline Landais, Rue de la Petite Touche",
         "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2026-01-19T00:00:00+00:00"
+        "date_heure": "2025-12-24T00:00:00+00:00"
       }
     },
     {
@@ -14609,27 +14613,31 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.704347259329381,
-            48.10841485011289
+            -1.678301427437585,
+            48.11292509936147
           ],
           [
-            -1.702929182279075,
-            48.107934281163
+            -1.67830073998966,
+            48.11312481286082
+          ],
+          [
+            -1.678300420359017,
+            48.113125099611764
           ]
         ]
       },
       "properties": {
-        "id": "rm-undefined-3",
+        "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "route": "du 7 au 11 Rue Salomon de Brosse",
         "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "",
-        "date_heure": "2026-01-19T00:00:00+00:00"
+        "date_heure": "2026-01-28T00:00:00+00:00"
       }
     },
     {
@@ -14696,335 +14704,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.707900799683543,
-            48.00855641539439
-          ],
-          [
-            -1.707888018763815,
-            48.008416140722154
-          ],
-          [
-            -1.707838506565405,
-            48.00819772088459
-          ],
-          [
-            -1.707710399959396,
-            48.00773373068784
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707710399959396,
-            48.00773373068784
-          ],
-          [
-            -1.707636647656384,
-            48.00746660615638
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707636647656384,
-            48.00746660615638
-          ],
-          [
-            -1.707485863507925,
-            48.006902435800896
-          ],
-          [
-            -1.707582262632772,
-            48.00654600030913
-          ],
-          [
-            -1.707815204840534,
-            48.005977269453425
-          ],
-          [
-            -1.708040331110867,
-            48.00547794069726
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707800205709371,
-            48.01005912609917
-          ],
-          [
-            -1.707630926842599,
-            48.01016536264305
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707900025141442,
-            48.00974222462255
-          ],
-          [
-            -1.707881410941647,
-            48.009586521696676
-          ],
-          [
-            -1.707857610191515,
-            48.009331022512505
-          ],
-          [
-            -1.707913390084742,
-            48.00877251030238
-          ],
-          [
-            -1.707900799683543,
-            48.00855641539439
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707922303923462,
-            48.01007270801675
-          ],
-          [
-            -1.707984292047074,
-            48.010019370942
-          ],
-          [
-            -1.708006559582319,
-            48.01000026878733
-          ],
-          [
-            -1.708025346667287,
-            48.00998546681898
-          ],
-          [
-            -1.708038432929897,
-            48.00997609547166
-          ],
-          [
-            -1.708042984753286,
-            48.009966554591614
-          ],
-          [
-            -1.70803880286858,
-            48.00991216045631
-          ],
-          [
-            -1.708016472553724,
-            48.00973100447576
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.708033046438958,
-            48.00530503458158
-          ],
-          [
-            -1.708040331110867,
-            48.00547794069726
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707800205709371,
-            48.01005912609917
-          ],
-          [
-            -1.707863988327738,
-            48.00996093757818
-          ],
-          [
-            -1.707901658864315,
-            48.009849051729184
-          ],
-          [
-            -1.707900025141442,
-            48.00974222462255
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Gibotière",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.692320557714553,
-            48.09683725964185
-          ],
-          [
-            -1.692265186231221,
-            48.09675659647186
-          ],
-          [
-            -1.69209015105933,
-            48.09652122272091
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Pierre Le Baud",
-        "commune": "35238 - Rennes, 35281 - Saint-Jacques-de-la-Lande",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.701366989536877,
             48.11141323341312
           ],
@@ -15046,418 +14725,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2026-01-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.661901094075395,
-            48.103329585286076
-          ],
-          [
-            -1.661785759285175,
-            48.10326748505184
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "face au 125 Rue Saint-Hélier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "travaux pour le bassin St Hélier",
-        "date_heure": "2026-01-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.770063458055839,
-            48.14633740096833
-          ],
-          [
-            -1.769547930514981,
-            48.14621210816565
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.77256481467231,
-            48.14692004509833
-          ],
-          [
-            -1.772381156448978,
-            48.14687424042477
-          ],
-          [
-            -1.772222486464717,
-            48.14684398954317
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.767210342277059,
-            48.14553231324246
-          ],
-          [
-            -1.766805932641522,
-            48.145458156680306
-          ],
-          [
-            -1.766675676757693,
-            48.14545262255596
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.76783941012926,
-            48.14580502120193
-          ],
-          [
-            -1.767226323263114,
-            48.14570505772765
-          ],
-          [
-            -1.767208204014628,
-            48.145645200151705
-          ],
-          [
-            -1.767210342277059,
-            48.14553231324246
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.772717963364722,
-            48.14738209641108
-          ],
-          [
-            -1.77268361335976,
-            48.14732877549147
-          ],
-          [
-            -1.772706608915081,
-            48.147167917771355
-          ],
-          [
-            -1.772682988727231,
-            48.14702343262535
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.771756005070068,
-            48.146755052079676
-          ],
-          [
-            -1.771575225189518,
-            48.146720584722026
-          ],
-          [
-            -1.771339429428489,
-            48.14668609208679
-          ],
-          [
-            -1.771137119849796,
-            48.146644497958
-          ],
-          [
-            -1.771001435646042,
-            48.14657242694217
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.769018843569891,
-            48.14603673600885
-          ],
-          [
-            -1.76855565540533,
-            48.14593030193942
-          ],
-          [
-            -1.76783941012926,
-            48.14580502120193
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.771001435646042,
-            48.14657242694217
-          ],
-          [
-            -1.770900389786374,
-            48.14648499040338
-          ],
-          [
-            -1.770823904691801,
-            48.14639149171393
-          ],
-          [
-            -1.770760675431832,
-            48.146346198726576
-          ],
-          [
-            -1.770699211539911,
-            48.14633190094038
-          ],
-          [
-            -1.770551447867189,
-            48.14630713871789
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.772222486464717,
-            48.14684398954317
-          ],
-          [
-            -1.771756005070068,
-            48.146755052079676
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.769547930514981,
-            48.14621210816565
-          ],
-          [
-            -1.769256863500193,
-            48.14609874240022
-          ],
-          [
-            -1.769018843569891,
-            48.14603673600885
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.77025573982267,
-            48.146330930281025
-          ],
-          [
-            -1.770136949394596,
-            48.14635141974249
-          ],
-          [
-            -1.770063458055839,
-            48.14633740096833
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "1 Avenue Auguste Brizeux",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-21T00:00:00+00:00"
       }
     },
     {
@@ -15897,6 +15164,925 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.709391250811937,
+            48.1244925305452
+          ],
+          [
+            -1.709152616227778,
+            48.124514817081526
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de tourner",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-23T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.635203061691237,
+            48.180450117620325
+          ],
+          [
+            -1.634725548855533,
+            48.18033700103173
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de la Haye-Renaud, au passage à niveau n°7",
+        "commune": "35024 - Betton",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707595930874103,
+            48.109458980745856
+          ],
+          [
+            -1.707265206654199,
+            48.109395567943665
+          ],
+          [
+            -1.705964017537463,
+            48.10896981098708
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.708368587461749,
+            48.10932691772409
+          ],
+          [
+            -1.708320822673263,
+            48.10923466587559
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.705964017537463,
+            48.10896981098708
+          ],
+          [
+            -1.704347259329381,
+            48.10841485011289
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.704347259329381,
+            48.10841485011289
+          ],
+          [
+            -1.702929182279075,
+            48.107934281163
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'à la Rue Amiral Courbet",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707900799683543,
+            48.00855641539439
+          ],
+          [
+            -1.707888018763815,
+            48.008416140722154
+          ],
+          [
+            -1.707838506565405,
+            48.00819772088459
+          ],
+          [
+            -1.707710399959396,
+            48.00773373068784
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707710399959396,
+            48.00773373068784
+          ],
+          [
+            -1.707636647656384,
+            48.00746660615638
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707636647656384,
+            48.00746660615638
+          ],
+          [
+            -1.707485863507925,
+            48.006902435800896
+          ],
+          [
+            -1.707582262632772,
+            48.00654600030913
+          ],
+          [
+            -1.707815204840534,
+            48.005977269453425
+          ],
+          [
+            -1.708040331110867,
+            48.00547794069726
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707800205709371,
+            48.01005912609917
+          ],
+          [
+            -1.707630926842599,
+            48.01016536264305
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707900025141442,
+            48.00974222462255
+          ],
+          [
+            -1.707881410941647,
+            48.009586521696676
+          ],
+          [
+            -1.707857610191515,
+            48.009331022512505
+          ],
+          [
+            -1.707913390084742,
+            48.00877251030238
+          ],
+          [
+            -1.707900799683543,
+            48.00855641539439
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707922303923462,
+            48.01007270801675
+          ],
+          [
+            -1.707984292047074,
+            48.010019370942
+          ],
+          [
+            -1.708006559582319,
+            48.01000026878733
+          ],
+          [
+            -1.708025346667287,
+            48.00998546681898
+          ],
+          [
+            -1.708038432929897,
+            48.00997609547166
+          ],
+          [
+            -1.708042984753286,
+            48.009966554591614
+          ],
+          [
+            -1.70803880286858,
+            48.00991216045631
+          ],
+          [
+            -1.708016472553724,
+            48.00973100447576
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.708033046438958,
+            48.00530503458158
+          ],
+          [
+            -1.708040331110867,
+            48.00547794069726
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707800205709371,
+            48.01005912609917
+          ],
+          [
+            -1.707863988327738,
+            48.00996093757818
+          ],
+          [
+            -1.707901658864315,
+            48.009849051729184
+          ],
+          [
+            -1.707900025141442,
+            48.00974222462255
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Gibotière",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.692320557714553,
+            48.09683725964185
+          ],
+          [
+            -1.692265186231221,
+            48.09675659647186
+          ],
+          [
+            -1.69209015105933,
+            48.09652122272091
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Pierre Le Baud",
+        "commune": "35238 - Rennes, 35281 - Saint-Jacques-de-la-Lande",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.661901094075395,
+            48.103329585286076
+          ],
+          [
+            -1.661785759285175,
+            48.10326748505184
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "face au 125 Rue Saint-Hélier",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "travaux pour le bassin St Hélier",
+        "date_heure": "2026-01-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.770063458055839,
+            48.14633740096833
+          ],
+          [
+            -1.769547930514981,
+            48.14621210816565
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.77256481467231,
+            48.14692004509833
+          ],
+          [
+            -1.772381156448978,
+            48.14687424042477
+          ],
+          [
+            -1.772222486464717,
+            48.14684398954317
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.767210342277059,
+            48.14553231324246
+          ],
+          [
+            -1.766805932641522,
+            48.145458156680306
+          ],
+          [
+            -1.766675676757693,
+            48.14545262255596
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.76783941012926,
+            48.14580502120193
+          ],
+          [
+            -1.767226323263114,
+            48.14570505772765
+          ],
+          [
+            -1.767208204014628,
+            48.145645200151705
+          ],
+          [
+            -1.767210342277059,
+            48.14553231324246
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.772717963364722,
+            48.14738209641108
+          ],
+          [
+            -1.77268361335976,
+            48.14732877549147
+          ],
+          [
+            -1.772706608915081,
+            48.147167917771355
+          ],
+          [
+            -1.772682988727231,
+            48.14702343262535
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.771756005070068,
+            48.146755052079676
+          ],
+          [
+            -1.771575225189518,
+            48.146720584722026
+          ],
+          [
+            -1.771339429428489,
+            48.14668609208679
+          ],
+          [
+            -1.771137119849796,
+            48.146644497958
+          ],
+          [
+            -1.771001435646042,
+            48.14657242694217
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.769018843569891,
+            48.14603673600885
+          ],
+          [
+            -1.76855565540533,
+            48.14593030193942
+          ],
+          [
+            -1.76783941012926,
+            48.14580502120193
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.771001435646042,
+            48.14657242694217
+          ],
+          [
+            -1.770900389786374,
+            48.14648499040338
+          ],
+          [
+            -1.770823904691801,
+            48.14639149171393
+          ],
+          [
+            -1.770760675431832,
+            48.146346198726576
+          ],
+          [
+            -1.770699211539911,
+            48.14633190094038
+          ],
+          [
+            -1.770551447867189,
+            48.14630713871789
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.772222486464717,
+            48.14684398954317
+          ],
+          [
+            -1.771756005070068,
+            48.146755052079676
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.769547930514981,
+            48.14621210816565
+          ],
+          [
+            -1.769256863500193,
+            48.14609874240022
+          ],
+          [
+            -1.769018843569891,
+            48.14603673600885
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.77025573982267,
+            48.146330930281025
+          ],
+          [
+            -1.770136949394596,
+            48.14635141974249
+          ],
+          [
+            -1.770063458055839,
+            48.14633740096833
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "1 Avenue Auguste Brizeux",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-01-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.708320822673263,
             48.10923466587559
           ],
@@ -15980,192 +16166,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.690502772292782,
-            48.11433427164217
-          ],
-          [
-            -1.691329139809296,
-            48.11351085020249
-          ],
-          [
-            -1.691340993770076,
-            48.11346620694697
-          ],
-          [
-            -1.691097164379817,
-            48.11334226025331
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée Aline Landais, Rue de la Petite Touche",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.692143905468232,
-            48.115037112008665
-          ],
-          [
-            -1.690502772292782,
-            48.11433427164217
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée Aline Landais, Rue de la Petite Touche",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.690502772292782,
-            48.11433427164217
-          ],
-          [
-            -1.690077965024883,
-            48.11416264226175
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée Aline Landais, Rue de la Petite Touche",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-12-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678301427437585,
-            48.11292509936147
-          ],
-          [
-            -1.67830073998966,
-            48.11312481286082
-          ],
-          [
-            -1.678300420359017,
-            48.113125099611764
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 7 au 11 Rue Salomon de Brosse",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.709391250811937,
-            48.1244925305452
-          ],
-          [
-            -1.709152616227778,
-            48.124514817081526
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Sir Winston Churchill et de l'Avenue Charles et Raymonde Tillon",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de tourner",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-23T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.635203061691237,
-            48.180450117620325
-          ],
-          [
-            -1.634725548855533,
-            48.18033700103173
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue de la Haye-Renaud, au passage à niveau n°7",
-        "commune": "35024 - Betton",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-01-22T00:00:00+00:00"
       }
     },
     {
@@ -18861,7 +18861,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-28T16:38:31.414Z",
+    "generated": "2026-01-28T17:32:39.130Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 484,
     "sources": {
