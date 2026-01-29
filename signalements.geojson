@@ -3046,6 +3046,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1711087505867988,
+          47.28575084273391
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "2026-01-29T15:55:10+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3781580490927945,
           47.290080280832456
         ]
@@ -20042,12 +20065,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-29T15:05:06.429Z",
+    "generated": "2026-01-29T16:01:23.175Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 517,
+    "total_count": 518,
     "sources": {
       "grist_35": 46,
-      "cd44": 24,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
