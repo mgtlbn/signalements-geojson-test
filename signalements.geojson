@@ -3044,51 +3044,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0939521321429915,
-            47.6449697588237
-          ],
-          [
-            -2.0940808365885326,
-            47.64541760115871
-          ],
-          [
-            -2.0942524425159204,
-            47.64603879546026
-          ],
-          [
-            -2.0944884006660796,
-            47.646602197856744
-          ],
-          [
-            -2.0944884006660796,
-            47.64683333554344
-          ],
-          [
-            -2.094509851407003,
-            47.647295607848456
-          ]
-        ]
-      },
-      "properties": {
-        "id": 48,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "Rue Jacques Cartier",
-        "commune": "Redon",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Résolu",
-        "description": "",
-        "date_heure": 1769666359.781
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.3781580490927945,
@@ -20087,11 +20042,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-29T08:00:14.871Z",
+    "generated": "2026-01-29T09:06:17.787Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 518,
+    "total_count": 517,
     "sources": {
-      "grist_35": 47,
+      "grist_35": 46,
       "cd44": 24,
       "rennes_metropole": 100
     }
