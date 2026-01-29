@@ -3046,29 +3046,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Nantes / Machecoul",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2026-01-29T16:37:24+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3781580490927945,
           47.290080280832456
         ]
@@ -20065,12 +20042,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-29T18:01:41.429Z",
+    "generated": "2026-01-29T19:08:49.103Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 518,
+    "total_count": 517,
     "sources": {
       "grist_35": 46,
-      "cd44": 25,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
