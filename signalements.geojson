@@ -3046,22 +3046,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1711087505867988,
-          47.28575084273391
+          -1.516057609329174,
+          47.13440081645723
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
+        "route": "D178 / Les Sorinières",
+        "commune": "Nantes / Machecoul",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "2026-01-29T15:55:10+00:00"
+        "description": "Bouchon",
+        "date_heure": "2026-01-29T16:37:24+00:00"
       }
     },
     {
@@ -20065,7 +20065,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-29T16:01:23.175Z",
+    "generated": "2026-01-29T17:05:47.805Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 518,
     "sources": {
