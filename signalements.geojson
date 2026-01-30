@@ -3575,29 +3575,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1792443674511706,
-          47.300053827505536
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Maintenance",
-        "date_heure": "2026-01-27T14:41:38+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3320061045743727,
           47.43012729992172
         ]
@@ -30406,12 +30383,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-30T22:54:52.425Z",
+    "generated": "2026-01-30T23:26:22.534Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 837,
+    "total_count": 836,
     "sources": {
       "grist_35": 46,
-      "cd44": 42,
+      "cd44": 41,
       "rennes_metropole": 100
     }
   }
