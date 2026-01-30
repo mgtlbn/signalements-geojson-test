@@ -3046,6 +3046,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-01-30T06:10:41+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-01-30T06:09:59+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.375928843545539,
           47.2882399864836
         ]
@@ -3078,7 +3124,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D31 / Divatte-sur-Loire",
-        "commune": "Commune",
+        "commune": "Mauves-sur-Loire / Divatte",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3124,7 +3170,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Commune",
+        "commune": "Le Cellier / Mauves-sur-Loire",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3193,7 +3239,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D19 / Vair-sur-Loire",
-        "commune": "Commune",
+        "commune": "Vair-sur-Loire / Ancenis",
         "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3216,7 +3262,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D96 / Saint-Père-en-Retz",
-        "commune": "Commune",
+        "commune": "St-Père-en-Retz /St-Brevin-les-Pins",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3239,7 +3285,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D125 / Massérac",
-        "commune": "Commune",
+        "commune": "Massérac / Avessac",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3262,7 +3308,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D255 / Avessac",
-        "commune": "Commune",
+        "commune": "Massérac / Avessac",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3285,7 +3331,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Commune",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3354,7 +3400,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D24 / Mouzeil",
-        "commune": "Commune",
+        "commune": "Couffé / Mouzeil",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3400,7 +3446,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Pornic",
-        "commune": "Commune",
+        "commune": "Pornic / La Plaine-sur-Mer",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3446,7 +3492,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D38 / Mouzeil",
-        "commune": "Commune",
+        "commune": "Trans-sur-Erdre / Mouzeil",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3492,7 +3538,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Pornic",
-        "commune": "Commune",
+        "commune": "Chaumes-en-Retz / Pornic",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3561,7 +3607,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Pannecé",
-        "commune": "Commune",
+        "commune": "Pouillé-les-Côteaux / Pannecé",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3584,7 +3630,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Commune",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3607,7 +3653,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Bouaye vers Bouguenais",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3630,7 +3676,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Commune",
+        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3653,7 +3699,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3676,7 +3722,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Commune",
+        "commune": "Orvault / Treillières",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -20157,12 +20203,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-30T05:31:22.869Z",
+    "generated": "2026-01-30T06:51:00.861Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 522,
+    "total_count": 524,
     "sources": {
       "grist_35": 46,
-      "cd44": 29,
+      "cd44": 31,
       "rennes_metropole": 100
     }
   }
