@@ -3046,22 +3046,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9568864305386944,
-          47.36190894862979
+          -1.7534205040926696,
+          47.20451320069573
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D3 / La Chapelle-Launay",
-        "commune": "La Chapelle-Launay / Savenay",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Autre",
+        "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-01-31T09:53:34+00:00"
+        "description": "Arrêt cause exercice de sécurité",
+        "date_heure": "2026-01-31T11:19:05+00:00"
       }
     },
     {
@@ -19320,7 +19320,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-31T10:51:40.155Z",
+    "generated": "2026-01-31T11:21:13.265Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 519,
     "sources": {
