@@ -3046,6 +3046,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.9568864305386944,
+          47.36190894862979
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D3 / La Chapelle-Launay",
+        "commune": "La Chapelle-Launay / Savenay",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-01-31T09:53:34+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -19297,12 +19320,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-01-31T09:52:14.761Z",
+    "generated": "2026-01-31T10:26:06.709Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 518,
+    "total_count": 519,
     "sources": {
       "grist_35": 46,
-      "cd44": 41,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
