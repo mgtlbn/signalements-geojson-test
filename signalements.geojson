@@ -3046,22 +3046,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3781580490927945,
-          47.290080280832456
+          -1.3862819168581757,
+          47.29339398745542
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D31 / Divatte-sur-Loire",
+        "route": "D31 / Mauves-sur-Loire",
         "commune": "Mauves-sur-Loire / Divatte",
-        "type_coupure": "Tranchée / raccordement",
+        "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2026-02-02T16:50:07+00:00"
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "2026-02-02T16:59:27+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.375928843545539,
+          47.2882399864836
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D37",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2026-02-02T16:54:37+00:00"
       }
     },
     {
@@ -3660,29 +3683,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-30T13:45:24+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.375928843545539,
-          47.2882399864836
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D37",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-01-30T05:16:24+00:00"
       }
     },
     {
@@ -16598,7 +16598,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-02T16:54:04.800Z",
+    "generated": "2026-02-02T17:38:25.097Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 455,
     "sources": {
