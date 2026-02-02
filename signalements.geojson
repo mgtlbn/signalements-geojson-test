@@ -1703,7 +1703,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769190543.97
       }
@@ -1781,7 +1781,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769273188.769
       }
@@ -2271,7 +2271,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769434980.844
       }
@@ -2344,7 +2344,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769435024.422
       }
@@ -3046,6 +3046,144 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3726653827215232,
+          47.47668436999636
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux de réfection de chaussée -",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2026-02-02T07:30:56+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3402650774685358,
+          47.460769690367655
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D38 / Mouzeil",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "2026-02-02T07:30:56+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Commune",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-02-02T07:20:18+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Commune",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-02-02T07:20:03+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.132442116370741,
+          47.123972715304255
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D751 / Pornic",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2026-02-02T07:00:56+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.154867547197195,
+          47.12079287988436
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Pornic",
+        "commune": "Commune",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "2026-02-02T07:00:56+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -3055,7 +3193,30 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-02-02T06:11:23+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3078,7 +3239,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3101,7 +3262,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3124,7 +3285,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3147,7 +3308,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3170,7 +3331,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3193,7 +3354,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3216,7 +3377,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3239,7 +3400,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3262,7 +3423,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3285,7 +3446,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3308,7 +3469,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3331,7 +3492,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -3354,7 +3515,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D31 / Divatte-sur-Loire",
-        "commune": "Mauves-sur-Loire / Divatte",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3423,7 +3584,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Le Cellier / Mauves-sur-Loire",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3492,7 +3653,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D19 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Ancenis",
+        "commune": "Commune",
         "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3515,7 +3676,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D96 / Saint-Père-en-Retz",
-        "commune": "St-Père-en-Retz /St-Brevin-les-Pins",
+        "commune": "Commune",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3538,7 +3699,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D125 / Massérac",
-        "commune": "Massérac / Avessac",
+        "commune": "Commune",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3561,7 +3722,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D255 / Avessac",
-        "commune": "Massérac / Avessac",
+        "commune": "Commune",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3630,105 +3791,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D24 / Mouzeil",
-        "commune": "Couffé / Mouzeil",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "2026-01-24T08:55:51+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.132442116370741,
-          47.123972715304255
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D751 / Pornic",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-01-15T14:06:33+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.154867547197195,
-          47.12079287988436
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Pornic",
-        "commune": "Pornic / La Plaine-sur-Mer",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "2026-01-15T14:06:30+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3726653827215232,
-          47.47668436999636
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux de réfection de chaussée -",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-01-15T14:06:02+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3402650774685358,
-          47.460769690367655
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D38 / Mouzeil",
-        "commune": "Trans-sur-Erdre / Mouzeil",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "2026-01-15T14:05:58+00:00"
       }
     },
     {
@@ -3768,7 +3837,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Pornic",
-        "commune": "Chaumes-en-Retz / Pornic",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3837,7 +3906,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Pannecé",
-        "commune": "Pouillé-les-Côteaux / Pannecé",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3860,7 +3929,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3883,7 +3952,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3906,7 +3975,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33 / Sainte-Anne-sur-Brivet",
-        "commune": "Ste-Anne-sur-Brivet / Pontchâteau",
+        "commune": "Commune",
         "type_coupure": "Divers",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -3929,7 +3998,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3952,7 +4021,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Orvault / Treillières",
+        "commune": "Commune",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -17144,12 +17213,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-02T06:02:58.250Z",
+    "generated": "2026-02-02T07:32:59.251Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 473,
+    "total_count": 476,
     "sources": {
       "grist_35": 46,
-      "cd44": 41,
+      "cd44": 44,
       "rennes_metropole": 100
     }
   }
