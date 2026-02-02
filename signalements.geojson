@@ -1039,7 +1039,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Inondation du marais",
         "date_heure": 1769163640.037
       }
@@ -1732,7 +1732,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769243415.997
       }
@@ -1883,7 +1883,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769349192.029
       }
@@ -2449,7 +2449,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769437525.887
       }
@@ -2934,7 +2934,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769444755.202
       }
@@ -3061,30 +3061,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-02-02T08:21:57+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5757622709376864,
-          47.6565917761331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D46 / Lusanger",
-        "commune": "Commune",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "2026-02-02T08:21:42+00:00"
+        "date_heure": "2026-02-02T09:26:44+00:00"
       }
     },
     {
@@ -16529,12 +16506,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-02T08:43:59.494Z",
+    "generated": "2026-02-02T09:51:26.026Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 452,
+    "total_count": 451,
     "sources": {
       "grist_35": 46,
-      "cd44": 44,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
