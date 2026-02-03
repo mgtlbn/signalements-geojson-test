@@ -3083,29 +3083,6 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-02-02T22:30:09+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-02-02T19:01:17+00:00"
       }
@@ -3591,29 +3568,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-30T18:06:48+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-01-30T13:49:11+00:00"
       }
     },
     {
@@ -16575,12 +16529,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-03T06:53:03.548Z",
+    "generated": "2026-02-03T07:42:35.377Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 454,
+    "total_count": 452,
     "sources": {
       "grist_35": 46,
-      "cd44": 46,
+      "cd44": 44,
       "rennes_metropole": 100
     }
   }
