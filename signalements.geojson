@@ -3060,8 +3060,8 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-03-02T17:07:26+00:00"
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-03-02T18:49:41+00:00"
       }
     },
     {
@@ -3069,45 +3069,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
+          -1.7534205040926696,
+          47.20451320069573
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2026-03-02T16:26:42+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6328789844689204,
-          47.16350343080919
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2026-03-02T16:26:27+00:00"
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-03-02T18:33:30+00:00"
       }
     },
     {
@@ -3498,29 +3475,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-01-30T18:28:13+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-30T18:25:15+00:00"
       }
     },
@@ -3591,29 +3545,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-01-30T18:06:48+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-01-30T13:47:58+00:00"
       }
     },
     {
@@ -17618,12 +17549,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-03T18:28:58.247Z",
+    "generated": "2026-02-03T19:27:24.807Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 479,
+    "total_count": 476,
     "sources": {
       "grist_35": 46,
-      "cd44": 45,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
