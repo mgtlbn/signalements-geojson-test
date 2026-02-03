@@ -2698,7 +2698,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769440664.018
       }
@@ -2771,7 +2771,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769440726.383
       }
@@ -2889,7 +2889,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769440829.147
       }
@@ -3060,8 +3060,8 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-03-02T05:10:34+00:00"
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-03-02T06:34:48+00:00"
       }
     },
     {
@@ -3476,29 +3476,6 @@
         "statut": "Actif",
         "description": "Arrêt cause exercice de sécurité",
         "date_heure": "2026-01-02T09:04:03+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-01-30T18:46:59+00:00"
       }
     },
     {
@@ -16598,12 +16575,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-03T05:34:49.125Z",
+    "generated": "2026-02-03T06:53:03.548Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 455,
+    "total_count": 454,
     "sources": {
       "grist_35": 46,
-      "cd44": 47,
+      "cd44": 46,
       "rennes_metropole": 100
     }
   }
