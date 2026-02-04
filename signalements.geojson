@@ -3322,29 +3322,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.375928843545539,
-          47.2882399864836
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D37",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-02-02T16:54:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1442587354919698,
           47.21811014564894
         ]
@@ -3499,52 +3476,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-02-02T06:01:03+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-01-02T17:08:11+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Autre",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause exercice de sécurité",
-        "date_heure": "2026-01-02T09:04:03+00:00"
       }
     },
     {
@@ -17184,12 +17115,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-04T22:54:35.986Z",
+    "generated": "2026-02-04T23:28:58.584Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 467,
+    "total_count": 464,
     "sources": {
       "grist_35": 46,
-      "cd44": 40,
+      "cd44": 37,
       "rennes_metropole": 100
     }
   }
