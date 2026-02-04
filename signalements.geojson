@@ -3069,29 +3069,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-04-02T17:27:27+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6328789844689204,
           47.16350343080919
         ]
@@ -3177,29 +3154,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-04-02T09:08:29+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-04-02T08:26:53+00:00"
       }
     },
     {
@@ -3430,29 +3384,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "2026-02-02T16:54:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9171665554242303,
-          47.67319829920705
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Massérac",
-        "commune": "Massérac / Avessac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-02-02T16:16:07+00:00"
       }
     },
     {
@@ -17299,12 +17230,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-04T18:08:06.572Z",
+    "generated": "2026-02-04T19:22:11.704Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 472,
+    "total_count": 469,
     "sources": {
       "grist_35": 46,
-      "cd44": 45,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
