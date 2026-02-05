@@ -3046,6 +3046,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2026-05-02T07:34:16+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -3092,29 +3115,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-05-02T05:27:21+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6328789844689204,
           47.16350343080919
         ]
@@ -3154,29 +3154,6 @@
         "statut": "Actif",
         "description": "Bouchon",
         "date_heure": "2026-04-02T15:53:41+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-04-02T08:16:07+00:00"
       }
     },
     {
@@ -17161,12 +17138,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-05T06:59:56.791Z",
+    "generated": "2026-02-05T07:54:28.191Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 466,
+    "total_count": 465,
     "sources": {
       "grist_35": 46,
-      "cd44": 39,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
