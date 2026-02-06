@@ -3046,6 +3046,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1442587354919698,
+          47.21811014564894
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D96 / Saint-Père-en-Retz",
+        "commune": "St-Père / St-Brevin-les-Pins",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-06-02T13:59:14+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-06-02T13:39:17+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7069455696499556,
           47.600099522765916
         ]
@@ -3384,29 +3430,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "2026-03-02T06:34:48+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1442587354919698,
-          47.21811014564894
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D96 / Saint-Père-en-Retz",
-        "commune": "St-Père-en-Retz / St-Brevin",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-02-02T16:15:45+00:00"
       }
     },
     {
@@ -21395,12 +21418,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-06T13:01:16.283Z",
+    "generated": "2026-02-06T14:11:40.790Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 570,
+    "total_count": 571,
     "sources": {
       "grist_35": 46,
-      "cd44": 38,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
