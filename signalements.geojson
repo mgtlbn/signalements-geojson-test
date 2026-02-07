@@ -3046,6 +3046,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-07-02T07:32:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-07-02T07:20:32+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2026-07-02T07:09:35+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -3108,29 +3177,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Marée haute",
         "date_heure": "2026-06-02T19:49:34+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-06-02T19:48:53+00:00"
       }
     },
     {
@@ -12915,6 +12961,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.612414378269678,
+            48.10322989229602
+          ],
+          [
+            -1.612667755411836,
+            48.10296068050087
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Mottay",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-01-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.67023610059904,
             48.12708327489192
           ],
@@ -20984,35 +21059,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.612414378269678,
-            48.10322989229602
-          ],
-          [
-            -1.612667755411836,
-            48.10296068050087
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Mottay",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-01-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.832866307047389,
             48.07057501376948
           ],
@@ -21395,12 +21441,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-07T07:08:04.055Z",
+    "generated": "2026-02-07T07:51:22.630Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 570,
+    "total_count": 572,
     "sources": {
       "grist_35": 46,
-      "cd44": 38,
+      "cd44": 40,
       "rennes_metropole": 100
     }
   }
