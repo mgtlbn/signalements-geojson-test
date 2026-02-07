@@ -12915,35 +12915,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.612414378269678,
-            48.10322989229602
-          ],
-          [
-            -1.612667755411836,
-            48.10296068050087
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Mottay",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2025-01-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.67023610059904,
             48.12708327489192
           ],
@@ -21013,6 +20984,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.612414378269678,
+            48.10322989229602
+          ],
+          [
+            -1.612667755411836,
+            48.10296068050087
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Mottay",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2025-01-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.832866307047389,
             48.07057501376948
           ],
@@ -21395,7 +21395,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-07T04:18:26.289Z",
+    "generated": "2026-02-07T05:26:10.850Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 570,
     "sources": {
