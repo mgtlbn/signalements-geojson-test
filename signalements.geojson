@@ -3123,6 +3123,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "2026-08-02T19:29:21+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3862819168581757,
           47.29339398745542
         ]
@@ -19804,12 +19827,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-08T19:25:17.013Z",
+    "generated": "2026-02-08T19:46:09.213Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 527,
+    "total_count": 528,
     "sources": {
       "grist_35": 47,
-      "cd44": 40,
+      "cd44": 41,
       "rennes_metropole": 100
     }
   }
