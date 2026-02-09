@@ -3583,29 +3583,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1442587354919698,
-          47.21811014564894
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D96 / Saint-Père-en-Retz",
-        "commune": "St-Père / St-Brevin-les-Pins",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-06-02T13:59:14+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -18660,12 +18637,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-09T12:03:17.296Z",
+    "generated": "2026-02-09T13:53:11.974Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 489,
+    "total_count": 488,
     "sources": {
       "grist_35": 47,
-      "cd44": 37,
+      "cd44": 36,
       "rennes_metropole": 100
     }
   }
