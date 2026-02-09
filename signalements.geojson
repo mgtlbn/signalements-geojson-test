@@ -3123,22 +3123,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1968578863792643,
-          47.30737730504835
+          -1.1200426914207546,
+          47.417155179760336
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213- Pont de St Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "route": "Travaux d'entretien courant",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2026-09-02T07:20:51+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1200544451554035,
+          47.417150873310455
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D19 / Vair-sur-Loire",
+        "commune": "Commune",
         "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "2026-09-02T05:30:14+00:00"
+        "date_heure": "2026-09-02T07:20:35+00:00"
       }
     },
     {
@@ -3146,22 +3169,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
+          -1.1518471407167612,
+          47.376180282729756
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
+        "route": "Travaux d'entretien courant",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "2026-08-02T19:29:21+00:00"
+        "description": "Déviation",
+        "date_heure": "2026-09-02T07:20:31+00:00"
       }
     },
     {
@@ -3169,22 +3192,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3862819168581757,
-          47.29339398745542
+          -1.0344397132005776,
+          47.46521529957125
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D31 / Mauves-sur-Loire",
-        "commune": "Mauves/ Divatte-sur-Loire",
-        "type_coupure": "Ouvrage d'art",
+        "route": "D8 / Loireauxence",
+        "commune": "Commune",
+        "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "2026-08-02T09:10:36+00:00"
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2026-09-02T07:19:48+00:00"
       }
     },
     {
@@ -3192,22 +3215,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
+          -1.3596819220474428,
+          47.31073445211627
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
+        "route": "Aménagement de chaussée",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-07-02T19:54:08+00:00"
+        "description": "Déviation",
+        "date_heure": "2026-09-02T07:18:53+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3501254690805258,
+          47.31409768516848
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D68 / Le Cellier",
+        "commune": "Commune",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "2026-09-02T07:16:47+00:00"
       }
     },
     {
@@ -3224,220 +3270,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D255 / Avessac",
-        "commune": "Massérac / Avessac",
+        "commune": "Commune",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-07-02T10:32:45+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-07-02T08:23:41+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-07-02T08:23:41+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-07-02T07:32:12+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "2026-06-02T20:05:43+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-06-02T20:05:43+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-06-02T19:49:34+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1442587354919698,
-          47.21811014564894
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D96 / Saint-Père-en-Retz",
-        "commune": "St-Père / St-Brevin-les-Pins",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-06-02T13:59:14+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7069455696499556,
-          47.600099522765916
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Marsac-sur-Don",
-        "commune": "Marsac-sur-Don / Guémené-Penfao",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-06-02T08:36:06+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "2026-06-02T07:48:22+00:00"
+        "date_heure": "2026-09-02T07:15:57+00:00"
       }
     },
     {
@@ -3460,7 +3299,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-02-02T07:30:56+00:00"
+        "date_heure": "2026-09-02T07:13:14+00:00"
       }
     },
     {
@@ -3477,13 +3316,358 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D38 / Mouzeil",
-        "commune": "Trans-sur-Erdre / Mouzeil",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
-        "date_heure": "2026-02-02T07:30:56+00:00"
+        "date_heure": "2026-09-02T07:13:14+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Commune",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-09-02T06:29:45+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Commune",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-09-02T06:28:49+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1968578863792643,
+          47.30737730504835
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213- Pont de St Nazaire",
+        "commune": "Commune",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2026-09-02T05:30:14+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "2026-08-02T19:29:21+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3862819168581757,
+          47.29339398745542
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D31 / Mauves-sur-Loire",
+        "commune": "Commune",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "2026-08-02T09:10:36+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-07-02T19:54:08+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-07-02T08:23:41+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2026-07-02T08:23:41+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-07-02T07:32:12+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "2026-06-02T20:05:43+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2026-06-02T20:05:43+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2026-06-02T19:49:34+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1442587354919698,
+          47.21811014564894
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D96 / Saint-Père-en-Retz",
+        "commune": "Commune",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-06-02T13:59:14+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7069455696499556,
+          47.600099522765916
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D125 / Marsac-sur-Don",
+        "commune": "Commune",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-06-02T08:36:06+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Commune",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "2026-06-02T07:48:22+00:00"
       }
     },
     {
@@ -3523,128 +3707,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Pornic",
-        "commune": "Pornic / La Plaine-sur-Mer",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "2026-02-02T07:00:56+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3596819220474428,
-          47.31073445211627
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-01-30T05:15:40+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3501254690805258,
-          47.31409768516848
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D68 / Le Cellier",
-        "commune": "Le Cellier / Mauves-sur-Loire",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "2026-01-30T05:15:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1518471407167612,
-          47.376180282729756
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux d'entretien courant / D18",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-01-30T05:15:05+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1200426914207546,
-          47.417155179760336
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux d'entretien courant / D112",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "2026-01-30T05:15:01+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1200544451554035,
-          47.417150873310455
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D19 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Ancenis",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2026-01-30T05:14:57+00:00"
       }
     },
     {
@@ -3707,7 +3776,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D24 / Mouzeil",
-        "commune": "Couffé / Mouzeil",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3753,7 +3822,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D751 / Pornic",
-        "commune": "Chaumes-en-Retz / Pornic",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3822,7 +3891,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Pannecé",
-        "commune": "Pouillé-les-Côteaux / Pannecé",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -3845,7 +3914,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3868,7 +3937,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3891,7 +3960,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -3914,7 +3983,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D537 / Treillières",
-        "commune": "Orvault / Treillières",
+        "commune": "Commune",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
@@ -19712,12 +19781,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-09T06:06:51.959Z",
+    "generated": "2026-02-09T07:37:28.440Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 523,
+    "total_count": 526,
     "sources": {
       "grist_35": 47,
-      "cd44": 36,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
