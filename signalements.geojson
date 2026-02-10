@@ -3123,6 +3123,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3916222476421143,
+          46.99983394764782
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D57 / Vieillevigne",
+        "commune": "La Planche / Vieillevigne",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-10-02T18:37:25+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01576340869096,
+          47.18947530184289
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D751 / Chaumes-en-Retz",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "2026-10-02T18:14:29+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9635173779287245,
+          47.184254264142275
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D58 / Chaumes-en-Retz",
+        "commune": "Chaumes-en-Retz / Chauvé",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "2026-10-02T18:14:11+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.499786088903361,
           47.34845380142211
         ]
@@ -17545,12 +17614,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-10T18:02:37.463Z",
+    "generated": "2026-02-10T19:38:29.167Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 464,
+    "total_count": 467,
     "sources": {
       "grist_35": 47,
-      "cd44": 38,
+      "cd44": 41,
       "rennes_metropole": 100
     }
   }
