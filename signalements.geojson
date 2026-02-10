@@ -3123,6 +3123,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.499786088903361,
+          47.34845380142211
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D99 / La Turballe",
+        "commune": "Guérande / La Turballe",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-10-02T17:37:09+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.326846898788943,
           47.32608520277204
         ]
@@ -17522,12 +17545,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-10T16:38:27.603Z",
+    "generated": "2026-02-10T18:02:37.463Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 463,
+    "total_count": 464,
     "sources": {
       "grist_35": 47,
-      "cd44": 37,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
