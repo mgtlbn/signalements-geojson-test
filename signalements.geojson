@@ -3123,6 +3123,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.326846898788943,
+          47.32608520277204
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D47 / Saint-André-des-Eaux",
+        "commune": "Guérande / Saint-André-des-Eaux",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-10-02T15:41:36+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.451644155789771,
+          47.28404873691432
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D774 / Batz-sur-Mer",
+        "commune": "Guérande / Batz-sur-Mer",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-10-02T15:29:54+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2019625375546585,
+          47.38721876438104
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Saint-Joachim",
+        "commune": "Crossac / Saint-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-10-02T15:29:06+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.9176923667117238,
           47.67341920913666
         ]
@@ -17453,12 +17522,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-10T15:11:27.921Z",
+    "generated": "2026-02-10T16:38:27.603Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 460,
+    "total_count": 463,
     "sources": {
       "grist_35": 47,
-      "cd44": 34,
+      "cd44": 37,
       "rennes_metropole": 100
     }
   }
