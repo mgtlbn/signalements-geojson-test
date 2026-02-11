@@ -3123,6 +3123,121 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.9845787478447519,
+          47.44748345792077
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D17 / Sainte-Anne-sur-Brivet",
+        "commune": "Sainte-Anne-sur-Brivet / Campbon",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-11-02T21:26:39+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0344397132005776,
+          47.46521529957125
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D8 / Loireauxence",
+        "commune": "Loireauxence / Maumusson",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "2026-11-02T21:23:04+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7894499243798714,
+          46.94242738111946
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D273 / Paulx",
+        "commune": "Paulx / Saint-Etienne-de-Mer-Morte",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-11-02T21:22:41+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7860715626387786,
+          47.69947803204926
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D130 / Pierric",
+        "commune": "Pierric / Conquereuil",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-11-02T21:22:10+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7928257993367767,
+          47.67483216137058
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D130 / Conquereuil",
+        "commune": "Pierric / Conquereuil",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-11-02T21:21:23+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1663731961055563,
           47.27978205156331
         ]
@@ -3438,29 +3553,6 @@
         "statut": "Actif",
         "description": "Bouchon sur 3.7 km",
         "date_heure": "2026-11-02T08:57:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5089632451610353,
-          47.435467755697644
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D16 / Nort-sur-Erdre",
-        "commune": "Nort-sur-Erdre / Héric",
-        "type_coupure": "Manifestation sociale",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Manifestation sociale",
-        "date_heure": "2026-11-02T08:27:41+00:00"
       }
     },
     {
@@ -3852,29 +3944,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "2026-09-02T07:20:31+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0344397132005776,
-          47.46521529957125
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D8 / Loireauxence",
-        "commune": "Loireauxence / Maumusson",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "2026-09-02T07:19:48+00:00"
       }
     },
     {
@@ -19800,12 +19869,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-11T21:03:49.506Z",
+    "generated": "2026-02-11T21:58:35.207Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 529,
+    "total_count": 532,
     "sources": {
       "grist_35": 47,
-      "cd44": 51,
+      "cd44": 54,
       "rennes_metropole": 100
     }
   }
