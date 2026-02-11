@@ -3123,6 +3123,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.262962525167023,
+          47.43765255890001
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D51 / La Chapelle-des-Marais",
+        "commune": "La Chapelle-des-Marais / Herbignac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-11-02T06:58:38+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8481792392139877,
           47.485093344033544
         ]
@@ -17545,12 +17568,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-11T06:07:50.401Z",
+    "generated": "2026-02-11T07:35:12.008Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 464,
+    "total_count": 465,
     "sources": {
       "grist_35": 47,
-      "cd44": 38,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
