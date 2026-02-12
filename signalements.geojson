@@ -1666,7 +1666,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769273188.769
       }
@@ -3991,29 +3991,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-12-02T07:11:13+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1663731961055563,
-          47.27978205156331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint-Nazaire",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Vent",
-        "cause": "Vent",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Vent > 80km/h",
-        "date_heure": "2026-12-02T07:01:13+00:00"
       }
     },
     {
@@ -19824,12 +19801,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-12T09:51:41.937Z",
+    "generated": "2026-02-12T10:47:40.665Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 521,
+    "total_count": 520,
     "sources": {
       "grist_35": 57,
-      "cd44": 56,
+      "cd44": 55,
       "rennes_metropole": 100
     }
   }
