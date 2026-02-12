@@ -4550,6 +4550,87 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0395302772521977,
+            47.57051805726633
+          ],
+          [
+            -2.0395302772521977,
+            47.5714301073211
+          ]
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Route de la Provotais",
+        "commune": "Fégréac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route Communale",
+        "date_heure": 1770907479.708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.9962930679321291,
+            47.551071688069754
+          ],
+          [
+            -2.00076699256897,
+            47.549159965088606
+          ]
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Chemin de Halage du Canal de Nantes à Brest",
+        "commune": "Fégréac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Chemin communal",
+        "date_heure": 1770907573.557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2020854474944875,
+          47.44001196245393
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Sainte-Reine-de-Bretagne",
+        "commune": "Sainte-Reine / La Chapelle",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-12-02T15:10:34+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.324793214709421,
@@ -4660,29 +4741,6 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "2026-12-02T09:46:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2020854474944875,
-          47.44001196245393
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Sainte-Reine-de-Bretagne",
-        "commune": "Ste-Reine-de-Bretagne / La Chapelle",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-12-02T08:26:37+00:00"
       }
     },
     {
@@ -20470,11 +20528,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-12T14:31:17.415Z",
+    "generated": "2026-02-12T15:53:49.205Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 531,
+    "total_count": 533,
     "sources": {
-      "grist_35": 68,
+      "grist_35": 70,
       "cd44": 55,
       "rennes_metropole": 100
     }
