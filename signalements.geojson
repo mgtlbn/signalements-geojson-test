@@ -3883,6 +3883,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.262962525167023,
+          47.43765255890001
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D51 / La Chapelle-des-Marais",
+        "commune": "La Chapelle-des-Marais / Herbignac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-12-02T09:48:24+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8097005432770092,
+          47.417258704583496
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Fay-de-Bretagne",
+        "commune": "Fay-de-Bretagne / Bouvron",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "2026-12-02T09:46:37+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2020854474944875,
           47.44001196245393
         ]
@@ -3968,29 +4014,6 @@
         "statut": "Actif",
         "description": "Vent > 80km/h",
         "date_heure": "2026-12-02T07:01:13+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "2026-12-02T06:09:04+00:00"
       }
     },
     {
@@ -4336,29 +4359,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-11-02T13:11:06+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.262962525167023,
-          47.43765255890001
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D51 / La Chapelle-des-Marais",
-        "commune": "La Chapelle-des-Marais / Herbignac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-11-02T08:58:59+00:00"
       }
     },
     {
@@ -19824,7 +19824,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-12T08:49:34.409Z",
+    "generated": "2026-02-12T09:51:41.937Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 521,
     "sources": {
