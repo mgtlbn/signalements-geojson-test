@@ -4354,6 +4354,202 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7852783203125002,
+            47.69103134282427
+          ],
+          [
+            -1.78178071975708,
+            47.69072802285701
+          ],
+          [
+            -1.7814159393310547,
+            47.69049692074545
+          ],
+          [
+            -1.7798066139221194,
+            47.6880558421573
+          ],
+          [
+            -1.7781543731689455,
+            47.68879251104638
+          ],
+          [
+            -1.7775964736938479,
+            47.68895139905047
+          ],
+          [
+            -1.774721145629883,
+            47.68947139277057
+          ]
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "VC 158/159",
+        "commune": "Pierric",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route communale",
+        "date_heure": 1770901932.448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7561817169189455,
+            47.70138649477255
+          ],
+          [
+            -1.7561280727386477,
+            47.70167531192826
+          ],
+          [
+            -1.756492853164673,
+            47.70306883221921
+          ],
+          [
+            -1.7564821243286135,
+            47.70338652075007
+          ],
+          [
+            -1.7561817169189455,
+            47.70395691120821
+          ],
+          [
+            -1.7559885978698733,
+            47.70414463328506
+          ]
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Route de la Tangouais VC225",
+        "commune": "Pierric",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route communale",
+        "date_heure": 1770901989.712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7274069786071777,
+            47.678911615212535
+          ],
+          [
+            -1.7272782325744631,
+            47.68038520087557
+          ],
+          [
+            -1.7273426055908205,
+            47.68065968772408
+          ],
+          [
+            -1.7283940315246582,
+            47.681266443001505
+          ],
+          [
+            -1.7285871505737307,
+            47.681483139604694
+          ],
+          [
+            -1.7292737960815432,
+            47.68282663845421
+          ],
+          [
+            -1.7302823066711428,
+            47.68406898294316
+          ],
+          [
+            -1.7302608489990237,
+            47.68435789602575
+          ],
+          [
+            -1.7301321029663088,
+            47.68483459911367
+          ],
+          [
+            -1.730153560638428,
+            47.68614912142228
+          ]
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "VC101",
+        "commune": "Pierric",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route communale",
+        "date_heure": 1770902130.513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7200684547424319,
+            47.68320223409445
+          ],
+          [
+            -1.720433235168457,
+            47.68353448952196
+          ],
+          [
+            -1.7205190658569338,
+            47.683953417262074
+          ],
+          [
+            -1.7207336425781252,
+            47.68526796177686
+          ],
+          [
+            -1.7205834388732912,
+            47.686033560349664
+          ]
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "VC 109",
+        "commune": "Pierric",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Route communale",
+        "date_heure": 1770902189.561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.324793214709421,
@@ -20274,11 +20470,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-12T13:09:53.597Z",
+    "generated": "2026-02-12T14:31:17.415Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 527,
+    "total_count": 531,
     "sources": {
-      "grist_35": 64,
+      "grist_35": 68,
       "cd44": 55,
       "rennes_metropole": 100
     }
