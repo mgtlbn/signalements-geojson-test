@@ -3883,6 +3883,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.324793214709421,
+          47.70402657024626
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D14 / Erbray",
+        "commune": "Soudan / Erbray",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-12-02T11:06:43+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.349029446113452,
+          47.41096766604195
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D83 / Herbignac",
+        "commune": "Herbignac / Assérac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-12-02T11:06:16+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0474039910077213,
+          47.112372662386974
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Pornic",
+        "commune": "Chaumes-en-Retz / Pornic",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Passage à niveau",
+        "date_heure": "2026-12-02T11:04:53+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.262962525167023,
           47.43765255890001
         ]
@@ -3945,52 +4014,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-12-02T08:26:37+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.324793214709421,
-          47.70402657024626
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D14 / Erbray",
-        "commune": "Soudan / Erbray",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-12-02T07:33:56+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.349029446113452,
-          47.41096766604195
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D83 / Herbignac",
-        "commune": "Herbignac / Assérac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-12-02T07:11:13+00:00"
       }
     },
     {
@@ -4566,29 +4589,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "2026-10-02T13:57:36+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0474039910077213,
-          47.112372662386974
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Pornic",
-        "commune": "Chaumes-en-Retz / Pornic",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Passage à niveau",
-        "date_heure": "2026-09-02T19:00:56+00:00"
       }
     },
     {
@@ -19801,7 +19801,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-12T10:47:40.665Z",
+    "generated": "2026-02-12T11:39:31.886Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 520,
     "sources": {
