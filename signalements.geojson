@@ -898,7 +898,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "Route barrée localement par la commune",
         "date_heure": 1769161175.172
       }
@@ -963,7 +963,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "Route barrée localement par la commune",
         "date_heure": 1769161249.111
       }
@@ -1781,7 +1781,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769273188.769
       }
@@ -1883,7 +1883,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769349192.029
       }
@@ -3123,6 +3123,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.349029446113452,
+          47.41096766604195
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D83 / Herbignac",
+        "commune": "Herbignac / Assérac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-12-02T07:11:13+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1663731961055563,
+          47.27978205156331
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de Saint-Nazaire",
+        "commune": "Saint-Nazaire / Saint-Brevin",
+        "type_coupure": "Vent",
+        "cause": "Vent",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Vent > 80km/h",
+        "date_heure": "2026-12-02T07:01:13+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-12-02T06:09:04+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "2026-12-02T06:08:48+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.9845787478447519,
           47.44748345792077
         ]
@@ -3231,29 +3323,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-11-02T21:21:23+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1663731961055563,
-          47.27978205156331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint-Nazaire",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Vent",
-        "cause": "Vent",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Vent > 80km/h",
-        "date_heure": "2026-11-02T20:57:44+00:00"
       }
     },
     {
@@ -3507,52 +3576,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-11-02T08:58:59+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon sur 2.9 km",
-        "date_heure": "2026-11-02T08:58:38+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6328789844689204,
-          47.16350343080919
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon sur 3.7 km",
-        "date_heure": "2026-11-02T08:57:37+00:00"
       }
     },
     {
@@ -20618,12 +20641,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-12T06:04:34.230Z",
+    "generated": "2026-02-12T07:34:01.762Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 557,
+    "total_count": 558,
     "sources": {
       "grist_35": 47,
-      "cd44": 54,
+      "cd44": 55,
       "rennes_metropole": 100
     }
   }
