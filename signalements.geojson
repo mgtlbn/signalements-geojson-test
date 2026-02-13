@@ -2691,7 +2691,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769444755.202
       }
@@ -5017,6 +5017,79 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.056921720504761,
+            47.656690822892934
+          ],
+          [
+            -2.0566374063491826,
+            47.656636623086406
+          ],
+          [
+            -2.0564121007919316,
+            47.65661132982413
+          ],
+          [
+            -2.0561170578002934,
+            47.65661132982413
+          ],
+          [
+            -2.055881023406983,
+            47.656596876525875
+          ],
+          [
+            -2.05569863319397,
+            47.65661494314806
+          ],
+          [
+            -2.0506185293197636,
+            47.658273432436566
+          ],
+          [
+            -2.0503020286560063,
+            47.658425186995615
+          ],
+          [
+            -2.0497494935989384,
+            47.6587684397282
+          ],
+          [
+            -2.0493417978286748,
+            47.659115303355044
+          ],
+          [
+            -2.049014568328858,
+            47.659418807138195
+          ],
+          [
+            -2.0488268136978154,
+            47.6595741714873
+          ],
+          [
+            -2.0489019155502324,
+            47.659812636798094
+          ]
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Route de la Châtaigneraie au Tertre",
+        "commune": "Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1770980469.002
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.4033741180539443,
@@ -5034,7 +5107,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:16:22+00:00"
+        "date_heure": "13-02-2026T10:16:22 +0100"
       }
     },
     {
@@ -5057,7 +5130,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:15:51+00:00"
+        "date_heure": "13-02-2026T10:15:51 +0100"
       }
     },
     {
@@ -5080,7 +5153,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:15:03+00:00"
+        "date_heure": "13-02-2026T10:15:03 +0100"
       }
     },
     {
@@ -5103,7 +5176,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:11:11+00:00"
+        "date_heure": "13-02-2026T10:11:11 +0100"
       }
     },
     {
@@ -5126,7 +5199,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:09:32+00:00"
+        "date_heure": "13-02-2026T10:09:32 +0100"
       }
     },
     {
@@ -5149,7 +5222,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:07:56+00:00"
+        "date_heure": "13-02-2026T10:07:56 +0100"
       }
     },
     {
@@ -5172,7 +5245,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:05:25+00:00"
+        "date_heure": "13-02-2026T10:05:25 +0100"
       }
     },
     {
@@ -5195,7 +5268,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:05:24+00:00"
+        "date_heure": "13-02-2026T10:05:24 +0100"
       }
     },
     {
@@ -5218,7 +5291,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:05:03+00:00"
+        "date_heure": "13-02-2026T10:05:03 +0100"
       }
     },
     {
@@ -5241,7 +5314,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:04:47+00:00"
+        "date_heure": "13-02-2026T10:04:47 +0100"
       }
     },
     {
@@ -5264,7 +5337,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:04:29+00:00"
+        "date_heure": "13-02-2026T10:04:29 +0100"
       }
     },
     {
@@ -5287,7 +5360,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:04:07+00:00"
+        "date_heure": "13-02-2026T10:04:07 +0100"
       }
     },
     {
@@ -5310,7 +5383,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:04:05+00:00"
+        "date_heure": "13-02-2026T10:04:05 +0100"
       }
     },
     {
@@ -5333,7 +5406,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:03:37+00:00"
+        "date_heure": "13-02-2026T10:03:37 +0100"
       }
     },
     {
@@ -5356,7 +5429,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:03:26+00:00"
+        "date_heure": "13-02-2026T10:03:26 +0100"
       }
     },
     {
@@ -5379,7 +5452,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:03:11+00:00"
+        "date_heure": "13-02-2026T10:03:11 +0100"
       }
     },
     {
@@ -5402,7 +5475,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:02:54+00:00"
+        "date_heure": "13-02-2026T10:02:54 +0100"
       }
     },
     {
@@ -5425,7 +5498,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:02:49+00:00"
+        "date_heure": "13-02-2026T10:02:49 +0100"
       }
     },
     {
@@ -5448,7 +5521,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:02:24+00:00"
+        "date_heure": "13-02-2026T10:02:24 +0100"
       }
     },
     {
@@ -5471,7 +5544,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:00:39+00:00"
+        "date_heure": "13-02-2026T10:00:39 +0100"
       }
     },
     {
@@ -5494,7 +5567,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:00:20+00:00"
+        "date_heure": "13-02-2026T10:00:20 +0100"
       }
     },
     {
@@ -5517,7 +5590,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T09:00:00+00:00"
+        "date_heure": "13-02-2026T10:00:00 +0100"
       }
     },
     {
@@ -5540,7 +5613,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T08:59:17+00:00"
+        "date_heure": "13-02-2026T09:59:17 +0100"
       }
     },
     {
@@ -5563,7 +5636,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T08:57:14+00:00"
+        "date_heure": "13-02-2026T09:57:14 +0100"
       }
     },
     {
@@ -5586,7 +5659,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T08:51:57+00:00"
+        "date_heure": "13-02-2026T09:51:57 +0100"
       }
     },
     {
@@ -5609,7 +5682,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T08:50:15+00:00"
+        "date_heure": "13-02-2026T09:50:15 +0100"
       }
     },
     {
@@ -5632,7 +5705,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-02-13T08:48:32+00:00"
+        "date_heure": "13-02-2026T09:48:32 +0100"
       }
     },
     {
@@ -5655,7 +5728,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
-        "date_heure": "2026-02-13T06:42:36+00:00"
+        "date_heure": "13-02-2026T07:42:36 +0100"
       }
     },
     {
@@ -5678,7 +5751,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Arrêt cause Ravitaillement",
-        "date_heure": "2026-12-02T20:00:57+00:00"
+        "date_heure": "12-02-2026T21:00:57 +0100"
       }
     },
     {
@@ -5701,7 +5774,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "2026-12-02T11:06:43+00:00"
+        "date_heure": "12-02-2026T12:06:43 +0100"
       }
     },
     {
@@ -5724,7 +5797,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Passage à niveau",
-        "date_heure": "2026-12-02T11:04:53+00:00"
+        "date_heure": "12-02-2026T12:04:53 +0100"
       }
     },
     {
@@ -5747,7 +5820,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "2026-11-02T21:23:04+00:00"
+        "date_heure": "11-02-2026T22:23:04 +0100"
       }
     },
     {
@@ -5770,7 +5843,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-11-02T15:18:24+00:00"
+        "date_heure": "11-02-2026T16:18:24 +0100"
       }
     },
     {
@@ -5793,7 +5866,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-11-02T15:18:09+00:00"
+        "date_heure": "11-02-2026T16:18:09 +0100"
       }
     },
     {
@@ -5816,7 +5889,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
-        "date_heure": "2026-11-02T15:17:44+00:00"
+        "date_heure": "11-02-2026T16:17:44 +0100"
       }
     },
     {
@@ -5839,7 +5912,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-10-02T18:14:29+00:00"
+        "date_heure": "10-02-2026T19:14:29 +0100"
       }
     },
     {
@@ -5862,7 +5935,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Autres",
-        "date_heure": "2026-10-02T18:14:11+00:00"
+        "date_heure": "10-02-2026T19:14:11 +0100"
       }
     },
     {
@@ -5885,7 +5958,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-10-02T13:57:36+00:00"
+        "date_heure": "10-02-2026T14:57:36 +0100"
       }
     },
     {
@@ -5908,7 +5981,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-09-02T16:08:10+00:00"
+        "date_heure": "09-02-2026T17:08:10 +0100"
       }
     },
     {
@@ -5931,7 +6004,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
-        "date_heure": "2026-09-02T16:08:07+00:00"
+        "date_heure": "09-02-2026T17:08:07 +0100"
       }
     },
     {
@@ -5954,7 +6027,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-09-02T07:20:51+00:00"
+        "date_heure": "09-02-2026T08:20:51 +0100"
       }
     },
     {
@@ -5977,7 +6050,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "2026-09-02T07:20:35+00:00"
+        "date_heure": "09-02-2026T08:20:35 +0100"
       }
     },
     {
@@ -6000,7 +6073,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-09-02T07:20:31+00:00"
+        "date_heure": "09-02-2026T08:20:31 +0100"
       }
     },
     {
@@ -6023,7 +6096,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-09-02T07:18:53+00:00"
+        "date_heure": "09-02-2026T08:18:53 +0100"
       }
     },
     {
@@ -6046,7 +6119,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Aménagement de chaussée",
-        "date_heure": "2026-09-02T07:16:47+00:00"
+        "date_heure": "09-02-2026T08:16:47 +0100"
       }
     },
     {
@@ -6069,7 +6142,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-02-02T07:00:56+00:00"
+        "date_heure": "02-02-2026T08:00:56 +0100"
       }
     },
     {
@@ -6092,7 +6165,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
-        "date_heure": "2026-02-02T07:00:56+00:00"
+        "date_heure": "02-02-2026T08:00:56 +0100"
       }
     },
     {
@@ -6115,7 +6188,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-01-24T08:55:58+00:00"
+        "date_heure": "24-01-2026T09:55:58 +0100"
       }
     },
     {
@@ -6138,7 +6211,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-01-24T08:55:55+00:00"
+        "date_heure": "24-01-2026T09:55:55 +0100"
       }
     },
     {
@@ -6161,7 +6234,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
-        "date_heure": "2026-01-24T08:55:51+00:00"
+        "date_heure": "24-01-2026T09:55:51 +0100"
       }
     },
     {
@@ -6184,7 +6257,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-05-01T07:00:31+00:00"
+        "date_heure": "05-01-2026T08:00:31 +0100"
       }
     },
     {
@@ -6207,7 +6280,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2026-05-01T07:00:31+00:00"
+        "date_heure": "05-01-2026T08:00:31 +0100"
       }
     },
     {
@@ -6230,7 +6303,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Aménagement de chaussée",
-        "date_heure": "2026-05-01T07:00:31+00:00"
+        "date_heure": "05-01-2026T08:00:31 +0100"
       }
     },
     {
@@ -6253,7 +6326,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 2.9 km",
-        "date_heure": "2025-12-15T19:13:03+00:00"
+        "date_heure": "15-12-2025T20:13:03 +0100"
       }
     },
     {
@@ -6276,7 +6349,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 2 km",
-        "date_heure": "2025-12-15T19:12:02+00:00"
+        "date_heure": "15-12-2025T20:12:02 +0100"
       }
     },
     {
@@ -6299,7 +6372,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 4 km",
-        "date_heure": "2024-04-07T07:24:02+00:00"
+        "date_heure": "04-07-2024T09:24:02 +0200"
       }
     },
     {
@@ -6322,7 +6395,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
-        "date_heure": "2024-05-13T06:06:06+00:00"
+        "date_heure": "13-05-2024T08:06:06 +0200"
       }
     },
     {
@@ -6345,7 +6418,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "2022-04-07T19:00:18+00:00"
+        "date_heure": "04-07-2022T21:00:18 +0200"
       }
     },
     {
@@ -19861,11 +19934,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-13T10:07:07.442Z",
+    "generated": "2026-02-13T11:08:29.678Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 520,
+    "total_count": 521,
     "sources": {
-      "grist_35": 75,
+      "grist_35": 76,
       "cd44": 58,
       "rennes_metropole": 100
     }
