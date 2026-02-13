@@ -4610,6 +4610,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7860715626387786,
+          47.69947803204926
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D130 / Pierric",
+        "commune": "Pierric / Conquereuil",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-02-13T05:13:48+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7928257993367767,
+          47.67483216137058
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D130 / Conquereuil",
+        "commune": "Pierric / Conquereuil",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-02-13T05:13:23+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.326846898788943,
+          47.32608520277204
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D47 / Saint-André-des-Eaux",
+        "commune": "Guérande / Saint-André-des-Eaux",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "2026-02-13T05:12:44+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -4833,52 +4902,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-11-02T21:22:41+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7860715626387786,
-          47.69947803204926
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D130 / Pierric",
-        "commune": "Pierric / Conquereuil",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-11-02T21:22:10+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7928257993367767,
-          47.67483216137058
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D130 / Conquereuil",
-        "commune": "Pierric / Conquereuil",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-11-02T21:21:23+00:00"
       }
     },
     {
@@ -5224,29 +5247,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "2026-10-02T17:37:09+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.326846898788943,
-          47.32608520277204
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D47 / Saint-André-des-Eaux",
-        "commune": "Guérande / Saint-André-des-Eaux",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "2026-10-02T15:41:36+00:00"
       }
     },
     {
@@ -20505,7 +20505,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-13T04:52:58.595Z",
+    "generated": "2026-02-13T05:59:54.948Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 532,
     "sources": {
