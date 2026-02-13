@@ -5227,6 +5227,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3886093552747358,
+          47.07053687672155
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D117 / Aigrefeuille-sur-Maine",
+        "commune": "St-Lumine-de-Clisson / Aigrefeuille",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 18:51:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4762469222894246,
+          47.0566185036613
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D117 / Montbert",
+        "commune": "Aigrefeuille-sur-Maine / Montbert",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 18:49:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.293435509281958,
+          47.11394997948075
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D149 / Gorges",
+        "commune": "Gorges / Mouzillon",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 18:46:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4759540908951978,
+          46.980906402750136
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D70 / Vieillevigne",
+        "commune": "St Philbert/ Vieillevigne",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 18:35:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5026995805861971,
           47.05002032155679
         ]
@@ -20414,12 +20506,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-13T17:23:12.455Z",
+    "generated": "2026-02-13T18:02:59.106Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 539,
+    "total_count": 543,
     "sources": {
       "grist_35": 79,
-      "cd44": 73,
+      "cd44": 77,
       "rennes_metropole": 100
     }
   }
