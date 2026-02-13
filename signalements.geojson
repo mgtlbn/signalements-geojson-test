@@ -2793,7 +2793,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769617057.801
       }
@@ -5150,6 +5150,214 @@
         "statut": "Actif",
         "description": "",
         "date_heure": 1770989811.516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.779786320690844,
+            47.688027152277165
+          ],
+          [
+            -1.7790998969812912,
+            47.686930105316165
+          ],
+          [
+            -1.7833042422023218,
+            47.68563094091538
+          ],
+          [
+            -1.7840764688755688,
+            47.68306138714765
+          ]
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "C 102",
+        "commune": "Conquereuil",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1770999931.642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.022679018648206,
+            47.56856885629201
+          ],
+          [
+            -2.0212632697472337,
+            47.5691692626418
+          ],
+          [
+            -2.019740267141663,
+            47.56964668928448
+          ]
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "La Catée",
+        "commune": "Fégréac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771000350.016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5026995805861971,
+          47.05002032155679
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D63 / Geneston",
+        "commune": "Montbert / St Colomban",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 18:18:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4297737084244095,
+          46.968750032654626
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D12 / Vieillevigne",
+        "commune": "Vieillevigne / Dep 85",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 18:01:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3706604865684877,
+          47.12041560806387
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D59 / Maisdon-sur-Sèvre",
+        "commune": "Monnières / Maisdon-sur-Sèvre",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 17:55:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2908033386236788,
+          47.055242285274204
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D58 / Saint-Hilaire-de-Clisson",
+        "commune": "Clisson / Saint-Hilaire-de-Clisson",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 17:50:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8389873566914228,
+          47.301187956616275
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D17 / Cordemais",
+        "commune": "Cordemais / St-Etienne-de-Montluc",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 17:47:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2382255834907856,
+          47.146526680349545
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Vallet",
+        "commune": "Vallet / Mouzillon",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-02-2026 17:42:23"
       }
     },
     {
@@ -20206,12 +20414,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-13T16:07:21.114Z",
+    "generated": "2026-02-13T17:23:12.455Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 531,
+    "total_count": 539,
     "sources": {
-      "grist_35": 77,
-      "cd44": 67,
+      "grist_35": 79,
+      "cd44": 73,
       "rennes_metropole": 100
     }
   }
