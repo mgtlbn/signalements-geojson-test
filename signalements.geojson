@@ -5494,6 +5494,43 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1499517642591552,
+            47.67970546747217
+          ],
+          [
+            -2.1486218183218764,
+            47.67947447528822
+          ],
+          [
+            -2.1472918723846184,
+            47.679243482081525
+          ],
+          [
+            -2.146819956084301,
+            47.679041362186744
+          ]
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "D 153 - La Vacherie",
+        "commune": "Saint-Perreux",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771075293.583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.697828723621354,
@@ -31447,11 +31484,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-14T12:50:49.723Z",
+    "generated": "2026-02-14T13:44:37.113Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 844,
+    "total_count": 845,
     "sources": {
-      "grist_35": 84,
+      "grist_35": 85,
       "cd44": 77,
       "rennes_metropole": 100
     }
