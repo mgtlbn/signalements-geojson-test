@@ -2736,7 +2736,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769522286.751
       }
@@ -5441,6 +5441,105 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.099252093982072,
+            47.641375453121825
+          ],
+          [
+            -2.0995524043550007,
+            47.64085533754854
+          ],
+          [
+            -2.1001101236190123,
+            47.640248529501825
+          ],
+          [
+            -2.1009252517741066,
+            47.639121581573356
+          ],
+          [
+            -2.101225562147036,
+            47.63839916626952
+          ],
+          [
+            -2.1014829710381178,
+            47.63764784375746
+          ],
+          [
+            -2.1019548873384357,
+            47.63649194187339
+          ],
+          [
+            -2.1019548873384357,
+            47.635711693645824
+          ]
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "D 775",
+        "commune": "Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771062025.962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.349029446113452,
+          47.41096766604195
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D83 / Herbignac",
+        "commune": "Herbignac / Assérac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "14-02-2026 11:01:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.324793214709421,
+          47.70402657024626
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D14 / Erbray",
+        "commune": "Soudan / Erbray",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "14-02-2026 11:00:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.8584946664276072,
@@ -5627,29 +5726,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7473534138659363,
-          47.25078964939894
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D17 / Saint-Etienne-de-Montluc",
-        "commune": "Saint-Etienne-de-Montluc / Couëron",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 19:24:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3886093552747358,
           47.07053687672155
         ]
@@ -5781,29 +5857,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 17:50:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8389873566914228,
-          47.301187956616275
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D17 / Cordemais",
-        "commune": "Cordemais / St-Etienne-de-Montluc",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 17:47:49"
       }
     },
     {
@@ -6087,29 +6140,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.324793214709421,
-          47.70402657024626
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D14 / Erbray",
-        "commune": "Soudan / Erbray",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 13:03:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.2020854474944875,
           47.44001196245393
         ]
@@ -6195,29 +6225,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 10:15:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.349029446113452,
-          47.41096766604195
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D83 / Herbignac",
-        "commune": "Herbignac / Assérac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:11:11"
       }
     },
     {
@@ -31463,12 +31470,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-14T09:31:43.936Z",
+    "generated": "2026-02-14T10:28:02.622Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 846,
+    "total_count": 845,
     "sources": {
-      "grist_35": 83,
-      "cd44": 80,
+      "grist_35": 84,
+      "cd44": 78,
       "rennes_metropole": 100
     }
   }
