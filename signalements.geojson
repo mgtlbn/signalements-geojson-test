@@ -2206,7 +2206,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769435024.422
       }
@@ -5343,6 +5343,196 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.093891501972227,
+            47.64344768146074
+          ],
+          [
+            -2.0940631078996153,
+            47.64399666494891
+          ],
+          [
+            -2.0940631078996153,
+            47.64474789616238
+          ],
+          [
+            -2.09414891086331,
+            47.64538354490467
+          ],
+          [
+            -2.0944063197543916,
+            47.64633700351477
+          ],
+          [
+            -2.094492122718086,
+            47.646972632919315
+          ],
+          [
+            -2.0945350241999328,
+            47.64734822847709
+          ]
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Rue Jacques Cartier",
+        "commune": "Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771060849.672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.1172210957365993,
+            47.72836362334248
+          ],
+          [
+            -2.1169744122159884,
+            47.72832035279522
+          ],
+          [
+            -2.116781355547677,
+            47.728190540937675
+          ],
+          [
+            -2.116641925731664,
+            47.72804630516096
+          ],
+          [
+            -2.1165453973975183,
+            47.727887645345234
+          ],
+          [
+            -2.1165453973975183,
+            47.727714561358695
+          ],
+          [
+            -2.116470319804276,
+            47.72749820556662
+          ]
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "source": "Grist 35",
+        "gestionnaire": "CD56",
+        "route": "D 149",
+        "commune": "La Gacilly",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771060918.735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8584946664276072,
+          47.186756342218224
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D66 / Rouans",
+        "commune": "Rouans / Le Pellerin",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "14-02-2026 10:27:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8481792392139877,
+          47.485093344033544
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D81 / Blain",
+        "commune": "Le Gâvre / Blain",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "14-02-2026 10:23:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7860715626387786,
+          47.69947803204926
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D130 / Pierric",
+        "commune": "Pierric / Conquereuil",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "14-02-2026 10:22:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.326846898788943,
+          47.32608520277204
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D47 / Saint-André-des-Eaux",
+        "commune": "Guérande / Saint-André-des-Eaux",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "14-02-2026 10:22:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.3513258838871303,
@@ -5360,7 +5550,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "13-02-2026 19:47:11"
+        "date_heure": "14-02-2026 10:21:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.451644155789771,
+          47.28404873691432
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D774 / Batz-sur-Mer",
+        "commune": "Guérande / Batz-sur-Mer",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "14-02-2026 10:20:49"
       }
     },
     {
@@ -5637,29 +5850,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 16:36:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8481792392139877,
-          47.485093344033544
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D81 / Blain",
-        "commune": "Le Gâvre / Blain",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 16:22:54"
       }
     },
     {
@@ -6150,29 +6340,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7860715626387786,
-          47.69947803204926
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D130 / Pierric",
-        "commune": "Pierric / Conquereuil",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:04:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.996362937653489,
           47.494526010840964
         ]
@@ -6265,29 +6432,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.326846898788943,
-          47.32608520277204
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D47 / Saint-André-des-Eaux",
-        "commune": "Guérande / Saint-André-des-Eaux",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:03:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.9176923667117238,
           47.67341920913666
         ]
@@ -6304,29 +6448,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 10:02:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.451644155789771,
-          47.28404873691432
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D774 / Batz-sur-Mer",
-        "commune": "Guérande / Batz-sur-Mer",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:00:39"
       }
     },
     {
@@ -31342,12 +31463,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-14T08:33:41.343Z",
+    "generated": "2026-02-14T09:31:43.936Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 843,
+    "total_count": 846,
     "sources": {
-      "grist_35": 81,
-      "cd44": 79,
+      "grist_35": 83,
+      "cd44": 80,
       "rennes_metropole": 100
     }
   }
