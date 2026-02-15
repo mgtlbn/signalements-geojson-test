@@ -5829,6 +5829,117 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.07500399570723,
+            47.63185548481533
+          ],
+          [
+            -2.074918192743536,
+            47.63133527447065
+          ],
+          [
+            -2.074918192743536,
+            47.630612751512466
+          ],
+          [
+            -2.074918192743536,
+            47.62971680917162
+          ],
+          [
+            -2.0750897986709242,
+            47.62873414507265
+          ],
+          [
+            -2.0754759120075676,
+            47.6278092678667
+          ],
+          [
+            -2.075819123862344,
+            47.6268265679029
+          ],
+          [
+            -2.0760336312715792,
+            47.62607507899362
+          ],
+          [
+            -2.0761194342352733,
+            47.62572823431451
+          ],
+          [
+            -2.075647517934956,
+            47.62555481111189
+          ],
+          [
+            -2.0751756016346183,
+            47.625439195323835
+          ]
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Chemin de Halage du Canal de Nantes à Brest",
+        "commune": "Quinsignac",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771149767.492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7395859454753035,
+          47.11575189363931
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D64 / Port-Saint-Père",
+        "commune": "Port-St-Père / St-Mars-de-Coutais",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 10:50:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.705586337886165,
+          46.99739792403232
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D87 / La Marne",
+        "commune": "La Limouzinière / La Marne",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 10:47:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.2019625375546585,
@@ -30713,12 +30824,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-15T09:32:28.284Z",
+    "generated": "2026-02-15T10:27:00.564Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 836,
+    "total_count": 839,
     "sources": {
-      "grist_35": 91,
-      "cd44": 76,
+      "grist_35": 92,
+      "cd44": 78,
       "rennes_metropole": 100
     }
   }
