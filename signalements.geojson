@@ -5896,6 +5896,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.738356442276498,
+          47.0373993185739
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D73 / Saint-Lumine-de-Coutais",
+        "commune": "St-Lumine / Machecoul-Saint-Même",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 13:35:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7009715606168971,
           47.55564909932197
         ]
@@ -30916,12 +30939,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-15T11:45:43.565Z",
+    "generated": "2026-02-15T12:52:49.059Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 843,
+    "total_count": 844,
     "sources": {
       "grist_35": 92,
-      "cd44": 82,
+      "cd44": 83,
       "rennes_metropole": 100
     }
   }
