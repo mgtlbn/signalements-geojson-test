@@ -5531,6 +5531,304 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.085386251350994,
+            47.64519696172679
+          ],
+          [
+            -2.085257546905453,
+            47.64539921269966
+          ],
+          [
+            -2.085075215607613,
+            47.6455436772008
+          ],
+          [
+            -2.085075215607613,
+            47.645745926831175
+          ],
+          [
+            -2.0850430394962176,
+            47.64599151461531
+          ],
+          [
+            -2.084978687273447,
+            47.646114308074345
+          ],
+          [
+            -2.08475345449376,
+            47.646309332386586
+          ],
+          [
+            -2.0845711231959,
+            47.64651157905238
+          ],
+          [
+            -2.0844531441208307,
+            47.64671382493509
+          ],
+          [
+            -2.084399517268512,
+            47.64683661669609
+          ],
+          [
+            -2.084442418750359,
+            47.64695940816844
+          ],
+          [
+            -2.0843351650457413,
+            47.647082199352134
+          ],
+          [
+            -2.0842064606001998,
+            47.64724110516129
+          ],
+          [
+            -2.0840992068955826,
+            47.64740001048706
+          ],
+          [
+            -2.083949051709118,
+            47.64755891532936
+          ],
+          [
+            -2.0837774457817297,
+            47.64760225292974
+          ]
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Rue de la Vilaine",
+        "commune": "Saint-Nicolas-de-Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771145582.017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.085021103571621,
+            47.64606110759896
+          ],
+          [
+            -2.084994477287743,
+            47.6461905183331
+          ],
+          [
+            -2.0849193996945004,
+            47.646313311324334
+          ],
+          [
+            -2.0848496847865143,
+            47.6464397155726
+          ],
+          [
+            -2.0847102549705014,
+            47.64660584640509
+          ],
+          [
+            -2.0845815505249603,
+            47.64684059559368
+          ],
+          [
+            -2.0844689341351064,
+            47.64696338705667
+          ]
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Rue de la Vilaine",
+        "commune": "Saint-Nicolas-de-Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771145607.625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.083766425835454,
+            47.6476102652176
+          ],
+          [
+            -2.0828440439757423,
+            47.64732134724696
+          ],
+          [
+            -2.0826938887892776,
+            47.647332181699696
+          ],
+          [
+            -2.081036819052931,
+            47.6468049023929
+          ],
+          [
+            -2.0795299045030484,
+            47.64633540263988
+          ]
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Quai Georgette Beaudouin",
+        "commune": "Saint-Nicolas-de-Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771145638.772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.082703690577939,
+            47.647332794820635
+          ],
+          [
+            -2.083004000950868,
+            47.64692469555356
+          ],
+          [
+            -2.082060168350233,
+            47.6465960469233
+          ]
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Rue des Chantiers",
+        "commune": "Saint-Nicolas-de-Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771145658.571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0817112697768203,
+            47.64701752739945
+          ],
+          [
+            -2.0821885487623737,
+            47.64632772526946
+          ]
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Rue de la Batellerie",
+        "commune": "Saint-Nicolas-de-Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771145679.38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.0983041858384537,
+            47.65506829852384
+          ],
+          [
+            -2.0980038754655244,
+            47.65457720715939
+          ],
+          [
+            -2.097875171019983,
+            47.65402833487471
+          ],
+          [
+            -2.0980038754655244,
+            47.653335014268855
+          ],
+          [
+            -2.0983470873203007,
+            47.65252612859435
+          ],
+          [
+            -2.098604496211383,
+            47.651948345441554
+          ],
+          [
+            -2.0986902991750767,
+            47.65076386999366
+          ],
+          [
+            -2.0984328902839944,
+            47.649868273161275
+          ],
+          [
+            -2.0983041858384537,
+            47.64879931490188
+          ],
+          [
+            -2.0979180725018303,
+            47.648163707727
+          ]
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "source": "Grist 35",
+        "gestionnaire": "CD35",
+        "route": "Rue Chico Mendès",
+        "commune": "Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771145739.732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -2.2019625375546585,
@@ -30415,11 +30713,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-15T08:34:26.203Z",
+    "generated": "2026-02-15T09:32:28.284Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 830,
+    "total_count": 836,
     "sources": {
-      "grist_35": 85,
+      "grist_35": 91,
       "cd44": 76,
       "rennes_metropole": 100
     }
