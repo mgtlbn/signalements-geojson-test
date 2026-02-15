@@ -5896,6 +5896,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7009715606168971,
+          47.55564909932197
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D44 / Vay",
+        "commune": "Marsac-sur-Don / Vay",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 12:06:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7016954052042168,
+          47.12645107342354
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D264 / Saint-Philbert-de-Grand-Lieu",
+        "commune": "St-Philbert/ St-Mars-de-Coutais",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 12:05:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7395859454753035,
           47.11575189363931
         ]
@@ -5911,7 +5957,145 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "15-02-2026 10:50:46"
+        "date_heure": "15-02-2026 11:58:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4033741180539443,
+          47.4030120604564
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Saint-Molf",
+        "commune": "Assérac / Saint-Molf",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 11:57:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.447387675934129,
+          47.35361659715909
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D252 / Guérande",
+        "commune": "La Turballe / Guérande",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 11:56:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.433196218904062,
+          47.354492113945994
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D233 / Guérande",
+        "commune": "Saint-Molf / Guérande",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 11:56:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0752610954750406,
+          47.578065709082495
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D124 / Fégréac",
+        "commune": "Fégréac / Sévérac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 11:55:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3896758982336777,
+          47.35428663930269
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D51 / Saint-Lyphard",
+        "commune": "Saint-Lyphard / Guérande",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 11:54:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4737617584335223,
+          47.824435967457475
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D163 / Soulvache",
+        "commune": "Rougé / Soulvache",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "15-02-2026 11:54:28"
       }
     },
     {
@@ -6540,29 +6724,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0752610954750406,
-          47.578065709082495
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D124 / Fégréac",
-        "commune": "Fégréac / Sévérac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 13:56:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8324771371765602,
           47.29733346876153
         ]
@@ -6694,29 +6855,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 13:19:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.4033741180539443,
-          47.4030120604564
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saint-Molf",
-        "commune": "Assérac / Saint-Molf",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:16:22"
       }
     },
     {
@@ -6878,52 +7016,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 10:04:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.447387675934129,
-          47.35361659715909
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D252 / Guérande",
-        "commune": "La Turballe / Guérande",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:04:05"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.433196218904062,
-          47.354492113945994
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D233 / Guérande",
-        "commune": "Saint-Molf / Guérande",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:03:37"
       }
     },
     {
@@ -30824,12 +30916,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-15T10:54:34.153Z",
+    "generated": "2026-02-15T11:23:11.503Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 839,
+    "total_count": 843,
     "sources": {
       "grist_35": 92,
-      "cd44": 78,
+      "cd44": 82,
       "rennes_metropole": 100
     }
   }
