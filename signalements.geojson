@@ -7793,29 +7793,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "12-02-2026 21:00:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0474039910077213,
           47.112372662386974
         ]
@@ -8177,6 +8154,29 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "24-01-2026 09:55:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3320061045743727,
+          47.43012729992172
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D24 / Mouzeil",
+        "commune": "Couffé / Mouzeil",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "24-01-2026 09:55:51"
       }
     },
     {
@@ -31318,7 +31318,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-15T22:52:32.291Z",
+    "generated": "2026-02-15T23:27:31.379Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 861,
     "sources": {
