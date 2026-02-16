@@ -2691,7 +2691,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769444755.202
       }
@@ -5294,7 +5294,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1771055207.215
       }
@@ -5486,7 +5486,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1771062025.962
       }
@@ -5523,7 +5523,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1771075293.583
       }
@@ -5877,29 +5877,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": 1771179328.314
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8298618433421812,
-          47.00260049927228
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D13 / Machecoul-Saint-Même",
-        "commune": "Machecoul / Villeneuve-en-Retz",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "16-02-2026 12:36:38"
       }
     },
     {
@@ -8178,10 +8155,33 @@
         "description": "Travaux sur réseaux",
         "date_heure": "02-02-2026 08:00:56"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3320061045743727,
+          47.43012729992172
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D16 -",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "24-01-2026 09:55:58"
+      }
     }
   ],
   "metadata": {
-    "generated": "2026-02-16T11:40:28.966Z",
+    "generated": "2026-02-16T13:05:10.752Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 192,
     "sources": {
