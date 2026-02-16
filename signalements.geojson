@@ -5899,6 +5899,29 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "16-02-2026 05:00:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "15-02-2026 21:11:39"
       }
     },
@@ -8154,29 +8177,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "24-01-2026 09:55:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3320061045743727,
-          47.43012729992172
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D24 / Mouzeil",
-        "commune": "Couffé / Mouzeil",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "24-01-2026 09:55:51"
       }
     },
     {
@@ -31318,7 +31318,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-16T02:12:24.368Z",
+    "generated": "2026-02-16T04:36:59.757Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 861,
     "sources": {
