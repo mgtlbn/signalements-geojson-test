@@ -5884,6 +5884,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.0989147922540716,
+          47.373861083398054
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D8 / Vair-sur-Loire",
+        "commune": "Vair-sur-Loire / Loireauxence",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "16-02-2026 14:59:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.180571569155055,
           47.302389401571546
         ]
@@ -6520,7 +6543,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "15-02-2026 18:08:21"
+        "date_heure": "04-07-2022 21:00:18 +0200"
       }
     },
     {
@@ -8155,33 +8178,10 @@
         "description": "Travaux sur réseaux",
         "date_heure": "02-02-2026 08:00:56"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3320061045743727,
-          47.43012729992172
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D16 -",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "24-01-2026 09:55:58"
-      }
     }
   ],
   "metadata": {
-    "generated": "2026-02-16T13:05:10.752Z",
+    "generated": "2026-02-16T14:25:36.278Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 192,
     "sources": {
