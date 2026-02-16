@@ -5884,22 +5884,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0989147922540716,
-          47.373861083398054
+          -1.6851913633641766,
+          46.968017921272455
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D8 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Loireauxence",
+        "route": "D63 / La Limouzinière",
+        "commune": "Limouzinière",
         "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Inondation",
-        "date_heure": "16-02-2026 14:59:55"
+        "date_heure": "16-02-2026 16:07:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4059475555250374,
+          47.078320635099196
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D137 / Aigrefeuille-sur-Maine",
+        "commune": "Aigrefeuille-sur-Maine / Montbert",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "16-02-2026 15:59:36"
       }
     },
     {
@@ -5922,7 +5945,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "16-02-2026 09:59:20"
+        "date_heure": "16-02-2026 15:33:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0989147922540716,
+          47.373861083398054
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D8 / Vair-sur-Loire",
+        "commune": "Vair-sur-Loire / Loireauxence",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "16-02-2026 14:59:55"
       }
     },
     {
@@ -6543,7 +6589,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "04-07-2022 21:00:18 +0200"
+        "date_heure": "15-02-2026 18:08:21"
       }
     },
     {
@@ -8132,56 +8178,10 @@
         "description": "Aménagement de chaussée",
         "date_heure": "09-02-2026 08:16:47"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.132442116370741,
-          47.123972715304255
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D751 / Pornic",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "02-02-2026 08:00:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.154867547197195,
-          47.12079287988436
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Pornic",
-        "commune": "Pornic / La Plaine-sur-Mer",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "02-02-2026 08:00:56"
-      }
     }
   ],
   "metadata": {
-    "generated": "2026-02-16T14:25:36.278Z",
+    "generated": "2026-02-16T15:08:28.054Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 192,
     "sources": {
