@@ -5811,6 +5811,121 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8285286340685343,
+          47.62487247172343
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D125 / Guémené-Penfao",
+        "commune": "Marsac-sur-Don / Guémené-Penfao",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "17-02-2026 16:17:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9884378680395274,
+          47.65528178292331
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D255 / Avessac",
+        "commune": "Massérac / Avessac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "17-02-2026 16:15:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3759924621781747,
+          47.28829487982614
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D68 / Mauves-sur-Loire",
+        "commune": "Crue de la Loire",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "17-02-2026 16:06:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4264298146531096,
+          47.25719765492341
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Saint-Julien-de-Concelles",
+        "commune": "Thouaré-sur-Loire / Saint-Julien",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "17-02-2026 16:06:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3862819168581757,
+          47.29339398745542
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D31 / Mauves-sur-Loire",
+        "commune": "Mauves-sur-Loire / Divatte",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "17-02-2026 15:46:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8516269515172465,
           47.19328367480121
         ]
@@ -6379,29 +6494,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "17-02-2026 09:56:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8285286340685343,
-          47.62487247172343
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Guémené-Penfao",
-        "commune": "Marsac-sur-Don / Guémené-Penfao",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "17-02-2026 09:46:19"
       }
     },
     {
@@ -7490,29 +7582,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9884378680395274,
-          47.65528178292331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D255 / Avessac",
-        "commune": "Massérac / Avessac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 09:57:14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.9576170211335358,
           47.47132057486322
         ]
@@ -7529,29 +7598,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 09:51:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3862819168581757,
-          47.29339398745542
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D31 / Mauves-sur-Loire",
-        "commune": "Mauves-sur-Loire / Divatte",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "13-02-2026 07:42:36"
       }
     },
     {
@@ -8058,29 +8104,6 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "13-05-2024 08:06:06 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5158596319695528,
-          47.132985443600795
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "04-07-2022 21:00:18 +0200"
       }
     },
     {
@@ -33752,12 +33775,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-17T14:27:43.311Z",
+    "generated": "2026-02-17T15:26:19.569Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 901,
+    "total_count": 902,
     "sources": {
       "grist_35": 91,
-      "cd44": 99,
+      "cd44": 100,
       "rennes_metropole": 100
     }
   }
