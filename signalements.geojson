@@ -6047,29 +6047,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "15-02-2026 21:11:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "15-02-2026 21:10:16"
       }
     },
@@ -8142,10 +8119,33 @@
         "description": "Déviation",
         "date_heure": "24-01-2026 09:55:58"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3320061045743727,
+          47.43012729992172
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D16 / Teillé",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "24-01-2026 09:55:55"
+      }
     }
   ],
   "metadata": {
-    "generated": "2026-02-17T05:57:10.171Z",
+    "generated": "2026-02-17T07:06:57.331Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 192,
     "sources": {
