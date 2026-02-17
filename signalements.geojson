@@ -5811,6 +5811,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1923107653040255,
+          47.39308998938329
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Saint-Joachim",
+        "commune": "Crossac / Saint-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "17-02-2026 17:24:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33232390006946,
+          47.405220736889135
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D83 / Herbignac",
+        "commune": "Saint-Lyphard / Herbignac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "17-02-2026 16:32:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8285286340685343,
           47.62487247172343
         ]
@@ -5942,29 +5988,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "17-02-2026 13:27:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.33232390006946,
-          47.405220736889135
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D83 / Herbignac",
-        "commune": "Saint-Lyphard / Herbignac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "17-02-2026 13:26:01"
       }
     },
     {
@@ -6609,29 +6632,6 @@
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
         "date_heure": "16-02-2026 15:33:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.697828723621354,
-          47.13412358520624
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D264 / Bouaye",
-        "commune": "Saint-Mars-de-Coutais / Bouaye",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "16-02-2026 06:19:34"
       }
     },
     {
@@ -33775,7 +33775,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-17T15:26:19.569Z",
+    "generated": "2026-02-17T16:30:07.652Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 902,
     "sources": {
