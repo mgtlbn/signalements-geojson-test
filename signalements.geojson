@@ -5811,8 +5811,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
+          -1.3698672631111177,
+          47.50483629369636
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Trans-sur-Erdre",
+        "commune": "Riaillé / Trans-sur-Erdre",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "18-02-2026 17:27:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.511145050563401,
+          47.38240807963046
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D52 / Piriac-sur-Mer",
+        "commune": "Mesquer / Piriac-sur-Mer",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "18-02-2026 17:20:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
         ]
       },
       "properties": {
@@ -5820,13 +5866,82 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "18-02-2026 17:17:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.982449380804502,
+          47.44041000319981
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D17 / Campbon",
+        "commune": "Sainte-Anne-sur-Brivet / Campbon",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "18-02-2026 16:57:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7592070315761295,
+          47.604154532186975
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D42 / Guémené-Penfao",
+        "commune": "Guémené-Penfao / Le Gâvre",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "18-02-2026 16:47:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Arrêt cause Marée haute",
-        "date_heure": "18-02-2026 16:18:55"
+        "date_heure": "18-02-2026 16:26:56"
       }
     },
     {
@@ -6954,29 +7069,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "15-02-2026 20:58:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "15-02-2026 18:52:54"
       }
     },
     {
@@ -44885,12 +44977,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-18T15:26:42.139Z",
+    "generated": "2026-02-18T16:33:40.492Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1230,
+    "total_count": 1234,
     "sources": {
       "grist_35": 91,
-      "cd44": 95,
+      "cd44": 99,
       "rennes_metropole": 100
     }
   }
