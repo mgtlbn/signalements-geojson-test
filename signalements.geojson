@@ -5811,29 +5811,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.521629570314096,
-          47.128763154547556
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "18-02-2026 11:19:52"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.3380247415638924,
           47.40694545464329
         ]
@@ -44885,12 +44862,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-18T13:05:58.233Z",
+    "generated": "2026-02-18T14:27:04.268Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1230,
+    "total_count": 1229,
     "sources": {
       "grist_35": 91,
-      "cd44": 95,
+      "cd44": 94,
       "rennes_metropole": 100
     }
   }
