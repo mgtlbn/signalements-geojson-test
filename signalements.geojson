@@ -6357,52 +6357,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.183879421023599,
-          47.398100765973936
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D16 / Crossac",
-        "commune": "Crossac / Saint-Joachim",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "19-02-2026 06:26:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2640008824260014,
-          47.43671892427079
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D51 / La Chapelle-des-Marais",
-        "commune": "La Chapelle-des-Marais",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "19-02-2026 06:26:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -7461,52 +7415,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "16-02-2026 17:53:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Montoir-de-Bretagne / St-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "16-02-2026 15:33:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1181070905650428,
           47.51350061011965
         ]
@@ -8190,6 +8098,29 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "13-05-2024 08:06:06 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5158596319695528,
+          47.132985443600795
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "04-07-2022 21:00:18 +0200"
       }
     },
     {
@@ -23973,12 +23904,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-19T22:32:44.662Z",
+    "generated": "2026-02-19T23:30:22.979Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 616,
+    "total_count": 613,
     "sources": {
       "grist_35": 93,
-      "cd44": 100,
+      "cd44": 97,
       "rennes_metropole": 100
     }
   }
