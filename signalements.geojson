@@ -5111,7 +5111,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770999931.642
       }
@@ -5897,6 +5897,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.090900267722292,
+          47.41667526728435
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D773 / Pontchâteau",
+        "commune": "Pontchâteau / Besné",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 15:25:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1043602198560647,
+          47.45682755803109
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D126 / Pontchâteau",
+        "commune": "Missillac / Pontchâteau",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 15:23:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8276005734241272,
+          47.165666494645905
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D103 / Rouans",
+        "commune": "Port-Saint-Père / Rouans",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 15:20:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.9239973084766424,
           47.31891671100279
         ]
@@ -6472,52 +6541,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.914074785408472,
-          47.08392449767771
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D605 / Saint-Hilaire-de-Chaléons",
-        "commune": "Commune",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "18-02-2026 08:50:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6685537656296485,
-          46.894011061137235
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D13 / Touvois",
-        "commune": "Touvois / Legé",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "18-02-2026 08:47:19"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.4563877311925117,
           47.28022004304151
         ]
@@ -7063,29 +7086,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "17-02-2026 10:12:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7395859454753035,
-          47.11575189363931
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D64 / Port-Saint-Père",
-        "commune": "Commune",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "17-02-2026 10:09:54"
       }
     },
     {
@@ -23973,7 +23973,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-19T13:38:06.208Z",
+    "generated": "2026-02-19T14:48:45.072Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 616,
     "sources": {
