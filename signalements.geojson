@@ -5811,6 +5811,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1271185121115423,
+          47.22275454340823
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D96 / Saint-Père-en-Retz",
+        "commune": "Saint-Père-en-Retz",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 03:13:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8852030427115767,
+          47.296090352610825
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D93 / Bouée",
+        "commune": "Cordemais / Bouée",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 03:12:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9576170211335358,
+          47.47132057486322
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D43 / Quilly",
+        "commune": "Guenrouet / Quilly",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 03:11:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4569679145334629,
+          47.6141636260218
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D35 / Issé",
+        "commune": "Issé / Abbaretz",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 03:10:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4790731352960018,
           47.7509852391095
         ]
@@ -6080,52 +6172,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "18-02-2026 20:14:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4569611312587603,
-          47.614168033805
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D35 / Issé",
-        "commune": "Issé / Abbaretz",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "18-02-2026 18:04:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8852030427115767,
-          47.296090352610825
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D93 / Bouée",
-        "commune": "Cordemais / Bouée",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "18-02-2026 17:56:07"
       }
     },
     {
@@ -7559,29 +7605,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1271185121115423,
-          47.22275454340823
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D96 / Saint-Père-en-Retz",
-        "commune": "Commune",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 10:03:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.961257643544964,
           47.332087672004874
         ]
@@ -7598,29 +7621,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "13-02-2026 09:59:17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9576170211335358,
-          47.47132057486322
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D43 / Quilly",
-        "commune": "Guenrouet / Quilly",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 09:51:57"
       }
     },
     {
@@ -45000,7 +45000,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-19T02:12:02.108Z",
+    "generated": "2026-02-19T04:30:51.874Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 1235,
     "sources": {
