@@ -5811,8 +5811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
+          -1.6743617405076974,
+          47.19644470749437
         ]
       },
       "properties": {
@@ -5820,13 +5820,59 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "19-02-2026 08:18:54"
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "19-02-2026 10:08:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1373245405934849,
+          47.404407520070144
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D19 / Vair-sur-Loire",
+        "commune": "Vair-sur-Loire / Ancenis",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "19-02-2026 09:42:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "19-02-2026 09:23:07"
       }
     },
     {
@@ -5849,7 +5895,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Arrêt cause Marée haute",
-        "date_heure": "19-02-2026 08:18:08"
+        "date_heure": "19-02-2026 08:18:54"
       }
     },
     {
@@ -6156,29 +6202,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7413300365774258,
-          46.96549025516254
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D263 / Saint-Etienne-de-Mer-Morte",
-        "commune": "Saint-Etienne-de-Mer-Morte / Paulx",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "19-02-2026 03:07:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0203033643556614,
           47.326781198962614
         ]
@@ -6264,29 +6287,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "19-02-2026 03:02:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "18-02-2026 20:21:35"
       }
     },
     {
@@ -23887,7 +23887,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-19T08:03:26.693Z",
+    "generated": "2026-02-19T09:10:28.170Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 614,
     "sources": {
