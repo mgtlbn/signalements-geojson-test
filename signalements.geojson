@@ -4962,7 +4962,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1771060849.672
       }
@@ -5362,7 +5362,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1771179328.314
       }
@@ -5573,55 +5573,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": 1771577377.699
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.0892047882080083,
-            47.67395601694053
-          ],
-          [
-            -2.0902669429779057,
-            47.675169676361406
-          ],
-          [
-            -2.090706825256348,
-            47.67552365504195
-          ],
-          [
-            -2.0910716056823735,
-            47.675747599497655
-          ],
-          [
-            -2.091554403305054,
-            47.675978766959936
-          ],
-          [
-            -2.092208862304688,
-            47.67609435030702
-          ],
-          [
-            -2.0927667617797856,
-            47.67617381370962
-          ]
-        ]
-      },
-      "properties": {
-        "id": 106,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "Rue de la Marionnette",
-        "commune": "Redon",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Route départementale",
-        "date_heure": 1771582062.432
       }
     },
     {
@@ -26127,11 +26078,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-20T11:32:25.589Z",
+    "generated": "2026-02-20T13:00:22.823Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 676,
+    "total_count": 675,
     "sources": {
-      "grist_35": 89,
+      "grist_35": 88,
       "cd44": 97,
       "rennes_metropole": 100
     }
