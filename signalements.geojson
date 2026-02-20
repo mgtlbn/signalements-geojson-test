@@ -5111,7 +5111,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1770999931.642
       }
@@ -5895,6 +5895,151 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7559885978698733,
+            47.704151853351455
+          ],
+          [
+            -1.7557740211486819,
+            47.70423849406998
+          ],
+          [
+            -1.7554628849029543,
+            47.70428903442263
+          ],
+          [
+            -1.7552268505096438,
+            47.70427459432688
+          ],
+          [
+            -1.75481915473938,
+            47.704260154227114
+          ],
+          [
+            -1.7544651031494143,
+            47.70418795366833
+          ],
+          [
+            -1.7541432380676272,
+            47.70406521248889
+          ],
+          [
+            -1.7539930343627932,
+            47.704007451833846
+          ]
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Route de la Tangouais",
+        "commune": "Pierric",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771577292.883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7200684547424319,
+            47.683209457061004
+          ],
+          [
+            -1.7199611663818362,
+            47.683021659604925
+          ],
+          [
+            -1.7198860645294192,
+            47.68269662394866
+          ],
+          [
+            -1.7198324203491213,
+            47.6822776861155
+          ],
+          [
+            -1.7198860645294192,
+            47.681981538376114
+          ],
+          [
+            -1.72011137008667,
+            47.6814975860129
+          ],
+          [
+            -1.7202615737915041,
+            47.681165317611985
+          ],
+          [
+            -1.7203044891357424,
+            47.68076803739833
+          ],
+          [
+            -1.7202615737915041,
+            47.6803274139866
+          ],
+          [
+            -1.7201542854309084,
+            47.67977843534901
+          ],
+          [
+            -1.720089912414551,
+            47.67914999218574
+          ],
+          [
+            -1.7200469970703127,
+            47.67863711916695
+          ]
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "VC109",
+        "commune": "Pierric",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771577377.699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "20-02-2026 10:00:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.893220725911228,
@@ -6327,29 +6472,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Marée haute",
         "date_heure": "19-02-2026 08:18:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "19-02-2026 08:07:16"
       }
     },
     {
@@ -26355,11 +26477,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-20T08:41:03.549Z",
+    "generated": "2026-02-20T09:41:35.645Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 678,
+    "total_count": 680,
     "sources": {
-      "grist_35": 93,
+      "grist_35": 95,
       "cd44": 98,
       "rennes_metropole": 100
     }
