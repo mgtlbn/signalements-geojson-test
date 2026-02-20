@@ -6630,29 +6630,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "17-02-2026 18:27:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3759924621781747,
           47.28829487982614
         ]
@@ -6669,29 +6646,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "17-02-2026 18:00:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "17-02-2026 17:43:42"
       }
     },
     {
@@ -7934,6 +7888,52 @@
         "statut": "Actif",
         "description": "Bouchon sur 4 km",
         "date_heure": "04-07-2024 09:24:02 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6185729517584457,
+          47.31018428842964
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D537 / Treillières",
+        "commune": "Orvault / Treillières",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "13-05-2024 08:06:06 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5158596319695528,
+          47.132985443600795
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "04-07-2022 21:00:18 +0200"
       }
     },
     {
@@ -26208,7 +26208,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-20T22:56:25.243Z",
+    "generated": "2026-02-20T23:32:44.854Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 679,
     "sources": {
