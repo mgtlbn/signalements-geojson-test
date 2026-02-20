@@ -5897,6 +5897,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8285286340685343,
+          47.62487247172343
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D125 / Guémené-Penfao",
+        "commune": "Marsac-sur-Don / Guémené-Penfao",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "20-02-2026 06:03:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -6833,29 +6856,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "17-02-2026 16:32:37"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8285286340685343,
-          47.62487247172343
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Guémené-Penfao",
-        "commune": "Marsac-sur-Don / Guémené-Penfao",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "17-02-2026 16:17:49"
       }
     },
     {
@@ -23904,7 +23904,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-20T04:26:04.126Z",
+    "generated": "2026-02-20T05:37:07.726Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 613,
     "sources": {
