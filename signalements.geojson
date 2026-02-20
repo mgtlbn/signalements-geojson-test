@@ -5897,6 +5897,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "20-02-2026 07:10:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8285286340685343,
           47.62487247172343
         ]
@@ -5982,29 +6005,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "19-02-2026 17:35:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "19-02-2026 17:30:14"
       }
     },
     {
@@ -23904,7 +23904,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-20T05:37:07.726Z",
+    "generated": "2026-02-20T06:57:37.467Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 613,
     "sources": {
