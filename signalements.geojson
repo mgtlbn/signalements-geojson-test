@@ -5578,6 +5578,159 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.087922117336971,
+            47.671803146857776
+          ],
+          [
+            -2.0881366247462068,
+            47.67213547488211
+          ],
+          [
+            -2.0886728932692944,
+            47.672713431622874
+          ],
+          [
+            -2.089380767719771,
+            47.67345031718406
+          ],
+          [
+            -2.090367501802273,
+            47.674201640768295
+          ],
+          [
+            -2.091011024029979,
+            47.6748084711508
+          ],
+          [
+            -2.0918690536669198,
+            47.675487534878435
+          ],
+          [
+            -2.092212265521696,
+            47.67580539145922
+          ],
+          [
+            -2.091890504407843,
+            47.67589207928159
+          ],
+          [
+            -2.09150439107122,
+            47.67587763132122
+          ]
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "source": "Grist 35",
+        "gestionnaire": "Redon Agglo",
+        "route": "Chemin de la Marionnette",
+        "commune": "Redon",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1771602184.252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3507094558642805,
+          47.34084526971072
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D68 / Le Cellier",
+        "commune": "Ligné / Le Cellier",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "20-02-2026 16:19:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3494421507972598,
+          47.34009364226226
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux / D84",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "20-02-2026 16:19:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3819012524948275,
+          47.70654688423223
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D40 / Moisdon-la-Rivière",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "20-02-2026 16:18:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3737171477400476,
+          47.70758740256812
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D41 / Châteaubriant",
+        "commune": "Châteaubriant / Moisdon-la-Rivière",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "20-02-2026 16:18:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           -1.6743617405076974,
@@ -7781,29 +7934,6 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "13-05-2024 08:06:06 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5158596319695528,
-          47.132985443600795
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "04-07-2022 21:00:18 +0200"
       }
     },
     {
@@ -26078,12 +26208,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-20T15:06:53.566Z",
+    "generated": "2026-02-20T15:59:56.631Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 675,
+    "total_count": 679,
     "sources": {
-      "grist_35": 88,
-      "cd44": 97,
+      "grist_35": 89,
+      "cd44": 100,
       "rennes_metropole": 100
     }
   }
