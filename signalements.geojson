@@ -5641,6 +5641,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1421596720341651,
+          47.39280142072751
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D19 / Vair-sur-Loire",
+        "commune": "Vair-sur-Loire / Ancenis",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "21-02-2026 14:49:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -26017,12 +26040,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-21T13:42:07.521Z",
+    "generated": "2026-02-21T14:27:26.805Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 672,
+    "total_count": 673,
     "sources": {
       "grist_35": 89,
-      "cd44": 98,
+      "cd44": 99,
       "rennes_metropole": 100
     }
   }
