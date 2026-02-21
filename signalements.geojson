@@ -6377,29 +6377,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.474728855386221,
-          47.76609798354436
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D44 / Rougé",
-        "commune": "Rougé / Ruffigné",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "19-02-2026 03:02:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -26040,12 +26017,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-21T11:23:08.314Z",
+    "generated": "2026-02-21T11:44:58.832Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 673,
+    "total_count": 672,
     "sources": {
       "grist_35": 89,
-      "cd44": 99,
+      "cd44": 98,
       "rennes_metropole": 100
     }
   }
