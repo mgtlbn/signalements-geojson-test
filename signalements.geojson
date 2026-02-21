@@ -5701,29 +5701,6 @@
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "21-02-2026 06:38:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "20-02-2026 18:05:05"
       }
@@ -7934,6 +7911,29 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "13-05-2024 08:06:06 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5158596319695528,
+          47.132985443600795
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "04-07-2022 21:00:18 +0200"
       }
     },
     {
@@ -26063,7 +26063,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-21T08:32:12.966Z",
+    "generated": "2026-02-21T09:30:15.938Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 674,
     "sources": {
