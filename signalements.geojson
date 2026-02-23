@@ -2695,7 +2695,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770465872.766
       }
@@ -5634,6 +5634,29 @@
         "statut": "Actif",
         "description": "",
         "date_heure": 1771602184.252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7951981643169315,
+          46.9893095660969
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D13 / Machecoul-Saint-Même",
+        "commune": "Paulx / Machecoul-Saint-Même",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "23-02-2026 08:14:08"
       }
     },
     {
@@ -24517,12 +24540,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-23T06:05:25.819Z",
+    "generated": "2026-02-23T07:36:49.569Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 636,
+    "total_count": 637,
     "sources": {
       "grist_35": 89,
-      "cd44": 94,
+      "cd44": 95,
       "rennes_metropole": 100
     }
   }
