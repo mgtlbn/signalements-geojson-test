@@ -4962,7 +4962,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1771060849.672
       }
@@ -5362,7 +5362,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1771179328.314
       }
@@ -5634,6 +5634,29 @@
         "statut": "Actif",
         "description": "",
         "date_heure": 1771602184.252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7119374437136403,
+          47.115840221968696
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D264 / Saint-Mars-de-Coutais",
+        "commune": "Saint-Mars-de-Coutais / Bouaye",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "23-02-2026 15:53:16"
       }
     },
     {
@@ -6446,52 +6469,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.511145050563401,
-          47.38240807963046
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D52 / Piriac-sur-Mer",
-        "commune": "Mesquer / Piriac-sur-Mer",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "18-02-2026 17:20:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.982449380804502,
-          47.44041000319981
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D17 / Campbon",
-        "commune": "Sainte-Anne-sur-Brivet / Campbon",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "18-02-2026 16:57:59"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.4563877311925117,
           47.28022004304151
         ]
@@ -6830,29 +6807,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "17-02-2026 09:59:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1181070905650428,
-          47.51350061011965
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D126 / Missillac",
-        "commune": "Sévérac / Missillac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-02-2026 19:29:23"
       }
     },
     {
@@ -19412,12 +19366,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-23T14:29:28.427Z",
+    "generated": "2026-02-23T15:25:59.707Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 493,
+    "total_count": 491,
     "sources": {
       "grist_35": 89,
-      "cd44": 83,
+      "cd44": 81,
       "rennes_metropole": 100
     }
   }
