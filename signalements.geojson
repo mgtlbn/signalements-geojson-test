@@ -6929,29 +6929,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7016954052042168,
-          47.12645107342354
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D264 / Saint-Philbert-de-Grand-Lieu",
-        "commune": "Commune",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "17-02-2026 08:35:43"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.9176923667117238,
           47.67341920913666
         ]
@@ -22568,12 +22545,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-23T08:52:10.993Z",
+    "generated": "2026-02-23T09:55:56.685Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 581,
+    "total_count": 580,
     "sources": {
       "grist_35": 89,
-      "cd44": 89,
+      "cd44": 88,
       "rennes_metropole": 100
     }
   }
