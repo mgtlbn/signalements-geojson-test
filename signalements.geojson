@@ -5641,6 +5641,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.2255846410787354,
+          47.4061735370931
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D50 / Saint-Joachim",
+        "commune": "La Chapelle-des-Marais / St-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "25-02-2026 14:05:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -6048,29 +6071,6 @@
         "statut": "Actif",
         "description": "Risque d'arrêt cause Marée haute",
         "date_heure": "23-02-2026 11:34:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2255846410787354,
-          47.4061735370931
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D50 / Saint-Joachim",
-        "commune": "La Chapelle-des-Marais / St-Joachim",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "23-02-2026 09:34:03"
       }
     },
     {
@@ -28741,7 +28741,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-25T11:40:19.468Z",
+    "generated": "2026-02-25T13:06:22.044Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 720,
     "sources": {
