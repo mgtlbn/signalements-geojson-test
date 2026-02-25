@@ -5641,6 +5641,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Marée haute",
+        "date_heure": "25-02-2026 10:43:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.146800141206498,
           47.38205581400522
         ]
@@ -6048,29 +6071,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "23-02-2026 09:34:03"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "22-02-2026 14:07:32"
       }
     },
     {
@@ -23601,7 +23601,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-25T08:50:59.145Z",
+    "generated": "2026-02-25T09:55:08.732Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 596,
     "sources": {
