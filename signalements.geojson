@@ -7183,99 +7183,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.745587620640853,
-            48.01364125799059
-          ],
-          [
-            -1.745570758586011,
-            48.013343452620525
-          ],
-          [
-            -1.745508756902929,
-            48.012691281920354
-          ],
-          [
-            -1.745461541209696,
-            48.01194861099586
-          ],
-          [
-            -1.745408274112978,
-            48.01141435366779
-          ],
-          [
-            -1.745223385666429,
-            48.01072643160297
-          ],
-          [
-            -1.745016016828373,
-            48.010250643692395
-          ],
-          [
-            -1.744701437750703,
-            48.00984124191688
-          ],
-          [
-            -1.743866527963251,
-            48.00892957619715
-          ],
-          [
-            -1.742819583490665,
-            48.00794780829417
-          ],
-          [
-            -1.742360684957571,
-            48.007245864177314
-          ],
-          [
-            -1.742179530756079,
-            48.00673519635498
-          ],
-          [
-            -1.741537854067778,
-            48.00367531474015
-          ],
-          [
-            -1.741226295575388,
-            48.001940895657505
-          ],
-          [
-            -1.740891455875722,
-            48.00112681102992
-          ],
-          [
-            -1.740145159908847,
-            47.9990620239266
-          ],
-          [
-            -1.739861973728861,
-            47.99869637233868
-          ],
-          [
-            -1.739869105094103,
-            47.99845389676633
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 77,  de Pierrefitte jusqu'à la Roche Marguerite",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "aménagement du REV Bruz/Laillé",
-        "date_heure": "2026-01-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.740885690314188,
             48.04562668313594
           ],
@@ -7321,35 +7228,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
         "date_heure": "2026-01-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.722919059886642,
-            48.15693475329621
-          ],
-          [
-            -1.724180375551058,
-            48.157609493214316
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 21 au 25bis Rue Michel Gérard",
-        "commune": "35189 - Montgermont",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-02-23T00:00:00+00:00"
       }
     },
     {
@@ -21850,6 +21728,128 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.745587620640853,
+            48.01364125799059
+          ],
+          [
+            -1.745570758586011,
+            48.013343452620525
+          ],
+          [
+            -1.745508756902929,
+            48.012691281920354
+          ],
+          [
+            -1.745461541209696,
+            48.01194861099586
+          ],
+          [
+            -1.745408274112978,
+            48.01141435366779
+          ],
+          [
+            -1.745223385666429,
+            48.01072643160297
+          ],
+          [
+            -1.745016016828373,
+            48.010250643692395
+          ],
+          [
+            -1.744701437750703,
+            48.00984124191688
+          ],
+          [
+            -1.743866527963251,
+            48.00892957619715
+          ],
+          [
+            -1.742819583490665,
+            48.00794780829417
+          ],
+          [
+            -1.742360684957571,
+            48.007245864177314
+          ],
+          [
+            -1.742179530756079,
+            48.00673519635498
+          ],
+          [
+            -1.741537854067778,
+            48.00367531474015
+          ],
+          [
+            -1.741226295575388,
+            48.001940895657505
+          ],
+          [
+            -1.740891455875722,
+            48.00112681102992
+          ],
+          [
+            -1.740145159908847,
+            47.9990620239266
+          ],
+          [
+            -1.739861973728861,
+            47.99869637233868
+          ],
+          [
+            -1.739869105094103,
+            47.99845389676633
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 77,  de Pierrefitte jusqu'à la Roche Marguerite",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "aménagement du REV Bruz/Laillé",
+        "date_heure": "2026-01-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.722919059886642,
+            48.15693475329621
+          ],
+          [
+            -1.724180375551058,
+            48.157609493214316
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 21 au 25bis Rue Michel Gérard",
+        "commune": "35189 - Montgermont",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-02-23T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.646329922949129,
             48.108709979878896
           ],
@@ -25418,7 +25418,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-25T06:01:06.197Z",
+    "generated": "2026-02-25T07:32:58.692Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 659,
     "sources": {
