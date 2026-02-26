@@ -2170,7 +2170,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769440432.485
       }
@@ -2203,7 +2203,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "",
         "date_heure": 1769440592.964
       }
@@ -2695,7 +2695,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770465872.766
       }
@@ -4320,7 +4320,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "Chemin communal",
         "date_heure": 1770907573.557
       }
@@ -4507,7 +4507,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Route communale",
         "date_heure": 1770974084.83
       }
@@ -4620,7 +4620,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Route communale",
         "date_heure": 1770974688.577
       }
@@ -4705,7 +4705,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Résolu",
+        "statut": "Actif",
         "description": "Chemin communal",
         "date_heure": 1770975844.11
       }
@@ -4778,7 +4778,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770980469.002
       }
@@ -4843,7 +4843,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770989811.516
       }
@@ -5415,7 +5415,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Route communale",
         "date_heure": 1771498857.329
       }
@@ -5706,6 +5706,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.2255846410787354,
+          47.4061735370931
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D50 / Saint-Joachim",
+        "commune": "La Chapelle-des-Marais / St-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "26-02-2026 16:44:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.9635173779287245,
           47.184254264142275
         ]
@@ -5814,29 +5837,6 @@
         "statut": "Actif",
         "description": "Arrêt cause exercice sécurité",
         "date_heure": "25-02-2026 14:32:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2255846410787354,
-          47.4061735370931
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D50 / Saint-Joachim",
-        "commune": "La Chapelle-des-Marais / St-Joachim",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "25-02-2026 14:05:33"
       }
     },
     {
@@ -6320,29 +6320,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "20-02-2026 09:17:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8285286340685343,
-          47.62487247172343
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Guémené-Penfao",
-        "commune": "Marsac-sur-Don / Guémené-Penfao",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "20-02-2026 06:03:17"
       }
     },
     {
@@ -26023,12 +26000,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-26T14:48:09.538Z",
+    "generated": "2026-02-26T15:53:54.049Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 666,
+    "total_count": 665,
     "sources": {
       "grist_35": 90,
-      "cd44": 62,
+      "cd44": 61,
       "rennes_metropole": 100
     }
   }
