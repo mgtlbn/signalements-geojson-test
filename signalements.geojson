@@ -5867,52 +5867,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.705586337886165,
-          46.99739792403232
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D87 / La Marne",
-        "commune": "La Limouzinière / La Marne",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "24-02-2026 15:12:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3620389438251284,
-          47.6918547187931
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D41 / Erbray",
-        "commune": "Châteaubriant / Erbray",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "24-02-2026 15:12:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.189497779436774,
           47.394631325089215
         ]
@@ -6051,29 +6005,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "23-02-2026 19:35:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7119374437136403,
           47.115840221968696
         ]
@@ -6182,29 +6113,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "23-02-2026 11:48:24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "23-02-2026 11:34:20"
       }
     },
     {
@@ -26000,12 +25908,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-26T22:34:21.938Z",
+    "generated": "2026-02-26T23:30:28.273Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 665,
+    "total_count": 661,
     "sources": {
       "grist_35": 90,
-      "cd44": 61,
+      "cd44": 57,
       "rennes_metropole": 100
     }
   }
