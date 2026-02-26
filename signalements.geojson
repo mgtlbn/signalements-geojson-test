@@ -959,7 +959,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769187927.39
       }
@@ -992,7 +992,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769188054.208
       }
@@ -1021,7 +1021,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769188100.585
       }
@@ -1050,7 +1050,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769188133.952
       }
@@ -1111,7 +1111,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769188186.695
       }
@@ -5706,6 +5706,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.9635173779287245,
+          47.184254264142275
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D58 / Chaumes-en-Retz",
+        "commune": "Chaumes-en-Retz / Chauvé",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "26-02-2026 13:45:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01576340869096,
+          47.18947530184289
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D751 / Chaumes-en-Retz",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "26-02-2026 13:44:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.053771818132905,
           47.28137763720782
         ]
@@ -5721,7 +5767,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Accident",
-        "date_heure": "26-02-2026 10:52:49"
+        "date_heure": "26-02-2026 13:16:34"
       }
     },
     {
@@ -6688,52 +6734,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "11-02-2026 16:17:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.01576340869096,
-          47.18947530184289
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D751 / Chaumes-en-Retz",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-02-2026 19:14:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9635173779287245,
-          47.184254264142275
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D58 / Chaumes-en-Retz",
-        "commune": "Chaumes-en-Retz / Chauvé",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "10-02-2026 19:14:11"
       }
     },
     {
@@ -26023,7 +26023,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-26T12:00:26.435Z",
+    "generated": "2026-02-26T13:48:02.280Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 666,
     "sources": {
