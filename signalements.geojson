@@ -5706,6 +5706,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.893220725911228,
+          47.32418461355941
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D90 / Bouée",
+        "commune": "Malville / Bouée",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "27-02-2026 12:52:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7119374437136403,
           47.115840221968696
         ]
@@ -6212,29 +6235,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.893220725911228,
-          47.32418461355941
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D90 / Bouée",
-        "commune": "Malville / Bouée",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "20-02-2026 09:17:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.4264298146531096,
           47.25719765492341
         ]
@@ -6511,29 +6511,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0344397132005776,
-          47.46521529957125
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D8 / Loireauxence",
-        "commune": "Loireauxence / Maumusson",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "11-02-2026 22:23:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.088843107698506,
           47.32967718086994
         ]
@@ -6688,52 +6665,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "09-02-2026 08:16:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.132442116370741,
-          47.123972715304255
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D751 / Pornic",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "02-02-2026 08:00:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.154867547197195,
-          47.12079287988436
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Pornic",
-        "commune": "Pornic / La Plaine-sur-Mer",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "02-02-2026 08:00:56"
       }
     },
     {
@@ -20697,12 +20628,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-27T11:32:36.137Z",
+    "generated": "2026-02-27T13:00:49.700Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 516,
+    "total_count": 513,
     "sources": {
       "grist_35": 90,
-      "cd44": 56,
+      "cd44": 53,
       "rennes_metropole": 100
     }
   }
