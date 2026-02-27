@@ -5706,6 +5706,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7119374437136403,
+          47.115840221968696
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D264 / Saint-Mars-de-Coutais",
+        "commune": "Saint-Mars-de-Coutais / Bouaye",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "27-02-2026 15:46:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5033972156763946,
           47.437167890823076
         ]
@@ -5745,29 +5768,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "27-02-2026 12:52:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7119374437136403,
-          47.115840221968696
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D264 / Saint-Mars-de-Coutais",
-        "commune": "Saint-Mars-de-Coutais / Bouaye",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "27-02-2026 11:59:50"
       }
     },
     {
@@ -20651,7 +20651,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-27T14:08:25.386Z",
+    "generated": "2026-02-27T15:06:12.732Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 514,
     "sources": {
