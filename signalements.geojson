@@ -5959,75 +5959,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.738356442276498,
-          47.0373993185739
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D73 / Saint-Lumine-de-Coutais",
-        "commune": "Saint-Lumine-de-Coutais / Machecoul",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "24-02-2026 14:55:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6851913633641766,
-          46.968017921272455
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D63 / La Limouzinière",
-        "commune": "La Limouzinière / Saint-Etienne",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "24-02-2026 14:55:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4737617584335223,
-          47.824435967457475
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D163 / Soulvache",
-        "commune": "Rougé / Soulvache",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "24-02-2026 14:54:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1271185121115423,
           47.22275454340823
         ]
@@ -6044,29 +5975,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "24-02-2026 14:53:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "24-02-2026 08:35:39"
       }
     },
     {
@@ -20628,12 +20536,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-27T22:50:43.166Z",
+    "generated": "2026-02-27T23:25:36.745Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 513,
+    "total_count": 509,
     "sources": {
       "grist_35": 90,
-      "cd44": 53,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
