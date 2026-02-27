@@ -5706,6 +5706,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7119374437136403,
+          47.115840221968696
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D264 / Saint-Mars-de-Coutais",
+        "commune": "Saint-Mars-de-Coutais / Bouaye",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "27-02-2026 11:59:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.189497779436774,
+          47.394631325089215
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Saint-Joachim",
+        "commune": "Crossac / Saint-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "27-02-2026 11:56:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9176923667117238,
+          47.67341920913666
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D125 / Massérac",
+        "commune": "Massérac / La Chapelle-de-Brain",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "27-02-2026 11:41:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2255846410787354,
           47.4061735370931
         ]
@@ -5867,29 +5936,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.189497779436774,
-          47.394631325089215
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D16 / Saint-Joachim",
-        "commune": "Crossac / Saint-Joachim",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "24-02-2026 15:02:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.738356442276498,
           47.0373993185739
         ]
@@ -6005,29 +6051,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7119374437136403,
-          47.115840221968696
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D264 / Saint-Mars-de-Coutais",
-        "commune": "Saint-Mars-de-Coutais / Bouaye",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "23-02-2026 15:53:16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.33232390006946,
           47.405220736889135
         ]
@@ -6044,29 +6067,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "23-02-2026 15:27:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9176923667117238,
-          47.67341920913666
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Massérac",
-        "commune": "Massérac / La Chapelle-de-Brain",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "23-02-2026 11:51:10"
       }
     },
     {
@@ -6228,29 +6228,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "20-02-2026 09:17:46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9884378680395274,
-          47.65528178292331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D255 / Avessac",
-        "commune": "Massérac / Avessac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "18-02-2026 08:19:40"
       }
     },
     {
@@ -20720,12 +20697,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-27T10:38:28.725Z",
+    "generated": "2026-02-27T11:32:36.137Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 517,
+    "total_count": 516,
     "sources": {
       "grist_35": 90,
-      "cd44": 57,
+      "cd44": 56,
       "rennes_metropole": 100
     }
   }
