@@ -5706,6 +5706,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5033972156763946,
+          47.437167890823076
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Nort-sur-Erdre",
+        "commune": "Nort-sur-Erdre / Héric",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "27-02-2026 14:07:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.893220725911228,
           47.32418461355941
         ]
@@ -20628,12 +20651,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-27T13:00:49.700Z",
+    "generated": "2026-02-27T14:08:25.386Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 513,
+    "total_count": 514,
     "sources": {
       "grist_35": 90,
-      "cd44": 53,
+      "cd44": 54,
       "rennes_metropole": 100
     }
   }
