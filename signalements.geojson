@@ -5706,6 +5706,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1853187041970645,
+          47.439745168353696
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D923 / Mésanger",
+        "commune": "Mésanger / Ancenis",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "27-02-2026 08:41:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2255846410787354,
           47.4061735370931
         ]
@@ -25908,12 +25931,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-27T06:55:29.876Z",
+    "generated": "2026-02-27T07:47:30.394Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 661,
+    "total_count": 662,
     "sources": {
       "grist_35": 90,
-      "cd44": 57,
+      "cd44": 58,
       "rennes_metropole": 100
     }
   }
