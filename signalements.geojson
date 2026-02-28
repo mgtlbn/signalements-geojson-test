@@ -5798,52 +5798,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9635173779287245,
-          47.184254264142275
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D58 / Chaumes-en-Retz",
-        "commune": "Chaumes-en-Retz / Chauvé",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "26-02-2026 13:45:02"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.01576340869096,
-          47.18947530184289
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D751 / Chaumes-en-Retz",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "26-02-2026 13:44:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.053771818132905,
           47.28137763720782
         ]
@@ -5906,29 +5860,6 @@
         "statut": "Actif",
         "description": "Arrêt cause exercice sécurité",
         "date_heure": "25-02-2026 14:32:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "25-02-2026 10:43:04"
       }
     },
     {
@@ -42831,12 +42762,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-02-28T22:47:44.707Z",
+    "generated": "2026-02-28T23:22:05.896Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1158,
+    "total_count": 1155,
     "sources": {
       "grist_35": 90,
-      "cd44": 48,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
