@@ -5706,6 +5706,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8584946664276072,
+          47.186756342218224
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D66 / Rouans",
+        "commune": "Rouans / Le Pellerin",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "01-03-2026 15:56:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8518666675481839,
           47.01061179731673
         ]
@@ -5929,29 +5952,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "23-02-2026 11:50:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8584946664276072,
-          47.186756342218224
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D66 / Rouans",
-        "commune": "Rouans / Le Pellerin",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "23-02-2026 11:48:24"
       }
     },
     {
@@ -45254,7 +45254,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-01T14:49:16.946Z",
+    "generated": "2026-03-01T15:24:04.770Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 1215,
     "sources": {
