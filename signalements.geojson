@@ -5729,29 +5729,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8518666675481839,
-          47.01061179731673
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D13 / Villeneuve-en-Retz",
-        "commune": "Machecoul / Villeneuve-en-Retz",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "01-03-2026 10:26:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7119374437136403,
           47.115840221968696
         ]
@@ -45254,12 +45231,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-01T17:46:55.983Z",
+    "generated": "2026-03-01T18:35:01.066Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1215,
+    "total_count": 1214,
     "sources": {
       "grist_35": 90,
-      "cd44": 45,
+      "cd44": 44,
       "rennes_metropole": 100
     }
   }
