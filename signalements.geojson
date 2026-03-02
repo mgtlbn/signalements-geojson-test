@@ -5706,6 +5706,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "02-03-2026 07:03:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "02-03-2026 07:03:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8584946664276072,
           47.186756342218224
         ]
@@ -45208,12 +45254,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-02T05:35:37.967Z",
+    "generated": "2026-03-02T06:59:07.511Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 1213,
+    "total_count": 1215,
     "sources": {
       "grist_35": 90,
-      "cd44": 43,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
