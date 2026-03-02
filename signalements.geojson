@@ -65,7 +65,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Inondation du marais",
         "date_heure": 1769011728.109
       }
@@ -1663,7 +1663,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769275276.843
       }
@@ -1716,7 +1716,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769349192.029
       }
@@ -5706,6 +5706,190 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3937205991100525,
+          47.41367787352924
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D23 / Ligné",
+        "commune": "Ligné / Petit-Mars",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "02-03-2026 10:38:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.071025049039784,
+          47.10956562537875
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pornic",
+        "commune": "La Bernerie-en-Retz vers Pornic",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "02-03-2026 10:37:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3759924621781747,
+          47.28829487982614
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Inondation / D31 / Mauves-sur-Loire",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Pont fermé",
+        "date_heure": "02-03-2026 10:25:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4264298146531096,
+          47.25719765492341
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Saint-Julien-de-Concelles",
+        "commune": "Thouaré-sur-Loire / Saint-Julien",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "02-03-2026 10:24:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9547157808521857,
+          47.390495549260955
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D18 / Montrelais",
+        "commune": "Loireauxence / Montrelais",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "02-03-2026 10:23:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.262962525167023,
+          47.43765255890001
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D51 / La Chapelle-des-Marais",
+        "commune": "La Chapelle-des-Marais / Herbignac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "02-03-2026 10:22:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.189497779436774,
+          47.394631325089215
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Saint-Joachim",
+        "commune": "Crossac / Saint-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "02-03-2026 10:22:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0989147922540716,
+          47.373861083398054
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D8 / Vair-sur-Loire",
+        "commune": "Vair-sur-Loire / Loireauxence",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "02-03-2026 10:21:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1804076462706443,
           47.302136275279786
         ]
@@ -5768,29 +5952,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "27-02-2026 15:46:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.189497779436774,
-          47.394631325089215
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D16 / Saint-Joachim",
-        "commune": "Crossac / Saint-Joachim",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "27-02-2026 11:56:38"
       }
     },
     {
@@ -5913,29 +6074,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.262962525167023,
-          47.43765255890001
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D51 / La Chapelle-des-Marais",
-        "commune": "La Chapelle-des-Marais / Herbignac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "23-02-2026 11:50:44"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3507094558642805,
           47.34084526971072
         ]
@@ -6028,52 +6166,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4264298146531096,
-          47.25719765492341
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Saint-Julien-de-Concelles",
-        "commune": "Thouaré / Saint-Julien-de-Concelles",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Crue de la Loire",
-        "date_heure": "18-02-2026 08:10:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3759924621781747,
-          47.28829487982614
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D68 / Mauves-sur-Loire",
-        "commune": "Crue de la Loire",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "17-02-2026 18:00:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3862819168581757,
           47.29339398745542
         ]
@@ -6090,52 +6182,6 @@
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
         "date_heure": "17-02-2026 15:46:22"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0989147922540716,
-          47.373861083398054
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D8 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Loireauxence",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "17-02-2026 10:50:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.9547157808521857,
-          47.390495549260955
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Montrelais",
-        "commune": "Loireauxence / Montrelais",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "17-02-2026 09:59:32"
       }
     },
     {
@@ -33593,12 +33639,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-02T08:47:30.006Z",
+    "generated": "2026-03-02T09:51:25.725Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 880,
+    "total_count": 882,
     "sources": {
       "grist_35": 90,
-      "cd44": 44,
+      "cd44": 46,
       "rennes_metropole": 100
     }
   }
