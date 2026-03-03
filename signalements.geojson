@@ -6258,167 +6258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8584946664276072,
-          47.186756342218224
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D66 / Rouans",
-        "commune": "Rouans / Le Pellerin",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "01-03-2026 15:56:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7119374437136403,
-          47.115840221968696
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D264 / Saint-Mars-de-Coutais",
-        "commune": "Saint-Mars-de-Coutais / Bouaye",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "27-02-2026 15:46:51"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9176923667117238,
-          47.67341920913666
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D125 / Massérac",
-        "commune": "Massérac / La Chapelle-de-Brain",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "27-02-2026 11:41:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2255846410787354,
-          47.4061735370931
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D50 / Saint-Joachim",
-        "commune": "La Chapelle-des-Marais / St-Joachim",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "26-02-2026 16:44:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.499786088903361,
-          47.34845380142211
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D99 / La Turballe",
-        "commune": "Guérande / La Turballe",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "25-02-2026 16:11:07"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1271185121115423,
-          47.22275454340823
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D96 / Saint-Père-en-Retz",
-        "commune": "Saint-Père-en-Retz / Saint-Brevin",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "24-02-2026 14:53:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.33232390006946,
-          47.405220736889135
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D83 / Herbignac",
-        "commune": "Saint-Lyphard / Herbignac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "23-02-2026 15:27:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3507094558642805,
           47.34084526971072
         ]
@@ -24532,12 +24371,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-03T22:55:15.923Z",
+    "generated": "2026-03-03T23:28:16.088Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 597,
+    "total_count": 590,
     "sources": {
       "grist_35": 89,
-      "cd44": 62,
+      "cd44": 55,
       "rennes_metropole": 100
     }
   }
