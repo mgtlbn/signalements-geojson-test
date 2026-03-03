@@ -5706,6 +5706,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.4264298146531096,
+          47.25719765492341
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Saint-Julien-de-Concelles",
+        "commune": "Thouaré-sur-Loire / Saint-Julien",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Crue de la Loire",
+        "date_heure": "03-03-2026 08:16:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6328789844689204,
           47.16350343080919
         ]
@@ -6182,29 +6205,6 @@
         "statut": "Actif",
         "description": "Pont fermé",
         "date_heure": "02-03-2026 10:25:45"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4264298146531096,
-          47.25719765492341
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Saint-Julien-de-Concelles",
-        "commune": "Thouaré-sur-Loire / Saint-Julien",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "02-03-2026 10:24:31"
       }
     },
     {
@@ -34030,7 +34030,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-03T06:53:34.378Z",
+    "generated": "2026-03-03T07:42:29.378Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 899,
     "sources": {
