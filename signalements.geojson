@@ -158,29 +158,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8527841567993166,
-          47.621872123244344
-        ]
-      },
-      "properties": {
-        "id": 4,
-        "source": "Grist 35",
-        "gestionnaire": "Redon Agglo",
-        "route": "Pont des Claies",
-        "commune": "Guémené-Penfao",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Zone impactée par le débordement du Don\nRoute barrée localement par la commune",
-        "date_heure": 1769156803.609
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -1434,7 +1411,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769188658.633
       }
@@ -1536,7 +1513,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769190480.919
       }
@@ -1745,7 +1722,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769357312.859
       }
@@ -1990,7 +1967,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769357452.294
       }
@@ -2031,7 +2008,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1769357497.25
       }
@@ -2922,7 +2899,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770883468.486
       }
@@ -2951,7 +2928,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770883491.219
       }
@@ -3004,7 +2981,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770883561.355
       }
@@ -3057,7 +3034,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770883651.153
       }
@@ -3187,7 +3164,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770883778.367
       }
@@ -3236,7 +3213,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770883862.207
       }
@@ -3285,7 +3262,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770883916.668
       }
@@ -3346,7 +3323,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770884004.319
       }
@@ -3415,7 +3392,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Chemin communale",
         "date_heure": 1770884945.708
       }
@@ -3488,7 +3465,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Chemin communal",
         "date_heure": 1770885017.312
       }
@@ -3627,7 +3604,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "VC79",
         "date_heure": 1770899882.255
       }
@@ -3664,7 +3641,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "VC11",
         "date_heure": 1770899953.398
       }
@@ -3705,7 +3682,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "",
         "date_heure": 1770900008.342
       }
@@ -3806,7 +3783,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Route d'intérêt communautaire",
         "date_heure": 1770900210.798
       }
@@ -3851,7 +3828,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Chemin communal",
         "date_heure": 1770900312.957
       }
@@ -3940,7 +3917,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Chemin communal",
         "date_heure": 1770900393.735
       }
@@ -3981,7 +3958,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Route communale",
         "date_heure": 1770900485.224
       }
@@ -4066,7 +4043,7 @@
         "type_coupure": "Totale",
         "cause": "Inondation",
         "priorite": "Moyenne",
-        "statut": "Actif",
+        "statut": "Résolu",
         "description": "Route communale",
         "date_heure": 1770900572.439
       }
@@ -5721,7 +5698,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "03-03-2026 09:28:28"
+        "date_heure": "03-03-2026 15:22:15"
       }
     },
     {
@@ -24555,11 +24532,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-03T14:02:49.944Z",
+    "generated": "2026-03-03T15:12:13.853Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 598,
+    "total_count": 597,
     "sources": {
-      "grist_35": 90,
+      "grist_35": 89,
       "cd44": 62,
       "rennes_metropole": 100
     }
