@@ -6166,52 +6166,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "02-03-2026 17:36:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1804076462706443,
-          47.302136275279786
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "02-03-2026 15:15:31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3937205991100525,
           47.41367787352924
         ]
@@ -7018,6 +6972,109 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.752512297718543,
+            48.11427917082597
+          ],
+          [
+            -1.752552534431242,
+            48.114350724366524
+          ],
+          [
+            -1.7526448522976,
+            48.11443983739979
+          ],
+          [
+            -1.7529568217699,
+            48.11476768126213
+          ],
+          [
+            -1.753317049409898,
+            48.11502594491834
+          ],
+          [
+            -1.753803595008426,
+            48.11527782647514
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rond-point, de la Rue du Lozeret jusqu'à la Rue des Violettes,Rue des Violettes, du Rond-point jusqu'au 23",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-03-02T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.713491988215752,
+            48.121373710485706
+          ],
+          [
+            -1.714635455052025,
+            48.12139485972819
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-02-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.588153179187994,
+            48.113798793227964
+          ],
+          [
+            -1.588243649736981,
+            48.113705082338846
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 20 Rue de la Rigourdière",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de travaux sur le réseau électrique",
+        "date_heure": "2026-02-02T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.662717594125369,
             48.10356249384052
           ],
@@ -7101,51 +7158,6 @@
         "statut": "Actif",
         "description": "d'aménagement de chaussée",
         "date_heure": "2026-02-16T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.752512297718543,
-            48.11427917082597
-          ],
-          [
-            -1.752552534431242,
-            48.114350724366524
-          ],
-          [
-            -1.7526448522976,
-            48.11443983739979
-          ],
-          [
-            -1.7529568217699,
-            48.11476768126213
-          ],
-          [
-            -1.753317049409898,
-            48.11502594491834
-          ],
-          [
-            -1.753803595008426,
-            48.11527782647514
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rond-point, de la Rue du Lozeret jusqu'à la Rue des Violettes,Rue des Violettes, du Rond-point jusqu'au 23",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-03-02T00:00:00+00:00"
       }
     },
     {
@@ -7404,35 +7416,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.713491988215752,
-            48.121373710485706
-          ],
-          [
-            -1.714635455052025,
-            48.12139485972819
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-02-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.773050775081252,
             48.115008257113026
           ],
@@ -7589,35 +7572,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-02-02T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.588153179187994,
-            48.113798793227964
-          ],
-          [
-            -1.588243649736981,
-            48.113705082338846
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 20 Rue de la Rigourdière",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de travaux sur le réseau électrique",
         "date_heure": "2026-02-02T00:00:00+00:00"
       }
     },
@@ -22166,12 +22120,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-05T22:32:39.728Z",
+    "generated": "2026-03-05T23:51:38.781Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 547,
+    "total_count": 545,
     "sources": {
       "grist_35": 89,
-      "cd44": 58,
+      "cd44": 56,
       "rennes_metropole": 100
     }
   }
