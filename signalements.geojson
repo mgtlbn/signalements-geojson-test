@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.17982959875411,
+          47.30118281270399
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Pont de Saint Nazaire",
+        "commune": "Saint-Nazaire / Saint-Brevin",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Incident Technique",
+        "date_heure": "05-03-2026 16:10:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1616248230422026,
           47.266843693393504
         ]
@@ -5698,7 +5721,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "05-03-2026 10:26:18"
+        "date_heure": "05-03-2026 16:08:59"
       }
     },
     {
@@ -22120,12 +22143,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-05T14:11:38.050Z",
+    "generated": "2026-03-05T15:12:20.402Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 545,
+    "total_count": 546,
     "sources": {
       "grist_35": 89,
-      "cd44": 56,
+      "cd44": 57,
       "rennes_metropole": 100
     }
   }
