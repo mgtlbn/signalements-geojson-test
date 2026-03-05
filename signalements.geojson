@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1616248230422026,
+          47.266843693393504
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "05-03-2026 10:26:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -5768,52 +5791,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Marée haute",
         "date_heure": "05-03-2026 07:19:29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6328789844689204,
-          47.16350343080919
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "05-03-2026 06:49:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "05-03-2026 06:49:35"
       }
     },
     {
@@ -22189,12 +22166,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-05T08:42:39.542Z",
+    "generated": "2026-03-05T09:43:05.871Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 548,
+    "total_count": 547,
     "sources": {
       "grist_35": 89,
-      "cd44": 59,
+      "cd44": 58,
       "rennes_metropole": 100
     }
   }
