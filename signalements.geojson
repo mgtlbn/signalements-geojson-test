@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.458865384059757,
+          47.37699474486846
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Saint-Molf",
+        "commune": "Saint-Molf / La Turballe",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "06-03-2026 15:09:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.262962525167023,
           47.43765255890001
         ]
@@ -5699,29 +5722,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "06-03-2026 14:56:01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.458865384059757,
-          47.37699474486846
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saint-Molf",
-        "commune": "Saint-Molf / La Turballe",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "06-03-2026 14:41:53"
       }
     },
     {
@@ -23099,7 +23099,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-06T13:57:44.093Z",
+    "generated": "2026-03-06T14:44:42.369Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 572,
     "sources": {
