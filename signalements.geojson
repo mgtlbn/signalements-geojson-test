@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.262962525167023,
+          47.43765255890001
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D51 / La Chapelle-des-Marais",
+        "commune": "La Chapelle-des-Marais / Herbignac",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "06-03-2026 14:56:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.458865384059757,
+          47.37699474486846
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D33 / Saint-Molf",
+        "commune": "Saint-Molf / La Turballe",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "06-03-2026 14:41:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -6228,29 +6274,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "02-03-2026 10:37:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.262962525167023,
-          47.43765255890001
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D51 / La Chapelle-des-Marais",
-        "commune": "La Chapelle-des-Marais / Herbignac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "02-03-2026 10:22:50"
       }
     },
     {
@@ -23076,12 +23099,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-06T12:57:43.257Z",
+    "generated": "2026-03-06T13:57:44.093Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 571,
+    "total_count": 572,
     "sources": {
       "grist_35": 89,
-      "cd44": 57,
+      "cd44": 58,
       "rennes_metropole": 100
     }
   }
