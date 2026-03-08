@@ -5683,29 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.126402335267436,
-          47.3129627691997
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D100 / Montoir-de-Bretagne",
-        "commune": "Donges / Montoir-de-Bretagne",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "07-03-2026 10:53:28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -21366,12 +21343,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-08T12:50:52.381Z",
+    "generated": "2026-03-08T13:40:08.248Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 543,
+    "total_count": 542,
     "sources": {
       "grist_35": 89,
-      "cd44": 50,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
