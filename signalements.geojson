@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3737171477400476,
+          47.70758740256812
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D41 / Châteaubriant",
+        "commune": "Châteaubriant / Moisdon-la-Rivière",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "10-03-2026 16:05:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.349035077907224,
+          47.7226124198053
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D771 / Châteaubriant",
+        "commune": "Châteaubriant / Soudan",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "10-03-2026 13:59:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.189497779436774,
           47.394631325089215
         ]
@@ -5722,29 +5768,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "09-03-2026 15:57:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3737171477400476,
-          47.70758740256812
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D41 / Châteaubriant",
-        "commune": "Châteaubriant / Moisdon-la-Rivière",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "09-03-2026 11:08:52"
       }
     },
     {
@@ -5883,29 +5906,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "20-02-2026 16:19:10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3819012524948275,
-          47.70654688423223
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D40 / Moisdon-la-Rivière",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "20-02-2026 16:18:23"
       }
     },
     {
@@ -6508,7 +6508,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-10T14:11:46.703Z",
+    "generated": "2026-03-10T15:30:29.959Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 125,
     "sources": {
