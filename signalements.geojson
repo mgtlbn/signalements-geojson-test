@@ -5821,29 +5821,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0989147922540716,
-          47.373861083398054
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D8 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Loireauxence",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "09-03-2026 11:04:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.039667366941389,
           47.518993712127354
         ]
@@ -23092,12 +23069,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-11T13:02:08.760Z",
+    "generated": "2026-03-11T14:25:59.763Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 591,
+    "total_count": 590,
     "sources": {
       "grist_35": 89,
-      "cd44": 37,
+      "cd44": 36,
       "rennes_metropole": 100
     }
   }
