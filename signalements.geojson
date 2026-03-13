@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.189497779436774,
+          47.394631325089215
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Saint-Joachim",
+        "commune": "Crossac / Saint-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "13-03-2026 06:12:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.771987902679503,
+          47.26923783221721
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D17 / Saint-Etienne-de-Montluc",
+        "commune": "Saint-Etienne-de-Montluc / Couëron",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "13-03-2026 06:04:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1815113631874956,
           47.30358390086696
         ]
@@ -5768,29 +5814,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "10-03-2026 13:59:27"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.189497779436774,
-          47.394631325089215
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D16 / Saint-Joachim",
-        "commune": "Crossac / Saint-Joachim",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "09-03-2026 15:57:53"
       }
     },
     {
@@ -20655,12 +20678,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-13T04:23:37.795Z",
+    "generated": "2026-03-13T05:32:46.244Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 506,
+    "total_count": 507,
     "sources": {
       "grist_35": 89,
-      "cd44": 37,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
