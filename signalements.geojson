@@ -6097,167 +6097,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3937205991100525,
-          47.41367787352924
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D23 / Ligné",
-        "commune": "Ligné / Petit-Mars",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "14-03-2026 09:45:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.349035077907224,
-          47.7226124198053
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D771 / Châteaubriant",
-        "commune": "Châteaubriant / Soudan",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "14-03-2026 09:44:55"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3862819168581757,
-          47.29339398745542
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D31 / Mauves-sur-Loire",
-        "commune": "Mauves-sur-Loire / Divatte",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "14-03-2026 09:43:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3507094558642805,
-          47.34084526971072
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D68 / Le Cellier",
-        "commune": "Ligné / Le Cellier",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "14-03-2026 09:43:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3494421507972598,
-          47.34009364226226
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D84",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "14-03-2026 09:43:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3501254690805258,
-          47.31409768516848
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D68 / Le Cellier",
-        "commune": "Le Cellier / Mauves-sur-Loire",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "14-03-2026 09:42:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3596819220474428,
-          47.31073445211627
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "14-03-2026 09:42:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.039667366941389,
           47.518993712127354
         ]
@@ -27180,12 +27019,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-16T22:34:25.680Z",
+    "generated": "2026-03-16T23:32:33.866Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 685,
+    "total_count": 678,
     "sources": {
       "grist_35": 89,
-      "cd44": 50,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
