@@ -5683,22 +5683,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1838771734587104,
-          47.305440937060446
+          -1.687833027836597,
+          47.16132507148864
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / St Nazaire",
-        "commune": "Saint-Nazaire vers Guérande",
+        "route": "D751 / Brains",
+        "commune": "Nantes Pornic",
         "type_coupure": "Obstacle",
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bus en panne",
-        "date_heure": "16-03-2026 10:28:29"
+        "description": "Dépannage en cours",
+        "date_heure": "16-03-2026 11:38:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.249178239394679,
+          47.286203460872755
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Nazaire",
+        "commune": "La Baule-Escoublac vers St-Nazaire",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "PL en panne",
+        "date_heure": "16-03-2026 11:13:52"
       }
     },
     {
@@ -26308,12 +26331,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-16T09:39:51.384Z",
+    "generated": "2026-03-16T10:53:27.523Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 673,
+    "total_count": 674,
     "sources": {
       "grist_35": 89,
-      "cd44": 50,
+      "cd44": 51,
       "rennes_metropole": 100
     }
   }
