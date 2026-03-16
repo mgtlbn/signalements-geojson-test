@@ -5683,22 +5683,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.249178239394679,
-          47.286203460872755
+          -2.262962525167023,
+          47.43765255890001
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Saint-Nazaire",
-        "commune": "La Baule-Escoublac vers St-Nazaire",
-        "type_coupure": "Obstacle",
+        "route": "D51 / La Chapelle-des-Marais",
+        "commune": "La Chapelle-des-Marais / Herbignac",
+        "type_coupure": "Inondation",
         "cause": "Autre danger",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "PL en panne",
-        "date_heure": "16-03-2026 11:13:52"
+        "description": "Inondation",
+        "date_heure": "16-03-2026 16:32:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.189497779436774,
+          47.394631325089215
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Saint-Joachim",
+        "commune": "Crossac / Saint-Joachim",
+        "type_coupure": "Inondation",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Inondation",
+        "date_heure": "16-03-2026 15:48:35"
       }
     },
     {
@@ -6205,52 +6228,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "14-03-2026 09:42:53"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.189497779436774,
-          47.394631325089215
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D16 / Saint-Joachim",
-        "commune": "Crossac / Saint-Joachim",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "13-03-2026 06:12:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.262962525167023,
-          47.43765255890001
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D51 / La Chapelle-des-Marais",
-        "commune": "La Chapelle-des-Marais / Herbignac",
-        "type_coupure": "Inondation",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Inondation",
-        "date_heure": "09-03-2026 15:57:00"
       }
     },
     {
@@ -26308,12 +26285,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-16T14:44:05.557Z",
+    "generated": "2026-03-16T16:05:22.309Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 673,
+    "total_count": 672,
     "sources": {
       "grist_35": 89,
-      "cd44": 50,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
