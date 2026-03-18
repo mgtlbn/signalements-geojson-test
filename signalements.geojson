@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.180571569155055,
+          47.302389401571546
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de St Nazaire",
+        "commune": "Pont de St Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "18-03-2026 06:02:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -29063,12 +29086,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-18T04:34:37.119Z",
+    "generated": "2026-03-18T06:03:14.051Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 764,
+    "total_count": 765,
     "sources": {
       "grist_35": 89,
-      "cd44": 42,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
