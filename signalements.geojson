@@ -5706,29 +5706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Autre",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Visite Présidentielle",
-        "date_heure": "16-03-2026 17:33:41"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.262962525167023,
           47.43765255890001
         ]
@@ -25038,12 +25015,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-19T02:22:50.752Z",
+    "generated": "2026-03-19T04:33:43.848Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 639,
+    "total_count": 638,
     "sources": {
       "grist_35": 89,
-      "cd44": 42,
+      "cd44": 41,
       "rennes_metropole": 100
     }
   }
