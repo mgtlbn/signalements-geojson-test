@@ -6463,52 +6463,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6185729517584457,
-          47.31018428842964
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D537 / Treillières",
-        "commune": "Orvault / Treillières",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "13-05-2024 08:06:06 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5158596319695528,
-          47.132985443600795
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "04-07-2022 21:00:18 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -26112,12 +26066,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-20T08:41:19.778Z",
+    "generated": "2026-03-20T09:41:41.379Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 653,
+    "total_count": 651,
     "sources": {
       "grist_35": 89,
-      "cd44": 36,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
