@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3804063109040943,
+          47.319501405439205
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Le Cellier",
+        "commune": "Mauves-sur-Loire / Le Cellier",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "20-03-2026 08:31:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.516057609329174,
           47.13440081645723
         ]
@@ -5745,52 +5768,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Marée haute",
         "date_heure": "20-03-2026 07:13:32"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3804063109040943,
-          47.319501405439205
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Le Cellier",
-        "commune": "Mauves-sur-Loire / Le Cellier",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "20-03-2026 07:10:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de St Nazaire",
-        "commune": "Pont de St Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "20-03-2026 06:07:36"
       }
     },
     {
@@ -34368,12 +34345,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-20T06:56:46.079Z",
+    "generated": "2026-03-20T07:48:48.935Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 895,
+    "total_count": 894,
     "sources": {
       "grist_35": 89,
-      "cd44": 39,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
