@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.180571569155055,
+          47.302389401571546
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de St Nazaire",
+        "commune": "Pont de St Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "20-03-2026 06:07:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -5699,29 +5722,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Marée haute",
         "date_heure": "19-03-2026 18:40:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont deST Nazaire",
-        "commune": "Pont de St Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "19-03-2026 09:30:56"
       }
     },
     {
@@ -34299,7 +34299,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-20T04:25:10.032Z",
+    "generated": "2026-03-20T05:34:00.912Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 892,
     "sources": {
