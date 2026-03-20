@@ -5683,6 +5683,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.516057609329174,
+          47.13440081645723
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Les Sorinières",
+        "commune": "Machecoul / Nantes",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "20-03-2026 07:19:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Pornic / Nantes",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "20-03-2026 07:19:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Marée haute",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Marée haute",
+        "date_heure": "20-03-2026 07:13:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3804063109040943,
+          47.319501405439205
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Le Cellier",
+        "commune": "Mauves-sur-Loire / Le Cellier",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "20-03-2026 07:10:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.180571569155055,
           47.302389401571546
         ]
@@ -5791,29 +5883,6 @@
         "statut": "Actif",
         "description": "Inondation",
         "date_heure": "16-03-2026 15:48:35"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Marée haute",
-        "date_heure": "16-03-2026 06:09:40"
       }
     },
     {
@@ -34299,12 +34368,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-20T05:34:00.912Z",
+    "generated": "2026-03-20T06:56:46.079Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 892,
+    "total_count": 895,
     "sources": {
       "grist_35": 89,
-      "cd44": 36,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
