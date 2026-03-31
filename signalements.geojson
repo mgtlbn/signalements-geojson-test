@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8324771371765602,
+          47.29733346876153
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D17 / Cordemais",
+        "commune": "Cordemais",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "31-03-2026 16:58:16 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -5768,29 +5791,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "02-03-2026 10:37:49"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8324771371765602,
-          47.29733346876153
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D17 / Cordemais",
-        "commune": "Cordemais",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "13-02-2026 13:33:13"
       }
     },
     {
@@ -19220,7 +19220,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-31T14:46:15.725Z",
+    "generated": "2026-03-31T16:05:26.424Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 475,
     "sources": {
