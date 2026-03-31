@@ -5798,52 +5798,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6046938630597423,
-          47.354972396746284
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D26 / Grandchamps-des-Fontaines",
-        "commune": "Grandchamps / Treillières",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "13-02-2026 13:31:54"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6063241050912782,
-          47.36471951668295
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D537 / Grandchamps-des-Fontaines",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "13-02-2026 13:31:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.088843107698506,
           47.32967718086994
         ]
@@ -19266,12 +19220,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-03-31T13:20:25.716Z",
+    "generated": "2026-03-31T14:46:15.725Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 477,
+    "total_count": 475,
     "sources": {
       "grist_35": 89,
-      "cd44": 21,
+      "cd44": 19,
       "rennes_metropole": 100
     }
   }
