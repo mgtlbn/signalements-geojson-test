@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0879732326436664,
+          47.42543875445688
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D773 / Pontchâteau",
+        "commune": "Pontchâteau / Besné",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "03-04-2026 15:46:15 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4070545418457943,
           47.698976173727026
         ]
@@ -18720,12 +18743,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-03T13:05:18.484Z",
+    "generated": "2026-04-03T14:11:19.816Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 463,
+    "total_count": 464,
     "sources": {
       "grist_35": 89,
-      "cd44": 47,
+      "cd44": 48,
       "rennes_metropole": 100
     }
   }
