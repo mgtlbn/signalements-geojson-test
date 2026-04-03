@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.4070545418457943,
+          47.698976173727026
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D771 / Saint-Aubin-des-Châteaux",
+        "commune": "Saint-Aubin / Chateaubriant",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "03-04-2026 11:36:38 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.516057609329174,
           47.13440081645723
         ]
@@ -5745,29 +5768,6 @@
         "statut": "Actif",
         "description": "Manifestation sociale",
         "date_heure": "02-04-2026 15:18:11 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4070545418457943,
-          47.698976173727026
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D771 / Saint-Aubin-des-Châteaux",
-        "commune": "Saint-Aubin / Chateaubriant",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "02-04-2026 14:13:47 +0200"
       }
     },
     {
@@ -18720,7 +18720,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-03T08:55:34.551Z",
+    "generated": "2026-04-03T09:54:14.919Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 463,
     "sources": {
