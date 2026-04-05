@@ -5798,29 +5798,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4070545418457943,
-          47.698976173727026
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D771 / Saint-Aubin-des-Châteaux",
-        "commune": "Saint-Aubin / Chateaubriant",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "03-04-2026 11:36:38 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7059692030014757,
           47.17778749161096
         ]
@@ -18253,12 +18230,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-05T21:32:56.189Z",
+    "generated": "2026-04-05T22:32:03.379Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 452,
+    "total_count": 451,
     "sources": {
       "grist_35": 89,
-      "cd44": 47,
+      "cd44": 46,
       "rennes_metropole": 100
     }
   }
