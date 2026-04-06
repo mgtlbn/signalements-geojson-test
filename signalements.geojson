@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1711087505867988,
+          47.28575084273391
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "St Brévin",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "06-04-2026 15:53:13 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4895232430845062,
           47.058513198732335
         ]
@@ -18374,12 +18397,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-06T13:51:19.295Z",
+    "generated": "2026-04-06T14:48:41.107Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 459,
+    "total_count": 460,
     "sources": {
       "grist_35": 89,
-      "cd44": 46,
+      "cd44": 47,
       "rennes_metropole": 100
     }
   }
