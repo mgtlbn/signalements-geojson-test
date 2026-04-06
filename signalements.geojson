@@ -5729,29 +5729,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.360368603836511,
-          47.2443974996194
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Le Loroux-Bottereau",
-        "commune": "St-Julien-de-Concelles / Le Loroux",
-        "type_coupure": "Manifestation sociale",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Manifestation sociale",
-        "date_heure": "03-04-2026 20:08:00 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8762113339344004,
           47.0246890611887
         ]
@@ -5837,75 +5814,6 @@
         "statut": "Actif",
         "description": "Tournage d'un film",
         "date_heure": "02-04-2026 09:16:06 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2395740061704403,
-          47.485425816830244
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement  D221 / Mésanger",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "01-04-2026 16:33:16 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2375007611923028,
-          47.48336482871341
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Pannecé",
-        "commune": "Pouillé-les-Côteaux / Pannecé",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "01-04-2026 16:33:16 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2395302843244205,
-          47.48544314211681
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Pouillé-les-Côteaux",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "01-04-2026 16:33:16 +0200"
       }
     },
     {
@@ -18397,12 +18305,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-06T21:59:27.183Z",
+    "generated": "2026-04-06T22:49:34.612Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 460,
+    "total_count": 456,
     "sources": {
       "grist_35": 89,
-      "cd44": 47,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
