@@ -5683,29 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1726026624157004,
-          47.287633302974044
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "06-04-2026 11:45:16 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.4895232430845062,
           47.058513198732335
         ]
@@ -18397,12 +18374,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-06T10:09:02.428Z",
+    "generated": "2026-04-06T11:26:35.322Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 460,
+    "total_count": 459,
     "sources": {
       "grist_35": 89,
-      "cd44": 47,
+      "cd44": 46,
       "rennes_metropole": 100
     }
   }
