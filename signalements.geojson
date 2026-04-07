@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7059692030014757,
+          47.17778749161096
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Saint-Jean-de-Boiseau",
+        "commune": "Saint-Jean-de-Boiseau / Brains",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "07-04-2026 08:27:12 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6328789844689204,
           47.16350343080919
         ]
@@ -18351,12 +18374,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-07T05:09:41.506Z",
+    "generated": "2026-04-07T06:51:15.975Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 458,
+    "total_count": 459,
     "sources": {
       "grist_35": 89,
-      "cd44": 45,
+      "cd44": 46,
       "rennes_metropole": 100
     }
   }
