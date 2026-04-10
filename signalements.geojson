@@ -5844,52 +5844,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2858996502360651,
-          47.346436056810994
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D723 / Oudon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "08-04-2026 07:07:22 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2874309768878593,
-          47.347444293587166
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D25 / Oudon",
-        "commune": "Couffé / Oudon",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "08-04-2026 07:07:22 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2659282137135597,
           47.40685298842333
         ]
@@ -23120,12 +23074,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-10T21:38:15.310Z",
+    "generated": "2026-04-10T22:38:04.265Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 565,
+    "total_count": 563,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
