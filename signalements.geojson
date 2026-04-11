@@ -5775,75 +5775,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7059692030014757,
-          47.17778749161096
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Saint-Jean-de-Boiseau",
-        "commune": "Saint-Jean-de-Boiseau vers Brains",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Tournage d'un film",
-        "date_heure": "09-04-2026 06:53:14 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7059692030014757,
-          47.17778749161096
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Saint-Jean-de-Boiseau",
-        "commune": "Saint-Jean-de-Boiseau / Brains",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "09-04-2026 06:53:14 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Montoir-de-Bretagne vers St-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "09-04-2026 06:53:14 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -19479,12 +19410,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-11T21:33:48.310Z",
+    "generated": "2026-04-11T22:33:12.758Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 468,
+    "total_count": 465,
     "sources": {
       "grist_35": 89,
-      "cd44": 42,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
