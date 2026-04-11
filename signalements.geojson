@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.0923522886759764,
+          47.410763078901574
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D112 / Vair-sur-Loire",
+        "commune": "Vair-sur-Loire / Ancenis",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "11-04-2026 07:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.178504636209928,
           47.29822635831763
         ]
@@ -6366,29 +6389,6 @@
         "statut": "Actif",
         "description": "Course cycliste",
         "date_heure": "01-04-2026 16:25:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0923522886759764,
-          47.410763078901574
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D112 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Ancenis",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "01-04-2026 16:25:13 +0200"
       }
     },
     {
@@ -23074,7 +23074,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-11T04:32:58.372Z",
+    "generated": "2026-04-11T06:01:21.830Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 563,
     "sources": {
