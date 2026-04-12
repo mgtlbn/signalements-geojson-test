@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.4967182435611017,
+          47.06532555353339
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Course cycliste",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "12-04-2026 11:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4969594985341215,
+          47.07135346771939
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D57 / Montbert",
+        "commune": "Commune",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "12-04-2026 11:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.0923522886759764,
           47.410763078901574
         ]
@@ -5692,7 +5738,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D112 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Ancenis",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5715,7 +5761,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Brevin / Saint-Nazaire",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5738,7 +5784,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Ravitaillement",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -5761,7 +5807,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Pont de St Nazaire",
-        "commune": "Dans les deux sens",
+        "commune": "Commune",
         "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5784,7 +5830,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -5830,7 +5876,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D14 / Mésanger",
-        "commune": "Mésanger / Ancenis",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5853,7 +5899,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Montoir vers St Brevin",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5899,7 +5945,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D149 / Boussay",
-        "commune": "Boussay / Gétigné",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5945,7 +5991,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Couffé",
-        "commune": "Couffé / Le Cellier",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5968,7 +6014,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D207 / Divatte-sur-Loire",
-        "commune": "Divatte-sur-Loire / La Remaudière",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6014,7 +6060,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D14 / Mésanger",
-        "commune": "Teillé / Mésanger",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6037,7 +6083,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D37 / Vallet",
-        "commune": "Vallet / Mouzillon",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6083,7 +6129,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D116 / Le Pallet",
-        "commune": "Vallet / Le Pallet",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6129,7 +6175,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D163 / Le Pin",
-        "commune": "La Chapelle-Glain / Le Pin",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6175,7 +6221,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D9 / Saint-Mars-du-Désert",
-        "commune": "Saint-Mars-du-Désert / Carquefou",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6221,7 +6267,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Abbaretz",
-        "commune": "Abbaretz / Nozay",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6267,59 +6313,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D26 / Nort-sur-Erdre",
-        "commune": "Nort-sur-Erdre / Casson",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "01-04-2026 16:26:02 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4967182435611017,
-          47.06532555353339
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Course cycliste",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "01-04-2026 16:25:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4969594985341215,
-          47.07135346771939
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D57 / Montbert",
-        "commune": "Montbert vers Le Bignon",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "01-04-2026 16:25:35 +0200"
       }
     },
     {
@@ -6336,7 +6336,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D773 / Saint-Gildas-des-Bois",
-        "commune": "Sévérac / Saint-Gildas-des-Bois",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6359,7 +6359,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Pornic",
-        "commune": "La Bernerie-en-Retz vers Pornic",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6428,7 +6428,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D4 / Donges",
-        "commune": "Crossac vers Donges",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6497,7 +6497,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D24 / Mouzeil",
-        "commune": "Couffé / Mouzeil",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6520,7 +6520,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6543,7 +6543,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6566,7 +6566,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -16515,7 +16515,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-12T08:02:47.165Z",
+    "generated": "2026-04-12T09:12:09.075Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 414,
     "sources": {
