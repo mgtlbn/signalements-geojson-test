@@ -5959,29 +5959,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1800196830242036,
-          47.301508113949474
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de St Nazaire",
-        "commune": "Dans les deux sens",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "09-04-2026 15:37:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -13870,35 +13847,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.629513845441744,
-            48.11402826188464
-          ],
-          [
-            -1.629269381867174,
-            48.114045143082464
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "75 Rue de Rennes",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de raccordement aux réseaux d'assainissements",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.678719295202905,
             48.15521286402428
           ],
@@ -13977,64 +13925,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.860955850231759,
-            48.273234052145696
-          ],
-          [
-            -1.857433513551301,
-            48.27226850277675
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Montmuran, Route départementale 27 et VC La Cointais",
-        "commune": "35058 - la Chapelle-Chaussée",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680731110634808,
-            48.12000617817319
-          ],
-          [
-            -1.680740809883861,
-            48.12004070019979
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Rue de Dinan (n°111) et de la Rue de Saint-Malo / accès Rue de Dinan",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
         "date_heure": "2026-04-13T00:00:00+00:00"
       }
     },
@@ -14345,76 +14235,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.638136984893807,
-            48.12260722250348
-          ],
-          [
-            -1.638393821737528,
-            48.12258259942882
-          ],
-          [
-            -1.638454309599936,
-            48.12257884527804
-          ],
-          [
-            -1.638683092292178,
-            48.12254923995914
-          ],
-          [
-            -1.638813479493373,
-            48.122508923105116
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue des Buttes de Coësmes, du 41 jusqu'à l'Avenue Pierre Donzelot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-03-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650318808470902,
-            48.01973406224525
-          ],
-          [
-            -1.648949156592179,
-            48.019812073454574
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 5 au 15 Rue de l'Ise",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.586740971375773,
             48.15979212207366
           ],
@@ -14522,6 +14342,163 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "de rénovation de trappe de visite",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.629513845441744,
+            48.11402826188464
+          ],
+          [
+            -1.629269381867174,
+            48.114045143082464
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "75 Rue de Rennes",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de raccordement aux réseaux d'assainissements",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.860955850231759,
+            48.273234052145696
+          ],
+          [
+            -1.857433513551301,
+            48.27226850277675
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Montmuran, Route départementale 27 et VC La Cointais",
+        "commune": "35058 - la Chapelle-Chaussée",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680731110634808,
+            48.12000617817319
+          ],
+          [
+            -1.680740809883861,
+            48.12004070019979
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Rue de Dinan (n°111) et de la Rue de Saint-Malo / accès Rue de Dinan",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.638136984893807,
+            48.12260722250348
+          ],
+          [
+            -1.638393821737528,
+            48.12258259942882
+          ],
+          [
+            -1.638454309599936,
+            48.12257884527804
+          ],
+          [
+            -1.638683092292178,
+            48.12254923995914
+          ],
+          [
+            -1.638813479493373,
+            48.122508923105116
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue des Buttes de Coësmes, du 41 jusqu'à l'Avenue Pierre Donzelot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.650318808470902,
+            48.01973406224525
+          ],
+          [
+            -1.648949156592179,
+            48.019812073454574
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 5 au 15 Rue de l'Ise",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
         "date_heure": "2026-04-13T00:00:00+00:00"
       }
     },
@@ -16676,12 +16653,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-12T21:35:51.778Z",
+    "generated": "2026-04-12T22:35:28.230Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 421,
+    "total_count": 420,
     "sources": {
       "grist_35": 89,
-      "cd44": 46,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
