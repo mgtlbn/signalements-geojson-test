@@ -6097,29 +6097,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.039667366941389,
-          47.518993712127354
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D773 / Saint-Gildas-des-Bois",
-        "commune": "Sévérac / Saint-Gildas-des-Bois",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "13-04-2026 05:54:51 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -6281,29 +6258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.178504636209928,
-          47.29822635831763
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Brevin / Saint-Nazaire",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "10-04-2026 12:10:54 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -6343,52 +6297,6 @@
         "statut": "Actif",
         "description": "Bac de réserve",
         "date_heure": "09-04-2026 04:53:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2659282137135597,
-          47.40685298842333
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur ouvrage d'art",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "07-04-2026 13:25:15 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2109006626305348,
-          47.39816049248471
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D14 / Mésanger",
-        "commune": "Mésanger / Ancenis",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "07-04-2026 13:25:15 +0200"
       }
     },
     {
@@ -19112,12 +19020,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-13T21:52:44.450Z",
+    "generated": "2026-04-13T22:43:47.555Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 493,
+    "total_count": 489,
     "sources": {
       "grist_35": 89,
-      "cd44": 54,
+      "cd44": 50,
       "rennes_metropole": 100
     }
   }
