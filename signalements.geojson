@@ -5693,6 +5693,29 @@
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
         "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Incident",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Incident",
+        "date_heure": "17-04-2026 15:19:13 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Marée haute",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -21852,12 +21875,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-17T11:54:05.650Z",
+    "generated": "2026-04-17T13:21:29.532Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 569,
+    "total_count": 570,
     "sources": {
       "grist_35": 89,
-      "cd44": 60,
+      "cd44": 61,
       "rennes_metropole": 100
     }
   }
