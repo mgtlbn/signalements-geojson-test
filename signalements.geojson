@@ -12501,93 +12501,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.685201705584906,
-            48.11047543397691
-          ],
-          [
-            -1.685383539839664,
-            48.11085666026391
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interruption de circulation travaux",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-04-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.685383539839664,
-            48.11085666026391
-          ],
-          [
-            -1.685508843056028,
-            48.111119174954496
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interruption de circulation travaux",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-04-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.685606687804323,
-            48.111343894463374
-          ],
-          [
-            -1.685605791776582,
-            48.11133108833262
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interruption de circulation travaux",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-04-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.651090289788338,
             48.10724693289531
           ],
@@ -12732,80 +12645,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.638136984893807,
-            48.12260722250348
-          ],
-          [
-            -1.638393821737528,
-            48.12258259942882
-          ],
-          [
-            -1.638454309599936,
-            48.12257884527804
-          ],
-          [
-            -1.638683092292178,
-            48.12254923995914
-          ],
-          [
-            -1.638813479493373,
-            48.122508923105116
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue des Buttes de Coësmes, du 41 jusqu'à la Rue de Beaulieu",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-03-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.638192211943631,
-            48.12240299268837
-          ],
-          [
-            -1.638224426407308,
-            48.12239454862114
-          ],
-          [
-            -1.638453886891383,
-            48.12234601616139
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue des Buttes de Coësmes, du 41 jusqu'à la Rue de Beaulieu",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-03-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.613532248398769,
             48.127293730194374
           ],
@@ -12856,35 +12695,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
         "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684673077896788,
-            48.11604588878598
-          ],
-          [
-            -1.684239329301938,
-            48.11595662049776
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Jacques Cassard, du n°4 jusqu'à la Rue de Dinan",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "réaménagement de voirie - sécurisation des modes de déplacement doux   EUROVIA / DLE / HELIOS",
-        "date_heure": "2026-04-08T00:00:00+00:00"
       }
     },
     {
@@ -13198,6 +13008,196 @@
         "statut": "Actif",
         "description": "réaménagement et sécurisation de traversées cycles / piétons",
         "date_heure": "2026-04-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.685201705584906,
+            48.11047543397691
+          ],
+          [
+            -1.685383539839664,
+            48.11085666026391
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interruption de circulation travaux",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-04-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.685383539839664,
+            48.11085666026391
+          ],
+          [
+            -1.685508843056028,
+            48.111119174954496
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interruption de circulation travaux",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-04-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.685606687804323,
+            48.111343894463374
+          ],
+          [
+            -1.685605791776582,
+            48.11133108833262
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Nantaise, de la Place Maréchal Foch jusqu'au 10",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interruption de circulation travaux",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-04-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.638136984893807,
+            48.12260722250348
+          ],
+          [
+            -1.638393821737528,
+            48.12258259942882
+          ],
+          [
+            -1.638454309599936,
+            48.12257884527804
+          ],
+          [
+            -1.638683092292178,
+            48.12254923995914
+          ],
+          [
+            -1.638813479493373,
+            48.122508923105116
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue des Buttes de Coësmes, du 41 jusqu'à la Rue de Beaulieu",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.638192211943631,
+            48.12240299268837
+          ],
+          [
+            -1.638224426407308,
+            48.12239454862114
+          ],
+          [
+            -1.638453886891383,
+            48.12234601616139
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue des Buttes de Coësmes, du 41 jusqu'à la Rue de Beaulieu",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684673077896788,
+            48.11604588878598
+          ],
+          [
+            -1.684239329301938,
+            48.11595662049776
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Jacques Cassard, du n°4 jusqu'à la Rue de Dinan",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "réaménagement de voirie - sécurisation des modes de déplacement doux   EUROVIA / DLE / HELIOS",
+        "date_heure": "2026-04-08T00:00:00+00:00"
       }
     },
     {
@@ -21806,7 +21806,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-18T07:41:30.822Z",
+    "generated": "2026-04-18T08:52:28.861Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 567,
     "sources": {
