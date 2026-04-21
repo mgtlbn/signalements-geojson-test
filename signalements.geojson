@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8251287358993595,
+          47.010813004839015
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D95 / Machecoul-Saint-Même",
+        "commune": "Sainte-Pazanne / Machecoul",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "21-04-2026 17:36:40 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.516057609329174,
           47.13440081645723
         ]
@@ -20424,12 +20447,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-21T14:46:35.779Z",
+    "generated": "2026-04-21T16:10:05.593Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 529,
+    "total_count": 530,
     "sources": {
       "grist_35": 89,
-      "cd44": 48,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
