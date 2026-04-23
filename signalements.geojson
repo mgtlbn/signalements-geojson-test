@@ -5683,52 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.516057609329174,
-          47.13440081645723
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "23-04-2026 16:49:05 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6328789844689204,
-          47.16350343080919
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "23-04-2026 16:48:52 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2872528850696714,
           47.34573640824839
         ]
@@ -5761,7 +5715,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D323 / Oudon",
-        "commune": "Oudon / Le Cellier",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5784,7 +5738,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D9 / Pannecé",
-        "commune": "Bonnoeuvre / Pannecé",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5807,7 +5761,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33A / Pontchâteau",
-        "commune": "Pontchâteau / Sainte-Reine",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5876,7 +5830,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D81 / Vigneux-de-Bretagne",
-        "commune": "Vigneux-de-Bretagne / Sautron",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5922,7 +5876,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D26 / Nort-sur-Erdre",
-        "commune": "Nort-sur-Erdre / Casson",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5968,7 +5922,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Abbaretz",
-        "commune": "Abbaretz / Nozay",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6014,7 +5968,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D9 / Saint-Mars-du-Désert",
-        "commune": "Saint-Mars-du-Désert / Carquefou",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6083,7 +6037,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D23 / Couffé",
-        "commune": "Saint-Géréon / Couffé",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6106,7 +6060,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Ravitaillement",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -6129,7 +6083,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -6152,7 +6106,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Montoir vers St Brevin",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6198,7 +6152,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D149 / Boussay",
-        "commune": "Boussay / Gétigné",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6244,7 +6198,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Couffé",
-        "commune": "Couffé / Le Cellier",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6267,7 +6221,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D207 / Divatte-sur-Loire",
-        "commune": "Divatte-sur-Loire / La Remaudière",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6313,7 +6267,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D14 / Mésanger",
-        "commune": "Teillé / Mésanger",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6336,7 +6290,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D37 / Vallet",
-        "commune": "Vallet / Mouzillon",
+        "commune": "Commune",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6382,7 +6336,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D116 / Le Pallet",
-        "commune": "Vallet / Le Pallet",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6428,7 +6382,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D163 / Le Pin",
-        "commune": "La Chapelle-Glain / Le Pin",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6451,7 +6405,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Pornic",
-        "commune": "La Bernerie-en-Retz vers Pornic",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6520,7 +6474,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D4 / Donges",
-        "commune": "Crossac vers Donges",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6589,7 +6543,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D24 / Mouzeil",
-        "commune": "Couffé / Mouzeil",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6612,7 +6566,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6635,7 +6589,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6658,234 +6612,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bouchon sur 4 km",
         "date_heure": "04-07-2024 09:24:02 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.745587620640853,
-            48.01364125799059
-          ],
-          [
-            -1.745570758586011,
-            48.013343452620525
-          ],
-          [
-            -1.745508756902929,
-            48.012691281920354
-          ],
-          [
-            -1.745461541209696,
-            48.01194861099586
-          ],
-          [
-            -1.745408274112978,
-            48.01141435366779
-          ],
-          [
-            -1.745223385666429,
-            48.01072643160297
-          ],
-          [
-            -1.745016016828373,
-            48.010250643692395
-          ],
-          [
-            -1.744701437750703,
-            48.00984124191688
-          ],
-          [
-            -1.743866527963251,
-            48.00892957619715
-          ],
-          [
-            -1.742819583490665,
-            48.00794780829417
-          ],
-          [
-            -1.742360684957571,
-            48.007245864177314
-          ],
-          [
-            -1.742179530756079,
-            48.00673519635498
-          ],
-          [
-            -1.741537854067778,
-            48.00367531474015
-          ],
-          [
-            -1.741226295575388,
-            48.001940895657505
-          ],
-          [
-            -1.740891455875722,
-            48.00112681102992
-          ],
-          [
-            -1.740145159908847,
-            47.9990620239266
-          ],
-          [
-            -1.739861973728861,
-            47.99869637233868
-          ],
-          [
-            -1.739869105094103,
-            47.99845389676633
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 77,  de Pierrefitte jusqu'à la Roche Marguerite",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "aménagement du REV Bruz/Laillé",
-        "date_heure": "2026-02-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.713491988215752,
-            48.121373710485706
-          ],
-          [
-            -1.714635455052025,
-            48.12139485972819
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-02-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.686588021359907,
-            48.12721231887105
-          ],
-          [
-            -1.687509380623044,
-            48.12707206841443
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.687945211906622,
-            48.12700572279418
-          ],
-          [
-            -1.687509380623044,
-            48.12707206841443
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.720497683975013,
-            47.97633678282097
-          ],
-          [
-            -1.720439538839976,
-            47.97496495614535
-          ],
-          [
-            -1.721153605559675,
-            47.973966846585746
-          ],
-          [
-            -1.722220325072443,
-            47.97315696324478
-          ],
-          [
-            -1.723380936000986,
-            47.9711717311269
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 77 et Rue du Courtil du Bois",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-04-13T00:00:00+00:00"
       }
     },
     {
@@ -7120,6 +6853,134 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.713491988215752,
+            48.121373710485706
+          ],
+          [
+            -1.714635455052025,
+            48.12139485972819
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-02-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.686588021359907,
+            48.12721231887105
+          ],
+          [
+            -1.687509380623044,
+            48.12707206841443
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.687945211906622,
+            48.12700572279418
+          ],
+          [
+            -1.687509380623044,
+            48.12707206841443
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.720497683975013,
+            47.97633678282097
+          ],
+          [
+            -1.720439538839976,
+            47.97496495614535
+          ],
+          [
+            -1.721153605559675,
+            47.973966846585746
+          ],
+          [
+            -1.722220325072443,
+            47.97315696324478
+          ],
+          [
+            -1.723380936000986,
+            47.9711717311269
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 77 et Rue du Courtil du Bois",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.623326700650224,
             48.0975854645977
           ],
@@ -7145,105 +7006,6 @@
         "statut": "Actif",
         "description": "de renouvellement et dévoiement du réseau d'eau potable",
         "date_heure": "2026-04-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.673392847189769,
-            48.11265228547038
-          ],
-          [
-            -1.673039919044949,
-            48.112485058684186
-          ],
-          [
-            -1.672635562149166,
-            48.11234966085579
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.673570086623288,
-            48.11273626542958
-          ],
-          [
-            -1.674236230086739,
-            48.113354896094876
-          ],
-          [
-            -1.674258790130391,
-            48.113361818343215
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67352199281171,
-            48.11265397002555
-          ],
-          [
-            -1.673491895657099,
-            48.11260248063906
-          ],
-          [
-            -1.673488307298251,
-            48.11240403036563
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-03-30T00:00:00+00:00"
       }
     },
     {
@@ -13902,6 +13664,198 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.745587620640853,
+            48.01364125799059
+          ],
+          [
+            -1.745570758586011,
+            48.013343452620525
+          ],
+          [
+            -1.745508756902929,
+            48.012691281920354
+          ],
+          [
+            -1.745461541209696,
+            48.01194861099586
+          ],
+          [
+            -1.745408274112978,
+            48.01141435366779
+          ],
+          [
+            -1.745223385666429,
+            48.01072643160297
+          ],
+          [
+            -1.745016016828373,
+            48.010250643692395
+          ],
+          [
+            -1.744701437750703,
+            48.00984124191688
+          ],
+          [
+            -1.743866527963251,
+            48.00892957619715
+          ],
+          [
+            -1.742819583490665,
+            48.00794780829417
+          ],
+          [
+            -1.742360684957571,
+            48.007245864177314
+          ],
+          [
+            -1.742179530756079,
+            48.00673519635498
+          ],
+          [
+            -1.741537854067778,
+            48.00367531474015
+          ],
+          [
+            -1.741226295575388,
+            48.001940895657505
+          ],
+          [
+            -1.740891455875722,
+            48.00112681102992
+          ],
+          [
+            -1.740145159908847,
+            47.9990620239266
+          ],
+          [
+            -1.739861973728861,
+            47.99869637233868
+          ],
+          [
+            -1.739869105094103,
+            47.99845389676633
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 77,  de Pierrefitte jusqu'à la Roche Marguerite",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "aménagement du REV Bruz/Laillé",
+        "date_heure": "2026-02-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.673392847189769,
+            48.11265228547038
+          ],
+          [
+            -1.673039919044949,
+            48.112485058684186
+          ],
+          [
+            -1.672635562149166,
+            48.11234966085579
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.673570086623288,
+            48.11273626542958
+          ],
+          [
+            -1.674236230086739,
+            48.113354896094876
+          ],
+          [
+            -1.674258790130391,
+            48.113361818343215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67352199281171,
+            48.11265397002555
+          ],
+          [
+            -1.673491895657099,
+            48.11260248063906
+          ],
+          [
+            -1.673488307298251,
+            48.11240403036563
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.707712604287737,
             48.01354792135735
           ],
@@ -16039,12 +15993,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-23T17:21:03.132Z",
+    "generated": "2026-04-23T18:41:10.880Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 398,
+    "total_count": 396,
     "sources": {
       "grist_35": 89,
-      "cd44": 43,
+      "cd44": 41,
       "rennes_metropole": 100
     }
   }
