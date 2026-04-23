@@ -6061,29 +6061,6 @@
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
         "commune": "Commune",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "10-04-2026 11:04:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Commune",
         "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -15993,12 +15970,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-23T18:41:10.880Z",
+    "generated": "2026-04-23T20:05:42.372Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 396,
+    "total_count": 395,
     "sources": {
       "grist_35": 89,
-      "cd44": 41,
+      "cd44": 40,
       "rennes_metropole": 100
     }
   }
