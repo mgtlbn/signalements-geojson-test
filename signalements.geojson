@@ -6673,6 +6673,227 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.745587620640853,
+            48.01364125799059
+          ],
+          [
+            -1.745570758586011,
+            48.013343452620525
+          ],
+          [
+            -1.745508756902929,
+            48.012691281920354
+          ],
+          [
+            -1.745461541209696,
+            48.01194861099586
+          ],
+          [
+            -1.745408274112978,
+            48.01141435366779
+          ],
+          [
+            -1.745223385666429,
+            48.01072643160297
+          ],
+          [
+            -1.745016016828373,
+            48.010250643692395
+          ],
+          [
+            -1.744701437750703,
+            48.00984124191688
+          ],
+          [
+            -1.743866527963251,
+            48.00892957619715
+          ],
+          [
+            -1.742819583490665,
+            48.00794780829417
+          ],
+          [
+            -1.742360684957571,
+            48.007245864177314
+          ],
+          [
+            -1.742179530756079,
+            48.00673519635498
+          ],
+          [
+            -1.741537854067778,
+            48.00367531474015
+          ],
+          [
+            -1.741226295575388,
+            48.001940895657505
+          ],
+          [
+            -1.740891455875722,
+            48.00112681102992
+          ],
+          [
+            -1.740145159908847,
+            47.9990620239266
+          ],
+          [
+            -1.739861973728861,
+            47.99869637233868
+          ],
+          [
+            -1.739869105094103,
+            47.99845389676633
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 77,  de Pierrefitte jusqu'à la Roche Marguerite",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "aménagement du REV Bruz/Laillé",
+        "date_heure": "2026-02-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.713491988215752,
+            48.121373710485706
+          ],
+          [
+            -1.714635455052025,
+            48.12139485972819
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-02-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.686588021359907,
+            48.12721231887105
+          ],
+          [
+            -1.687509380623044,
+            48.12707206841443
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.687945211906622,
+            48.12700572279418
+          ],
+          [
+            -1.687509380623044,
+            48.12707206841443
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.720497683975013,
+            47.97633678282097
+          ],
+          [
+            -1.720439538839976,
+            47.97496495614535
+          ],
+          [
+            -1.721153605559675,
+            47.973966846585746
+          ],
+          [
+            -1.722220325072443,
+            47.97315696324478
+          ],
+          [
+            -1.723380936000986,
+            47.9711717311269
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 77 et Rue du Courtil du Bois",
+        "commune": "35139 - Laillé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.817987697519755,
             48.122170587792915
           ],
@@ -6899,134 +7120,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.713491988215752,
-            48.121373710485706
-          ],
-          [
-            -1.714635455052025,
-            48.12139485972819
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue de Guyenne, du Boulevard d'Anjou jusqu'à la Rue de Gascogne",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-02-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.686588021359907,
-            48.12721231887105
-          ],
-          [
-            -1.687509380623044,
-            48.12707206841443
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.687945211906622,
-            48.12700572279418
-          ],
-          [
-            -1.687509380623044,
-            48.12707206841443
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Charles et Raymonde Tillon, de la Rue de Saint-Malo jusqu'au 4",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.720497683975013,
-            47.97633678282097
-          ],
-          [
-            -1.720439538839976,
-            47.97496495614535
-          ],
-          [
-            -1.721153605559675,
-            47.973966846585746
-          ],
-          [
-            -1.722220325072443,
-            47.97315696324478
-          ],
-          [
-            -1.723380936000986,
-            47.9711717311269
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 77 et Rue du Courtil du Bois",
-        "commune": "35139 - Laillé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.623326700650224,
             48.0975854645977
           ],
@@ -7052,6 +7145,105 @@
         "statut": "Actif",
         "description": "de renouvellement et dévoiement du réseau d'eau potable",
         "date_heure": "2026-04-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.673392847189769,
+            48.11265228547038
+          ],
+          [
+            -1.673039919044949,
+            48.112485058684186
+          ],
+          [
+            -1.672635562149166,
+            48.11234966085579
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.673570086623288,
+            48.11273626542958
+          ],
+          [
+            -1.674236230086739,
+            48.113354896094876
+          ],
+          [
+            -1.674258790130391,
+            48.113361818343215
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67352199281171,
+            48.11265397002555
+          ],
+          [
+            -1.673491895657099,
+            48.11260248063906
+          ],
+          [
+            -1.673488307298251,
+            48.11240403036563
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-03-30T00:00:00+00:00"
       }
     },
     {
@@ -13710,198 +13902,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.745587620640853,
-            48.01364125799059
-          ],
-          [
-            -1.745570758586011,
-            48.013343452620525
-          ],
-          [
-            -1.745508756902929,
-            48.012691281920354
-          ],
-          [
-            -1.745461541209696,
-            48.01194861099586
-          ],
-          [
-            -1.745408274112978,
-            48.01141435366779
-          ],
-          [
-            -1.745223385666429,
-            48.01072643160297
-          ],
-          [
-            -1.745016016828373,
-            48.010250643692395
-          ],
-          [
-            -1.744701437750703,
-            48.00984124191688
-          ],
-          [
-            -1.743866527963251,
-            48.00892957619715
-          ],
-          [
-            -1.742819583490665,
-            48.00794780829417
-          ],
-          [
-            -1.742360684957571,
-            48.007245864177314
-          ],
-          [
-            -1.742179530756079,
-            48.00673519635498
-          ],
-          [
-            -1.741537854067778,
-            48.00367531474015
-          ],
-          [
-            -1.741226295575388,
-            48.001940895657505
-          ],
-          [
-            -1.740891455875722,
-            48.00112681102992
-          ],
-          [
-            -1.740145159908847,
-            47.9990620239266
-          ],
-          [
-            -1.739861973728861,
-            47.99869637233868
-          ],
-          [
-            -1.739869105094103,
-            47.99845389676633
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 77,  de Pierrefitte jusqu'à la Roche Marguerite",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "aménagement du REV Bruz/Laillé",
-        "date_heure": "2026-02-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.673392847189769,
-            48.11265228547038
-          ],
-          [
-            -1.673039919044949,
-            48.112485058684186
-          ],
-          [
-            -1.672635562149166,
-            48.11234966085579
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.673570086623288,
-            48.11273626542958
-          ],
-          [
-            -1.674236230086739,
-            48.113354896094876
-          ],
-          [
-            -1.674258790130391,
-            48.113361818343215
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67352199281171,
-            48.11265397002555
-          ],
-          [
-            -1.673491895657099,
-            48.11260248063906
-          ],
-          [
-            -1.673488307298251,
-            48.11240403036563
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Martenot, de face au n° 9 jusqu'à la Rue Victor Hugo, pour l'installation de la base-vie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.707712604287737,
             48.01354792135735
           ],
@@ -16039,7 +16039,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-23T15:53:43.638Z",
+    "generated": "2026-04-23T17:21:03.132Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 398,
     "sources": {
