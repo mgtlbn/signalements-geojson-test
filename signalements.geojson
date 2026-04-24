@@ -6650,216 +6650,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.789907627011069,
-            48.220784380179104
-          ],
-          [
-            -1.789873288036315,
-            48.220789481604214
-          ],
-          [
-            -1.789806207213474,
-            48.220797169651796
-          ],
-          [
-            -1.789414688614983,
-            48.22082324163055
-          ],
-          [
-            -1.789306894062835,
-            48.22085938174862
-          ],
-          [
-            -1.789198420389558,
-            48.220899527585594
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Place de l'Eglise",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.789198420389558,
-            48.220899527585594
-          ],
-          [
-            -1.789044989695606,
-            48.2209563105522
-          ],
-          [
-            -1.788882074276131,
-            48.2210817798078
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Place de l'Eglise",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.790043424494142,
-            48.221219628598284
-          ],
-          [
-            -1.790014820830817,
-            48.22087300108961
-          ],
-          [
-            -1.789987694224041,
-            48.22081779266038
-          ],
-          [
-            -1.789907627011069,
-            48.220784380179104
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Place de l'Eglise",
-        "commune": "35120 - Gévezé",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.68391513249323,
-            48.09895665940595
-          ],
-          [
-            -1.683334849041425,
-            48.09890188003057
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 21 au 27 Rue Ginguené",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.683334849041425,
-            48.09890188003057
-          ],
-          [
-            -1.683242377787906,
-            48.09892051521412
-          ],
-          [
-            -1.683090552961296,
-            48.09893080549243
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 21 au 27 Rue Ginguené",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.63898478138162,
-            48.1225179017629
-          ],
-          [
-            -1.639015579531526,
-            48.12256524474214
-          ],
-          [
-            -1.639080327941277,
-            48.1226801447372
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Pierre Donzelot, de l'Avenue Professeur Charles Foulon jusqu'au 4",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-03-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.730800589839984,
             48.10935976183977
           ],
@@ -13972,6 +13762,121 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.789907627011069,
+            48.220784380179104
+          ],
+          [
+            -1.789873288036315,
+            48.220789481604214
+          ],
+          [
+            -1.789806207213474,
+            48.220797169651796
+          ],
+          [
+            -1.789414688614983,
+            48.22082324163055
+          ],
+          [
+            -1.789306894062835,
+            48.22085938174862
+          ],
+          [
+            -1.789198420389558,
+            48.220899527585594
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place de l'Eglise",
+        "commune": "35120 - Gévezé",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.789198420389558,
+            48.220899527585594
+          ],
+          [
+            -1.789044989695606,
+            48.2209563105522
+          ],
+          [
+            -1.788882074276131,
+            48.2210817798078
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place de l'Eglise",
+        "commune": "35120 - Gévezé",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.790043424494142,
+            48.221219628598284
+          ],
+          [
+            -1.790014820830817,
+            48.22087300108961
+          ],
+          [
+            -1.789987694224041,
+            48.22081779266038
+          ],
+          [
+            -1.789907627011069,
+            48.220784380179104
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Place de l'Eglise",
+        "commune": "35120 - Gévezé",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.680731110634808,
             48.12000617817319
           ],
@@ -14051,6 +13956,68 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
         "date_heure": "2026-04-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.68391513249323,
+            48.09895665940595
+          ],
+          [
+            -1.683334849041425,
+            48.09890188003057
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 21 au 27 Rue Ginguené",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-04-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.683334849041425,
+            48.09890188003057
+          ],
+          [
+            -1.683242377787906,
+            48.09892051521412
+          ],
+          [
+            -1.683090552961296,
+            48.09893080549243
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 21 au 27 Rue Ginguené",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-04-20T00:00:00+00:00"
       }
     },
     {
@@ -14452,6 +14419,39 @@
         "statut": "Actif",
         "description": "de dévoiement du réseau de gaz",
         "date_heure": "2026-03-23T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.63898478138162,
+            48.1225179017629
+          ],
+          [
+            -1.639015579531526,
+            48.12256524474214
+          ],
+          [
+            -1.639080327941277,
+            48.1226801447372
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Pierre Donzelot, de l'Avenue Professeur Charles Foulon jusqu'au 4",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
       }
     },
     {
@@ -18945,6 +18945,1749 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.69786516994433,
+            48.0969949077068
+          ],
+          [
+            -1.697867335873586,
+            48.09699907006785
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Rue des Munitionnettes et de la Rue Lucie et Raymond Aubrac",
+        "commune": "35281 - Saint-Jacques-de-la-Lande",
+        "type_coupure": "Stop",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.638765161857233,
+            48.12243441018359
+          ],
+          [
+            -1.638603703510604,
+            48.122434320364746
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon, de l'Avenue Pierre Donzelot jusqu'au 39",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639889761302721,
+            48.12212446388228
+          ],
+          [
+            -1.640029683037321,
+            48.12233713286836
+          ],
+          [
+            -1.640063062677316,
+            48.12235151872752
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon, de l'Avenue Pierre Donzelot jusqu'au 39",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639039624152825,
+            48.12240769216054
+          ],
+          [
+            -1.639026012234556,
+            48.122385441169634
+          ],
+          [
+            -1.639001566278182,
+            48.12236657720191
+          ],
+          [
+            -1.638970661029573,
+            48.12235259252755
+          ],
+          [
+            -1.638935402132984,
+            48.12234443931189
+          ],
+          [
+            -1.638898193434706,
+            48.12234267474973
+          ],
+          [
+            -1.638861571556608,
+            48.12234741728047
+          ],
+          [
+            -1.638828029517506,
+            48.122358345593334
+          ],
+          [
+            -1.638799855217115,
+            48.122374713251126
+          ],
+          [
+            -1.638778968351533,
+            48.122395405725726
+          ],
+          [
+            -1.638766791042504,
+            48.122419013192975
+          ],
+          [
+            -1.638765161857233,
+            48.12243441018359
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.644830626054526,
+            48.12038299945419
+          ],
+          [
+            -1.644730570901783,
+            48.120413141109026
+          ],
+          [
+            -1.643978264734635,
+            48.12064333272531
+          ],
+          [
+            -1.643386005640466,
+            48.12082354322053
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641252245001118,
+            48.12169803129812
+          ],
+          [
+            -1.641310184867613,
+            48.121789959480225
+          ],
+          [
+            -1.641377087272919,
+            48.12185794384751
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640185252530572,
+            48.121964111515325
+          ],
+          [
+            -1.640260600412006,
+            48.12199291169953
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641227471009135,
+            48.12165872444549
+          ],
+          [
+            -1.640421005967541,
+            48.12190473327324
+          ],
+          [
+            -1.64026380365658,
+            48.12199210762775
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64026380365658,
+            48.12199210762775
+          ],
+          [
+            -1.640261317030066,
+            48.12199348971252
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.643459198629702,
+            48.120893912989175
+          ],
+          [
+            -1.643497450582657,
+            48.12096622871066
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639861655023335,
+            48.122066020869674
+          ],
+          [
+            -1.639889761302721,
+            48.12212446388228
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64351948070777,
+            48.12100787679481
+          ],
+          [
+            -1.643571053372468,
+            48.12110537493982
+          ],
+          [
+            -1.643653510634361,
+            48.12116844611253
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64068310744448,
+            48.121871204953266
+          ],
+          [
+            -1.641252245001118,
+            48.12169803129812
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640221666886043,
+            48.121863332603496
+          ],
+          [
+            -1.640185252530572,
+            48.121964111515325
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64502125034435,
+            48.12041740806328
+          ],
+          [
+            -1.645047781907118,
+            48.12045788295011
+          ],
+          [
+            -1.645043603742268,
+            48.12048118796046
+          ],
+          [
+            -1.644992884709422,
+            48.12051057885327
+          ],
+          [
+            -1.644891930225501,
+            48.12053989563376
+          ],
+          [
+            -1.644829908010571,
+            48.12055933778522
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.649695531048754,
+            48.11897751863289
+          ],
+          [
+            -1.649515106085966,
+            48.118906746817
+          ],
+          [
+            -1.648771589285096,
+            48.11913452268478
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-12",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.643459198629702,
+            48.120893912989175
+          ],
+          [
+            -1.641183026090083,
+            48.121588207170326
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-13",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.648797842901932,
+            48.11917402446621
+          ],
+          [
+            -1.648410187080795,
+            48.119290388790674
+          ],
+          [
+            -1.647858452056874,
+            48.11945991893661
+          ],
+          [
+            -1.647279936414671,
+            48.11963710077324
+          ],
+          [
+            -1.646544774998778,
+            48.119861359656745
+          ],
+          [
+            -1.645893733831123,
+            48.1200611821059
+          ],
+          [
+            -1.645259691963325,
+            48.12025374176504
+          ],
+          [
+            -1.644830626054526,
+            48.12038299945419
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-14",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640051274844262,
+            48.12181225306016
+          ],
+          [
+            -1.64016366501473,
+            48.12190482690178
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-15",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.648872299602938,
+            48.119286052898936
+          ],
+          [
+            -1.648376406977903,
+            48.11939294056176
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-16",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.638813479493373,
+            48.122508923105116
+          ],
+          [
+            -1.638842911864874,
+            48.12252375294231
+          ],
+          [
+            -1.638878170869334,
+            48.12253190618596
+          ],
+          [
+            -1.638915378443216,
+            48.12253367170639
+          ],
+          [
+            -1.638952001708623,
+            48.12252892820685
+          ],
+          [
+            -1.63898478138162,
+            48.1225179017629
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-17",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.649695531048754,
+            48.11897751863289
+          ],
+          [
+            -1.649636853449304,
+            48.118968687992975
+          ],
+          [
+            -1.64951873448567,
+            48.11896426119558
+          ],
+          [
+            -1.649433666431273,
+            48.11897821669087
+          ],
+          [
+            -1.649332538542368,
+            48.11900991077318
+          ],
+          [
+            -1.648983302748702,
+            48.119118677789686
+          ],
+          [
+            -1.648797842901932,
+            48.11917402446621
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-18",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64016366501473,
+            48.12190482690178
+          ],
+          [
+            -1.639861655023335,
+            48.122066020869674
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-19",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.638765161857233,
+            48.12243441018359
+          ],
+          [
+            -1.638764154167413,
+            48.12244392621591
+          ],
+          [
+            -1.638771238663507,
+            48.12246844623651
+          ],
+          [
+            -1.638787560628099,
+            48.12249090421316
+          ],
+          [
+            -1.638813479493373,
+            48.122508923105116
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-20",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64502125034435,
+            48.12041740806328
+          ],
+          [
+            -1.643459198629702,
+            48.120893912989175
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-21",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.643497450582657,
+            48.12096622871066
+          ],
+          [
+            -1.64351948070777,
+            48.12100787679481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-22",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.643333815754938,
+            48.12079303844813
+          ],
+          [
+            -1.640263001621126,
+            48.12172919791246
+          ],
+          [
+            -1.640116917983873,
+            48.121773477260554
+          ],
+          [
+            -1.640051274844262,
+            48.12181225306016
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-23",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639861655023335,
+            48.122066020869674
+          ],
+          [
+            -1.639729085458969,
+            48.12193689814015
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-24",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640260600412006,
+            48.12199291169953
+          ],
+          [
+            -1.64026380365658,
+            48.12199210762775
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-25",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64026380365658,
+            48.12199210762775
+          ],
+          [
+            -1.640389216204348,
+            48.121960626795314
+          ],
+          [
+            -1.64068310744448,
+            48.121871204953266
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-26",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639889761302721,
+            48.12212446388228
+          ],
+          [
+            -1.640029683037321,
+            48.12233713286836
+          ],
+          [
+            -1.640499087664022,
+            48.1225394338149
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-27",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.643386005640466,
+            48.12082354322053
+          ],
+          [
+            -1.642851510734453,
+            48.120985913655815
+          ],
+          [
+            -1.642257674914799,
+            48.12116763118537
+          ],
+          [
+            -1.641681075883097,
+            48.12134470591412
+          ],
+          [
+            -1.640972526856223,
+            48.121559966234884
+          ],
+          [
+            -1.640342613158402,
+            48.12175195230071
+          ],
+          [
+            -1.640248025977246,
+            48.12184382915337
+          ],
+          [
+            -1.640221666886043,
+            48.121863332603496
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-28",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641252245001118,
+            48.12169803129812
+          ],
+          [
+            -1.643443486070612,
+            48.12103125686308
+          ],
+          [
+            -1.64351948070777,
+            48.12100787679481
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-29",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.64351948070777,
+            48.12100787679481
+          ],
+          [
+            -1.644803604509166,
+            48.12061279984082
+          ],
+          [
+            -1.644829908010571,
+            48.12055933778522
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-30",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.649952386613972,
+            48.119053235760894
+          ],
+          [
+            -1.649721874399857,
+            48.11910292463406
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-31",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.63898478138162,
+            48.1225179017629
+          ],
+          [
+            -1.639013718152041,
+            48.12250163215555
+          ],
+          [
+            -1.639034604966503,
+            48.12248093963884
+          ],
+          [
+            -1.63904678216766,
+            48.12245733214358
+          ],
+          [
+            -1.639049417646923,
+            48.122432420066104
+          ],
+          [
+            -1.639039624152825,
+            48.12240769216054
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-32",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.643497450582657,
+            48.12096622871066
+          ],
+          [
+            -1.643156623974664,
+            48.12107058625249
+          ],
+          [
+            -1.642505851631868,
+            48.121269325973465
+          ],
+          [
+            -1.641879531463199,
+            48.12146076574051
+          ],
+          [
+            -1.641295866055077,
+            48.12163786044983
+          ],
+          [
+            -1.641227471009135,
+            48.12165872444549
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-33",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.644761416801347,
+            48.12035778463334
+          ],
+          [
+            -1.643333815754938,
+            48.12079303844813
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-34",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640185252530572,
+            48.121964111515325
+          ],
+          [
+            -1.639889761302721,
+            48.12212446388228
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-35",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640221666886043,
+            48.121863332603496
+          ],
+          [
+            -1.640170562121578,
+            48.12190114563772
+          ],
+          [
+            -1.64016366501473,
+            48.12190482690178
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-36",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.644829908010571,
+            48.12055933778522
+          ],
+          [
+            -1.644553042293616,
+            48.12064612649385
+          ],
+          [
+            -1.643947876869875,
+            48.12082831070568
+          ],
+          [
+            -1.643497450582657,
+            48.12096622871066
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-37",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641377087272919,
+            48.12185794384751
+          ],
+          [
+            -1.64153604295341,
+            48.12191792918628
+          ],
+          [
+            -1.641954531399666,
+            48.12198243297772
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-38",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641227471009135,
+            48.12165872444549
+          ],
+          [
+            -1.641252245001118,
+            48.12169803129812
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-39",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.640051274844262,
+            48.12181225306016
+          ],
+          [
+            -1.640032753160135,
+            48.12179380767125
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-40",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.648376406977903,
+            48.11939294056176
+          ],
+          [
+            -1.64502125034435,
+            48.12041740806328
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-41",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.649721874399857,
+            48.11910292463406
+          ],
+          [
+            -1.648872299602938,
+            48.119286052898936
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-42",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.638765161857233,
+            48.12243441018359
+          ],
+          [
+            -1.638603703510604,
+            48.122434320364746
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-43",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641183026090083,
+            48.121588207170326
+          ],
+          [
+            -1.640486415485611,
+            48.121800679504545
+          ],
+          [
+            -1.640185252530572,
+            48.121964111515325
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-44",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.641183026090083,
+            48.121588207170326
+          ],
+          [
+            -1.641227471009135,
+            48.12165872444549
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-45",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.639889761302721,
+            48.12212446388228
+          ],
+          [
+            -1.639701171884127,
+            48.12222680358746
+          ],
+          [
+            -1.639039624152825,
+            48.12240769216054
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-46",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.648771589285096,
+            48.11913452268478
+          ],
+          [
+            -1.648423994819444,
+            48.1192410056677
+          ],
+          [
+            -1.644761416801347,
+            48.12035778463334
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-47",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Professeur Charles Foulon face au Restaurant Universitaire de l'Etoile",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-03-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.662158779157446,
             48.10385765391138
           ],
@@ -18995,6 +20738,64 @@
         "statut": "Actif",
         "description": "création du bassin tampon Saint Hélier",
         "date_heure": "2026-03-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.704483040968469,
+            48.10892832024973
+          ],
+          [
+            -1.704638323328419,
+            48.10951552129253
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Levot, du 7 jusqu'à la Rue de La Bletterie,Rue Levot, du 7 jusqu'à la Rue de Lorient",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-03-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.704483040968469,
+            48.10892832024973
+          ],
+          [
+            -1.704347259329381,
+            48.10841485011289
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Levot, du 7 jusqu'à la Rue de La Bletterie,Rue Levot, du 7 jusqu'à la Rue de Lorient",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-03-27T00:00:00+00:00"
       }
     },
     {
@@ -19234,6 +21035,721 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.735225435288265,
+            48.105231396145264
+          ],
+          [
+            -1.735631062213483,
+            48.10512106034762
+          ],
+          [
+            -1.736132507605877,
+            48.10501002511119
+          ],
+          [
+            -1.736352058813412,
+            48.104974528707395
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.741057205250886,
+            48.10492911612254
+          ],
+          [
+            -1.742038114980656,
+            48.10495342759843
+          ],
+          [
+            -1.742833450023906,
+            48.104966110910276
+          ],
+          [
+            -1.74358457589531,
+            48.10498277469126
+          ],
+          [
+            -1.744473443268704,
+            48.1050127889951
+          ],
+          [
+            -1.745219827745449,
+            48.10503185459484
+          ],
+          [
+            -1.745972064819421,
+            48.10504843897915
+          ],
+          [
+            -1.74716348055188,
+            48.10507989979725
+          ],
+          [
+            -1.747736601054744,
+            48.105083206885205
+          ],
+          [
+            -1.748111230180577,
+            48.10507024273224
+          ],
+          [
+            -1.748403866423418,
+            48.105031557609806
+          ],
+          [
+            -1.748799361134139,
+            48.104959810356426
+          ],
+          [
+            -1.748937939901338,
+            48.104920413569715
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.740107157986285,
+            48.104907377061274
+          ],
+          [
+            -1.741057205250886,
+            48.10492911612254
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.740107157986285,
+            48.104907377061274
+          ],
+          [
+            -1.740108994553319,
+            48.1047922166255
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.749151369552542,
+            48.104937911629676
+          ],
+          [
+            -1.748839623963374,
+            48.10502401054861
+          ],
+          [
+            -1.748542155843837,
+            48.10508349522235
+          ],
+          [
+            -1.748302288536953,
+            48.10511818092365
+          ],
+          [
+            -1.74802975529016,
+            48.10514241588668
+          ],
+          [
+            -1.74782840496984,
+            48.10515545164425
+          ],
+          [
+            -1.747636499269166,
+            48.10515629677106
+          ],
+          [
+            -1.747232847651741,
+            48.10515290746957
+          ],
+          [
+            -1.74616293538412,
+            48.10512510723184
+          ],
+          [
+            -1.745583779446346,
+            48.10511208167397
+          ],
+          [
+            -1.745480201960485,
+            48.10524851660677
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.748664223157985,
+            48.10483457050714
+          ],
+          [
+            -1.74832912878221,
+            48.10490276469963
+          ],
+          [
+            -1.74794169460554,
+            48.1049542301073
+          ],
+          [
+            -1.747639189173273,
+            48.104975588374494
+          ],
+          [
+            -1.747197672897612,
+            48.104975217117236
+          ],
+          [
+            -1.746479007158525,
+            48.104951695676355
+          ],
+          [
+            -1.745334710804896,
+            48.10492079440705
+          ],
+          [
+            -1.744299868905077,
+            48.10489697407395
+          ],
+          [
+            -1.743285382763632,
+            48.104871682841846
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.737983643794572,
+            48.10486980871626
+          ],
+          [
+            -1.738873448160354,
+            48.10488307652359
+          ],
+          [
+            -1.739811246937944,
+            48.10490060438941
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.74139592752955,
+            48.10482210784101
+          ],
+          [
+            -1.74075274985432,
+            48.10480937421968
+          ],
+          [
+            -1.740108994553319,
+            48.1047922166255
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.743285382763632,
+            48.104871682841846
+          ],
+          [
+            -1.743060946268556,
+            48.10486608588344
+          ],
+          [
+            -1.742008537465358,
+            48.104839837500414
+          ],
+          [
+            -1.74139592752955,
+            48.10482210784101
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.736352058813412,
+            48.104974528707395
+          ],
+          [
+            -1.73697540786054,
+            48.10491135665375
+          ],
+          [
+            -1.737483469712749,
+            48.10487601419356
+          ],
+          [
+            -1.737983643794572,
+            48.10486980871626
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.734787848064181,
+            48.10523800988369
+          ],
+          [
+            -1.735008974849795,
+            48.105166492172536
+          ],
+          [
+            -1.735411394906216,
+            48.105047445664816
+          ],
+          [
+            -1.735914080017659,
+            48.10493195203767
+          ],
+          [
+            -1.736309927634473,
+            48.10485722951462
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.739811246937944,
+            48.10490060438941
+          ],
+          [
+            -1.740107157986285,
+            48.104907377061274
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.740108994553319,
+            48.1047922166255
+          ],
+          [
+            -1.739806441183871,
+            48.10478415162242
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-12",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.739806441183871,
+            48.10478415162242
+          ],
+          [
+            -1.739085195796214,
+            48.104768448361995
+          ],
+          [
+            -1.738270047704295,
+            48.10475069504392
+          ],
+          [
+            -1.737573674732273,
+            48.10475139025764
+          ],
+          [
+            -1.737220900929989,
+            48.10476592733787
+          ],
+          [
+            -1.736905983610575,
+            48.104784826559296
+          ],
+          [
+            -1.736309927634473,
+            48.10485722951462
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-13",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.748621451889947,
+            48.10477997445598
+          ],
+          [
+            -1.748487215785203,
+            48.10482103159667
+          ],
+          [
+            -1.748326007451757,
+            48.10485419225141
+          ],
+          [
+            -1.748206928242055,
+            48.10487322577772
+          ],
+          [
+            -1.748057440600353,
+            48.104888905813546
+          ],
+          [
+            -1.747916762865429,
+            48.1049022059878
+          ],
+          [
+            -1.747778015484323,
+            48.10491312118677
+          ],
+          [
+            -1.747577138312153,
+            48.104917096005195
+          ],
+          [
+            -1.747398675485593,
+            48.1049169756144
+          ],
+          [
+            -1.747234486029158,
+            48.104913097191954
+          ],
+          [
+            -1.746926564773483,
+            48.104903343295845
+          ],
+          [
+            -1.746724630956469,
+            48.10489583666738
+          ],
+          [
+            -1.746184500113533,
+            48.10487665546702
+          ],
+          [
+            -1.74549257934194,
+            48.10485248876804
+          ],
+          [
+            -1.745016016501878,
+            48.10484148168998
+          ],
+          [
+            -1.744801194321727,
+            48.104842089325736
+          ],
+          [
+            -1.744448752250285,
+            48.10484011552849
+          ],
+          [
+            -1.744132943451104,
+            48.104834269787446
+          ],
+          [
+            -1.743810439816876,
+            48.10483223904872
+          ],
+          [
+            -1.743515468653422,
+            48.10482317173608
+          ],
+          [
+            -1.743152746456527,
+            48.10482052058091
+          ],
+          [
+            -1.743124240958487,
+            48.10481697657954
+          ],
+          [
+            -1.742830751324781,
+            48.104766549762296
+          ],
+          [
+            -1.742431392307987,
+            48.104752346946185
+          ],
+          [
+            -1.742300577257139,
+            48.10474712351073
+          ],
+          [
+            -1.742082055378723,
+            48.10472663926115
+          ],
+          [
+            -1.742015836023634,
+            48.10471521228696
+          ],
+          [
+            -1.741999395831837,
+            48.10470881030136
+          ],
+          [
+            -1.741982729726715,
+            48.104721665592116
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-14",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.742238175276672,
             48.105284819289054
           ],
@@ -19292,6 +21808,39 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.717164101279822,
+            48.1073306915376
+          ],
+          [
+            -1.715573843532394,
+            48.10759617271374
+          ],
+          [
+            -1.70742390713462,
+            48.10945200612452
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'au pont de la RN 136 et dans les deux sens de circulation.",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "du projet Trambus",
+        "date_heure": "2026-04-04T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.619858478871136,
             48.08758941841623
           ],
@@ -19321,6 +21870,333 @@
         "statut": "Actif",
         "description": "sur voirie",
         "date_heure": "2026-04-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.659093907493672,
+            48.100939105845484
+          ],
+          [
+            -1.658913494045105,
+            48.10076555295868
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.658913494045105,
+            48.10076555295868
+          ],
+          [
+            -1.658321632071966,
+            48.10021628149468
+          ],
+          [
+            -1.657935974305664,
+            48.09989464073077
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657935974305664,
+            48.09989464073077
+          ],
+          [
+            -1.657758543515493,
+            48.09974864926126
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657175723344682,
+            48.09925604364534
+          ],
+          [
+            -1.657758543515493,
+            48.09974864926126
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657175723344682,
+            48.09925604364534
+          ],
+          [
+            -1.657130523031952,
+            48.09921876872681
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.657130523031952,
+            48.09921876872681
+          ],
+          [
+            -1.656401415982709,
+            48.09861053278042
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.655246221613564,
+            48.09788493032975
+          ],
+          [
+            -1.654849367666447,
+            48.09766537363483
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.656401415982709,
+            48.09861053278042
+          ],
+          [
+            -1.656085062931914,
+            48.09835302822707
+          ],
+          [
+            -1.655647850806489,
+            48.09810519344533
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.655246221613564,
+            48.09788493032975
+          ],
+          [
+            -1.655647850806489,
+            48.09810519344533
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.654849367666447,
+            48.09766537363483
+          ],
+          [
+            -1.65383984353549,
+            48.097115153092204
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.65383984353549,
+            48.097115153092204
+          ],
+          [
+            -1.653637696767833,
+            48.09700511288407
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 13 au 93 Rue de Vern au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-04-13T00:00:00+00:00"
       }
     },
     {
@@ -19454,706 +22330,12 @@
         "description": "",
         "date_heure": "2026-04-17T00:00:00+00:00"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.838263017696475,
-            48.15652227896473
-          ],
-          [
-            -1.838256127776655,
-            48.15640894578111
-          ],
-          [
-            -1.838441459246997,
-            48.15597565193934
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "le Pont Hazard",
-        "commune": "35275 - Saint-Gilles",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de fibre optique",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.837113175620142,
-            48.15686761427728
-          ],
-          [
-            -1.837281717775844,
-            48.15638892410604
-          ],
-          [
-            -1.838263017696475,
-            48.15652227896473
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "le Pont Hazard",
-        "commune": "35275 - Saint-Gilles",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de fibre optique",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.66260883949361,
-            48.034533653126644
-          ],
-          [
-            -1.662612347955453,
-            48.03446545231739
-          ],
-          [
-            -1.662597701639123,
-            48.034397921643965
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "2 Rue Nathalie Sarraute",
-        "commune": "35206 - Noyal-Châtillon-sur-Seiche",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.661443947175523,
-            48.09581651619996
-          ],
-          [
-            -1.661434641494055,
-            48.095672870711546
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Adolphe Leray, au droit du n° 2 Boulevard Franklin Roosevelt",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.657790608781297,
-            48.097286817836356
-          ],
-          [
-            -1.657274802418892,
-            48.09749144366804
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Adolphe Leray, au droit du n° 2 Boulevard Franklin Roosevelt",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.659494358417619,
-            48.096648206952864
-          ],
-          [
-            -1.657790608781297,
-            48.097286817836356
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Adolphe Leray, au droit du n° 2 Boulevard Franklin Roosevelt",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.661511716508301,
-            48.09587980320502
-          ],
-          [
-            -1.659494358417619,
-            48.096648206952864
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Adolphe Leray, au droit du n° 2 Boulevard Franklin Roosevelt",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.657274802418892,
-            48.09749144366804
-          ],
-          [
-            -1.655647850806489,
-            48.09810519344533
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Adolphe Leray, au droit du n° 2 Boulevard Franklin Roosevelt",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-04-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.592232647490909,
-            48.01357408487203
-          ],
-          [
-            -1.592590273644033,
-            48.013680139682506
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.593615612856149,
-            48.01387442004062
-          ],
-          [
-            -1.59388457357819,
-            48.01392664658417
-          ],
-          [
-            -1.593971653650161,
-            48.013957827274595
-          ],
-          [
-            -1.594071214884626,
-            48.013977955398836
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.594402592289626,
-            48.01400180634956
-          ],
-          [
-            -1.594481788054556,
-            48.01401315885677
-          ],
-          [
-            -1.594589037523519,
-            48.01403411586685
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.594071214884626,
-            48.013977955398836
-          ],
-          [
-            -1.59423206549142,
-            48.01397736156914
-          ],
-          [
-            -1.594402592289626,
-            48.01400180634956
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.592590273644033,
-            48.013680139682506
-          ],
-          [
-            -1.592543739310941,
-            48.01377168419401
-          ],
-          [
-            -1.592538369336201,
-            48.01380304333574
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.592538369336201,
-            48.01380304333574
-          ],
-          [
-            -1.592475079728768,
-            48.01417263443625
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.594589037523519,
-            48.01403411586685
-          ],
-          [
-            -1.5949583254761,
-            48.01405699361537
-          ],
-          [
-            -1.595041902278346,
-            48.01408208224204
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.592538369336201,
-            48.01380304333574
-          ],
-          [
-            -1.592350355657957,
-            48.013780650348686
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.592590273644033,
-            48.013680139682506
-          ],
-          [
-            -1.593615612856149,
-            48.01387442004062
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.591571466384889,
-            48.01339778818207
-          ],
-          [
-            -1.591682864858019,
-            48.013415158799205
-          ],
-          [
-            -1.591823525370526,
-            48.0134527562303
-          ],
-          [
-            -1.592232647490909,
-            48.01357408487203
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.592475079728768,
-            48.01417263443625
-          ],
-          [
-            -1.592466693851721,
-            48.014221605875896
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Mairie",
-        "commune": "35250 - Saint-Armel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-01-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.621146797358037,
-            48.1118777523607
-          ],
-          [
-            -1.621168419280184,
-            48.112119036428474
-          ],
-          [
-            -1.620955266895323,
-            48.112837167035295
-          ],
-          [
-            -1.620854052358596,
-            48.11330301439728
-          ],
-          [
-            -1.620739094298594,
-            48.113803202587654
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard des Alliés section comprise entre le Rond-point de la Vilaine et le Rond-point du Taillis",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-03-23T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684673077896788,
-            48.11604588878598
-          ],
-          [
-            -1.684239329301938,
-            48.11595662049776
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Jacques Cassard, du n°4 jusqu'à la Rue de Dinan",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "réaménagement de voirie - sécurisation des modes de déplacement doux   EUROVIA / DLE / HELIOS",
-        "date_heure": "2026-04-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.69786516994433,
-            48.0969949077068
-          ],
-          [
-            -1.697867335873586,
-            48.09699907006785
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Rue des Munitionnettes et de la Rue Lucie et Raymond Aubrac",
-        "commune": "35281 - Saint-Jacques-de-la-Lande",
-        "type_coupure": "Stop",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-03T00:00:00+00:00"
-      }
     }
   ],
   "metadata": {
-    "generated": "2026-04-24T11:39:51.722Z",
+    "generated": "2026-04-24T13:25:10.707Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 500,
+    "total_count": 558,
     "sources": {
       "grist_35": 89,
       "cd44": 42,
