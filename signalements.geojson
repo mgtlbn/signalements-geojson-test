@@ -5706,52 +5706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2872528850696714,
-          47.34573640824839
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux de réfection de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "22-04-2026 15:43:07 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2859408065458162,
-          47.3463916797435
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D323 / Oudon",
-        "commune": "Oudon / Le Cellier",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "22-04-2026 15:43:07 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.234420444253509,
           47.48845999167834
         ]
@@ -20128,12 +20082,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-24T21:23:47.144Z",
+    "generated": "2026-04-24T22:08:36.563Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 499,
+    "total_count": 497,
     "sources": {
       "grist_35": 89,
-      "cd44": 41,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
