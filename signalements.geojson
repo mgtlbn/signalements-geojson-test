@@ -6074,29 +6074,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Bac de réserve",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bac de réserve",
-        "date_heure": "09-04-2026 04:53:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.159602252456426,
           47.24935392356204
         ]
@@ -21529,12 +21506,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-25T10:44:04.337Z",
+    "generated": "2026-04-25T11:38:33.201Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 536,
+    "total_count": 535,
     "sources": {
       "grist_35": 89,
-      "cd44": 39,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
