@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3286323595133769,
+          47.14481768439489
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D116 / Le Pallet",
+        "commune": "Vallet / Le Pallet",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "26-04-2026 07:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3283872615485768,
+          47.14477361247615
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D516 / Le Pallet",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "26-04-2026 07:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1614970699303178,
           47.60619927785741
         ]
@@ -6274,52 +6320,6 @@
         "statut": "Actif",
         "description": "Course cycliste",
         "date_heure": "01-04-2026 16:28:02 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3283872615485768,
-          47.14477361247615
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D516 / Le Pallet",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "01-04-2026 16:27:42 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3286323595133769,
-          47.14481768439489
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D116 / Le Pallet",
-        "commune": "Vallet / Le Pallet",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "01-04-2026 16:27:38 +0200"
       }
     },
     {
@@ -21506,7 +21506,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-26T04:01:41.892Z",
+    "generated": "2026-04-26T06:23:37.729Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 535,
     "sources": {
