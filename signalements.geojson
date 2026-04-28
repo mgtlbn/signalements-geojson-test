@@ -5936,52 +5936,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1614970699303178,
-          47.60619927785741
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D163 / Le Pin",
-        "commune": "Commune",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "27-04-2026 08:59:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1614970699303178,
-          47.60619927785741
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D29 / Le Pin",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "27-04-2026 08:58:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6328789844689204,
           47.16350343080919
         ]
@@ -13968,12 +13922,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-28T21:07:07.025Z",
+    "generated": "2026-04-28T22:30:49.958Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 347,
+    "total_count": 345,
     "sources": {
       "grist_35": 89,
-      "cd44": 41,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
