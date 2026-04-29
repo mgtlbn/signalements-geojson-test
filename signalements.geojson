@@ -5890,52 +5890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3283872615485768,
-          47.14477361247615
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D516 / Le Pallet",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "27-04-2026 09:02:37 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3286323595133769,
-          47.14481768439489
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D116 / Le Pallet",
-        "commune": "Commune",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "27-04-2026 09:02:37 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1097078807406153,
           47.44242268539675
         ]
@@ -17247,12 +17201,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-29T21:05:53.293Z",
+    "generated": "2026-04-29T22:30:31.904Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 432,
+    "total_count": 430,
     "sources": {
       "grist_35": 89,
-      "cd44": 38,
+      "cd44": 36,
       "rennes_metropole": 100
     }
   }
