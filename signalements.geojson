@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5257298687199854,
+          47.55290018908279
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D2 / Abbaretz",
+        "commune": "La Meilleraye / Abbaretz",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "30-04-2026 16:20:14 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3293678260332897,
           47.23686313418063
         ]
@@ -20134,12 +20157,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-30T12:15:29.002Z",
+    "generated": "2026-04-30T14:32:58.057Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 497,
+    "total_count": 498,
     "sources": {
       "grist_35": 89,
-      "cd44": 39,
+      "cd44": 40,
       "rennes_metropole": 100
     }
   }
