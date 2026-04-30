@@ -5683,29 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1142177068552703,
-          47.12699175380846
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pornic (bretelle de sortie)",
-        "commune": "Pornic vers Saint-Michel-Chef-Chef",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "30-04-2026 10:36:28 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3293678260332897,
           47.23686313418063
         ]
@@ -20157,12 +20134,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-04-30T08:38:18.045Z",
+    "generated": "2026-04-30T10:55:41.267Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 498,
+    "total_count": 497,
     "sources": {
       "grist_35": 89,
-      "cd44": 40,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
