@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2488654862389434,
+          47.14997444550716
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Vallet",
+        "commune": "Vallet / Mouzillon",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "01-05-2026 08:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -6435,29 +6458,6 @@
         "statut": "Actif",
         "description": "Course cycliste",
         "date_heure": "01-04-2026 16:28:26 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2488654862389434,
-          47.14997444550716
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Vallet",
-        "commune": "Vallet / Mouzillon",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "01-04-2026 16:28:02 +0200"
       }
     },
     {
@@ -20180,7 +20180,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-01T03:28:43.282Z",
+    "generated": "2026-05-01T06:26:24.384Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 499,
     "sources": {
