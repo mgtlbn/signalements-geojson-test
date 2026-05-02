@@ -9003,6 +9003,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.712019187880383,
+            48.10221835865249
+          ],
+          [
+            -1.712013226858849,
+            48.10213408160701
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 150 au 152 Rue Eugène Pottier",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de construction de bâtiment",
+        "date_heure": "2025-12-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.698837080846971,
             48.04074459951203
           ],
@@ -9185,6 +9214,59 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages de gaz",
         "date_heure": "2026-01-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.662134000175066,
+            48.121153453498145
+          ],
+          [
+            -1.662189723484352,
+            48.12125505664605
+          ],
+          [
+            -1.662186386102418,
+            48.12133251151839
+          ],
+          [
+            -1.662154898378482,
+            48.1213845650414
+          ],
+          [
+            -1.662095518572049,
+            48.1214331331631
+          ],
+          [
+            -1.66202032109925,
+            48.12145926195585
+          ],
+          [
+            -1.661929356344102,
+            48.12148256777293
+          ],
+          [
+            -1.661805971210803,
+            48.121509495773125
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 118 Boulevard de Metz jusqu'au 4 A rue Albert Burloud",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de construction de bâtiment",
+        "date_heure": "2026-03-06T00:00:00+00:00"
       }
     },
     {
@@ -15346,88 +15428,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.712019187880383,
-            48.10221835865249
-          ],
-          [
-            -1.712013226858849,
-            48.10213408160701
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 150 au 152 Rue Eugène Pottier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de construction de bâtiment",
-        "date_heure": "2025-12-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.662134000175066,
-            48.121153453498145
-          ],
-          [
-            -1.662189723484352,
-            48.12125505664605
-          ],
-          [
-            -1.662186386102418,
-            48.12133251151839
-          ],
-          [
-            -1.662154898378482,
-            48.1213845650414
-          ],
-          [
-            -1.662095518572049,
-            48.1214331331631
-          ],
-          [
-            -1.66202032109925,
-            48.12145926195585
-          ],
-          [
-            -1.661929356344102,
-            48.12148256777293
-          ],
-          [
-            -1.661805971210803,
-            48.121509495773125
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 118 Boulevard de Metz jusqu'au 4 A rue Albert Burloud",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de construction de bâtiment",
-        "date_heure": "2026-03-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.591193816265452,
             48.114905001148784
           ],
@@ -15457,7 +15457,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-02T21:40:59.833Z",
+    "generated": "2026-05-02T22:41:53.657Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 376,
     "sources": {
