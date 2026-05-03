@@ -5706,121 +5706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7364452972503737,
-          47.32485334984077
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D381",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "01-05-2026 12:56:38 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7374853451850027,
-          47.32535972620783
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D81 / Vigneux-de-Bretagne",
-        "commune": "Vigneux-de-Bretagne / Sautron",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "01-05-2026 12:56:38 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4997491819293574,
-          47.434866120596276
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D16 / Héric",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "30-04-2026 17:31:31 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5000686736049686,
-          47.43581512687224
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D26 / Nort-sur-Erdre",
-        "commune": "Nort-sur-Erdre / Casson",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "30-04-2026 17:31:31 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3293678260332897,
-          47.23686313418063
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Le Loroux-Bottereau",
-        "commune": "Le Loroux-Bottereau / Le Landreau",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "30-04-2026 17:31:31 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5257298687199854,
           47.55290018908279
         ]
@@ -14770,12 +14655,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-03T21:42:04.864Z",
+    "generated": "2026-05-03T22:41:52.908Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 363,
+    "total_count": 358,
     "sources": {
       "grist_35": 89,
-      "cd44": 38,
+      "cd44": 33,
       "rennes_metropole": 100
     }
   }
