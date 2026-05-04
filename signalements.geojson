@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "04-05-2026 17:12:02 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1021487545213693,
           47.41091673167311
         ]
@@ -15149,12 +15172,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-04T13:07:08.174Z",
+    "generated": "2026-05-04T15:30:45.582Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 370,
+    "total_count": 371,
     "sources": {
       "grist_35": 89,
-      "cd44": 34,
+      "cd44": 35,
       "rennes_metropole": 100
     }
   }
