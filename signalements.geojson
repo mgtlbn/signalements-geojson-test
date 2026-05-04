@@ -5698,30 +5698,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "04-05-2026 17:55:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4572332215393078,
-          47.35773432774443
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Saint-Mars-du-Désert",
-        "commune": "Commune",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "04-05-2026 17:55:35 +0200"
+        "date_heure": "04-05-2026 21:06:37 +0200"
       }
     },
     {
@@ -15218,12 +15195,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-04T19:03:54.000Z",
+    "generated": "2026-05-04T20:47:05.756Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 373,
+    "total_count": 372,
     "sources": {
       "grist_35": 89,
-      "cd44": 37,
+      "cd44": 36,
       "rennes_metropole": 100
     }
   }
