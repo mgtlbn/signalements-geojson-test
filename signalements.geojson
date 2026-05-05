@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "05-05-2026 11:35:44 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4500782013642146,
           47.374626861310404
         ]
@@ -5706,29 +5729,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Commune",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "04-05-2026 17:12:02 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.1021487545213693,
           47.41091673167311
         ]
@@ -5738,7 +5738,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Vair-sur-Loire",
-        "commune": "Commune",
+        "commune": "Vair-sur-Loire / La Roche-Blanche",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5761,7 +5761,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Abbaretz",
-        "commune": "Commune",
+        "commune": "La Meilleraye / Abbaretz",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5784,7 +5784,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Les Sorinières",
-        "commune": "Commune",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5830,7 +5830,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / La Roche-Blanche",
-        "commune": "Commune",
+        "commune": "La Roche-Blanche / Pouillé",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5876,7 +5876,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Les Sorinières",
-        "commune": "Commune",
+        "commune": "Les Sorinières / La Chevrolière",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5945,7 +5945,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D323 / Oudon",
-        "commune": "Commune",
+        "commune": "Oudon / Le Cellier",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5991,7 +5991,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33A / Pontchâteau",
-        "commune": "Commune",
+        "commune": "Pontchâteau / Sainte-Reine",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6060,7 +6060,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D9 / Saint-Mars-du-Désert",
-        "commune": "Commune",
+        "commune": "Saint-Mars-du-Désert / Carquefou",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6129,7 +6129,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D23 / Couffé",
-        "commune": "Commune",
+        "commune": "Saint-Géréon / Couffé",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6152,7 +6152,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Commune",
+        "commune": "Montoir vers St Brevin",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6198,7 +6198,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D149 / Boussay",
-        "commune": "Commune",
+        "commune": "Boussay / Gétigné",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6244,7 +6244,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Couffé",
-        "commune": "Commune",
+        "commune": "Couffé / Le Cellier",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6267,7 +6267,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D207 / Divatte-sur-Loire",
-        "commune": "Commune",
+        "commune": "Divatte-sur-Loire / La Remaudière",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6313,7 +6313,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D14 / Mésanger",
-        "commune": "Commune",
+        "commune": "Teillé / Mésanger",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6336,7 +6336,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Pornic",
-        "commune": "Commune",
+        "commune": "La Bernerie-en-Retz vers Pornic",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6405,7 +6405,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D24 / Mouzeil",
-        "commune": "Commune",
+        "commune": "Couffé / Mouzeil",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6428,7 +6428,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Commune",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6451,7 +6451,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Bouaye vers Bouguenais",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6474,7 +6474,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -19759,7 +19759,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-05T09:26:50.345Z",
+    "generated": "2026-05-05T11:02:14.961Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 514,
     "sources": {
