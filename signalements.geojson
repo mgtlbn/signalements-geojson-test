@@ -5683,22 +5683,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1200426914207546,
-          47.417155179760336
+          -1.516057609329174,
+          47.13440081645723
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D18 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Ancenis",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
+        "route": "D178 / Les Sorinières",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "06-05-2026 10:47:23 +0200"
+        "description": "Bouchon",
+        "date_heure": "06-05-2026 17:22:24 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6328789844689204,
+          47.16350343080919
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye vers Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "06-05-2026 17:22:08 +0200"
       }
     },
     {
@@ -5721,7 +5744,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Autres",
-        "date_heure": "06-05-2026 10:47:01 +0200"
+        "date_heure": "06-05-2026 16:54:30 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1200426914207546,
+          47.417155179760336
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D18 / Vair-sur-Loire",
+        "commune": "Vair-sur-Loire / Ancenis",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "06-05-2026 10:47:23 +0200"
       }
     },
     {
@@ -14184,12 +14230,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-06T13:12:40.531Z",
+    "generated": "2026-05-06T15:40:02.480Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 343,
+    "total_count": 345,
     "sources": {
       "grist_35": 89,
-      "cd44": 37,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
