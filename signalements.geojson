@@ -5683,22 +5683,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.755929470085874,
-          46.99372202672021
+          -1.141533570753757,
+          47.44312886702688
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D117 / Paulx",
-        "commune": "Machecoul-Saint-Même vers Paulx",
-        "type_coupure": "Autres",
+        "route": "D18 / La Roche-Blanche",
+        "commune": "La Roche-Blanche / Pouillé",
+        "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "06-05-2026 16:54:30 +0200"
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "07-05-2026 17:22:18 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1403417476494535,
+          47.44058096706857
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D923 / Mésanger",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "07-05-2026 17:22:18 +0200"
       }
     },
     {
@@ -5721,7 +5744,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
-        "date_heure": "06-05-2026 10:47:23 +0200"
+        "date_heure": "07-05-2026 17:21:17 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.755929470085874,
+          46.99372202672021
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D117 / Paulx",
+        "commune": "Machecoul-Saint-Même vers Paulx",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "06-05-2026 16:54:30 +0200"
       }
     },
     {
@@ -5837,52 +5883,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "30-04-2026 08:27:49 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1403417476494535,
-          47.44058096706857
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D923 / Mésanger",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "29-04-2026 08:30:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.141533570753757,
-          47.44312886702688
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / La Roche-Blanche",
-        "commune": "La Roche-Blanche / Pouillé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "29-04-2026 08:30:56 +0200"
       }
     },
     {
@@ -17980,7 +17980,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-07T15:11:48.628Z",
+    "generated": "2026-05-07T17:15:39.007Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 451,
     "sources": {
