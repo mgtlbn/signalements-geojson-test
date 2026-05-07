@@ -10269,64 +10269,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.654889394113271,
-            48.09733392359169
-          ],
-          [
-            -1.654898102699973,
-            48.097261809147845
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 2 au 4 Rue Francisco Ferrer",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.636914417143507,
-            48.181006428624855
-          ],
-          [
-            -1.636773075683464,
-            48.18097973974221
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "3bis Avenue d'Armorique",
-        "commune": "35024 - Betton",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de création d'un passage piétons",
-        "date_heure": "2026-05-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.789907627011069,
             48.220784380179104
           ],
@@ -10598,6 +10540,64 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-05-04T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.654889394113271,
+            48.09733392359169
+          ],
+          [
+            -1.654898102699973,
+            48.097261809147845
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 2 au 4 Rue Francisco Ferrer",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-04T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.636914417143507,
+            48.181006428624855
+          ],
+          [
+            -1.636773075683464,
+            48.18097973974221
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "3bis Avenue d'Armorique",
+        "commune": "35024 - Betton",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création d'un passage piétons",
         "date_heure": "2026-05-04T00:00:00+00:00"
       }
     },
@@ -14184,7 +14184,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-06T23:26:12.393Z",
+    "generated": "2026-05-07T01:15:25.496Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 343,
     "sources": {
