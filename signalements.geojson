@@ -5683,29 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1021487545213693,
-          47.41091673167311
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / La Roche-Blanche",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "08-05-2026 09:53:22 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.141533570753757,
           47.44312886702688
         ]
@@ -5768,29 +5745,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "07-05-2026 17:21:17 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.755929470085874,
-          46.99372202672021
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D117 / Paulx",
-        "commune": "Machecoul-Saint-Même vers Paulx",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "06-05-2026 16:54:30 +0200"
       }
     },
     {
@@ -19416,12 +19370,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-09T21:09:10.572Z",
+    "generated": "2026-05-09T22:06:52.586Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 497,
+    "total_count": 495,
     "sources": {
       "grist_35": 89,
-      "cd44": 36,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
