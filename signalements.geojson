@@ -5683,75 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.141533570753757,
-          47.44312886702688
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / La Roche-Blanche",
-        "commune": "La Roche-Blanche / Pouillé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "07-05-2026 17:22:18 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1403417476494535,
-          47.44058096706857
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D923 / Mésanger",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "07-05-2026 17:22:18 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1200426914207546,
-          47.417155179760336
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / Ancenis",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "07-05-2026 17:21:17 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -18287,12 +18218,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-10T21:12:34.477Z",
+    "generated": "2026-05-10T22:09:37.081Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 464,
+    "total_count": 461,
     "sources": {
       "grist_35": 89,
-      "cd44": 34,
+      "cd44": 31,
       "rennes_metropole": 100
     }
   }
