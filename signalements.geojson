@@ -5959,29 +5959,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1595258710560543,
-          47.25997601792246
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Commune",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "11-05-2026 14:45:00 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3850685755611662,
           47.20479871244054
         ]
@@ -21007,12 +20984,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-14T21:43:48.131Z",
+    "generated": "2026-05-14T22:56:33.967Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 528,
+    "total_count": 527,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
