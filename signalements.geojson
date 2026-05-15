@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3048716346060747,
+          47.16028386807653
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D106 / Vallet",
+        "commune": "Vallet / La Chapelle-Heulin",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "15-05-2026 13:29:20 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2760541870190893,
+          47.16177945756951
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Déviation / D756 / Vallet",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur chaussée",
+        "date_heure": "15-05-2026 13:28:35 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -23596,12 +23642,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-15T10:23:57.626Z",
+    "generated": "2026-05-15T12:16:26.435Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 573,
+    "total_count": 575,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 46,
       "rennes_metropole": 100
     }
   }
