@@ -5706,52 +5706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4821354339342643,
-          47.502850288839674
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "réfection de chaussée / D24 / Joué",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "13-05-2026 19:06:30 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4756732900636045,
-          47.516243909688406
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D69 / Joué-sur-Erdre",
-        "commune": "Abbaretz / Joué-sur-Erdre",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "13-05-2026 19:06:30 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.2535621857096575,
           47.28578668090185
         ]
@@ -23596,12 +23550,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-16T21:11:48.287Z",
+    "generated": "2026-05-16T22:10:41.887Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 573,
+    "total_count": 571,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
