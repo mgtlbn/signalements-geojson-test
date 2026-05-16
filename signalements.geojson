@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.75982080550569,
+          47.18395784073535
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Le Pellerin",
+        "commune": "Nantes - paimboeuf",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "16-05-2026 11:01:46 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -23596,12 +23619,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-16T08:09:38.863Z",
+    "generated": "2026-05-16T09:56:09.504Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 573,
+    "total_count": 574,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
