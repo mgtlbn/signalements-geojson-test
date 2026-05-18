@@ -5821,52 +5821,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.120295684496348,
-          47.44648609842812
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux / D33",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "17-05-2026 17:19:11 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1097078807406153,
-          47.44242268539675
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33A / Pontchâteau",
-        "commune": "Commune",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "17-05-2026 17:19:11 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.2535621857096575,
           47.28578668090185
         ]
@@ -19265,12 +19219,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-18T21:45:46.461Z",
+    "generated": "2026-05-18T23:01:18.364Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 460,
+    "total_count": 458,
     "sources": {
       "grist_35": 89,
-      "cd44": 47,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
