@@ -5729,29 +5729,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Commune",
-        "type_coupure": "Marée haute",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Marée haute",
-        "date_heure": "17-05-2026 07:50:13 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.2535621857096575,
           47.28578668090185
         ]
@@ -16489,12 +16466,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-17T23:57:54.183Z",
+    "generated": "2026-05-18T04:21:24.464Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 394,
+    "total_count": 393,
     "sources": {
       "grist_35": 89,
-      "cd44": 42,
+      "cd44": 41,
       "rennes_metropole": 100
     }
   }
