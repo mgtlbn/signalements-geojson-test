@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.165591587650644,
+          47.303523083933115
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée / D4",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "20-05-2026 13:37:03 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5311840924088576,
+          47.555170229455534
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D2 / Abbaretz",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "20-05-2026 13:36:44 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2535621857096575,
           47.28578668090185
         ]
@@ -23082,12 +23128,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-20T09:34:15.713Z",
+    "generated": "2026-05-20T12:25:00.672Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 613,
+    "total_count": 615,
     "sources": {
       "grist_35": 89,
-      "cd44": 45,
+      "cd44": 47,
       "rennes_metropole": 100
     }
   }
