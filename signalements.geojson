@@ -5775,52 +5775,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2535621857096575,
-          47.28578668090185
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D47 / Saint-Nazaire",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "19-05-2026 17:46:25 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.250749634878755,
-          47.28683463344432
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D492 / Saint-Nazaire",
-        "commune": "Saint-Nazaire vers Saint-André",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "19-05-2026 17:46:25 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2811860098187797,
           47.107688026521664
         ]
@@ -25061,12 +25015,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-22T21:10:08.556Z",
+    "generated": "2026-05-22T22:33:34.054Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 648,
+    "total_count": 646,
     "sources": {
       "grist_35": 89,
-      "cd44": 47,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
