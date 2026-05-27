@@ -5683,22 +5683,45 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1766350799348295,
-          47.29377674482418
+          -1.0915398701444652,
+          47.46941519895025
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Saint-Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Entretien courant",
+        "route": "D112 / Loireauxence",
+        "commune": "Maumusson / Loireauxence",
+        "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "27-05-2026 09:07:08 +0200"
+        "description": "Autres",
+        "date_heure": "27-05-2026 16:54:58 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3499668694330909,
+          47.11363564008065
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D59 / Monnières",
+        "commune": "Gorges / Monnières",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "27-05-2026 10:47:22 +0200"
       }
     },
     {
@@ -5860,29 +5883,6 @@
         "statut": "Actif",
         "description": "Obstacle sur la chaussée",
         "date_heure": "26-05-2026 17:24:17 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0915398701444652,
-          47.46941519895025
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D112 / Loireauxence",
-        "commune": "Maumusson / Loireauxence",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "26-05-2026 16:17:43 +0200"
       }
     },
     {
@@ -24855,7 +24855,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-27T08:04:30.679Z",
+    "generated": "2026-05-27T15:42:19.598Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 660,
     "sources": {
