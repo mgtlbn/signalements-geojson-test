@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0752662491085117,
+          47.112731484693484
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur ouvrage d'art -Pornic",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "29-05-2026 13:17:25 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1977823872334767,
           47.62337693101899
         ]
@@ -6136,29 +6159,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "26-05-2026 13:06:06 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0752662491085117,
-          47.112731484693484
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur ouvrage d'art -Pornic",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "26-05-2026 09:30:56 +0200"
       }
     },
     {
@@ -24869,7 +24869,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-29T10:28:51.943Z",
+    "generated": "2026-05-29T13:44:00.032Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 644,
     "sources": {
