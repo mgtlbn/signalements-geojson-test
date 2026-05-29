@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.075385610399689,
+          47.11273694765558
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Pornic",
+        "commune": "Chaumes-en-Retz / Pornic",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "29-05-2026 08:10:46 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6431720571807509,
           47.51702564568714
         ]
@@ -6020,29 +6043,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "26-05-2026 09:30:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.075385610399689,
-          47.11273694765558
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Pornic",
-        "commune": "Chaumes-en-Retz / Pornic",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
         "date_heure": "26-05-2026 09:30:56 +0200"
       }
     },
@@ -19514,7 +19514,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-29T01:31:11.435Z",
+    "generated": "2026-05-29T06:13:52.868Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 523,
     "sources": {
