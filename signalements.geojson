@@ -5683,6 +5683,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3189212809512565,
+          47.37235505033826
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Course cycliste / D723 / Le Cellier",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "31-05-2026 06:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2955901203633382,
+          47.389575471517894
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Course cycliste / D23 -",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "31-05-2026 06:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2877921800379903,
+          47.386174787222
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D23 / Couffé",
+        "commune": "Commune",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "31-05-2026 06:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.0752662491085117,
           47.112731484693484
         ]
@@ -6504,75 +6573,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "13-04-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3189212809512565,
-          47.37235505033826
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Course cycliste / D723 / Le Cellier",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "13-04-2026 05:57:26 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2955901203633382,
-          47.389575471517894
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Course cycliste / D23 -",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "13-04-2026 05:57:23 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2877921800379903,
-          47.386174787222
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D23 / Couffé",
-        "commune": "Commune",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "13-04-2026 05:57:19 +0200"
       }
     },
     {
@@ -22894,7 +22894,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-05-31T00:06:29.157Z",
+    "generated": "2026-05-31T05:00:51.673Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 603,
     "sources": {
