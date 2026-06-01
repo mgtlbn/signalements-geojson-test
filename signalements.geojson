@@ -5982,29 +5982,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Commune",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "29-05-2026 11:25:10 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0915398701444652,
           47.46941519895025
         ]
@@ -29891,12 +29868,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-01T20:55:06.496Z",
+    "generated": "2026-06-01T23:02:06.535Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 818,
+    "total_count": 817,
     "sources": {
       "grist_35": 89,
-      "cd44": 53,
+      "cd44": 52,
       "rennes_metropole": 100
     }
   }
