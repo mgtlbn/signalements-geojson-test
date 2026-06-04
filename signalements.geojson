@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2830593261837346,
+          47.27599753605711
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D207 / Divatte-sur-Loire",
+        "commune": "Divatte-sur-Loire / La Remaudière",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "04-06-2026 18:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2994101768331816,
           47.35073169394831
         ]
@@ -6649,29 +6672,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2830593261837346,
-          47.27599753605711
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D207 / Divatte-sur-Loire",
-        "commune": "Divatte-sur-Loire / La Remaudière",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "01-04-2026 16:29:41 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.071025049039784,
           47.10956562537875
         ]
@@ -6826,895 +6826,6 @@
         "statut": "Actif",
         "description": "Bouchon sur 4 km",
         "date_heure": "04-07-2024 09:24:02 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.669713259919517,
-            48.11065541746794
-          ],
-          [
-            -1.669559401365339,
-            48.11065554842958
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 26 au 45 Rue Paul Bert",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.669559401365339,
-            48.11065554842958
-          ],
-          [
-            -1.667745526356023,
-            48.11066558322517
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 26 au 45 Rue Paul Bert",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667745526356023,
-            48.11066558322517
-          ],
-          [
-            -1.667118015776548,
-            48.11066743411382
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 26 au 45 Rue Paul Bert",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.664081434106262,
-            48.110082914679246
-          ],
-          [
-            -1.664081562380094,
-            48.11007782679285
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.663015833105211,
-            48.11008324023743
-          ],
-          [
-            -1.662974986296716,
-            48.11008340073996
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.66219901601017,
-            48.11009177299235
-          ],
-          [
-            -1.662198896887128,
-            48.1100864475347
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.661560100986295,
-            48.11008895116856
-          ],
-          [
-            -1.661526480147693,
-            48.11008908284057
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.659943282105276,
-            48.11009603045513
-          ],
-          [
-            -1.65985995588072,
-            48.11009639551592
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.659723723495094,
-            48.1100969919855
-          ],
-          [
-            -1.659716553369449,
-            48.11009702337416
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.658337757420524,
-            48.11006812348741
-          ],
-          [
-            -1.658337685191959,
-            48.110064368043
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.729562248273242,
-            48.1066896906528
-          ],
-          [
-            -1.728867121312876,
-            48.106786096986944
-          ],
-          [
-            -1.728103273506236,
-            48.1068606662804
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.728729310768422,
-            48.1069304283996
-          ],
-          [
-            -1.728192600955366,
-            48.10698182990705
-          ],
-          [
-            -1.727577061170084,
-            48.10701793096358
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.72601276631117,
-            48.10694353787933
-          ],
-          [
-            -1.728103273506236,
-            48.1068606662804
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.72601276631117,
-            48.10694353787933
-          ],
-          [
-            -1.723867991334152,
-            48.107011646658776
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.735225435288265,
-            48.105231396145264
-          ],
-          [
-            -1.734668138729219,
-            48.10542226308004
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.734787848064181,
-            48.10523800988369
-          ],
-          [
-            -1.734572063835889,
-            48.10530292361436
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.734572063835889,
-            48.10530292361436
-          ],
-          [
-            -1.734668138729219,
-            48.10542226308004
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.734572063835889,
-            48.10530292361436
-          ],
-          [
-            -1.732788656141467,
-            48.10589882286874
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.734668138729219,
-            48.10542226308004
-          ],
-          [
-            -1.732865228462095,
-            48.10603129651155
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Neutralisation de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "en lien avec le projet trambus",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.717164101279822,
-            48.1073306915376
-          ],
-          [
-            -1.715573843532394,
-            48.10759617271374
-          ],
-          [
-            -1.70742390713462,
-            48.10945200612452
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'au pont de la RN 136 et dans les deux sens de circulation.",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "du projet Trambus",
-        "date_heure": "2026-04-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679424451507121,
-            48.114478998647286
-          ],
-          [
-            -1.679444469838482,
-            48.11448256023994
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Rue de la Visitation, de la Rue d'Antrain et de la Rue de la Motte-Fablet",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679308050202799,
-            48.103974755629245
-          ],
-          [
-            -1.679006121236311,
-            48.1040173205319
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Capitaine Maignan, dans un sens, depuis la Rue du 10ème d'Artillerie jusqu'à la Rue Théophile Briant",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679006121236311,
-            48.1040173205319
-          ],
-          [
-            -1.678445583313232,
-            48.10409654007414
-          ],
-          [
-            -1.678504787318407,
-            48.10429190895542
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Capitaine Maignan, dans un sens, depuis la Rue du 10ème d'Artillerie jusqu'à la Rue Théophile Briant",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678504787318407,
-            48.10429190895542
-          ],
-          [
-            -1.677913400265594,
-            48.104371217851416
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Capitaine Maignan, dans un sens, depuis la Rue du 10ème d'Artillerie jusqu'à la Rue Théophile Briant",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-05-18T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.611591642422379,
-            48.00513841635595
-          ],
-          [
-            -1.611593418713045,
-            48.00514986540408
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "34 la Jubrais",
-        "commune": "35032 - Bourgbarré",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-05-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67717710388882,
-            48.104074698249
-          ],
-          [
-            -1.677142781650931,
-            48.10398679996107
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 10 au 12 Rue de l'Alma",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-05-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.733649544521609,
-            48.075629991466336
-          ],
-          [
-            -1.733670664236335,
-            48.07562865537139
-          ],
-          [
-            -1.733744754343271,
-            48.07562256433551
-          ],
-          [
-            -1.734075582773485,
-            48.07559362362083
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "16 Rue Jacqueline Auriol",
-        "commune": "35281 - Saint-Jacques-de-la-Lande",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.621266686683262,
-            48.09912191611705
-          ],
-          [
-            -1.62148138442297,
-            48.09903162862659
-          ],
-          [
-            -1.621674303875269,
-            48.099026688514385
-          ],
-          [
-            -1.621727581730104,
-            48.099058335450984
-          ],
-          [
-            -1.621842932081164,
-            48.09907903954354
-          ],
-          [
-            -1.621943957418517,
-            48.099080609277514
-          ],
-          [
-            -1.622043957061226,
-            48.09905969422436
-          ],
-          [
-            -1.62210477236944,
-            48.099034723092565
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Bignon, Rond-point Rue du Bignon/Rue du Breillou",
-        "commune": "35055 - Chantepie",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.713297069675112,
-            48.121372515233645
-          ],
-          [
-            -1.712999878252059,
-            48.12136748660076
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection du Cours Président John Fitzgerald Kennedy et du Boulevard d'Anjou donc à la sortie de la Dalle Kennedy",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-05-26T00:00:00+00:00"
       }
     },
     {
@@ -15783,6 +14894,895 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.669713259919517,
+            48.11065541746794
+          ],
+          [
+            -1.669559401365339,
+            48.11065554842958
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 26 au 45 Rue Paul Bert",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.669559401365339,
+            48.11065554842958
+          ],
+          [
+            -1.667745526356023,
+            48.11066558322517
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 26 au 45 Rue Paul Bert",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.667745526356023,
+            48.11066558322517
+          ],
+          [
+            -1.667118015776548,
+            48.11066743411382
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 26 au 45 Rue Paul Bert",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.664081434106262,
+            48.110082914679246
+          ],
+          [
+            -1.664081562380094,
+            48.11007782679285
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663015833105211,
+            48.11008324023743
+          ],
+          [
+            -1.662974986296716,
+            48.11008340073996
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.66219901601017,
+            48.11009177299235
+          ],
+          [
+            -1.662198896887128,
+            48.1100864475347
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.661560100986295,
+            48.11008895116856
+          ],
+          [
+            -1.661526480147693,
+            48.11008908284057
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.659943282105276,
+            48.11009603045513
+          ],
+          [
+            -1.65985995588072,
+            48.11009639551592
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.659723723495094,
+            48.1100969919855
+          ],
+          [
+            -1.659716553369449,
+            48.11009702337416
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.658337757420524,
+            48.11006812348741
+          ],
+          [
+            -1.658337685191959,
+            48.110064368043
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "voie de BUS en site propre entre l'Avenue Aristide Briand et de l'Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.729562248273242,
+            48.1066896906528
+          ],
+          [
+            -1.728867121312876,
+            48.106786096986944
+          ],
+          [
+            -1.728103273506236,
+            48.1068606662804
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.728729310768422,
+            48.1069304283996
+          ],
+          [
+            -1.728192600955366,
+            48.10698182990705
+          ],
+          [
+            -1.727577061170084,
+            48.10701793096358
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.72601276631117,
+            48.10694353787933
+          ],
+          [
+            -1.728103273506236,
+            48.1068606662804
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.72601276631117,
+            48.10694353787933
+          ],
+          [
+            -1.723867991334152,
+            48.107011646658776
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.735225435288265,
+            48.105231396145264
+          ],
+          [
+            -1.734668138729219,
+            48.10542226308004
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.734787848064181,
+            48.10523800988369
+          ],
+          [
+            -1.734572063835889,
+            48.10530292361436
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.734572063835889,
+            48.10530292361436
+          ],
+          [
+            -1.734668138729219,
+            48.10542226308004
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.734572063835889,
+            48.10530292361436
+          ],
+          [
+            -1.732788656141467,
+            48.10589882286874
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.734668138729219,
+            48.10542226308004
+          ],
+          [
+            -1.732865228462095,
+            48.10603129651155
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue de la Retardais jusqu'à la Rue du Lieutenant-Colonel Dubois et dans les deux sens de circulation",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Neutralisation de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "en lien avec le projet trambus",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.717164101279822,
+            48.1073306915376
+          ],
+          [
+            -1.715573843532394,
+            48.10759617271374
+          ],
+          [
+            -1.70742390713462,
+            48.10945200612452
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Boulevard Marbeuf jusqu'au pont de la RN 136 et dans les deux sens de circulation.",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "du projet Trambus",
+        "date_heure": "2026-04-04T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679424451507121,
+            48.114478998647286
+          ],
+          [
+            -1.679444469838482,
+            48.11448256023994
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Rue de la Visitation, de la Rue d'Antrain et de la Rue de la Motte-Fablet",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679308050202799,
+            48.103974755629245
+          ],
+          [
+            -1.679006121236311,
+            48.1040173205319
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Capitaine Maignan, dans un sens, depuis la Rue du 10ème d'Artillerie jusqu'à la Rue Théophile Briant",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679006121236311,
+            48.1040173205319
+          ],
+          [
+            -1.678445583313232,
+            48.10409654007414
+          ],
+          [
+            -1.678504787318407,
+            48.10429190895542
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Capitaine Maignan, dans un sens, depuis la Rue du 10ème d'Artillerie jusqu'à la Rue Théophile Briant",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678504787318407,
+            48.10429190895542
+          ],
+          [
+            -1.677913400265594,
+            48.104371217851416
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Capitaine Maignan, dans un sens, depuis la Rue du 10ème d'Artillerie jusqu'à la Rue Théophile Briant",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.611591642422379,
+            48.00513841635595
+          ],
+          [
+            -1.611593418713045,
+            48.00514986540408
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "34 la Jubrais",
+        "commune": "35032 - Bourgbarré",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-05-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67717710388882,
+            48.104074698249
+          ],
+          [
+            -1.677142781650931,
+            48.10398679996107
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 10 au 12 Rue de l'Alma",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-05-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.733649544521609,
+            48.075629991466336
+          ],
+          [
+            -1.733670664236335,
+            48.07562865537139
+          ],
+          [
+            -1.733744754343271,
+            48.07562256433551
+          ],
+          [
+            -1.734075582773485,
+            48.07559362362083
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "16 Rue Jacqueline Auriol",
+        "commune": "35281 - Saint-Jacques-de-la-Lande",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.621266686683262,
+            48.09912191611705
+          ],
+          [
+            -1.62148138442297,
+            48.09903162862659
+          ],
+          [
+            -1.621674303875269,
+            48.099026688514385
+          ],
+          [
+            -1.621727581730104,
+            48.099058335450984
+          ],
+          [
+            -1.621842932081164,
+            48.09907903954354
+          ],
+          [
+            -1.621943957418517,
+            48.099080609277514
+          ],
+          [
+            -1.622043957061226,
+            48.09905969422436
+          ],
+          [
+            -1.62210477236944,
+            48.099034723092565
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Bignon, Rond-point Rue du Bignon/Rue du Breillou",
+        "commune": "35055 - Chantepie",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.713297069675112,
+            48.121372515233645
+          ],
+          [
+            -1.712999878252059,
+            48.12136748660076
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection du Cours Président John Fitzgerald Kennedy et du Boulevard d'Anjou donc à la sortie de la Dalle Kennedy",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-05-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.586560246030019,
             48.15972179791707
           ],
@@ -20892,7 +20892,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-04T15:59:44.054Z",
+    "generated": "2026-06-04T18:25:56.765Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 541,
     "sources": {
