@@ -5867,29 +5867,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0915398701444652,
-          47.46941519895025
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D112 / Loireauxence",
-        "commune": "Commune",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "05-06-2026 15:48:47 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2830593261837346,
           47.27599753605711
         ]
@@ -5998,29 +5975,6 @@
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
         "date_heure": "03-06-2026 10:55:19 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Commune",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "02-06-2026 15:37:01 +0200"
       }
     },
     {
@@ -24516,12 +24470,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-05T21:07:37.177Z",
+    "generated": "2026-06-05T22:41:49.252Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 627,
+    "total_count": 625,
     "sources": {
       "grist_35": 89,
-      "cd44": 49,
+      "cd44": 47,
       "rennes_metropole": 100
     }
   }
