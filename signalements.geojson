@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2830593261837346,
+          47.27599753605711
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D207 / Divatte-sur-Loire",
+        "commune": "Divatte-sur-Loire / La Remaudière",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "07-06-2026 17:41:13 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3850685755611662,
           47.20479871244054
         ]
@@ -6159,29 +6182,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "05-06-2026 15:49:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2830593261837346,
-          47.27599753605711
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D207 / Divatte-sur-Loire",
-        "commune": "Divatte-sur-Loire / La Remaudière",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "04-06-2026 18:00:56 +0200"
       }
     },
     {
@@ -24706,7 +24706,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-07T15:10:03.520Z",
+    "generated": "2026-06-07T16:51:34.668Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 651,
     "sources": {
