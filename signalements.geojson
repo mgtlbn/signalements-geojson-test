@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3850685755611662,
+          47.20479871244054
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D407 / Le Loroux-Bottereau",
+        "commune": "Le Loroux / Haute-Goulaine",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "07-06-2026 12:36:20 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -5699,29 +5722,6 @@
         "statut": "Actif",
         "description": "Arrêt cause",
         "date_heure": "07-06-2026 10:11:43 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3850685755611662,
-          47.20479871244054
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D407 / Le Loroux-Bottereau",
-        "commune": "Le Loroux / Haute-Goulaine",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "07-06-2026 08:00:56 +0200"
       }
     },
     {
@@ -24706,7 +24706,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-07T08:34:32.894Z",
+    "generated": "2026-06-07T11:08:51.049Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 651,
     "sources": {
