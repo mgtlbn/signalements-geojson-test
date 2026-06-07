@@ -6189,29 +6189,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6370876594392578,
-          47.04964253800067
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D62 / La Chevrolière",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "04-06-2026 07:03:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -24706,12 +24683,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-07T21:12:48.253Z",
+    "generated": "2026-06-07T22:36:47.607Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 651,
+    "total_count": 650,
     "sources": {
       "grist_35": 89,
-      "cd44": 54,
+      "cd44": 53,
       "rennes_metropole": 100
     }
   }
