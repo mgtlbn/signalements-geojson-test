@@ -6074,167 +6074,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2994101768331816,
-          47.35073169394831
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D323 / Oudon",
-        "commune": "Oudon / Couffé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "06-06-2026 09:54:28 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5127950546743556,
-          47.13852492748504
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / La Chevrolière",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "05-06-2026 15:49:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5623709251132232,
-          47.0796714168397
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D937 / Le Bignon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "05-06-2026 15:49:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5124543627612215,
-          47.13800307377821
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D937 / Pont-Saint-Martin",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "05-06-2026 15:49:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5127950546743556,
-          47.13852492748504
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / La Chevrolière",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "05-06-2026 15:49:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5271859034125028,
-          47.12546920060978
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée / Rezé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "05-06-2026 15:49:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5137058104887349,
-          47.140714451720285
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée / Le Bignon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "05-06-2026 15:49:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -25017,12 +24856,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-08T20:17:50.616Z",
+    "generated": "2026-06-08T22:09:18.217Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 658,
+    "total_count": 651,
     "sources": {
       "grist_35": 89,
-      "cd44": 54,
+      "cd44": 47,
       "rennes_metropole": 100
     }
   }
