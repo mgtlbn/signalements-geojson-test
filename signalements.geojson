@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.159602252456426,
+          47.24935392356204
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Montoir vers St Brevin",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "08-06-2026 18:21:34 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.161554450156839,
           47.26659122279252
         ]
@@ -5699,29 +5722,6 @@
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
         "date_heure": "08-06-2026 09:37:03 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.159602252456426,
-          47.24935392356204
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Montoir vers St Brevin",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "08-06-2026 09:00:55 +0200"
       }
     },
     {
@@ -25017,7 +25017,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-08T14:33:15.494Z",
+    "generated": "2026-06-08T17:53:18.407Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 658,
     "sources": {
