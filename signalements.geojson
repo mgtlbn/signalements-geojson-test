@@ -5683,6 +5683,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5367209862535338,
+          47.113537549554856
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Pont-Saint-Martin",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "08-06-2026 06:49:01 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6329437639188102,
+          47.16351770202352
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye / Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "08-06-2026 06:48:49 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1377827244640915,
+          47.044450552190575
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Course cycliste / D149 / Boussay",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "08-06-2026 06:06:21 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1377616567414428,
+          47.04444121047339
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D149 / Boussay",
+        "commune": "Boussay / Gétigné",
+        "type_coupure": "Manifestation sportive",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Course cycliste",
+        "date_heure": "08-06-2026 06:06:21 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.2830593261837346,
           47.27599753605711
         ]
@@ -5745,52 +5837,6 @@
         "statut": "Actif",
         "description": "Arrêt cause",
         "date_heure": "07-06-2026 10:11:43 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1377827244640915,
-          47.044450552190575
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Course cycliste / D149 / Boussay",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "07-06-2026 06:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1377616567414428,
-          47.04444121047339
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D149 / Boussay",
-        "commune": "Boussay / Gétigné",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "07-06-2026 06:00:56 +0200"
       }
     },
     {
@@ -24683,12 +24729,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-08T00:08:42.748Z",
+    "generated": "2026-06-08T05:12:09.733Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 650,
+    "total_count": 652,
     "sources": {
       "grist_35": 89,
-      "cd44": 53,
+      "cd44": 55,
       "rennes_metropole": 100
     }
   }
