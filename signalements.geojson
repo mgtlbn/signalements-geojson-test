@@ -5959,29 +5959,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4604420536330414,
-          47.08632386952567
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D63 / Montbert",
-        "commune": "Commune",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "06-06-2026 18:05:52 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.416230238955089,
           47.11052626342245
         ]
@@ -6090,52 +6067,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "06-06-2026 09:58:18 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2886721052354606,
-          47.39304027194733
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D23 / Couffé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "06-06-2026 09:57:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2931170377325574,
-          47.390735461834865
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D21 / Couffé",
-        "commune": "Commune",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "06-06-2026 09:57:40 +0200"
       }
     },
     {
@@ -21150,12 +21081,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-09T21:17:22.830Z",
+    "generated": "2026-06-09T22:57:51.703Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 545,
+    "total_count": 542,
     "sources": {
       "grist_35": 89,
-      "cd44": 51,
+      "cd44": 48,
       "rennes_metropole": 100
     }
   }
