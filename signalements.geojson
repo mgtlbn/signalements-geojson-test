@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8143664141618614,
+          47.28709623865569
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D17 / Cordemais",
+        "commune": "Cordemais / St-Etienne-de-Montluc",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "09-06-2026 13:52:35 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.162700515685131,
           47.27051391334055
         ]
@@ -21081,12 +21104,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-09T11:15:06.766Z",
+    "generated": "2026-06-09T13:58:36.711Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 542,
+    "total_count": 543,
     "sources": {
       "grist_35": 89,
-      "cd44": 48,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
