@@ -5890,121 +5890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1377827244640915,
-          47.044450552190575
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Course cycliste / D149 / Boussay",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "08-06-2026 06:06:21 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1377616567414428,
-          47.04444121047339
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D149 / Boussay",
-        "commune": "Boussay / Gétigné",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "08-06-2026 06:06:21 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2830593261837346,
-          47.27599753605711
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D207 / Divatte-sur-Loire",
-        "commune": "Divatte-sur-Loire / La Remaudière",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "07-06-2026 17:41:13 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3850685755611662,
-          47.20479871244054
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D407 / Le Loroux-Bottereau",
-        "commune": "Le Loroux / Haute-Goulaine",
-        "type_coupure": "Manifestation sportive",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Course cycliste",
-        "date_heure": "07-06-2026 12:36:20 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Autre",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause",
-        "date_heure": "07-06-2026 10:11:43 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.416230238955089,
           47.11052626342245
         ]
@@ -22207,12 +22092,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-10T21:34:47.081Z",
+    "generated": "2026-06-10T23:25:09.954Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 594,
+    "total_count": 589,
     "sources": {
       "grist_35": 89,
-      "cd44": 49,
+      "cd44": 44,
       "rennes_metropole": 100
     }
   }
