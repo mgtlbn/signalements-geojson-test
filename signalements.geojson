@@ -5698,7 +5698,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "10-06-2026 09:30:56 +0200"
+        "date_heure": "10-06-2026 17:40:21 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Bac de réserve",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bac de réserve",
+        "date_heure": "10-06-2026 15:03:24 +0200"
       }
     },
     {
@@ -6113,29 +6136,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "06-06-2026 09:57:38 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Bac de réserve",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bac de réserve",
-        "date_heure": "03-06-2026 15:08:49 +0200"
       }
     },
     {
@@ -22207,7 +22207,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-10T12:20:37.159Z",
+    "generated": "2026-06-10T16:20:16.150Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 594,
     "sources": {
