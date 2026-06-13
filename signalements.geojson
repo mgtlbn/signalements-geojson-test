@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3722124992149922,
+          47.40892471218854
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D23 / Ligné",
+        "commune": "Couffé / Ligné",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "13-06-2026 05:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.176598455408281,
           47.293686497941046
         ]
@@ -6021,29 +6044,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "06-06-2026 09:58:18 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3722124992149922,
-          47.40892471218854
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D23 / Ligné",
-        "commune": "Couffé / Ligné",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "06-06-2026 09:57:38 +0200"
       }
     },
     {
@@ -22561,7 +22561,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-13T00:21:50.126Z",
+    "generated": "2026-06-13T05:02:21.387Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 584,
     "sources": {
