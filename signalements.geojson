@@ -5844,52 +5844,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.162700515685131,
-          47.27051391334055
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "10-06-2026 17:40:21 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Bac de réserve",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bac de réserve",
-        "date_heure": "10-06-2026 15:03:24 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1093920981066483,
           47.44232125301313
         ]
@@ -22561,12 +22515,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-13T21:45:21.220Z",
+    "generated": "2026-06-13T23:04:23.635Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 584,
+    "total_count": 582,
     "sources": {
       "grist_35": 89,
-      "cd44": 45,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
