@@ -5821,29 +5821,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1626315015607704,
-          47.27027945032334
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "11-06-2026 16:29:08 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -24722,12 +24699,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-14T21:12:46.560Z",
+    "generated": "2026-06-14T22:40:34.961Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 657,
+    "total_count": 656,
     "sources": {
       "grist_35": 89,
-      "cd44": 43,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
