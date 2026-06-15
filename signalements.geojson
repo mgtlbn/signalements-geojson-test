@@ -6327,29 +6327,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "11-06-2026 12:10:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1093920981066483,
           47.44232125301313
         ]
@@ -6811,6 +6788,68 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.678825075437961,
+            48.10342995836508
+          ],
+          [
+            -1.678914859463885,
+            48.103721244065234
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 6 au 8 Square Emile Souvestre",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-05-18T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707120251426764,
+            48.04227433867071
+          ],
+          [
+            -1.709138589849385,
+            48.04230421978478
+          ],
+          [
+            -1.712084671675708,
+            48.041870785330524
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Rue de la Poterie et du Rond-point",
+        "commune": "35066 - Chartres-de-Bretagne",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.717164101279822,
             48.1073306915376
           ],
@@ -6836,35 +6875,6 @@
         "statut": "Actif",
         "description": "du projet Trambus",
         "date_heure": "2026-04-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.590973259885442,
-            48.11488624141339
-          ],
-          [
-            -1.590626060391908,
-            48.11495359985852
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Rigourdière",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
       }
     },
     {
@@ -6902,67 +6912,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.693115566790087,
-            48.112015770370164
-          ],
-          [
-            -1.693241297438569,
-            48.11199825756484
-          ],
-          [
-            -1.693441745845167,
-            48.11198866816899
-          ],
-          [
-            -1.693794034709758,
-            48.11199339061505
-          ],
-          [
-            -1.693974674732932,
-            48.11200448866037
-          ],
-          [
-            -1.694141294428415,
-            48.11202120488745
-          ],
-          [
-            -1.694299305116346,
-            48.11204385908648
-          ],
-          [
-            -1.694482981061453,
-            48.11207204314925
-          ],
-          [
-            -1.694694316787192,
-            48.11211288421302
-          ],
-          [
-            -1.69489692117707,
-            48.112158316522375
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Georges Cadoudal, de la Rue Vaneau jusqu'à la Rue Frédéric Sacher",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.679424451507121,
             48.114478998647286
           ],
@@ -6988,281 +6937,6 @@
         "statut": "Actif",
         "description": "de réaménagement de voirie",
         "date_heure": "2026-05-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.662320110167536,
-            48.12130651890568
-          ],
-          [
-            -1.662306839060256,
-            48.12137182889312
-          ],
-          [
-            -1.662111102067584,
-            48.12147064327432
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.662444373470305,
-            48.12176748599036
-          ],
-          [
-            -1.662414308441665,
-            48.121692475025654
-          ],
-          [
-            -1.662372000976316,
-            48.12162048334153
-          ],
-          [
-            -1.662304474821311,
-            48.12158213244231
-          ],
-          [
-            -1.662179451817295,
-            48.121537462179106
-          ],
-          [
-            -1.662068727398435,
-            48.121534832366635
-          ],
-          [
-            -1.661956389220504,
-            48.12153965656866
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.655065978346663,
-            48.120976005738676
-          ],
-          [
-            -1.654680496002707,
-            48.12108751135977
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.662330118940163,
-            48.12128383256711
-          ],
-          [
-            -1.662307870810519,
-            48.121359252315195
-          ],
-          [
-            -1.662226794386931,
-            48.12141362932036
-          ],
-          [
-            -1.66213658100309,
-            48.1214547706291
-          ],
-          [
-            -1.662078580393652,
-            48.12149199294933
-          ],
-          [
-            -1.661956389220504,
-            48.12153965656866
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.661956389220504,
-            48.12153965656866
-          ],
-          [
-            -1.661827511281275,
-            48.121572903801116
-          ],
-          [
-            -1.661671889949674,
-            48.1216020988598
-          ],
-          [
-            -1.661518792918936,
-            48.121619027058514
-          ],
-          [
-            -1.661323991926872,
-            48.121633140063565
-          ],
-          [
-            -1.661133841607154,
-            48.121624267405814
-          ],
-          [
-            -1.66092001657241,
-            48.12160509066186
-          ],
-          [
-            -1.659700735589301,
-            48.12136805188146
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.659700735589301,
-            48.12136805188146
-          ],
-          [
-            -1.656375822910523,
-            48.12071717786801
-          ],
-          [
-            -1.656247721803943,
-            48.120659184100575
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.656081457736751,
-            48.120648386461156
-          ],
-          [
-            -1.655949428196724,
-            48.1206940739103
-          ],
-          [
-            -1.655065978346663,
-            48.120976005738676
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-05-19T00:00:00+00:00"
       }
     },
     {
@@ -16569,12 +16243,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.678825075437961,
-            48.10342995836508
+            -1.590973259885442,
+            48.11488624141339
           ],
           [
-            -1.678914859463885,
-            48.103721244065234
+            -1.590626060391908,
+            48.11495359985852
           ]
         ]
       },
@@ -16582,14 +16256,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "du 6 au 8 Square Emile Souvestre",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
+        "route": "Rue de la Rigourdière",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-05-18T00:00:00+00:00"
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
       }
     },
     {
@@ -16598,16 +16272,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.707120251426764,
-            48.04227433867071
+            -1.693115566790087,
+            48.112015770370164
           ],
           [
-            -1.709138589849385,
-            48.04230421978478
+            -1.693241297438569,
+            48.11199825756484
           ],
           [
-            -1.712084671675708,
-            48.041870785330524
+            -1.693441745845167,
+            48.11198866816899
+          ],
+          [
+            -1.693794034709758,
+            48.11199339061505
+          ],
+          [
+            -1.693974674732932,
+            48.11200448866037
+          ],
+          [
+            -1.694141294428415,
+            48.11202120488745
+          ],
+          [
+            -1.694299305116346,
+            48.11204385908648
+          ],
+          [
+            -1.694482981061453,
+            48.11207204314925
+          ],
+          [
+            -1.694694316787192,
+            48.11211288421302
+          ],
+          [
+            -1.69489692117707,
+            48.112158316522375
           ]
         ]
       },
@@ -16615,14 +16317,289 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Rue de la Poterie et du Rond-point",
-        "commune": "35066 - Chartres-de-Bretagne",
+        "route": "Rue Georges Cadoudal, de la Rue Vaneau jusqu'à la Rue Frédéric Sacher",
+        "commune": "35238 - Rennes",
         "type_coupure": "Circulation interdite",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.662320110167536,
+            48.12130651890568
+          ],
+          [
+            -1.662306839060256,
+            48.12137182889312
+          ],
+          [
+            -1.662111102067584,
+            48.12147064327432
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.662444373470305,
+            48.12176748599036
+          ],
+          [
+            -1.662414308441665,
+            48.121692475025654
+          ],
+          [
+            -1.662372000976316,
+            48.12162048334153
+          ],
+          [
+            -1.662304474821311,
+            48.12158213244231
+          ],
+          [
+            -1.662179451817295,
+            48.121537462179106
+          ],
+          [
+            -1.662068727398435,
+            48.121534832366635
+          ],
+          [
+            -1.661956389220504,
+            48.12153965656866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.655065978346663,
+            48.120976005738676
+          ],
+          [
+            -1.654680496002707,
+            48.12108751135977
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.662330118940163,
+            48.12128383256711
+          ],
+          [
+            -1.662307870810519,
+            48.121359252315195
+          ],
+          [
+            -1.662226794386931,
+            48.12141362932036
+          ],
+          [
+            -1.66213658100309,
+            48.1214547706291
+          ],
+          [
+            -1.662078580393652,
+            48.12149199294933
+          ],
+          [
+            -1.661956389220504,
+            48.12153965656866
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.661956389220504,
+            48.12153965656866
+          ],
+          [
+            -1.661827511281275,
+            48.121572903801116
+          ],
+          [
+            -1.661671889949674,
+            48.1216020988598
+          ],
+          [
+            -1.661518792918936,
+            48.121619027058514
+          ],
+          [
+            -1.661323991926872,
+            48.121633140063565
+          ],
+          [
+            -1.661133841607154,
+            48.121624267405814
+          ],
+          [
+            -1.66092001657241,
+            48.12160509066186
+          ],
+          [
+            -1.659700735589301,
+            48.12136805188146
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.659700735589301,
+            48.12136805188146
+          ],
+          [
+            -1.656375822910523,
+            48.12071717786801
+          ],
+          [
+            -1.656247721803943,
+            48.120659184100575
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.656081457736751,
+            48.120648386461156
+          ],
+          [
+            -1.655949428196724,
+            48.1206940739103
+          ],
+          [
+            -1.655065978346663,
+            48.120976005738676
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert Burloud, du Boulevard de Metz jusqu'au 2 dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-05-19T00:00:00+00:00"
       }
     },
     {
@@ -23016,12 +22993,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-15T17:30:06.211Z",
+    "generated": "2026-06-15T20:38:03.098Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 591,
+    "total_count": 590,
     "sources": {
       "grist_35": 89,
-      "cd44": 49,
+      "cd44": 48,
       "rennes_metropole": 100
     }
   }
