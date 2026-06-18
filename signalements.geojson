@@ -6837,6 +6837,79 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.683159709981929,
+            48.119957936858306
+          ],
+          [
+            -1.684635735174968,
+            48.11890087472904
+          ],
+          [
+            -1.684718310341724,
+            48.118842545105636
+          ],
+          [
+            -1.684885239270821,
+            48.118724731904315
+          ],
+          [
+            -1.68500667406024,
+            48.11861571017256
+          ],
+          [
+            -1.685114360830463,
+            48.11849904858516
+          ],
+          [
+            -1.685162503375427,
+            48.11851234891579
+          ],
+          [
+            -1.685020395030953,
+            48.11865942213181
+          ],
+          [
+            -1.684906631870217,
+            48.118751801341574
+          ],
+          [
+            -1.684746070323719,
+            48.11886690761773
+          ],
+          [
+            -1.682732385717365,
+            48.12033001070837
+          ],
+          [
+            -1.68271053791787,
+            48.12027960107081
+          ],
+          [
+            -1.682483389166665,
+            48.1204422662116
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 47 au 50bis Boulevard de Chézy, dans la contre-allée",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation à double sens",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'installation de chantier",
+        "date_heure": "2025-01-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.658467979503552,
             48.10926520420856
           ],
@@ -6891,6 +6964,43 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
         "date_heure": "2026-02-16T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.680952761962769,
+            48.10228117400091
+          ],
+          [
+            -1.681200469227369,
+            48.10311611919871
+          ],
+          [
+            -1.681191728432339,
+            48.1032036094113
+          ],
+          [
+            -1.681145750386164,
+            48.1032928861985
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du n° 7 au n° 9B Rue du 7ème d'Artillerie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'installation de chantier",
+        "date_heure": "2026-03-03T00:00:00+00:00"
       }
     },
     {
@@ -6982,6 +7092,220 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
         "date_heure": "2026-05-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.835903508102187,
+            48.23164395370907
+          ],
+          [
+            -1.835650437621131,
+            48.23162051780648
+          ],
+          [
+            -1.835102207619545,
+            48.23155331929515
+          ],
+          [
+            -1.834860510279567,
+            48.23151095419564
+          ],
+          [
+            -1.834693058810253,
+            48.231465473862926
+          ],
+          [
+            -1.834484581352589,
+            48.231390749488604
+          ],
+          [
+            -1.834356250003148,
+            48.23132858897645
+          ],
+          [
+            -1.833586906221022,
+            48.231014863800986
+          ],
+          [
+            -1.833316513894298,
+            48.23089830160494
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "les Forges",
+        "commune": "35144 - Langan",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-05-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676480294074847,
+            48.102383894263944
+          ],
+          [
+            -1.676347158453976,
+            48.10175010949945
+          ],
+          [
+            -1.675683225101243,
+            48.10179964207936
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "7B Rue de Châtillon,face au 44 Rue de l'Alma",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-05-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.654018236230572,
+            48.022321615404316
+          ],
+          [
+            -1.654347109875518,
+            48.02280387083011
+          ],
+          [
+            -1.655933991208937,
+            48.024203760026204
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 82",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement d’un plateau et d’une liaison douce",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.654018236230572,
+            48.022321615404316
+          ],
+          [
+            -1.654347109875518,
+            48.02280387083011
+          ],
+          [
+            -1.655933991208937,
+            48.024203760026204
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 82",
+        "commune": "35266 - Saint-Erblon",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement d’un plateau et d’une liaison douce",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.674586628299874,
+            48.09956594521504
+          ],
+          [
+            -1.673994667392737,
+            48.09753286281821
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Corentin Carré",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-06-01T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.673994667392737,
+            48.09753286281821
+          ],
+          [
+            -1.673744182357636,
+            48.096659724266495
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Corentin Carré",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-06-01T00:00:00+00:00"
       }
     },
     {
@@ -7389,6 +7713,763 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.922923586393614,
+            48.26755298526417
+          ],
+          [
+            -1.923081226751084,
+            48.267756805947776
+          ],
+          [
+            -1.92323797948482,
+            48.26788701571163
+          ],
+          [
+            -1.923386459258552,
+            48.26795039067509
+          ],
+          [
+            -1.923586724212093,
+            48.26801915992005
+          ],
+          [
+            -1.92387004173377,
+            48.26812240888335
+          ],
+          [
+            -1.924144993738256,
+            48.26823742206051
+          ],
+          [
+            -1.924201805376366,
+            48.26826118661466
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
+        "commune": "35180 - Miniac-sous-Bécherel",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.923605551053126,
+            48.2748565734271
+          ],
+          [
+            -1.923276464158428,
+            48.275643814197515
+          ],
+          [
+            -1.923053472245043,
+            48.27623207178435
+          ],
+          [
+            -1.92298522985923,
+            48.27642798864421
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
+        "commune": "35180 - Miniac-sous-Bécherel",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.92298522985923,
+            48.27642798864421
+          ],
+          [
+            -1.922887658898198,
+            48.27679720072278
+          ],
+          [
+            -1.92283728569467,
+            48.27700544222133
+          ],
+          [
+            -1.922749791551852,
+            48.2774997095701
+          ],
+          [
+            -1.922679600416745,
+            48.2778259613768
+          ],
+          [
+            -1.922589987824257,
+            48.27815934325366
+          ],
+          [
+            -1.922566329702884,
+            48.27826490861255
+          ],
+          [
+            -1.922528233476879,
+            48.27836286652159
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
+        "commune": "35180 - Miniac-sous-Bécherel",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.925055130227419,
+            48.27103874458074
+          ],
+          [
+            -1.924802676096017,
+            48.27172847379657
+          ],
+          [
+            -1.924563516405707,
+            48.27239064011975
+          ],
+          [
+            -1.924339231421892,
+            48.27298502774562
+          ],
+          [
+            -1.924011762324209,
+            48.273815759768276
+          ],
+          [
+            -1.923764429513822,
+            48.27444318318181
+          ],
+          [
+            -1.923605551053126,
+            48.2748565734271
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
+        "commune": "35180 - Miniac-sous-Bécherel",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.925900043548418,
+            48.263472333029284
+          ],
+          [
+            -1.925811389846254,
+            48.26369066727399
+          ],
+          [
+            -1.925611486477631,
+            48.26428549110794
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
+        "commune": "35180 - Miniac-sous-Bécherel",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.923144411825845,
+            48.26629912698111
+          ],
+          [
+            -1.922991146386995,
+            48.26632650286809
+          ],
+          [
+            -1.922750694529124,
+            48.266401102296584
+          ],
+          [
+            -1.92260586674759,
+            48.266464017478874
+          ],
+          [
+            -1.922479903768556,
+            48.26653657324073
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
+        "commune": "35180 - Miniac-sous-Bécherel",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.925611486477631,
+            48.26428549110794
+          ],
+          [
+            -1.925496807510337,
+            48.26458464171003
+          ],
+          [
+            -1.925333026696573,
+            48.2649953618542
+          ],
+          [
+            -1.925175140496297,
+            48.26537928523266
+          ],
+          [
+            -1.925093706971462,
+            48.26553540067924
+          ],
+          [
+            -1.924976662075848,
+            48.26565519373047
+          ],
+          [
+            -1.924943869184959,
+            48.26567730628611
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
+        "commune": "35180 - Miniac-sous-Bécherel",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.701533335663219,
+            48.01263097654778
+          ],
+          [
+            -1.701773865855486,
+            48.01257326196835
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.700588335614853,
+            48.01286730928538
+          ],
+          [
+            -1.700480665593683,
+            48.01291916211853
+          ],
+          [
+            -1.700100485162606,
+            48.01300609633472
+          ],
+          [
+            -1.699683392859669,
+            48.01293539396125
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.69966946744768,
+            48.01285560709518
+          ],
+          [
+            -1.699738738902991,
+            48.012664899263605
+          ],
+          [
+            -1.699834066230709,
+            48.01263417290167
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.701773865855486,
+            48.01257326196835
+          ],
+          [
+            -1.702055034148537,
+            48.012510056764604
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.699683392859669,
+            48.01293539396125
+          ],
+          [
+            -1.69966946744768,
+            48.01285560709518
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.700223013947507,
+            48.01237805447933
+          ],
+          [
+            -1.700588335614853,
+            48.01286730928538
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.700588335614853,
+            48.01286730928538
+          ],
+          [
+            -1.700837694068202,
+            48.01280159734431
+          ],
+          [
+            -1.701215384563425,
+            48.01270796744363
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.700223013947507,
+            48.01237805447933
+          ],
+          [
+            -1.7007383910435,
+            48.012219730412205
+          ],
+          [
+            -1.700820361958573,
+            48.01234170299073
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.699882892894303,
+            48.01192339267289
+          ],
+          [
+            -1.700223013947507,
+            48.01237805447933
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.701215384563425,
+            48.01270796744363
+          ],
+          [
+            -1.701303359469073,
+            48.01268615813231
+          ],
+          [
+            -1.701533335663219,
+            48.01263097654778
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.699411739633751,
+            48.01353054132209
+          ],
+          [
+            -1.699639247380985,
+            48.013568756338245
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.699683392859669,
+            48.01293539396125
+          ],
+          [
+            -1.699411739633751,
+            48.01353054132209
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.701533335663219,
+            48.01263097654778
+          ],
+          [
+            -1.701477750603136,
+            48.01253821042071
+          ],
+          [
+            -1.70116863315402,
+            48.01261375418377
+          ],
+          [
+            -1.701215384563425,
+            48.01270796744363
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-12",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.700588335614853,
+            48.01286730928538
+          ],
+          [
+            -1.700977931126498,
+            48.01354778769079
+          ],
+          [
+            -1.701034996085991,
+            48.013649582374875
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-13",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Tellé",
+        "commune": "35363 - Pont-Péan",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.66439803659851,
             48.09791168621139
           ],
@@ -7409,6 +8490,79 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "de création d'entrée charretière",
+        "date_heure": "2026-06-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.891769597487065,
+            48.219325844109306
+          ],
+          [
+            -1.891936888899608,
+            48.21967253564771
+          ],
+          [
+            -1.89198212383589,
+            48.2198712746098
+          ],
+          [
+            -1.891986008629184,
+            48.22005064722947
+          ],
+          [
+            -1.891951084090087,
+            48.22035120567647
+          ],
+          [
+            -1.891947280295603,
+            48.22075444655227
+          ],
+          [
+            -1.891973246960214,
+            48.221110658909375
+          ],
+          [
+            -1.892005381398825,
+            48.2215317357129
+          ],
+          [
+            -1.892093654754817,
+            48.221892086148465
+          ],
+          [
+            -1.892378716249026,
+            48.222840059800475
+          ],
+          [
+            -1.892405082557862,
+            48.22292342849078
+          ],
+          [
+            -1.892506135192674,
+            48.22326589143215
+          ],
+          [
+            -1.892717020029319,
+            48.223888561753554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Montmuran : section comprise entre l'intersection Résidence de la Poste  et la voie du Chemin Rouge.,à l'intersection  de le Clos Filou et du Chemin Rouge",
+        "commune": "35245 - Romillé",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-06-10T00:00:00+00:00"
       }
     },
@@ -7545,6 +8699,730 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
         "date_heure": "2026-06-11T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67575227533001,
+            48.08830761097536
+          ],
+          [
+            -1.675761308352885,
+            48.08829182218008
+          ],
+          [
+            -1.675861997662371,
+            48.0877747612211
+          ],
+          [
+            -1.675864842004601,
+            48.087693368301466
+          ],
+          [
+            -1.675855462186492,
+            48.08764626312975
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675278246401981,
+            48.088316565447
+          ],
+          [
+            -1.675269509817917,
+            48.08839105142665
+          ],
+          [
+            -1.675268178469643,
+            48.08845177893111
+          ],
+          [
+            -1.675246266645574,
+            48.088530515326156
+          ],
+          [
+            -1.675227236566598,
+            48.088565632851996
+          ],
+          [
+            -1.675146513488967,
+            48.088636458555925
+          ],
+          [
+            -1.675139825559737,
+            48.0887512086057
+          ],
+          [
+            -1.674947259340553,
+            48.0888683122324
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676231846469477,
+            48.0883085760721
+          ],
+          [
+            -1.676252091061629,
+            48.08752511697698
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.674963834962547,
+            48.08831896603774
+          ],
+          [
+            -1.675134957177884,
+            48.088315068900926
+          ],
+          [
+            -1.675278246401981,
+            48.088316565447
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676032770735451,
+            48.08668772730599
+          ],
+          [
+            -1.675917213398608,
+            48.086766551614694
+          ],
+          [
+            -1.675889306559677,
+            48.08721426115818
+          ],
+          [
+            -1.675824801625884,
+            48.087287055178045
+          ],
+          [
+            -1.675791873533436,
+            48.08734848861713
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676025602070406,
+            48.08687116959753
+          ],
+          [
+            -1.676218768242382,
+            48.0869689643469
+          ],
+          [
+            -1.67630146535239,
+            48.0869953638048
+          ],
+          [
+            -1.676452246973171,
+            48.08700047444489
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676025602070406,
+            48.08687116959753
+          ],
+          [
+            -1.676025867376868,
+            48.087140516754694
+          ],
+          [
+            -1.676040499465116,
+            48.08728992755479
+          ],
+          [
+            -1.676044101726729,
+            48.08738457437278
+          ],
+          [
+            -1.676051750450905,
+            48.08746896448106
+          ],
+          [
+            -1.676035917776376,
+            48.087524754285006
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675628260666781,
+            48.08892341246612
+          ],
+          [
+            -1.675624827088676,
+            48.08888552669278
+          ],
+          [
+            -1.675626987995192,
+            48.08865115870423
+          ],
+          [
+            -1.675652044236552,
+            48.08861896208694
+          ],
+          [
+            -1.675690181821963,
+            48.08857677196705
+          ],
+          [
+            -1.675721375624536,
+            48.088509904483765
+          ],
+          [
+            -1.675716948150414,
+            48.08840549385607
+          ],
+          [
+            -1.675714833933502,
+            48.08837305458068
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676252091061629,
+            48.08752511697698
+          ],
+          [
+            -1.676035917776376,
+            48.087524754285006
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675278246401981,
+            48.088316565447
+          ],
+          [
+            -1.675507105704416,
+            48.088318955344995
+          ],
+          [
+            -1.675527540552135,
+            48.08825431604337
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67498396437576,
+            48.08776191246851
+          ],
+          [
+            -1.675573796544106,
+            48.087775959896554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675714833933502,
+            48.08837305458068
+          ],
+          [
+            -1.675527540552135,
+            48.08825431604337
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675573796544106,
+            48.087775959896554
+          ],
+          [
+            -1.675585461511641,
+            48.087491220647436
+          ],
+          [
+            -1.675641648435183,
+            48.08749229311454
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-12",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675714833933502,
+            48.08837305458068
+          ],
+          [
+            -1.67575227533001,
+            48.08830761097536
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-13",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675855462186492,
+            48.08764626312975
+          ],
+          [
+            -1.675808032049671,
+            48.087624494471164
+          ],
+          [
+            -1.675741288180333,
+            48.0876136937311
+          ],
+          [
+            -1.675666024366011,
+            48.08762017982952
+          ],
+          [
+            -1.675613434598988,
+            48.08765277575863
+          ],
+          [
+            -1.675598086306286,
+            48.08768590833862
+          ],
+          [
+            -1.675573796544106,
+            48.087775959896554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-14",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676231846469477,
+            48.0883085760721
+          ],
+          [
+            -1.67575227533001,
+            48.08830761097536
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-15",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676035917776376,
+            48.087524754285006
+          ],
+          [
+            -1.675992036968602,
+            48.08753573096285
+          ],
+          [
+            -1.675938536174727,
+            48.08755827204929
+          ],
+          [
+            -1.675891514694513,
+            48.08759739964797
+          ],
+          [
+            -1.675855462186492,
+            48.08764626312975
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-16",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675527540552135,
+            48.08825431604337
+          ],
+          [
+            -1.675536548433209,
+            48.0879114492108
+          ],
+          [
+            -1.675573796544106,
+            48.087775959896554
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-17",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676319498852517,
+            48.0874393775871
+          ],
+          [
+            -1.676252091061629,
+            48.08752511697698
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-18",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.676032770735451,
+            48.08668772730599
+          ],
+          [
+            -1.676025602070406,
+            48.08687116959753
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-19",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Cours d'Helsinki",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-12T00:00:00+00:00"
       }
     },
     {
@@ -17068,1884 +18946,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.683159709981929,
-            48.119957936858306
-          ],
-          [
-            -1.684635735174968,
-            48.11890087472904
-          ],
-          [
-            -1.684718310341724,
-            48.118842545105636
-          ],
-          [
-            -1.684885239270821,
-            48.118724731904315
-          ],
-          [
-            -1.68500667406024,
-            48.11861571017256
-          ],
-          [
-            -1.685114360830463,
-            48.11849904858516
-          ],
-          [
-            -1.685162503375427,
-            48.11851234891579
-          ],
-          [
-            -1.685020395030953,
-            48.11865942213181
-          ],
-          [
-            -1.684906631870217,
-            48.118751801341574
-          ],
-          [
-            -1.684746070323719,
-            48.11886690761773
-          ],
-          [
-            -1.682732385717365,
-            48.12033001070837
-          ],
-          [
-            -1.68271053791787,
-            48.12027960107081
-          ],
-          [
-            -1.682483389166665,
-            48.1204422662116
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 47 au 50bis Boulevard de Chézy, dans la contre-allée",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation à double sens",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'installation de chantier",
-        "date_heure": "2025-01-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680952761962769,
-            48.10228117400091
-          ],
-          [
-            -1.681200469227369,
-            48.10311611919871
-          ],
-          [
-            -1.681191728432339,
-            48.1032036094113
-          ],
-          [
-            -1.681145750386164,
-            48.1032928861985
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du n° 7 au n° 9B Rue du 7ème d'Artillerie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'installation de chantier",
-        "date_heure": "2026-03-03T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.835903508102187,
-            48.23164395370907
-          ],
-          [
-            -1.835650437621131,
-            48.23162051780648
-          ],
-          [
-            -1.835102207619545,
-            48.23155331929515
-          ],
-          [
-            -1.834860510279567,
-            48.23151095419564
-          ],
-          [
-            -1.834693058810253,
-            48.231465473862926
-          ],
-          [
-            -1.834484581352589,
-            48.231390749488604
-          ],
-          [
-            -1.834356250003148,
-            48.23132858897645
-          ],
-          [
-            -1.833586906221022,
-            48.231014863800986
-          ],
-          [
-            -1.833316513894298,
-            48.23089830160494
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "les Forges",
-        "commune": "35144 - Langan",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-05-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676480294074847,
-            48.102383894263944
-          ],
-          [
-            -1.676347158453976,
-            48.10175010949945
-          ],
-          [
-            -1.675683225101243,
-            48.10179964207936
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "7B Rue de Châtillon,face au 44 Rue de l'Alma",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-05-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654018236230572,
-            48.022321615404316
-          ],
-          [
-            -1.654347109875518,
-            48.02280387083011
-          ],
-          [
-            -1.655933991208937,
-            48.024203760026204
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 82",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement d’un plateau et d’une liaison douce",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654018236230572,
-            48.022321615404316
-          ],
-          [
-            -1.654347109875518,
-            48.02280387083011
-          ],
-          [
-            -1.655933991208937,
-            48.024203760026204
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 82",
-        "commune": "35266 - Saint-Erblon",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement d’un plateau et d’une liaison douce",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.674586628299874,
-            48.09956594521504
-          ],
-          [
-            -1.673994667392737,
-            48.09753286281821
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Corentin Carré",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.673994667392737,
-            48.09753286281821
-          ],
-          [
-            -1.673744182357636,
-            48.096659724266495
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Corentin Carré",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.922923586393614,
-            48.26755298526417
-          ],
-          [
-            -1.923081226751084,
-            48.267756805947776
-          ],
-          [
-            -1.92323797948482,
-            48.26788701571163
-          ],
-          [
-            -1.923386459258552,
-            48.26795039067509
-          ],
-          [
-            -1.923586724212093,
-            48.26801915992005
-          ],
-          [
-            -1.92387004173377,
-            48.26812240888335
-          ],
-          [
-            -1.924144993738256,
-            48.26823742206051
-          ],
-          [
-            -1.924201805376366,
-            48.26826118661466
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.923605551053126,
-            48.2748565734271
-          ],
-          [
-            -1.923276464158428,
-            48.275643814197515
-          ],
-          [
-            -1.923053472245043,
-            48.27623207178435
-          ],
-          [
-            -1.92298522985923,
-            48.27642798864421
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.92298522985923,
-            48.27642798864421
-          ],
-          [
-            -1.922887658898198,
-            48.27679720072278
-          ],
-          [
-            -1.92283728569467,
-            48.27700544222133
-          ],
-          [
-            -1.922749791551852,
-            48.2774997095701
-          ],
-          [
-            -1.922679600416745,
-            48.2778259613768
-          ],
-          [
-            -1.922589987824257,
-            48.27815934325366
-          ],
-          [
-            -1.922566329702884,
-            48.27826490861255
-          ],
-          [
-            -1.922528233476879,
-            48.27836286652159
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.925055130227419,
-            48.27103874458074
-          ],
-          [
-            -1.924802676096017,
-            48.27172847379657
-          ],
-          [
-            -1.924563516405707,
-            48.27239064011975
-          ],
-          [
-            -1.924339231421892,
-            48.27298502774562
-          ],
-          [
-            -1.924011762324209,
-            48.273815759768276
-          ],
-          [
-            -1.923764429513822,
-            48.27444318318181
-          ],
-          [
-            -1.923605551053126,
-            48.2748565734271
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.925900043548418,
-            48.263472333029284
-          ],
-          [
-            -1.925811389846254,
-            48.26369066727399
-          ],
-          [
-            -1.925611486477631,
-            48.26428549110794
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.923144411825845,
-            48.26629912698111
-          ],
-          [
-            -1.922991146386995,
-            48.26632650286809
-          ],
-          [
-            -1.922750694529124,
-            48.266401102296584
-          ],
-          [
-            -1.92260586674759,
-            48.266464017478874
-          ],
-          [
-            -1.922479903768556,
-            48.26653657324073
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.925611486477631,
-            48.26428549110794
-          ],
-          [
-            -1.925496807510337,
-            48.26458464171003
-          ],
-          [
-            -1.925333026696573,
-            48.2649953618542
-          ],
-          [
-            -1.925175140496297,
-            48.26537928523266
-          ],
-          [
-            -1.925093706971462,
-            48.26553540067924
-          ],
-          [
-            -1.924976662075848,
-            48.26565519373047
-          ],
-          [
-            -1.924943869184959,
-            48.26567730628611
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Voie communale 105,  VC105 aux lieudits La Landonnais, Des Pinsots, Les Ecotais, section comprise entre la RD68 jusqu’au lieudit Ganeret",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.701533335663219,
-            48.01263097654778
-          ],
-          [
-            -1.701773865855486,
-            48.01257326196835
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.700588335614853,
-            48.01286730928538
-          ],
-          [
-            -1.700480665593683,
-            48.01291916211853
-          ],
-          [
-            -1.700100485162606,
-            48.01300609633472
-          ],
-          [
-            -1.699683392859669,
-            48.01293539396125
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.69966946744768,
-            48.01285560709518
-          ],
-          [
-            -1.699738738902991,
-            48.012664899263605
-          ],
-          [
-            -1.699834066230709,
-            48.01263417290167
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.701773865855486,
-            48.01257326196835
-          ],
-          [
-            -1.702055034148537,
-            48.012510056764604
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.699683392859669,
-            48.01293539396125
-          ],
-          [
-            -1.69966946744768,
-            48.01285560709518
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.700223013947507,
-            48.01237805447933
-          ],
-          [
-            -1.700588335614853,
-            48.01286730928538
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.700588335614853,
-            48.01286730928538
-          ],
-          [
-            -1.700837694068202,
-            48.01280159734431
-          ],
-          [
-            -1.701215384563425,
-            48.01270796744363
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.700223013947507,
-            48.01237805447933
-          ],
-          [
-            -1.7007383910435,
-            48.012219730412205
-          ],
-          [
-            -1.700820361958573,
-            48.01234170299073
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.699882892894303,
-            48.01192339267289
-          ],
-          [
-            -1.700223013947507,
-            48.01237805447933
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.701215384563425,
-            48.01270796744363
-          ],
-          [
-            -1.701303359469073,
-            48.01268615813231
-          ],
-          [
-            -1.701533335663219,
-            48.01263097654778
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.699411739633751,
-            48.01353054132209
-          ],
-          [
-            -1.699639247380985,
-            48.013568756338245
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.699683392859669,
-            48.01293539396125
-          ],
-          [
-            -1.699411739633751,
-            48.01353054132209
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.701533335663219,
-            48.01263097654778
-          ],
-          [
-            -1.701477750603136,
-            48.01253821042071
-          ],
-          [
-            -1.70116863315402,
-            48.01261375418377
-          ],
-          [
-            -1.701215384563425,
-            48.01270796744363
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-12",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.700588335614853,
-            48.01286730928538
-          ],
-          [
-            -1.700977931126498,
-            48.01354778769079
-          ],
-          [
-            -1.701034996085991,
-            48.013649582374875
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-13",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.891769597487065,
-            48.219325844109306
-          ],
-          [
-            -1.891936888899608,
-            48.21967253564771
-          ],
-          [
-            -1.89198212383589,
-            48.2198712746098
-          ],
-          [
-            -1.891986008629184,
-            48.22005064722947
-          ],
-          [
-            -1.891951084090087,
-            48.22035120567647
-          ],
-          [
-            -1.891947280295603,
-            48.22075444655227
-          ],
-          [
-            -1.891973246960214,
-            48.221110658909375
-          ],
-          [
-            -1.892005381398825,
-            48.2215317357129
-          ],
-          [
-            -1.892093654754817,
-            48.221892086148465
-          ],
-          [
-            -1.892378716249026,
-            48.222840059800475
-          ],
-          [
-            -1.892405082557862,
-            48.22292342849078
-          ],
-          [
-            -1.892506135192674,
-            48.22326589143215
-          ],
-          [
-            -1.892717020029319,
-            48.223888561753554
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Montmuran : section comprise entre l'intersection Résidence de la Poste  et la voie du Chemin Rouge.,à l'intersection  de le Clos Filou et du Chemin Rouge",
-        "commune": "35245 - Romillé",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67575227533001,
-            48.08830761097536
-          ],
-          [
-            -1.675761308352885,
-            48.08829182218008
-          ],
-          [
-            -1.675861997662371,
-            48.0877747612211
-          ],
-          [
-            -1.675864842004601,
-            48.087693368301466
-          ],
-          [
-            -1.675855462186492,
-            48.08764626312975
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675278246401981,
-            48.088316565447
-          ],
-          [
-            -1.675269509817917,
-            48.08839105142665
-          ],
-          [
-            -1.675268178469643,
-            48.08845177893111
-          ],
-          [
-            -1.675246266645574,
-            48.088530515326156
-          ],
-          [
-            -1.675227236566598,
-            48.088565632851996
-          ],
-          [
-            -1.675146513488967,
-            48.088636458555925
-          ],
-          [
-            -1.675139825559737,
-            48.0887512086057
-          ],
-          [
-            -1.674947259340553,
-            48.0888683122324
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676231846469477,
-            48.0883085760721
-          ],
-          [
-            -1.676252091061629,
-            48.08752511697698
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.674963834962547,
-            48.08831896603774
-          ],
-          [
-            -1.675134957177884,
-            48.088315068900926
-          ],
-          [
-            -1.675278246401981,
-            48.088316565447
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676032770735451,
-            48.08668772730599
-          ],
-          [
-            -1.675917213398608,
-            48.086766551614694
-          ],
-          [
-            -1.675889306559677,
-            48.08721426115818
-          ],
-          [
-            -1.675824801625884,
-            48.087287055178045
-          ],
-          [
-            -1.675791873533436,
-            48.08734848861713
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676025602070406,
-            48.08687116959753
-          ],
-          [
-            -1.676218768242382,
-            48.0869689643469
-          ],
-          [
-            -1.67630146535239,
-            48.0869953638048
-          ],
-          [
-            -1.676452246973171,
-            48.08700047444489
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676025602070406,
-            48.08687116959753
-          ],
-          [
-            -1.676025867376868,
-            48.087140516754694
-          ],
-          [
-            -1.676040499465116,
-            48.08728992755479
-          ],
-          [
-            -1.676044101726729,
-            48.08738457437278
-          ],
-          [
-            -1.676051750450905,
-            48.08746896448106
-          ],
-          [
-            -1.676035917776376,
-            48.087524754285006
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675628260666781,
-            48.08892341246612
-          ],
-          [
-            -1.675624827088676,
-            48.08888552669278
-          ],
-          [
-            -1.675626987995192,
-            48.08865115870423
-          ],
-          [
-            -1.675652044236552,
-            48.08861896208694
-          ],
-          [
-            -1.675690181821963,
-            48.08857677196705
-          ],
-          [
-            -1.675721375624536,
-            48.088509904483765
-          ],
-          [
-            -1.675716948150414,
-            48.08840549385607
-          ],
-          [
-            -1.675714833933502,
-            48.08837305458068
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676252091061629,
-            48.08752511697698
-          ],
-          [
-            -1.676035917776376,
-            48.087524754285006
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675278246401981,
-            48.088316565447
-          ],
-          [
-            -1.675507105704416,
-            48.088318955344995
-          ],
-          [
-            -1.675527540552135,
-            48.08825431604337
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67498396437576,
-            48.08776191246851
-          ],
-          [
-            -1.675573796544106,
-            48.087775959896554
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675714833933502,
-            48.08837305458068
-          ],
-          [
-            -1.675527540552135,
-            48.08825431604337
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675573796544106,
-            48.087775959896554
-          ],
-          [
-            -1.675585461511641,
-            48.087491220647436
-          ],
-          [
-            -1.675641648435183,
-            48.08749229311454
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-12",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675714833933502,
-            48.08837305458068
-          ],
-          [
-            -1.67575227533001,
-            48.08830761097536
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-13",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675855462186492,
-            48.08764626312975
-          ],
-          [
-            -1.675808032049671,
-            48.087624494471164
-          ],
-          [
-            -1.675741288180333,
-            48.0876136937311
-          ],
-          [
-            -1.675666024366011,
-            48.08762017982952
-          ],
-          [
-            -1.675613434598988,
-            48.08765277575863
-          ],
-          [
-            -1.675598086306286,
-            48.08768590833862
-          ],
-          [
-            -1.675573796544106,
-            48.087775959896554
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-14",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676231846469477,
-            48.0883085760721
-          ],
-          [
-            -1.67575227533001,
-            48.08830761097536
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-15",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676035917776376,
-            48.087524754285006
-          ],
-          [
-            -1.675992036968602,
-            48.08753573096285
-          ],
-          [
-            -1.675938536174727,
-            48.08755827204929
-          ],
-          [
-            -1.675891514694513,
-            48.08759739964797
-          ],
-          [
-            -1.675855462186492,
-            48.08764626312975
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-16",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675527540552135,
-            48.08825431604337
-          ],
-          [
-            -1.675536548433209,
-            48.0879114492108
-          ],
-          [
-            -1.675573796544106,
-            48.087775959896554
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-17",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676319498852517,
-            48.0874393775871
-          ],
-          [
-            -1.676252091061629,
-            48.08752511697698
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-18",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676032770735451,
-            48.08668772730599
-          ],
-          [
-            -1.676025602070406,
-            48.08687116959753
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-19",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Cours d'Helsinki",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.663133791077099,
             48.11018952608499
           ],
@@ -24131,7 +24131,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-18T16:32:30.737Z",
+    "generated": "2026-06-18T19:28:26.686Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 638,
     "sources": {
