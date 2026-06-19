@@ -5890,52 +5890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0485399177470534,
-          47.130865356118235
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "17-06-2026 07:19:01 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.026407025549745,
-          47.13332946868947
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D6 / Chauvé",
-        "commune": "Commune",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "17-06-2026 07:19:01 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -23585,12 +23539,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-19T21:43:44.928Z",
+    "generated": "2026-06-19T22:58:04.829Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 622,
+    "total_count": 620,
     "sources": {
       "grist_35": 89,
-      "cd44": 36,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
