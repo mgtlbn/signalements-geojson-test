@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6022646657835355,
+          47.427321156457246
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Chaussée glissante / D37 / Héric",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "22-06-2026 17:44:06 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.609786697283757,
+          47.411949014947396
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D39 / Héric",
+        "commune": "Commune",
+        "type_coupure": "Chaussée glissante",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Chaussée glissante",
+        "date_heure": "22-06-2026 17:44:02 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1936099184124769,
           47.62093576533416
         ]
@@ -23019,12 +23065,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-22T15:34:49.341Z",
+    "generated": "2026-06-22T19:27:52.458Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 604,
+    "total_count": 606,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 46,
       "rennes_metropole": 100
     }
   }
