@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.82742896907936,
+          47.4165056024816
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D16 / Fay-de-Bretagne",
+        "commune": "Fay-de-Bretagne / Bouvron",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "incendie de végétation",
+        "date_heure": "25-06-2026 15:40:34 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1788425842365453,
           47.29903863328226
         ]
@@ -23160,12 +23183,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-25T13:35:52.133Z",
+    "generated": "2026-06-25T16:24:04.112Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 625,
+    "total_count": 626,
     "sources": {
       "grist_35": 89,
-      "cd44": 50,
+      "cd44": 51,
       "rennes_metropole": 100
     }
   }
