@@ -5844,29 +5844,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.281336679352424,
-          47.107613797454974
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D149 / Gorges",
-        "commune": "Commune",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "24-06-2026 07:40:31 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2670018070292046,
           47.10260133888127
         ]
@@ -6067,29 +6044,6 @@
         "statut": "Actif",
         "description": "Chaussée glissante",
         "date_heure": "22-06-2026 16:58:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1968578863792643,
-          47.30737730504835
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de St Nazaire",
-        "commune": "Commune",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "22-06-2026 16:10:33 +0200"
       }
     },
     {
@@ -23183,12 +23137,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-25T20:56:59.832Z",
+    "generated": "2026-06-25T22:23:16.757Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 626,
+    "total_count": 624,
     "sources": {
       "grist_35": 89,
-      "cd44": 51,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
