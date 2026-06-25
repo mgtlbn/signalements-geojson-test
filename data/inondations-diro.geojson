@@ -1,23 +1,53 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-06-25T14:44:32.561321",
+    "generated_at": "2026-06-25T20:10:26.366620",
     "source": "DATEX II - Bison Futé",
     "filter": "Inondations DIR Ouest (Bretagne / Pays de la Loire)",
-    "count": 0,
-    "count_active": 0,
+    "count": 1,
+    "count_active": 1,
     "count_finished": 0,
     "statistics": {
-      "total_situations": 368,
-      "dir_ouest": 132,
-      "environmental_obstruction": 0,
-      "inondations": 0,
-      "actives": 0,
+      "total_situations": 386,
+      "dir_ouest": 156,
+      "environmental_obstruction": 1,
+      "inondations": 1,
+      "actives": 1,
       "terminees": 0,
-      "par_severite": {},
-      "par_subtype": {},
+      "par_severite": {
+        "medium": 1
+      },
+      "par_subtype": {
+        "flooding": 1
+      },
       "sans_coords": 0
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3103896,
+          48.403313
+        ]
+      },
+      "properties": {
+        "id": "260625-003861",
+        "source": "Direction interdépartementale des routes/DIR Ouest",
+        "road": "A0084",
+        "type": "EnvironmentalObstruction",
+        "subtype": "flooding",
+        "problem": "Inondation",
+        "severity": "medium",
+        "description": "DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | Point particulier : début : situé 456 m au nord de Saint-Étienne-en-Coglès, fin : situé 4873 m au sud de Aire du Coglais | De Rennes vers Caen",
+        "start_date": "2026-06-25T21:35:08.802+02:00",
+        "end_date": null,
+        "is_active": true,
+        "status": "en_cours",
+        "updated_at": "2026-06-25T20:10:26.363784"
+      }
+    }
+  ]
 }
