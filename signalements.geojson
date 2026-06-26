@@ -5982,52 +5982,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6359946244562762,
-          47.03173975360901
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D63 / La Limouzinière",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "22-06-2026 16:58:43 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.642989454162647,
-          47.036205324680814
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D65 / Saint-Philbert-de-Grand-Lieu",
-        "commune": "St-Philbert-de-Grand-Lieu / Touvois",
-        "type_coupure": "Chaussée glissante",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Chaussée glissante",
-        "date_heure": "22-06-2026 16:58:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0960739416688545,
           47.41459984968577
         ]
@@ -23550,12 +23504,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-26T10:51:34.020Z",
+    "generated": "2026-06-26T13:11:10.859Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 619,
+    "total_count": 617,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
