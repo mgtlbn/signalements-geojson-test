@@ -5982,52 +5982,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.257746231836638,
-          47.08360815960375
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D54 / Clisson",
-        "commune": "Mouzillon / Clisson",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "24-06-2026 07:40:31 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2670018070292046,
-          47.10260133888127
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D149 / Gorges",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "24-06-2026 07:40:31 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.1936099184124769,
           47.62093576533416
         ]
@@ -23596,12 +23550,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-26T21:18:48.742Z",
+    "generated": "2026-06-26T22:44:37.928Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 621,
+    "total_count": 619,
     "sources": {
       "grist_35": 89,
-      "cd44": 46,
+      "cd44": 44,
       "rennes_metropole": 100
     }
   }
