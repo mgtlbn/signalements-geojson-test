@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.4500782013642146,
+          47.374626861310404
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée",
+        "commune": "Commune",
+        "type_coupure": "PL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "26-06-2026 11:11:12 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.40547636654785,
+          47.36658224446874
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D9 / Saint-Mars-du-Désert",
+        "commune": "Saint-Mars-du-Désert / Carquefou",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "26-06-2026 11:11:12 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -5693,12 +5739,12 @@
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
         "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Incident",
+        "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Incident",
-        "date_heure": "26-06-2026 05:22:59 +0200"
+        "description": "Bac de réserve",
+        "date_heure": "26-06-2026 10:59:58 +0200"
       }
     },
     {
@@ -6573,52 +6619,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "30-04-2026 08:27:49 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4500782013642146,
-          47.374626861310404
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "PL",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "13-04-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.40547636654785,
-          47.36658224446874
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D9 / Saint-Mars-du-Désert",
-        "commune": "Saint-Mars-du-Désert / Carquefou",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "13-04-2026 08:00:56 +0200"
       }
     },
     {
@@ -23550,7 +23550,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-26T07:53:22.951Z",
+    "generated": "2026-06-26T10:51:34.020Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 619,
     "sources": {
