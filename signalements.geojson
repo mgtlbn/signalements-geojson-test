@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.159712849489228,
+          47.24815794138261
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D277 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Brevin-les-Pins / Corsept",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "28-06-2026 16:40:11 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -17762,12 +17785,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-28T12:55:00.022Z",
+    "generated": "2026-06-28T14:48:33.426Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 425,
+    "total_count": 426,
     "sources": {
       "grist_35": 89,
-      "cd44": 41,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
