@@ -5936,75 +5936,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6754967035282302,
-          47.5224290645076
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D35 / La Grigonnais",
-        "commune": "Puceul / La Grigonnais",
-        "type_coupure": "Chaussée glissante",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Chaussée glissante",
-        "date_heure": "24-06-2026 14:28:08 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1936099184124769,
-          47.62093576533416
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Chaussée glissante / D29 / Le Pin",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "22-06-2026 17:05:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1942568931391877,
-          47.6217377945344
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D202 / La Chapelle-Glain",
-        "commune": "La Chapelle-Glain / Le Pin",
-        "type_coupure": "Chaussée glissante",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Chaussée glissante",
-        "date_heure": "22-06-2026 17:05:36 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0960739416688545,
           47.41459984968577
         ]
@@ -17785,12 +17716,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-28T14:48:33.426Z",
+    "generated": "2026-06-28T16:10:43.353Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 426,
+    "total_count": 423,
     "sources": {
       "grist_35": 89,
-      "cd44": 42,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
