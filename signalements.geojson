@@ -5890,52 +5890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4358660791066375,
-          47.387555724818576
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Divers / D233 / Saint-Molf",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "25-06-2026 19:56:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2208785865505383,
-          47.49789236516127
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D9 / Pannecé",
-        "commune": "Bonnoeuvre / Pannecé",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "25-06-2026 08:28:29 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0960739416688545,
           47.41459984968577
         ]
@@ -17716,12 +17670,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-28T20:41:17.571Z",
+    "generated": "2026-06-28T22:02:01.551Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 423,
+    "total_count": 421,
     "sources": {
       "grist_35": 89,
-      "cd44": 39,
+      "cd44": 37,
       "rennes_metropole": 100
     }
   }
