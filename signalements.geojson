@@ -5890,29 +5890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0877142244578577,
-          47.41428969136531
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D8 / Vair-sur-Loire",
-        "commune": "Loireauxence / Vair-sur-Loire",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "28-06-2026 09:07:14 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7359388038269659,
           47.41129951791897
         ]
@@ -6159,75 +6136,6 @@
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
         "date_heure": "18-06-2026 08:55:01 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2386187348004412,
-          47.52755032905716
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D26",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "17-06-2026 11:45:17 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2903381807783516,
-          47.51113299161407
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D9 / Pannecé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "17-06-2026 11:45:17 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2424535102905603,
-          47.52649788871339
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Bonnoeuvre",
-        "commune": "Bonnoeuvre / Riaillé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "17-06-2026 11:45:17 +0200"
       }
     },
     {
@@ -18780,12 +18688,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-06-29T21:07:45.487Z",
+    "generated": "2026-06-29T22:36:17.917Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 449,
+    "total_count": 445,
     "sources": {
       "grist_35": 89,
-      "cd44": 38,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
