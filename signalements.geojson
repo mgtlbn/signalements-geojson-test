@@ -5844,52 +5844,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.159712849489228,
-          47.24815794138261
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D277 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Brevin-les-Pins / Corsept",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "28-06-2026 16:40:11 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Autre",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause SDIS 44",
-        "date_heure": "28-06-2026 11:25:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7359388038269659,
           47.41129951791897
         ]
@@ -22709,12 +22663,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-01T21:06:03.264Z",
+    "generated": "2026-07-01T22:46:19.181Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 590,
+    "total_count": 588,
     "sources": {
       "grist_35": 89,
-      "cd44": 34,
+      "cd44": 32,
       "rennes_metropole": 100
     }
   }
