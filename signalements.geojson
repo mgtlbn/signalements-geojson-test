@@ -5706,29 +5706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1470076325297762,
-          47.44904849627421
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / La Roche-Blanche",
-        "commune": "La Roche-Blanche / Pouillé",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "02-07-2026 10:07:49 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5079097109711015,
           47.435791484257315
         ]
@@ -5883,29 +5860,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "29-06-2026 09:30:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7359388038269659,
-          47.41129951791897
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D132 / Blain",
-        "commune": "Blain / Fay-de-Bretagne",
-        "type_coupure": "Chaussée glissante",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Chaussée glissante",
-        "date_heure": "26-06-2026 19:07:54 +0200"
       }
     },
     {
@@ -24336,12 +24290,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-03T20:39:26.961Z",
+    "generated": "2026-07-03T22:04:27.336Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 631,
+    "total_count": 629,
     "sources": {
       "grist_35": 89,
-      "cd44": 31,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
