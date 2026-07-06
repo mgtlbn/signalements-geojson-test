@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.560354134929915,
+          47.6764559183636
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D775 / Lusanger",
+        "commune": "Saint-Vincent-des-Landes / Lusanger",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "06-07-2026 13:15:43 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.454698116933373,
           47.395444114504755
         ]
@@ -25419,12 +25442,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-06T08:20:22.254Z",
+    "generated": "2026-07-06T12:23:10.649Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 686,
+    "total_count": 687,
     "sources": {
       "grist_35": 89,
-      "cd44": 27,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
