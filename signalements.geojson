@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6429137978992887,
+          47.03451713726836
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D65 / Saint-Philbert-de-Grand-Lieu",
+        "commune": "Saint-Philbert / Touvois",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "07-07-2026 15:25:30 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5311840924088576,
           47.555170229455534
         ]
@@ -18824,12 +18847,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-07T12:26:48.744Z",
+    "generated": "2026-07-07T15:26:01.856Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 479,
+    "total_count": 480,
     "sources": {
       "grist_35": 89,
-      "cd44": 29,
+      "cd44": 30,
       "rennes_metropole": 100
     }
   }
