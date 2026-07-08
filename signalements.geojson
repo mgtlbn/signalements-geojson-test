@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7073687222819214,
+          46.96688013318975
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D263 / Saint-Etienne-de-Mer-Morte",
+        "commune": "Paulx / Saint-Etienne-de-Mer-Morte",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Fermeture de la RD pour ressuage",
+        "date_heure": "08-07-2026 16:08:05 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6371036771802165,
           47.51635079836364
         ]
@@ -5745,29 +5768,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "08-07-2026 09:01:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7073687222819214,
-          46.96688013318975
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D263 / Saint-Etienne-de-Mer-Morte",
-        "commune": "Paulx / Saint-Etienne-de-Mer-Morte",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "08-07-2026 09:01:29 +0200"
       }
     },
     {
@@ -19390,7 +19390,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-08T13:02:58.428Z",
+    "generated": "2026-07-08T15:40:49.075Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 493,
     "sources": {
