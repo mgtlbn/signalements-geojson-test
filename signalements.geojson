@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.075160813117388,
+          47.11273063338484
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D751 / Pornic",
+        "commune": "Chaumes-en-Retz vers Pornic",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "09-07-2026 08:53:32 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7073687222819214,
           46.96688013318975
         ]
@@ -6005,29 +6028,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.075160813117388,
-          47.11273063338484
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Pornic",
-        "commune": "Chaumes-en-Retz vers Pornic",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "01-07-2026 07:20:01 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1350264226811264,
           47.4424095438152
         ]
@@ -6090,29 +6090,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "29-06-2026 16:29:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0655152879173464,
-          47.112593851693035
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur ouvrage d'art / Pornic",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "29-06-2026 09:30:56 +0200"
       }
     },
     {
@@ -6343,29 +6320,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "26-05-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.515274863768145,
-          47.13534004212904
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "30-04-2026 08:27:49 +0200"
       }
     },
     {
@@ -19390,12 +19344,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-09T03:19:23.197Z",
+    "generated": "2026-07-09T07:00:18.191Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 493,
+    "total_count": 491,
     "sources": {
       "grist_35": 89,
-      "cd44": 33,
+      "cd44": 31,
       "rennes_metropole": 100
     }
   }
