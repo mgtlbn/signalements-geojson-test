@@ -7466,35 +7466,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.654265908012471,
-            48.15051754956415
-          ],
-          [
-            -1.654502489237989,
-            48.15094724249168
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue des Sources",
-        "commune": "35278 - Saint-Grégoire",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "aménagement d'une plateforme pour base vie chantier suppression PN4",
-        "date_heure": "2025-09-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.64477459501859,
             48.09048740094317
           ],
@@ -7516,105 +7487,6 @@
         "statut": "Actif",
         "description": "désaffectation de parcelle",
         "date_heure": "2025-12-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.682331371987709,
-            48.10324351320532
-          ],
-          [
-            -1.681792668189052,
-            48.103130930401925
-          ],
-          [
-            -1.681718284307277,
-            48.10309548354391
-          ],
-          [
-            -1.681767658684399,
-            48.10261977559154
-          ],
-          [
-            -1.68197912887169,
-            48.102149900903235
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Père Janvier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'installation de chantier",
-        "date_heure": "2026-03-03T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.682671683041941,
-            48.10331463268775
-          ],
-          [
-            -1.682331371987709,
-            48.10324351320532
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Père Janvier",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'installation de chantier",
-        "date_heure": "2026-03-03T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678305675793537,
-            48.119154689755625
-          ],
-          [
-            -1.679224603332463,
-            48.11944338151425
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Martin, du Mail Germaine Poinso-Chapuis jusqu'à Allée Léonie Chaptal",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'installation de chantier",
-        "date_heure": "2026-03-09T00:00:00+00:00"
       }
     },
     {
@@ -8031,370 +7903,6 @@
         "statut": "Actif",
         "description": "sur voirie",
         "date_heure": "2026-06-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.653366511288624,
-            48.095670452956504
-          ],
-          [
-            -1.653561187772853,
-            48.095341433900565
-          ],
-          [
-            -1.653583495592925,
-            48.09359824004203
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65110713558186,
-            48.09505519526992
-          ],
-          [
-            -1.651472176569885,
-            48.09482092599095
-          ],
-          [
-            -1.652329147553781,
-            48.093423931858574
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654391313087479,
-            48.09594910886062
-          ],
-          [
-            -1.654363260841381,
-            48.09541906931831
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654363260841381,
-            48.09541906931831
-          ],
-          [
-            -1.654263786447777,
-            48.09412574948677
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.655243157122257,
-            48.095975975852305
-          ],
-          [
-            -1.655806763214979,
-            48.09598360513637
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654391313087479,
-            48.09594910886062
-          ],
-          [
-            -1.6546069557505,
-            48.095962813463714
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.650670984521435,
-            48.09531982260475
-          ],
-          [
-            -1.65110713558186,
-            48.09505519526992
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6546069557505,
-            48.095962813463714
-          ],
-          [
-            -1.654603357920164,
-            48.09602732074993
-          ],
-          [
-            -1.654794930752766,
-            48.09607739681274
-          ],
-          [
-            -1.654975991496286,
-            48.096081845605525
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652337619059344,
-            48.09539105285409
-          ],
-          [
-            -1.653366511288624,
-            48.095670452956504
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.6546069557505,
-            48.095962813463714
-          ],
-          [
-            -1.655243157122257,
-            48.095975975852305
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65110713558186,
-            48.09505519526992
-          ],
-          [
-            -1.652337619059344,
-            48.09539105285409
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.653366511288624,
-            48.095670452956504
-          ],
-          [
-            -1.654391313087479,
-            48.09594910886062
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-06-08T00:00:00+00:00"
       }
     },
     {
@@ -19042,6 +18550,527 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.654265908012471,
+            48.15051754956415
+          ],
+          [
+            -1.654502489237989,
+            48.15094724249168
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue des Sources",
+        "commune": "35278 - Saint-Grégoire",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "aménagement d'une plateforme pour base vie chantier suppression PN4",
+        "date_heure": "2025-09-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.682331371987709,
+            48.10324351320532
+          ],
+          [
+            -1.681792668189052,
+            48.103130930401925
+          ],
+          [
+            -1.681718284307277,
+            48.10309548354391
+          ],
+          [
+            -1.681767658684399,
+            48.10261977559154
+          ],
+          [
+            -1.68197912887169,
+            48.102149900903235
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Père Janvier",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'installation de chantier",
+        "date_heure": "2026-03-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.682671683041941,
+            48.10331463268775
+          ],
+          [
+            -1.682331371987709,
+            48.10324351320532
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Père Janvier",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'installation de chantier",
+        "date_heure": "2026-03-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678305675793537,
+            48.119154689755625
+          ],
+          [
+            -1.679224603332463,
+            48.11944338151425
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Saint-Martin, du Mail Germaine Poinso-Chapuis jusqu'à Allée Léonie Chaptal",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'installation de chantier",
+        "date_heure": "2026-03-09T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.653366511288624,
+            48.095670452956504
+          ],
+          [
+            -1.653561187772853,
+            48.095341433900565
+          ],
+          [
+            -1.653583495592925,
+            48.09359824004203
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.65110713558186,
+            48.09505519526992
+          ],
+          [
+            -1.651472176569885,
+            48.09482092599095
+          ],
+          [
+            -1.652329147553781,
+            48.093423931858574
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.654391313087479,
+            48.09594910886062
+          ],
+          [
+            -1.654363260841381,
+            48.09541906931831
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.654363260841381,
+            48.09541906931831
+          ],
+          [
+            -1.654263786447777,
+            48.09412574948677
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.655243157122257,
+            48.095975975852305
+          ],
+          [
+            -1.655806763214979,
+            48.09598360513637
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.654391313087479,
+            48.09594910886062
+          ],
+          [
+            -1.6546069557505,
+            48.095962813463714
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.650670984521435,
+            48.09531982260475
+          ],
+          [
+            -1.65110713558186,
+            48.09505519526992
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6546069557505,
+            48.095962813463714
+          ],
+          [
+            -1.654603357920164,
+            48.09602732074993
+          ],
+          [
+            -1.654794930752766,
+            48.09607739681274
+          ],
+          [
+            -1.654975991496286,
+            48.096081845605525
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.652337619059344,
+            48.09539105285409
+          ],
+          [
+            -1.653366511288624,
+            48.095670452956504
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6546069557505,
+            48.095962813463714
+          ],
+          [
+            -1.655243157122257,
+            48.095975975852305
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.65110713558186,
+            48.09505519526992
+          ],
+          [
+            -1.652337619059344,
+            48.09539105285409
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.653366511288624,
+            48.095670452956504
+          ],
+          [
+            -1.654391313087479,
+            48.09594910886062
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Blaise Pascal au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Albert Thomas au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Docteur Calmette au droit des poteaux ENEDIS et au droit et à l'avancement des travaux, Rue Carle Bahon au droit des poteaux ENEDIS et au droit et à l'avancement des travaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.627173497987048,
+            48.114103765209634
+          ],
+          [
+            -1.628447490814175,
+            48.11410317677545
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Rennes section comprise entre la Rue de Bel air et l'Impasse des Vaux Paré",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-06-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.707120251426764,
             48.04227433867071
           ],
@@ -20472,39 +20501,10 @@
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
         "date_heure": "2026-06-17T00:00:00+00:00"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.680299597970827,
-            48.11982456228954
-          ],
-          [
-            -1.68068032151277,
-            48.11998302447187
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Martin, du 8 jusqu'à la Rue de Saint-Malo",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de fibre optique",
-        "date_heure": "2026-06-18T00:00:00+00:00"
-      }
     }
   ],
   "metadata": {
-    "generated": "2026-07-09T23:16:20.008Z",
+    "generated": "2026-07-10T01:08:12.014Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 521,
     "sources": {
