@@ -5775,29 +5775,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6423553673563267,
-          47.031041445969265
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D65 / Saint-Philbert-de-Grand-Lieu",
-        "commune": "Commune",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "09-07-2026 09:07:36 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6371036771802165,
           47.51635079836364
         ]
@@ -5906,29 +5883,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "07-07-2026 13:41:15 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Commune",
-        "type_coupure": "Bac de réserve",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bac de réserve",
-        "date_heure": "06-07-2026 22:10:32 +0200"
       }
     },
     {
@@ -24790,12 +24744,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-11T21:22:08.625Z",
+    "generated": "2026-07-11T22:22:03.830Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 661,
+    "total_count": 659,
     "sources": {
       "grist_35": 89,
-      "cd44": 31,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
