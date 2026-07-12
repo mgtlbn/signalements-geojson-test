@@ -5706,29 +5706,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6001987212653805,
-          47.49965545323057
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Saffré",
-        "commune": "Saffré / Puceul",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "12-07-2026 16:42:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7069055458444502,
           46.966973891199025
         ]
@@ -24576,12 +24553,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-12T18:02:48.629Z",
+    "generated": "2026-07-12T19:37:44.916Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 655,
+    "total_count": 654,
     "sources": {
       "grist_35": 89,
-      "cd44": 29,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
