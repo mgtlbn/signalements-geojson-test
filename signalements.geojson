@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3187468942512115,
+          47.05234440521242
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D54 / Saint-Hilaire-de-Clisson",
+        "commune": "Saint-Hilaire  / Saint-Lumine",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "13-07-2026 19:45:28 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3734510599346337,
           47.00062110024242
         ]
@@ -20105,12 +20128,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-13T15:44:50.115Z",
+    "generated": "2026-07-13T17:54:37.900Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 508,
+    "total_count": 509,
     "sources": {
       "grist_35": 89,
-      "cd44": 28,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
