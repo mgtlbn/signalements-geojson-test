@@ -5683,29 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de St Nazaire",
-        "commune": "Dans les 2 sens",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Incident technique",
-        "date_heure": "14-07-2026 10:40:22 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3187468942512115,
           47.05234440521242
         ]
@@ -23297,12 +23274,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-14T10:16:05.417Z",
+    "generated": "2026-07-14T11:53:41.934Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 612,
+    "total_count": 611,
     "sources": {
       "grist_35": 89,
-      "cd44": 26,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
