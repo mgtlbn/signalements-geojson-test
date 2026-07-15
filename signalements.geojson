@@ -5683,29 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.163460863825561,
-          47.273281978385306
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "15-07-2026 12:33:12 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3187468942512115,
           47.05234440521242
         ]
@@ -15213,6 +15190,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.586560246030019,
+            48.15972179791707
+          ],
+          [
+            -1.586599587868422,
+            48.15977372708518
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Du Guesclin, intersection Rue Lariboisière, Rue Nationale",
+        "commune": "35334 - Thorigné-Fouillard",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de voirie",
+        "date_heure": "2026-06-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.735225435288265,
             48.105231396145264
           ],
@@ -19604,44 +19610,15 @@
         "description": "de renouvellement de la conduite d'eau potable",
         "date_heure": "2026-06-15T00:00:00+00:00"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.674244002316503,
-            48.08370769237036
-          ],
-          [
-            -1.673625205914799,
-            48.08369625337227
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard du Portugal sur terreplein central",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-09T00:00:00+00:00"
-      }
     }
   ],
   "metadata": {
-    "generated": "2026-07-15T10:49:38.652Z",
+    "generated": "2026-07-15T12:14:34.199Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 497,
+    "total_count": 496,
     "sources": {
       "grist_35": 89,
-      "cd44": 26,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
