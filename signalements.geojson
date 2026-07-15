@@ -15190,35 +15190,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.586560246030019,
-            48.15972179791707
-          ],
-          [
-            -1.586599587868422,
-            48.15977372708518
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Du Guesclin, intersection Rue Lariboisière, Rue Nationale",
-        "commune": "35334 - Thorigné-Fouillard",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de voirie",
-        "date_heure": "2026-06-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.735225435288265,
             48.105231396145264
           ],
@@ -19610,10 +19581,39 @@
         "description": "de renouvellement de la conduite d'eau potable",
         "date_heure": "2026-06-15T00:00:00+00:00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.674244002316503,
+            48.08370769237036
+          ],
+          [
+            -1.673625205914799,
+            48.08369625337227
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard du Portugal sur terreplein central",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-09T00:00:00+00:00"
+      }
     }
   ],
   "metadata": {
-    "generated": "2026-07-15T16:00:56.400Z",
+    "generated": "2026-07-15T17:46:33.028Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 496,
     "sources": {
