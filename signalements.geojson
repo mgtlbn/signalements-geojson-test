@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0142936324519853,
+          47.25616414727616
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D114 / Saint-Père-en-Retz",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "17-07-2026 22:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0244682280949724,
+          47.25719606292876
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D98 / Saint-Père-en-Retz",
+        "commune": "Saint-Père-en-Retz / Corsept",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "17-07-2026 22:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7069055458444502,
           46.966973891199025
         ]
@@ -5998,52 +6044,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "22-06-2026 08:02:23 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0142936324519853,
-          47.25616414727616
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D114 / Saint-Père-en-Retz",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "18-06-2026 08:55:34 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0244682280949724,
-          47.25719606292876
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D98 / Saint-Père-en-Retz",
-        "commune": "Saint-Père-en-Retz / Corsept",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "18-06-2026 08:55:30 +0200"
       }
     },
     {
@@ -26353,7 +26353,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-17T19:08:44.636Z",
+    "generated": "2026-07-17T20:26:44.611Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 752,
     "sources": {
