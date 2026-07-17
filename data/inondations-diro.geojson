@@ -1,78 +1,23 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-16T19:21:16.998376",
+    "generated_at": "2026-07-17T03:20:19.837716",
     "source": "DATEX II - Bison Futé",
     "filter": "Inondations DIR Ouest (Bretagne / Pays de la Loire)",
-    "count": 2,
-    "count_active": 2,
+    "count": 0,
+    "count_active": 0,
     "count_finished": 0,
     "statistics": {
-      "total_situations": 287,
-      "dir_ouest": 82,
-      "environmental_obstruction": 2,
-      "inondations": 2,
-      "actives": 2,
+      "total_situations": 279,
+      "dir_ouest": 66,
+      "environmental_obstruction": 0,
+      "inondations": 0,
+      "actives": 0,
       "terminees": 0,
-      "par_severite": {
-        "medium": 2
-      },
-      "par_subtype": {
-        "flooding": 2
-      },
+      "par_severite": {},
+      "par_subtype": {},
       "sans_coords": 0
     }
   },
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.889074,
-          48.058674
-        ]
-      },
-      "properties": {
-        "id": "260716-002706",
-        "source": "Direction interdépartementale des routes/DIR Ouest",
-        "road": "N0024",
-        "type": "EnvironmentalObstruction",
-        "subtype": "flooding",
-        "problem": "Inondation",
-        "severity": "medium",
-        "description": "situé 1436 m à l'est de Le Verger | DIR Ouest/District de Rennes/CEI de Pleumeleuc | De Rennes vers Lorient",
-        "start_date": "2026-07-16T17:37:18.150+02:00",
-        "end_date": null,
-        "is_active": true,
-        "status": "en_cours",
-        "updated_at": "2026-07-16T19:21:16.995958"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5856948,
-          48.165714
-        ]
-      },
-      "properties": {
-        "id": "260716-002852",
-        "source": "Direction interdépartementale des routes/DIR Ouest",
-        "road": "A0084",
-        "type": "EnvironmentalObstruction",
-        "subtype": "flooding",
-        "problem": "Inondation",
-        "severity": "medium",
-        "description": "situé 166 m au sud de Thorigné-Fouillard - Porte de | DIR Ouest/District de Rennes/CEI de Saint-Aubin-du-Cormier | De Rennes vers Caen",
-        "start_date": "2026-07-16T18:15:54.517+02:00",
-        "end_date": null,
-        "is_active": true,
-        "status": "en_cours",
-        "updated_at": "2026-07-16T19:21:16.996124"
-      }
-    }
-  ]
+  "features": []
 }
