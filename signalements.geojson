@@ -5698,7 +5698,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "17-07-2026 22:00:56 +0200"
+        "date_heure": "18-07-2026 15:05:17 +0200"
       }
     },
     {
@@ -5721,7 +5721,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Autres",
-        "date_heure": "17-07-2026 22:00:56 +0200"
+        "date_heure": "18-07-2026 15:05:17 +0200"
       }
     },
     {
@@ -5745,52 +5745,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "10-07-2026 08:43:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6099638304391013,
-          47.41119980232222
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D16 / Héric",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "09-07-2026 10:50:05 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.602353576399786,
-          47.4271557717828
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D39 / Héric",
-        "commune": "Saffré / Héric",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "09-07-2026 10:49:40 +0200"
       }
     },
     {
@@ -5905,29 +5859,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Aménagement de chaussée",
-        "date_heure": "06-07-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3756513319272592,
-          47.41094865289247
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
         "date_heure": "06-07-2026 08:00:56 +0200"
       }
     },
@@ -26353,12 +26284,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-18T12:12:12.983Z",
+    "generated": "2026-07-18T13:56:36.511Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 752,
+    "total_count": 749,
     "sources": {
       "grist_35": 89,
-      "cd44": 24,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
