@@ -21488,134 +21488,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.655140884130317,
-            48.08818190710134
-          ],
-          [
-            -1.654563819649675,
-            48.08802788228892
-          ],
-          [
-            -1.654467743479682,
-            48.08863999021412
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "23 Boulevard de Yougoslavie, Chemin d'Herzégovine",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement du  Bassin Guillevic",
-        "date_heure": "2026-06-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678941493445813,
-            48.10607152376019
-          ],
-          [
-            -1.678919284119939,
-            48.10599186962804
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 1 au 2 Place Général Giraud et les voies de sortie des parkings, la zone de livraison du Centre Commercial",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678919284119939,
-            48.10599186962804
-          ],
-          [
-            -1.678915666750172,
-            48.10597731744075
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 1 au 2 Place Général Giraud et les voies de sortie des parkings, la zone de livraison du Centre Commercial",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-06-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.588868356719774,
-            48.159860197868746
-          ],
-          [
-            -1.589337971395278,
-            48.15979360767896
-          ],
-          [
-            -1.589295816142964,
-            48.159603825435404
-          ],
-          [
-            -1.589220198392198,
-            48.15927459572546
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "13 Rue d'Alsace",
-        "commune": "35334 - Thorigné-Fouillard",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de voirie",
-        "date_heure": "2026-06-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.806453262010323,
             48.1227089839787
           ],
@@ -21962,6 +21834,512 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.676498913881519,
+            48.115697197722795
+          ],
+          [
+            -1.676884297510701,
+            48.11557442279684
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de La Borderie, du 2 jusqu'à la Place Hoche",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-07-02T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67773437918323,
+            48.114920897797
+          ],
+          [
+            -1.678602513663496,
+            48.114961900159564
+          ],
+          [
+            -1.679088121819842,
+            48.11500764927081
+          ],
+          [
+            -1.679207407585812,
+            48.11498612542765
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-07-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679207407585812,
+            48.11498612542765
+          ],
+          [
+            -1.679297805479524,
+            48.11497100323464
+          ],
+          [
+            -1.679689823947894,
+            48.114985144197945
+          ],
+          [
+            -1.679849145445444,
+            48.115073366871954
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-07-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679207407585812,
+            48.11498612542765
+          ],
+          [
+            -1.678890170544725,
+            48.11575638733283
+          ],
+          [
+            -1.678755677887697,
+            48.116259883447675
+          ],
+          [
+            -1.678734436119665,
+            48.11632238120304
+          ],
+          [
+            -1.678533705463161,
+            48.116558610063386
+          ],
+          [
+            -1.678329283274712,
+            48.1167734530035
+          ],
+          [
+            -1.67774404368127,
+            48.11726275554669
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-07-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67773437918323,
+            48.114920897797
+          ],
+          [
+            -1.678602513663496,
+            48.114961900159564
+          ],
+          [
+            -1.679088121819842,
+            48.11500764927081
+          ],
+          [
+            -1.679207407585812,
+            48.11498612542765
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-07-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679207407585812,
+            48.11498612542765
+          ],
+          [
+            -1.679297805479524,
+            48.11497100323464
+          ],
+          [
+            -1.679689823947894,
+            48.114985144197945
+          ],
+          [
+            -1.679849145445444,
+            48.115073366871954
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-07-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679207407585812,
+            48.11498612542765
+          ],
+          [
+            -1.678890170544725,
+            48.11575638733283
+          ],
+          [
+            -1.678755677887697,
+            48.116259883447675
+          ],
+          [
+            -1.678734436119665,
+            48.11632238120304
+          ],
+          [
+            -1.678533705463161,
+            48.116558610063386
+          ],
+          [
+            -1.678329283274712,
+            48.1167734530035
+          ],
+          [
+            -1.67774404368127,
+            48.11726275554669
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réaménagement de voirie",
+        "date_heure": "2026-07-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.664644315519077,
+            48.104718411653096
+          ],
+          [
+            -1.664777267728505,
+            48.10471592226847
+          ],
+          [
+            -1.66512780652108,
+            48.10471981015668
+          ],
+          [
+            -1.665762225407533,
+            48.10474470506388
+          ],
+          [
+            -1.665987648005481,
+            48.1047619577255
+          ],
+          [
+            -1.666050858180539,
+            48.10478714632155
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Lucien Decombe, depuis la Rue Saint-Hélier vers leBoulevard Solférino",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'installation de chantier",
+        "date_heure": "2026-03-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.686583746784243,
+            48.127205694009184
+          ],
+          [
+            -1.686588021359907,
+            48.12721231887105
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-06-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.68650253005507,
+            48.12707982160178
+          ],
+          [
+            -1.686577788381483,
+            48.12705805764842
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-06-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.655140884130317,
+            48.08818190710134
+          ],
+          [
+            -1.654563819649675,
+            48.08802788228892
+          ],
+          [
+            -1.654467743479682,
+            48.08863999021412
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "23 Boulevard de Yougoslavie, Chemin d'Herzégovine",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement du  Bassin Guillevic",
+        "date_heure": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678941493445813,
+            48.10607152376019
+          ],
+          [
+            -1.678919284119939,
+            48.10599186962804
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 1 au 2 Place Général Giraud et les voies de sortie des parkings, la zone de livraison du Centre Commercial",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678919284119939,
+            48.10599186962804
+          ],
+          [
+            -1.678915666750172,
+            48.10597731744075
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 1 au 2 Place Général Giraud et les voies de sortie des parkings, la zone de livraison du Centre Commercial",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-06-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.588868356719774,
+            48.159860197868746
+          ],
+          [
+            -1.589337971395278,
+            48.15979360767896
+          ],
+          [
+            -1.589295816142964,
+            48.159603825435404
+          ],
+          [
+            -1.589220198392198,
+            48.15927459572546
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "13 Rue d'Alsace",
+        "commune": "35334 - Thorigné-Fouillard",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de voirie",
+        "date_heure": "2026-06-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.677162592594822,
             48.11018053868772
           ],
@@ -22057,35 +22435,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-07-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.676498913881519,
-            48.115697197722795
-          ],
-          [
-            -1.676884297510701,
-            48.11557442279684
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de La Borderie, du 2 jusqu'à la Place Hoche",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-07-02T00:00:00+00:00"
       }
     },
     {
@@ -22250,129 +22599,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.67773437918323,
-            48.114920897797
-          ],
-          [
-            -1.678602513663496,
-            48.114961900159564
-          ],
-          [
-            -1.679088121819842,
-            48.11500764927081
-          ],
-          [
-            -1.679207407585812,
-            48.11498612542765
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679207407585812,
-            48.11498612542765
-          ],
-          [
-            -1.679297805479524,
-            48.11497100323464
-          ],
-          [
-            -1.679689823947894,
-            48.114985144197945
-          ],
-          [
-            -1.679849145445444,
-            48.115073366871954
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679207407585812,
-            48.11498612542765
-          ],
-          [
-            -1.678890170544725,
-            48.11575638733283
-          ],
-          [
-            -1.678755677887697,
-            48.116259883447675
-          ],
-          [
-            -1.678734436119665,
-            48.11632238120304
-          ],
-          [
-            -1.678533705463161,
-            48.116558610063386
-          ],
-          [
-            -1.678329283274712,
-            48.1167734530035
-          ],
-          [
-            -1.67774404368127,
-            48.11726275554669
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.683065677314221,
             48.110173202481626
           ],
@@ -22402,129 +22628,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67773437918323,
-            48.114920897797
-          ],
-          [
-            -1.678602513663496,
-            48.114961900159564
-          ],
-          [
-            -1.679088121819842,
-            48.11500764927081
-          ],
-          [
-            -1.679207407585812,
-            48.11498612542765
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-07T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679207407585812,
-            48.11498612542765
-          ],
-          [
-            -1.679297805479524,
-            48.11497100323464
-          ],
-          [
-            -1.679689823947894,
-            48.114985144197945
-          ],
-          [
-            -1.679849145445444,
-            48.115073366871954
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-07T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679207407585812,
-            48.11498612542765
-          ],
-          [
-            -1.678890170544725,
-            48.11575638733283
-          ],
-          [
-            -1.678755677887697,
-            48.116259883447675
-          ],
-          [
-            -1.678734436119665,
-            48.11632238120304
-          ],
-          [
-            -1.678533705463161,
-            48.116558610063386
-          ],
-          [
-            -1.678329283274712,
-            48.1167734530035
-          ],
-          [
-            -1.67774404368127,
-            48.11726275554669
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Saint-Melaine, de la Place Hoche jusqu'à la Rue d'Antrain,Rue d'Antrain, de la Rue de Bonne Nouvelle jusqu'à la Place Saint-Jean Eudes, Rue de Bonne Nouvelle",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-07T00:00:00+00:00"
       }
     },
     {
@@ -22736,51 +22839,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.664644315519077,
-            48.104718411653096
-          ],
-          [
-            -1.664777267728505,
-            48.10471592226847
-          ],
-          [
-            -1.66512780652108,
-            48.10471981015668
-          ],
-          [
-            -1.665762225407533,
-            48.10474470506388
-          ],
-          [
-            -1.665987648005481,
-            48.1047619577255
-          ],
-          [
-            -1.666050858180539,
-            48.10478714632155
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Lucien Decombe, depuis la Rue Saint-Hélier vers leBoulevard Solférino",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'installation de chantier",
-        "date_heure": "2026-03-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.668425713385235,
             48.12086141395706
           ],
@@ -22802,64 +22860,6 @@
         "statut": "Actif",
         "description": "de réaménagement de voirie",
         "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.686583746784243,
-            48.127205694009184
-          ],
-          [
-            -1.686588021359907,
-            48.12721231887105
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de chaussée",
-        "date_heure": "2026-06-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.68650253005507,
-            48.12707982160178
-          ],
-          [
-            -1.686577788381483,
-            48.12705805764842
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de chaussée",
-        "date_heure": "2026-06-29T00:00:00+00:00"
       }
     },
     {
@@ -26561,7 +26561,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-19T07:26:07.436Z",
+    "generated": "2026-07-19T09:26:56.713Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 746,
     "sources": {
