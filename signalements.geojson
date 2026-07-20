@@ -6281,52 +6281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5257298687199854,
-          47.55290018908279
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D2 / Abbaretz",
-        "commune": "Commune",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "18-07-2026 20:18:59 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5311840924088576,
-          47.555170229455534
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur ouvrage d'art / D2",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "18-07-2026 20:18:59 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0142936324519853,
           47.25616414727616
         ]
@@ -28699,12 +28653,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-20T21:42:51.049Z",
+    "generated": "2026-07-20T23:00:18.015Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 804,
+    "total_count": 802,
     "sources": {
       "grist_35": 89,
-      "cd44": 43,
+      "cd44": 41,
       "rennes_metropole": 100
     }
   }
