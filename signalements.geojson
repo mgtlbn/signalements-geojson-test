@@ -6442,29 +6442,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.454698116933373,
-          47.395444114504755
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D223 / Petit-Mars",
-        "commune": "Commune",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "06-07-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0960739416688545,
           47.41459984968577
         ]
@@ -28722,12 +28699,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-20T15:10:47.239Z",
+    "generated": "2026-07-20T16:55:21.187Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 805,
+    "total_count": 804,
     "sources": {
       "grist_35": 89,
-      "cd44": 44,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
