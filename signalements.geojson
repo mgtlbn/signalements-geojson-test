@@ -15515,6 +15515,39 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.865968012221729,
+            48.123955931665314
+          ],
+          [
+            -1.865814098396618,
+            48.1239686047746
+          ],
+          [
+            -1.865415693345406,
+            48.12392561553399
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse des Pommiers Fleuris, de la Rue du Commerce jusqu'au 6, voie en impasse",
+        "commune": "35065 - la Chapelle-Thouarault",
+        "type_coupure": "Limitation de vitesse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-07-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.67773437918323,
             48.114920897797
           ],
@@ -15757,1402 +15790,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.684157614185675,
-            48.10193625489793
-          ],
-          [
-            -1.68422536116985,
-            48.102764491168536
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de La Tour d'Auvergne, du Boulevard du Colombier jusqu'au 61",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67893679913849,
-            48.11097080645666
-          ],
-          [
-            -1.680098078213828,
-            48.110948574259496
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "2 Rue de Coëtquen,2 Rue Ferdinand Buisson",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-07-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.63847360638221,
-            48.17885267600643
-          ],
-          [
-            -1.63815282259988,
-            48.1791007122793
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Rennes, du Rond-point jusqu'au 21bis",
-        "commune": "35024 - Betton",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-07-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678104895116324,
-            48.10437923956682
-          ],
-          [
-            -1.678535937249548,
-            48.104311013749225
-          ],
-          [
-            -1.678466840558626,
-            48.10410545170041
-          ],
-          [
-            -1.679164426564534,
-            48.10400948082782
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Capitaine Maignan, du 1 jusqu'à la Rue du 10ème d'Artillerie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-23T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.700650012231855,
-            48.1080539795773
-          ],
-          [
-            -1.701076906291362,
-            48.107932628491
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue Marceau jusqu'au 29",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.701076906291362,
-            48.107932628491
-          ],
-          [
-            -1.701290529559502,
-            48.10787190141284
-          ],
-          [
-            -1.701660662641733,
-            48.10778964889869
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue Marceau jusqu'au 29",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.701660662641733,
-            48.10778964889869
-          ],
-          [
-            -1.7017079757144,
-            48.10778139201018
-          ],
-          [
-            -1.701872255694457,
-            48.107766654054664
-          ],
-          [
-            -1.701997409498271,
-            48.10776027415346
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, de la Rue Marceau jusqu'au 29",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742927829495474,
-            48.02183152539825
-          ],
-          [
-            -1.74257705554356,
-            48.02185502853732
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742993972404717,
-            48.02182709346205
-          ],
-          [
-            -1.742927829495474,
-            48.02183152539825
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.746516607535822,
-            48.021719141205885
-          ],
-          [
-            -1.746328700876228,
-            48.021761147024904
-          ],
-          [
-            -1.745255223751482,
-            48.02174849393865
-          ],
-          [
-            -1.74472827046,
-            48.02174596789755
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.74257705554356,
-            48.02185502853732
-          ],
-          [
-            -1.741923525848945,
-            48.02189936026045
-          ],
-          [
-            -1.741158492981381,
-            48.02197989251479
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.74472827046,
-            48.02174596789755
-          ],
-          [
-            -1.744608950214512,
-            48.0217514936013
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742993972404717,
-            48.02182709346205
-          ],
-          [
-            -1.742831979828791,
-            48.0212320713691
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.744608950214512,
-            48.0217514936013
-          ],
-          [
-            -1.743361706131962,
-            48.021802451945625
-          ],
-          [
-            -1.742993972404717,
-            48.02182709346205
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652008751075159,
-            48.12788982693538
-          ],
-          [
-            -1.651870358019719,
-            48.13136792383224
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue des Gayeulles, de la Place Valéry Giscard d'Estaing jusqu'au 4",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.699672612007158,
-            48.10373923290417
-          ],
-          [
-            -1.700550919279112,
-            48.10517039253693
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-06-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.686417974691894,
-            48.11007461835952
-          ],
-          [
-            -1.692876415557125,
-            48.108597232364346
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Mail François Mitterrand, du Quai d'Ille et Rance jusqu'à la Rue Vaneau et seulement la voie de circulation générale.",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-07-09T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.686588021359907,
-            48.12721231887105
-          ],
-          [
-            -1.686426400641261,
-            48.12723633237843
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de chaussée",
-        "date_heure": "2026-06-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.68650253005507,
-            48.12707982160178
-          ],
-          [
-            -1.686506804609888,
-            48.12708644646684
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de chaussée",
-        "date_heure": "2026-06-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742927829495474,
-            48.02183152539825
-          ],
-          [
-            -1.74257705554356,
-            48.02185502853732
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742993972404717,
-            48.02182709346205
-          ],
-          [
-            -1.742927829495474,
-            48.02183152539825
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.746516607535822,
-            48.021719141205885
-          ],
-          [
-            -1.746328700876228,
-            48.021761147024904
-          ],
-          [
-            -1.745255223751482,
-            48.02174849393865
-          ],
-          [
-            -1.74472827046,
-            48.02174596789755
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.74257705554356,
-            48.02185502853732
-          ],
-          [
-            -1.741923525848945,
-            48.02189936026045
-          ],
-          [
-            -1.741158492981381,
-            48.02197989251479
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.74472827046,
-            48.02174596789755
-          ],
-          [
-            -1.744608950214512,
-            48.0217514936013
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742993972404717,
-            48.02182709346205
-          ],
-          [
-            -1.742831979828791,
-            48.0212320713691
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.744608950214512,
-            48.0217514936013
-          ],
-          [
-            -1.743361706131962,
-            48.021802451945625
-          ],
-          [
-            -1.742993972404717,
-            48.02182709346205
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Théodore Botrel",
-        "commune": "35047 - Bruz",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-07-24T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.634133405410057,
-            48.11403094380911
-          ],
-          [
-            -1.633925148129201,
-            48.113912627241895
-          ],
-          [
-            -1.633726724072543,
-            48.113903728700336
-          ],
-          [
-            -1.633531517448187,
-            48.11402422507987
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Clos Sévigné, Avenue de la Touraudais, Avenue de la Touraudais, Rond-point",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de voirie et réseaux",
-        "date_heure": "2026-07-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.633379056480428,
-            48.11518201346093
-          ],
-          [
-            -1.633729703649262,
-            48.11440481376471
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Clos Sévigné, Avenue de la Touraudais, Avenue de la Touraudais, Rond-point",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de voirie et réseaux",
-        "date_heure": "2026-07-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.633843083860327,
-            48.11379485661472
-          ],
-          [
-            -1.633849816945173,
-            48.113589034827385
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue du Clos Sévigné, Avenue de la Touraudais, Avenue de la Touraudais, Rond-point",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'aménagement de voirie et réseaux",
-        "date_heure": "2026-07-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.690231580125671,
-            48.09472858616911
-          ],
-          [
-            -1.689501141288032,
-            48.09471536048143
-          ],
-          [
-            -1.68560712830424,
-            48.09448147113498
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Georges Clemenceau, de la Rue de Nantes jusqu'à la Rue Le Guen de Kérangal  sens Ouest Est",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de renovation de voirie par les entreprises EUROVIA et HELLIOS",
-        "date_heure": "2026-07-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.586774994247938,
-            48.16001130052213
-          ],
-          [
-            -1.587133668433108,
-            48.16044750695491
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Normandie section comprise entre la Rue Nationale et la Rue d'Alsace",
-        "commune": "35334 - Thorigné-Fouillard",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-06-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666119597659293,
-            48.113247895143665
-          ],
-          [
-            -1.666025504780661,
-            48.11387200708436
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.665959572537271,
-            48.114309692412
-          ],
-          [
-            -1.66599412553967,
-            48.114406139461515
-          ],
-          [
-            -1.665896373674151,
-            48.115065358070396
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666025504780661,
-            48.11387200708436
-          ],
-          [
-            -1.665959572537271,
-            48.114309692412
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666224361850993,
-            48.11249044264003
-          ],
-          [
-            -1.666227180676018,
-            48.112533489318665
-          ],
-          [
-            -1.666119597659293,
-            48.113247895143665
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.665850114631334,
-            48.11506393507244
-          ],
-          [
-            -1.665855236851826,
-            48.11531981002323
-          ],
-          [
-            -1.665889441293709,
-            48.11548962457347
-          ],
-          [
-            -1.666162410798887,
-            48.11619534588139
-          ],
-          [
-            -1.666194371301404,
-            48.11627045934397
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.665959572537271,
-            48.114309692412
-          ],
-          [
-            -1.665854353007866,
-            48.11500816735902
-          ],
-          [
-            -1.665850114631334,
-            48.11506393507244
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.668170350750989,
-            48.120458162420825
-          ],
-          [
-            -1.6694355451827,
-            48.122456004924935
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666224361850993,
-            48.11249044264003
-          ],
-          [
-            -1.666165891577249,
-            48.11254562967878
-          ],
-          [
-            -1.665939917480475,
-            48.11425482948823
-          ],
-          [
-            -1.665959572537271,
-            48.114309692412
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667423848270731,
-            48.119296892677085
-          ],
-          [
-            -1.667488340629488,
-            48.11936861308477
-          ],
-          [
-            -1.668170350750989,
-            48.120458162420825
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.665896373674151,
-            48.115065358070396
-          ],
-          [
-            -1.665890166121944,
-            48.11510721992676
-          ],
-          [
-            -1.665888842438292,
-            48.11531647503382
-          ],
-          [
-            -1.665928789950837,
-            48.1154869276246
-          ],
-          [
-            -1.666209304803224,
-            48.11620667905136
-          ],
-          [
-            -1.666194371301404,
-            48.11627045934397
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666194371301404,
-            48.11627045934397
-          ],
-          [
-            -1.666875757125845,
-            48.11795005741967
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666875757125845,
-            48.11795005741967
-          ],
-          [
-            -1.667423848270731,
-            48.119296892677085
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-07-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.865968012221729,
-            48.123955931665314
-          ],
-          [
-            -1.865814098396618,
-            48.1239686047746
-          ],
-          [
-            -1.865415693345406,
-            48.12392561553399
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Impasse des Pommiers Fleuris, de la Rue du Commerce jusqu'au 6, voie en impasse",
-        "commune": "35065 - la Chapelle-Thouarault",
-        "type_coupure": "Limitation de vitesse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-07-06T00:00:00+00:00"
       }
     },
@@ -17476,6 +16113,35 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2026-07-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.684157614185675,
+            48.10193625489793
+          ],
+          [
+            -1.68422536116985,
+            48.102764491168536
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de La Tour d'Auvergne, du Boulevard du Colombier jusqu'au 61",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-15T00:00:00+00:00"
       }
     },
     {
@@ -22143,6 +20809,1340 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.63847360638221,
+            48.17885267600643
+          ],
+          [
+            -1.63815282259988,
+            48.1791007122793
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Rennes, du Rond-point jusqu'au 21bis",
+        "commune": "35024 - Betton",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.700650012231855,
+            48.1080539795773
+          ],
+          [
+            -1.701076906291362,
+            48.107932628491
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue Marceau jusqu'au 29",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.701076906291362,
+            48.107932628491
+          ],
+          [
+            -1.701290529559502,
+            48.10787190141284
+          ],
+          [
+            -1.701660662641733,
+            48.10778964889869
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue Marceau jusqu'au 29",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.701660662641733,
+            48.10778964889869
+          ],
+          [
+            -1.7017079757144,
+            48.10778139201018
+          ],
+          [
+            -1.701872255694457,
+            48.107766654054664
+          ],
+          [
+            -1.701997409498271,
+            48.10776027415346
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, de la Rue Marceau jusqu'au 29",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742927829495474,
+            48.02183152539825
+          ],
+          [
+            -1.74257705554356,
+            48.02185502853732
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742993972404717,
+            48.02182709346205
+          ],
+          [
+            -1.742927829495474,
+            48.02183152539825
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.746516607535822,
+            48.021719141205885
+          ],
+          [
+            -1.746328700876228,
+            48.021761147024904
+          ],
+          [
+            -1.745255223751482,
+            48.02174849393865
+          ],
+          [
+            -1.74472827046,
+            48.02174596789755
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.74257705554356,
+            48.02185502853732
+          ],
+          [
+            -1.741923525848945,
+            48.02189936026045
+          ],
+          [
+            -1.741158492981381,
+            48.02197989251479
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.74472827046,
+            48.02174596789755
+          ],
+          [
+            -1.744608950214512,
+            48.0217514936013
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742993972404717,
+            48.02182709346205
+          ],
+          [
+            -1.742831979828791,
+            48.0212320713691
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.744608950214512,
+            48.0217514936013
+          ],
+          [
+            -1.743361706131962,
+            48.021802451945625
+          ],
+          [
+            -1.742993972404717,
+            48.02182709346205
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.652008751075159,
+            48.12788982693538
+          ],
+          [
+            -1.651870358019719,
+            48.13136792383224
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue des Gayeulles, de la Place Valéry Giscard d'Estaing jusqu'au 4",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-07-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.686417974691894,
+            48.11007461835952
+          ],
+          [
+            -1.692876415557125,
+            48.108597232364346
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Mail François Mitterrand, du Quai d'Ille et Rance jusqu'à la Rue Vaneau et seulement la voie de circulation générale.",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-07-09T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.686588021359907,
+            48.12721231887105
+          ],
+          [
+            -1.686426400641261,
+            48.12723633237843
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-06-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.68650253005507,
+            48.12707982160178
+          ],
+          [
+            -1.686506804609888,
+            48.12708644646684
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de l'Avenue Charles et Raymonde Tillon et de la Rue de Saint-Malo",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-06-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.634133405410057,
+            48.11403094380911
+          ],
+          [
+            -1.633925148129201,
+            48.113912627241895
+          ],
+          [
+            -1.633726724072543,
+            48.113903728700336
+          ],
+          [
+            -1.633531517448187,
+            48.11402422507987
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Clos Sévigné, Avenue de la Touraudais, Avenue de la Touraudais, Rond-point",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de voirie et réseaux",
+        "date_heure": "2026-07-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.633379056480428,
+            48.11518201346093
+          ],
+          [
+            -1.633729703649262,
+            48.11440481376471
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Clos Sévigné, Avenue de la Touraudais, Avenue de la Touraudais, Rond-point",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de voirie et réseaux",
+        "date_heure": "2026-07-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.633843083860327,
+            48.11379485661472
+          ],
+          [
+            -1.633849816945173,
+            48.113589034827385
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue du Clos Sévigné, Avenue de la Touraudais, Avenue de la Touraudais, Rond-point",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de voirie et réseaux",
+        "date_heure": "2026-07-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.690231580125671,
+            48.09472858616911
+          ],
+          [
+            -1.689501141288032,
+            48.09471536048143
+          ],
+          [
+            -1.68560712830424,
+            48.09448147113498
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Georges Clemenceau, de la Rue de Nantes jusqu'à la Rue Le Guen de Kérangal  sens Ouest Est",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de renovation de voirie par les entreprises EUROVIA et HELLIOS",
+        "date_heure": "2026-07-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666119597659293,
+            48.113247895143665
+          ],
+          [
+            -1.666025504780661,
+            48.11387200708436
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.665959572537271,
+            48.114309692412
+          ],
+          [
+            -1.66599412553967,
+            48.114406139461515
+          ],
+          [
+            -1.665896373674151,
+            48.115065358070396
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666025504780661,
+            48.11387200708436
+          ],
+          [
+            -1.665959572537271,
+            48.114309692412
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666224361850993,
+            48.11249044264003
+          ],
+          [
+            -1.666227180676018,
+            48.112533489318665
+          ],
+          [
+            -1.666119597659293,
+            48.113247895143665
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.665850114631334,
+            48.11506393507244
+          ],
+          [
+            -1.665855236851826,
+            48.11531981002323
+          ],
+          [
+            -1.665889441293709,
+            48.11548962457347
+          ],
+          [
+            -1.666162410798887,
+            48.11619534588139
+          ],
+          [
+            -1.666194371301404,
+            48.11627045934397
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.665959572537271,
+            48.114309692412
+          ],
+          [
+            -1.665854353007866,
+            48.11500816735902
+          ],
+          [
+            -1.665850114631334,
+            48.11506393507244
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.668170350750989,
+            48.120458162420825
+          ],
+          [
+            -1.6694355451827,
+            48.122456004924935
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666224361850993,
+            48.11249044264003
+          ],
+          [
+            -1.666165891577249,
+            48.11254562967878
+          ],
+          [
+            -1.665939917480475,
+            48.11425482948823
+          ],
+          [
+            -1.665959572537271,
+            48.114309692412
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.667423848270731,
+            48.119296892677085
+          ],
+          [
+            -1.667488340629488,
+            48.11936861308477
+          ],
+          [
+            -1.668170350750989,
+            48.120458162420825
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.665896373674151,
+            48.115065358070396
+          ],
+          [
+            -1.665890166121944,
+            48.11510721992676
+          ],
+          [
+            -1.665888842438292,
+            48.11531647503382
+          ],
+          [
+            -1.665928789950837,
+            48.1154869276246
+          ],
+          [
+            -1.666209304803224,
+            48.11620667905136
+          ],
+          [
+            -1.666194371301404,
+            48.11627045934397
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666194371301404,
+            48.11627045934397
+          ],
+          [
+            -1.666875757125845,
+            48.11795005741967
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666875757125845,
+            48.11795005741967
+          ],
+          [
+            -1.667423848270731,
+            48.119296892677085
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de la Duchesse Anne face à la bibliothèque Thabor Lucien rose",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-07-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67893679913849,
+            48.11097080645666
+          ],
+          [
+            -1.680098078213828,
+            48.110948574259496
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "2 Rue de Coëtquen,2 Rue Ferdinand Buisson",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678104895116324,
+            48.10437923956682
+          ],
+          [
+            -1.678535937249548,
+            48.104311013749225
+          ],
+          [
+            -1.678466840558626,
+            48.10410545170041
+          ],
+          [
+            -1.679164426564534,
+            48.10400948082782
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Capitaine Maignan, du 1 jusqu'à la Rue du 10ème d'Artillerie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-23T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.699672612007158,
+            48.10373923290417
+          ],
+          [
+            -1.700550919279112,
+            48.10517039253693
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-06-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742927829495474,
+            48.02183152539825
+          ],
+          [
+            -1.74257705554356,
+            48.02185502853732
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742993972404717,
+            48.02182709346205
+          ],
+          [
+            -1.742927829495474,
+            48.02183152539825
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.746516607535822,
+            48.021719141205885
+          ],
+          [
+            -1.746328700876228,
+            48.021761147024904
+          ],
+          [
+            -1.745255223751482,
+            48.02174849393865
+          ],
+          [
+            -1.74472827046,
+            48.02174596789755
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.74257705554356,
+            48.02185502853732
+          ],
+          [
+            -1.741923525848945,
+            48.02189936026045
+          ],
+          [
+            -1.741158492981381,
+            48.02197989251479
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.74472827046,
+            48.02174596789755
+          ],
+          [
+            -1.744608950214512,
+            48.0217514936013
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742993972404717,
+            48.02182709346205
+          ],
+          [
+            -1.742831979828791,
+            48.0212320713691
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.744608950214512,
+            48.0217514936013
+          ],
+          [
+            -1.743361706131962,
+            48.021802451945625
+          ],
+          [
+            -1.742993972404717,
+            48.02182709346205
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Théodore Botrel",
+        "commune": "35047 - Bruz",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'éclairage public",
+        "date_heure": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.586774994247938,
+            48.16001130052213
+          ],
+          [
+            -1.587133668433108,
+            48.16044750695491
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Normandie section comprise entre la Rue Nationale et la Rue d'Alsace",
+        "commune": "35334 - Thorigné-Fouillard",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-06-22T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.537003632121724,
             48.13399555610382
           ],
@@ -24772,7 +24772,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-24T15:25:00.716Z",
+    "generated": "2026-07-24T17:04:24.900Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 655,
     "sources": {
