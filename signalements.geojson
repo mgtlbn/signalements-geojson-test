@@ -5683,29 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4299323899107113,
-          47.30943055996563
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D774 / Guérande",
-        "commune": "Guérande / Batz-sur-Mer",
-        "type_coupure": "Divers",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Divers",
-        "date_heure": "24-07-2026 19:24:28 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5894069238427486,
           46.953685225471276
         ]
@@ -5722,29 +5699,6 @@
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
         "date_heure": "24-07-2026 17:00:05 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6329437639188102,
-          47.16351770202352
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Bouguenais",
-        "commune": "Bouaye / Bouguenais",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "24-07-2026 16:51:57 +0200"
       }
     },
     {
@@ -24795,12 +24749,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-24T18:57:12.867Z",
+    "generated": "2026-07-24T20:23:46.208Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 656,
+    "total_count": 654,
     "sources": {
       "grist_35": 89,
-      "cd44": 42,
+      "cd44": 40,
       "rennes_metropole": 100
     }
   }
