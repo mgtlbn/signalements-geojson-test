@@ -5821,52 +5821,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1403417476494535,
-          47.44058096706857
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D8 / Loireauxence",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "25-07-2026 09:34:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.124849301815304,
-          47.42849554576712
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / La Roche-Blanche",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "25-07-2026 09:34:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7667542920483024,
           47.28069069285206
         ]
@@ -24066,12 +24020,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-25T21:55:43.667Z",
+    "generated": "2026-07-25T22:56:39.660Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 635,
+    "total_count": 633,
     "sources": {
       "grist_35": 89,
-      "cd44": 40,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
