@@ -5798,98 +5798,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3343930301057296,
-          47.430180007628245
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D9 / Mouzeil",
-        "commune": "Mouzeil / Ligné",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "25-07-2026 09:34:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7667542920483024,
-          47.28069069285206
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D93 / Saint-Etienne-de-Montluc",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "25-07-2026 09:34:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7665019757473068,
-          47.280701474630604
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D93 / Saint-Etienne-de-Montluc",
-        "commune": "Vigneux / Saint-Etienne-de-Montluc",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "25-07-2026 09:34:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3343887460986776,
-          47.43018444457572
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D23 / Ligné",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "25-07-2026 09:33:52 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5894069238427486,
           46.953685225471276
         ]
@@ -26917,12 +26825,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-26T21:29:00.676Z",
+    "generated": "2026-07-26T22:32:06.333Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 714,
+    "total_count": 710,
     "sources": {
       "grist_35": 89,
-      "cd44": 38,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
