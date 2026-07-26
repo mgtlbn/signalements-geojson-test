@@ -5683,6 +5683,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.180571569155055,
+          47.302389401571546
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Trafic saturé en sortie de pont",
+        "date_heure": "26-07-2026 16:26:23 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5669382728931571,
           47.12900610651175
         ]
@@ -26917,12 +26940,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-26T12:37:13.828Z",
+    "generated": "2026-07-26T14:36:04.903Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 714,
+    "total_count": 715,
     "sources": {
       "grist_35": 89,
-      "cd44": 38,
+      "cd44": 39,
       "rennes_metropole": 100
     }
   }
