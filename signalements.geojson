@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1674969586920068,
+          47.37253074297603
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D923 / Ancenis",
+        "commune": "Mésanger / Ancenis",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "27-07-2026 11:24:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1741029345009613,
+          47.36681862775768
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux de réfection D723 / Ancenis",
+        "commune": "Commune",
+        "type_coupure": "VL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "27-07-2026 11:24:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5669382728931571,
           47.12900610651175
         ]
@@ -5998,52 +6044,6 @@
         "statut": "Actif",
         "description": "Course cycliste",
         "date_heure": "20-07-2026 15:47:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1741029345009613,
-          47.36681862775768
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux de réfection D723 / Ancenis",
-        "commune": "Commune",
-        "type_coupure": "VL",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "20-07-2026 15:43:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1674969586920068,
-          47.37253074297603
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D923 / Ancenis",
-        "commune": "Mésanger / Ancenis",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "20-07-2026 15:43:53 +0200"
       }
     },
     {
@@ -28721,7 +28721,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-27T07:31:05.975Z",
+    "generated": "2026-07-27T11:21:06.457Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 774,
     "sources": {
