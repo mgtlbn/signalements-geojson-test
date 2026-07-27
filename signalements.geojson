@@ -5729,121 +5729,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5669382728931571,
-          47.12900610651175
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D76 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "25-07-2026 09:37:54 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4841700428910636,
-          47.44051457790281
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "25-07-2026 09:35:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4547123080799995,
-          47.395525291525225
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D223 / Petit-Mars",
-        "commune": "Ligné / Petit-Mars",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "25-07-2026 09:35:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.342423251226963,
-          47.08029382597092
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D7 / Maisdon-sur-Sèvre",
-        "commune": "Maisdon-sur-Sèvre / Saint-Lumine",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "25-07-2026 09:35:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0960739416688545,
-          47.41459984968577
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D112 / Vair-sur-Loire",
-        "commune": "Loireauxence / Vair-sur-Loire",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "25-07-2026 09:35:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5894069238427486,
           46.953685225471276
         ]
@@ -28721,12 +28606,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-27T21:38:07.616Z",
+    "generated": "2026-07-27T23:01:18.968Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 774,
+    "total_count": 769,
     "sources": {
       "grist_35": 89,
-      "cd44": 34,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
