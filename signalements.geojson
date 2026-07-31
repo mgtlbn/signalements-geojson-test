@@ -5683,6 +5683,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.299267144934489,
+          47.35003218500944
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D323 / Oudon",
+        "commune": "Oudon / Couffé",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "31-07-2026 16:43:04 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.31197963860895,
+          47.36064944086997
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D323 / Oudon",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "31-07-2026 16:43:04 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0712614160902743,
+          47.58164998057376
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Aménagement de chaussée / D134",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "31-07-2026 16:42:04 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0732022056088848,
+          47.58710858172397
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D134 / Vritz",
+        "commune": "Vritz / Le Pin",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "31-07-2026 16:42:04 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1741029345009613,
           47.36681862775768
         ]
@@ -5715,7 +5807,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D923 / Ancenis",
-        "commune": "Commune",
+        "commune": "Mésanger / Ancenis",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5784,7 +5876,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33A / Pontchâteau",
-        "commune": "Commune",
+        "commune": "Missillac / Pontchâteau",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5830,7 +5922,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D33A / Pontchâteau",
-        "commune": "Commune",
+        "commune": "Pontchâteau / Sainte-Reine",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -5853,7 +5945,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Couëron / Le Pellerin",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -5876,7 +5968,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Couëron / Le Pellerin",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -5899,7 +5991,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -5922,7 +6014,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Couëron / Le Pellerin",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -5945,59 +6037,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Commune",
+        "commune": "Corcoué-sur-Logne / Legé",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
         "date_heure": "24-07-2026 17:00:05 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.31197963860895,
-          47.36064944086997
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D323 / Oudon",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "22-07-2026 08:30:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.299267144934489,
-          47.35003218500944
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D323 / Oudon",
-        "commune": "Commune",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "22-07-2026 08:30:56 +0200"
       }
     },
     {
@@ -6037,7 +6083,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D923 / Ancenis",
-        "commune": "Commune",
+        "commune": "Ancenis vers Mésanger",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6083,7 +6129,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Couffé",
-        "commune": "Commune",
+        "commune": "Mésanger / Couffé",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6106,7 +6152,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Commune",
+        "commune": "Saint-Michel vers Saint-Brevin",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6129,7 +6175,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D31 / La Boissière-du-Doré",
-        "commune": "Commune",
+        "commune": "La Boissière / La Remaudière",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6152,7 +6198,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D60 / Boussay",
-        "commune": "Commune",
+        "commune": "Boussay / Gétigné",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6175,7 +6221,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D756 / La Regrippière",
-        "commune": "Commune",
+        "commune": "La Regrippière / Vallet",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6212,52 +6258,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0712614160902743,
-          47.58164998057376
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée / D134",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "07-07-2026 13:41:18 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0732022056088848,
-          47.58710858172397
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D134 / Vritz",
-        "commune": "Commune",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "07-07-2026 13:41:15 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.4045149053092156,
           47.36088632694511
         ]
@@ -6267,7 +6267,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D31 / Saint-Mars-du-Désert",
-        "commune": "Commune",
+        "commune": "St-Mars-du-Désert / Mauves/Loire",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6290,7 +6290,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D17 / Cordemais",
-        "commune": "Commune",
+        "commune": "Cordemais / St-Etienne-de-Montluc",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -6313,7 +6313,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Commune",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6336,7 +6336,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Bouaye vers Bouguenais",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -6359,7 +6359,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -25723,7 +25723,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-07-31T13:13:52.253Z",
+    "generated": "2026-07-31T15:36:53.405Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 652,
     "sources": {
