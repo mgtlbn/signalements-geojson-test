@@ -5890,75 +5890,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1350264226811264,
-          47.4424095438152
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33A / Pontchâteau",
-        "commune": "Missillac / Pontchâteau",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "30-07-2026 18:41:10 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1093920981066483,
-          47.44232125301313
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement / D33A / Pontchâteau",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "30-07-2026 18:41:10 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1165441892236,
-          47.44520650866051
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33A / Pontchâteau",
-        "commune": "Pontchâteau / Sainte-Reine",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "30-07-2026 18:40:09 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -26455,12 +26386,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-02T21:56:15.275Z",
+    "generated": "2026-08-02T22:57:59.925Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 676,
+    "total_count": 673,
     "sources": {
       "grist_35": 89,
-      "cd44": 28,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
