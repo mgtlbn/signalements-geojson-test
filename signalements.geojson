@@ -5683,6 +5683,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7674192807125064,
+          46.992802423458144
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D117 / Machecoul-Saint-Même",
+        "commune": "La Marne/ Machecoul",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "02-08-2026 18:32:21 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7553941502554296,
+          46.99376570275916
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Accident / D13 / Paulx",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "02-08-2026 18:32:17 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -26455,12 +26501,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-02T15:37:11.918Z",
+    "generated": "2026-08-02T16:58:22.805Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 676,
+    "total_count": 678,
     "sources": {
       "grist_35": 89,
-      "cd44": 28,
+      "cd44": 30,
       "rennes_metropole": 100
     }
   }
