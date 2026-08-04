@@ -5683,150 +5683,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1701431274414067,
-          48.194471974688206
-        ]
-      },
-      "properties": {
-        "id": 108,
-        "source": "Grist 35",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Chemin de la Chapelle Saint-Méen",
-        "commune": "Saint-Méen-le-Grand",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Résolu",
-        "description": "",
-        "date_heure": 1785851710.814
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.8507080078125004,
-          48.25759852914997
-        ]
-      },
-      "properties": {
-        "id": 109,
-        "source": "Grist 35",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Ancienne Voie Ferrée de Plouescat à Rosporden",
-        "commune": "Plonévez-du-Faou",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "test",
-        "date_heure": 1785852175.258
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.284469604492188,
-            48.192412189186236
-          ],
-          [
-            -2.258377075195313,
-            48.19927781885944
-          ],
-          [
-            -2.2374343872070317,
-            48.20087966673985
-          ],
-          [
-            -2.217521667480469,
-            48.193556524687395
-          ],
-          [
-            -2.2017288208007817,
-            48.17844923828019
-          ],
-          [
-            -2.1467971801757817,
-            48.184401125107684
-          ],
-          [
-            -2.092552185058594,
-            48.19607397283394
-          ],
-          [
-            -2.047233581542969,
-            48.201794985897344
-          ]
-        ]
-      },
-      "properties": {
-        "id": 110,
-        "source": "Grist 35",
-        "gestionnaire": "Rennes Métropole",
-        "route": "N 164",
-        "commune": "Saint-Méen-le-Grand",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "test",
-        "date_heure": 1785852361.523
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -2.3045539855957036,
-            48.20293911184484
-          ],
-          [
-            -2.2753715515136723,
-            48.21003212234042
-          ],
-          [
-            -2.2176933288574223,
-            48.20831616149326
-          ],
-          [
-            -2.1988105773925786,
-            48.200307583961035
-          ],
-          [
-            -2.1943473815917973,
-            48.20133732836298
-          ],
-          [
-            -2.183189392089844,
-            48.201794985897344
-          ]
-        ]
-      },
-      "properties": {
-        "id": 111,
-        "source": "Grist 35",
-        "gestionnaire": "CD35",
-        "route": "D 125",
-        "commune": "Saint-Méen-le-Grand",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1785852589.38
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.3742084343331853,
           47.36009258601754
         ]
@@ -23544,11 +23400,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-04T14:11:06.153Z",
+    "generated": "2026-08-04T16:26:55.035Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 607,
+    "total_count": 603,
     "sources": {
-      "grist_35": 93,
+      "grist_35": 89,
       "cd44": 17,
       "rennes_metropole": 100
     }
