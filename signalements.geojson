@@ -16455,122 +16455,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.705373,
-          48.226475
-        ]
-      },
-      "properties": {
-        "id": 108,
-        "source": "Grist 35",
-        "gestionnaire": "CD35",
-        "route": "D 82",
-        "commune": "Melesse",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1786095765.515
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.4853,
-            48.112948
-          ],
-          [
-            -1.485367,
-            48.112963
-          ],
-          [
-            -1.485229,
-            48.113186
-          ],
-          [
-            -1.485107,
-            48.113324
-          ],
-          [
-            -1.48436,
-            48.114173
-          ],
-          [
-            -1.48433,
-            48.114204
-          ],
-          [
-            -1.484201,
-            48.114346
-          ],
-          [
-            -1.484179,
-            48.114372
-          ],
-          [
-            -1.484087,
-            48.114472
-          ],
-          [
-            -1.484087,
-            48.114472
-          ],
-          [
-            -1.484086,
-            48.114473
-          ],
-          [
-            -1.483707,
-            48.114619
-          ],
-          [
-            -1.482984,
-            48.114789
-          ],
-          [
-            -1.482512,
-            48.114924
-          ],
-          [
-            -1.481836,
-            48.115079
-          ],
-          [
-            -1.481742,
-            48.115111
-          ],
-          [
-            -1.481635,
-            48.115149
-          ],
-          [
-            -1.481577,
-            48.11519
-          ]
-        ]
-      },
-      "properties": {
-        "id": 109,
-        "source": "Grist 35",
-        "gestionnaire": "Rennes Métropole",
-        "route": "TEST",
-        "commune": "Brécé",
-        "type_coupure": "Totale",
-        "cause": "Inondation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": 1786095796.738
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.3742084343331853,
           47.36009258601754
         ]
@@ -36452,11 +36336,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-07T13:02:35.110Z",
+    "generated": "2026-08-07T14:31:18.675Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 679,
+    "total_count": 677,
     "sources": {
-      "grist_35": 91,
+      "grist_35": 89,
       "cd44": 16,
       "rennes_metropole": 100
     }
