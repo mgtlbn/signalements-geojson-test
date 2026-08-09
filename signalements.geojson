@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.181753214381264,
+          47.30382408440736
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Montoir-de-Bretagne / Saint-Nazaire",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "09-08-2026 19:27:40 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.2065757990186725,
           47.30578030287831
         ]
@@ -39094,12 +39117,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-09T16:34:10.488Z",
+    "generated": "2026-08-09T17:30:41.753Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 753,
+    "total_count": 754,
     "sources": {
       "grist_35": 89,
-      "cd44": 25,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
