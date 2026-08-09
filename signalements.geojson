@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.2065757990186725,
+          47.30578030287831
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Trignac",
+        "commune": "Trignac vers Saint-Nazaire",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "09-08-2026 14:08:33 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3494646345109766,
           47.340062471274976
         ]
@@ -39071,12 +39094,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-09T11:56:52.077Z",
+    "generated": "2026-08-09T12:59:43.994Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 752,
+    "total_count": 753,
     "sources": {
       "grist_35": 89,
-      "cd44": 24,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
