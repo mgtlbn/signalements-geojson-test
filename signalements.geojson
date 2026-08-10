@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.150372627856583,
+          47.20872521754098
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Michel vers Saint-Brevin",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "10-08-2026 11:00:06 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.1846793816008245,
           47.03697866202715
         ]
@@ -16747,29 +16770,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "03-08-2026 11:55:43 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.150372627856583,
-          47.20872521754098
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Michel vers Saint-Brevin",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "03-08-2026 10:00:56 +0200"
       }
     },
     {
@@ -38077,7 +38077,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-10T08:25:55.666Z",
+    "generated": "2026-08-10T09:57:23.475Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 702,
     "sources": {
