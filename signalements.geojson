@@ -18855,6 +18855,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.865561,
+          48.194311
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "source": "Grist 35",
+        "gestionnaire": "Test DDTM35",
+        "route": "D 31",
+        "commune": "Pleumeleuc",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Résolu",
+        "description": "",
+        "date_heure": 1786368328.869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.747967,
+            48.163639
+          ],
+          [
+            -1.748213,
+            48.163305
+          ],
+          [
+            -1.74848,
+            48.162945
+          ],
+          [
+            -1.748585,
+            48.16277
+          ],
+          [
+            -1.748633,
+            48.162637
+          ],
+          [
+            -1.748643,
+            48.162587
+          ],
+          [
+            -1.748653,
+            48.16255
+          ],
+          [
+            -1.748705,
+            48.161863
+          ],
+          [
+            -1.748786,
+            48.160911
+          ],
+          [
+            -1.748844,
+            48.160507
+          ],
+          [
+            -1.748968,
+            48.160225
+          ],
+          [
+            -1.749038,
+            48.160093
+          ],
+          [
+            -1.749053,
+            48.160063
+          ]
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "source": "Grist 35",
+        "gestionnaire": "Test DDTM35",
+        "route": "C 112",
+        "commune": "Pacé",
+        "type_coupure": "Totale",
+        "cause": "Inondation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": 1786368357.817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.150372627856583,
           47.20872521754098
         ]
@@ -40477,11 +40573,11 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-10T12:07:50.422Z",
+    "generated": "2026-08-10T13:54:49.317Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 704,
+    "total_count": 706,
     "sources": {
-      "grist_35": 91,
+      "grist_35": 93,
       "cd44": 26,
       "rennes_metropole": 100
     }
