@@ -19411,29 +19411,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7069055458444502,
-          46.966973891199025
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Saint-Etienne-de-Mer-Morte",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-07-2026 08:43:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.4045149053092156,
           47.36088632694511
         ]
@@ -40573,12 +40550,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-10T21:11:56.583Z",
+    "generated": "2026-08-10T22:06:42.583Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 706,
+    "total_count": 705,
     "sources": {
       "grist_35": 93,
-      "cd44": 26,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
