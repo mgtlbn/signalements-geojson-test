@@ -18951,22 +18951,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5845857399099479,
-          46.98608509716517
+          -1.1631113826485862,
+          47.17881770595956
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D61 / Saint-Colomban",
-        "commune": "Corcoué-sur-Logne / Saint-Colomban",
-        "type_coupure": "Accident",
-        "cause": "Accident",
+        "route": "D756 / La Regrippière",
+        "commune": "La Regrippière / Vallet",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "11-08-2026 07:21:54 +0200"
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "11-08-2026 08:00:56 +0200"
       }
     },
     {
@@ -19404,29 +19404,6 @@
         "statut": "Actif",
         "description": "Course cycliste",
         "date_heure": "20-07-2026 15:47:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1631113826485862,
-          47.17881770595956
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D756 / La Regrippière",
-        "commune": "La Regrippière / Vallet",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "20-07-2026 15:42:30 +0200"
       }
     },
     {
@@ -23478,6 +23455,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.707995236579174,
+            48.10344187979095
+          ],
+          [
+            -1.707888801661039,
+            48.10318954985746
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 9 au 13 Rue Ferdinand de Lesseps",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-08-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.652754359992391,
             48.096524251743716
           ],
@@ -24970,35 +24976,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages de télécommunications",
         "date_heure": "2026-08-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707995236579174,
-            48.10344187979095
-          ],
-          [
-            -1.707888801661039,
-            48.10318954985746
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 9 au 13 Rue Ferdinand de Lesseps",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-08-07T00:00:00+00:00"
       }
     },
     {
@@ -36668,6 +36645,39 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.773050775081252,
+            48.115008257113026
+          ],
+          [
+            -1.772847007287443,
+            48.115179421714174
+          ],
+          [
+            -1.772662145909805,
+            48.11535293003882
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "le Pont de Verrière,à l'intersection de la Route de Vezin et de la Route départementale 68",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2025-02-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.715957388130579,
             48.107452838455096
           ],
@@ -36718,39 +36728,6 @@
         "statut": "Actif",
         "description": "du projet Trambus",
         "date_heure": "2026-08-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.773050775081252,
-            48.115008257113026
-          ],
-          [
-            -1.772847007287443,
-            48.115179421714174
-          ],
-          [
-            -1.772662145909805,
-            48.11535293003882
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "le Pont de Verrière,à l'intersection de la Route de Vezin et de la Route départementale 68",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2025-02-03T00:00:00+00:00"
       }
     },
     {
@@ -39523,35 +39500,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.699672612007158,
-            48.10373923290417
-          ],
-          [
-            -1.700550919279112,
-            48.10517039253693
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-08-07T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.698045082439038,
             48.13511939894517
           ],
@@ -40149,6 +40097,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.699672612007158,
+            48.10373923290417
+          ],
+          [
+            -1.700550919279112,
+            48.10517039253693
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-08-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.776844206150537,
             48.21603483968559
           ],
@@ -40313,6 +40290,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.610681293775774,
+            48.12775633574056
+          ],
+          [
+            -1.607007630866197,
+            48.12853425049991
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Saint-Roch section comprise entre la Rue de la Chalotais et la rue de la Croix Connue",
+        "commune": "35051 - Cesson-Sévigné",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réalisation d'un collecteur d'assainissement",
+        "date_heure": "2026-07-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.634133405410057,
             48.11403094380911
           ],
@@ -40453,35 +40459,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.610681293775774,
-            48.12775633574056
-          ],
-          [
-            -1.607007630866197,
-            48.12853425049991
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Saint-Roch section comprise entre la Rue de la Chalotais et la rue de la Croix Connue",
-        "commune": "35051 - Cesson-Sévigné",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réalisation d'un collecteur d'assainissement",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.634133405410057,
             48.11403094380911
           ],
@@ -40573,12 +40550,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-11T05:34:44.832Z",
+    "generated": "2026-08-11T07:06:49.640Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 706,
+    "total_count": 705,
     "sources": {
       "grist_35": 93,
-      "cd44": 26,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
