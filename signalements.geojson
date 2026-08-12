@@ -16593,52 +16593,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.181753214381264,
-          47.30382408440736
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Commune",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "09-08-2026 19:27:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2065757990186725,
-          47.30578030287831
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Trignac",
-        "commune": "Commune",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "09-08-2026 15:11:12 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3494646345109766,
           47.340062471274976
         ]
@@ -38057,12 +38011,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-12T21:44:10.513Z",
+    "generated": "2026-08-12T22:40:02.975Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 704,
+    "total_count": 702,
     "sources": {
       "grist_35": 89,
-      "cd44": 27,
+      "cd44": 25,
       "rennes_metropole": 100
     }
   }
