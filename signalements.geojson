@@ -27619,35 +27619,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.67939562573274,
-            48.1194971090169
-          ],
-          [
-            -1.679497370099748,
-            48.11952907232019
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "13 Rue Saint-Martin sur une vingtaine de mètres",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "pour la mise en place de conteneurs de tri sélectif",
-        "date_heure": "2026-02-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.655268144332264,
             48.15073919650297
           ],
@@ -29141,6 +29112,35 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-08-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67939562573274,
+            48.1194971090169
+          ],
+          [
+            -1.679497370099748,
+            48.11952907232019
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "13 Rue Saint-Martin sur une vingtaine de mètres",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "pour la mise en place de conteneurs de tri sélectif",
+        "date_heure": "2026-02-13T00:00:00+00:00"
       }
     },
     {
@@ -35190,7 +35190,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-14T10:01:21.821Z",
+    "generated": "2026-08-14T11:14:58.154Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 631,
     "sources": {
