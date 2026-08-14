@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1624519591732896,
+          47.26966624609939
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Nazaire / Saint-Brevin",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "14-08-2026 19:46:44 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8031062264255544,
           47.323436344202534
         ]
@@ -35213,12 +35236,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-14T16:51:48.135Z",
+    "generated": "2026-08-14T17:52:06.237Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 632,
+    "total_count": 633,
     "sources": {
       "grist_35": 89,
-      "cd44": 25,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
