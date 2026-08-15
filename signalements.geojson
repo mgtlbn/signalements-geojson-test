@@ -16501,52 +16501,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1845129273717243,
-          47.22940366777881
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D31 / La Boissière-du-Doré",
-        "commune": "La Boissière / La Remaudière",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "13-08-2026 05:42:21 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1846793816008245,
-          47.03697866202715
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D60 / Boussay",
-        "commune": "Boussay / Gétigné",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "13-08-2026 05:41:21 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3756513319272592,
           47.41094865289247
         ]
@@ -32492,12 +32446,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-15T21:45:23.504Z",
+    "generated": "2026-08-15T22:20:36.556Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 547,
+    "total_count": 545,
     "sources": {
       "grist_35": 89,
-      "cd44": 25,
+      "cd44": 23,
       "rennes_metropole": 100
     }
   }
