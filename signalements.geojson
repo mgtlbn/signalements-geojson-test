@@ -17107,35 +17107,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.699672612007158,
-            48.10373923290417
-          ],
-          [
-            -1.700550919279112,
-            48.10517039253693
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-08-07T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.678533809287205,
             48.106360739792294
           ],
@@ -17219,6 +17190,35 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2026-07-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.699672612007158,
+            48.10373923290417
+          ],
+          [
+            -1.700550919279112,
+            48.10517039253693
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-08-07T00:00:00+00:00"
       }
     },
     {
@@ -20271,76 +20271,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.854446830113144,
-            48.27130786925164
-          ],
-          [
-            -1.854112360798763,
-            48.27193524232002
-          ],
-          [
-            -1.853401500678088,
-            48.27334194266423
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route départementale 81, Voie communale 10, fermée au droit de l'intersection selon emprise travaux,Rue du Lavoir, de la Rue de Montmuran jusqu'au 18",
-        "commune": "35058 - la Chapelle-Chaussée",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-07-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.817421987168929,
-            48.12552682055481
-          ],
-          [
-            -1.817465911489914,
-            48.12482657181685
-          ],
-          [
-            -1.817526630444464,
-            48.12448608850658
-          ],
-          [
-            -1.817597319679343,
-            48.1243423190112
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de la Poste, de la Rue de Montfort jusqu'à la Rue du Presbytère",
-        "commune": "35131 - l'Hermitage",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-08-03T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.692206290879747,
             48.10133971019363
           ],
@@ -20370,35 +20300,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.665306347990935,
-            48.10195056039377
-          ],
-          [
-            -1.665231732697609,
-            48.10140450019894
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Albert de Mun, du 16 jusqu'à la Rue Pierre Martin",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de construction de bâtiment",
-        "date_heure": "2026-02-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.530378760459068,
             48.133655976991626
           ],
@@ -20420,64 +20321,6 @@
         "statut": "Actif",
         "description": "de remplacement de cadre et tampons d'une chambre télécom Orange",
         "date_heure": "2026-07-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742938262566911,
-            48.10578135366982
-          ],
-          [
-            -1.742520685757484,
-            48.105710971125774
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-07-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742807174349255,
-            48.105067115451405
-          ],
-          [
-            -1.742629751875589,
-            48.10506817704695
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-07-29T00:00:00+00:00"
       }
     },
     {
@@ -20577,72 +20420,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.591669297745808,
-            48.155531941124146
-          ],
-          [
-            -1.592121615928249,
-            48.15527174852
-          ],
-          [
-            -1.591409196307664,
-            48.15502142453958
-          ],
-          [
-            -1.590329401035729,
-            48.154473214323936
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 3 au 14 Avenue de Bellevue, Avenue des Landelles",
-        "commune": "35334 - Thorigné-Fouillard",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de rénovation de l'éclairage public",
-        "date_heure": "2026-08-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.573950797210226,
-            48.1606249930112
-          ],
-          [
-            -1.573914765552505,
-            48.16002951757701
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 3 au 14 Avenue de Bellevue, Avenue des Landelles",
-        "commune": "35334 - Thorigné-Fouillard",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de rénovation de l'éclairage public",
-        "date_heure": "2026-08-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.664770069704634,
             48.04585276308228
           ],
@@ -20672,64 +20449,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.741682505777248,
-            48.18924758153507
-          ],
-          [
-            -1.741675917776312,
-            48.18917604601818
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 47 Nantillère",
-        "commune": "35059 - la Chapelle-des-Fougeretz",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de création de génie civil",
-        "date_heure": "2026-08-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.628933145319621,
-            48.17289252260324
-          ],
-          [
-            -1.628910820672627,
-            48.172831474564354
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "11 les Beuschers",
-        "commune": "35024 - Betton",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de création d'un branchement Enedis",
-        "date_heure": "2026-08-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.657019321119984,
             48.11032636432257
           ],
@@ -20751,151 +20470,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
         "date_heure": "2026-08-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.665011518274482,
-            48.12719140477728
-          ],
-          [
-            -1.664791629244431,
-            48.12719770994724
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.664791629244431,
-            48.12719770994724
-          ],
-          [
-            -1.664505964861456,
-            48.127202302227836
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.664505964861456,
-            48.127202302227836
-          ],
-          [
-            -1.663444451279115,
-            48.127219360660746
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.663444451279115,
-            48.127219360660746
-          ],
-          [
-            -1.663156214376966,
-            48.12722318066833
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-20T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.663156214376966,
-            48.12722318066833
-          ],
-          [
-            -1.662765822956233,
-            48.127231015124515
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-20T00:00:00+00:00"
       }
     },
     {
@@ -21135,72 +20709,6 @@
         "statut": "Actif",
         "description": "",
         "date_heure": "2026-07-31T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.67939562573274,
-            48.1194971090169
-          ],
-          [
-            -1.679497370099748,
-            48.11952907232019
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "13 Rue Saint-Martin sur une vingtaine de mètres",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "pour la mise en place de conteneurs de tri sélectif",
-        "date_heure": "2026-02-13T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652619062235914,
-            48.114987312535526
-          ],
-          [
-            -1.651521994616876,
-            48.11523470302501
-          ],
-          [
-            -1.64981179505857,
-            48.115569319730305
-          ],
-          [
-            -1.649485273091067,
-            48.11562063696696
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Jeanne Jugan, de la Rue de Bellevue jusqu'à la Rue de Primauguet",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-08-17T00:00:00+00:00"
       }
     },
     {
@@ -22105,6 +21613,498 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-07-09T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.854446830113144,
+            48.27130786925164
+          ],
+          [
+            -1.854112360798763,
+            48.27193524232002
+          ],
+          [
+            -1.853401500678088,
+            48.27334194266423
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 81, Voie communale 10, fermée au droit de l'intersection selon emprise travaux,Rue du Lavoir, de la Rue de Montmuran jusqu'au 18",
+        "commune": "35058 - la Chapelle-Chaussée",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux pluviales",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.817421987168929,
+            48.12552682055481
+          ],
+          [
+            -1.817465911489914,
+            48.12482657181685
+          ],
+          [
+            -1.817526630444464,
+            48.12448608850658
+          ],
+          [
+            -1.817597319679343,
+            48.1243423190112
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de la Poste, de la Rue de Montfort jusqu'à la Rue du Presbytère",
+        "commune": "35131 - l'Hermitage",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-08-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.665306347990935,
+            48.10195056039377
+          ],
+          [
+            -1.665231732697609,
+            48.10140450019894
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Albert de Mun, du 16 jusqu'à la Rue Pierre Martin",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de construction de bâtiment",
+        "date_heure": "2026-02-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742938262566911,
+            48.10578135366982
+          ],
+          [
+            -1.742520685757484,
+            48.105710971125774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-07-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742807174349255,
+            48.105067115451405
+          ],
+          [
+            -1.742629751875589,
+            48.10506817704695
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-07-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.591669297745808,
+            48.155531941124146
+          ],
+          [
+            -1.592121615928249,
+            48.15527174852
+          ],
+          [
+            -1.591409196307664,
+            48.15502142453958
+          ],
+          [
+            -1.590329401035729,
+            48.154473214323936
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 3 au 14 Avenue de Bellevue, Avenue des Landelles",
+        "commune": "35334 - Thorigné-Fouillard",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de rénovation de l'éclairage public",
+        "date_heure": "2026-08-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.573950797210226,
+            48.1606249930112
+          ],
+          [
+            -1.573914765552505,
+            48.16002951757701
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 3 au 14 Avenue de Bellevue, Avenue des Landelles",
+        "commune": "35334 - Thorigné-Fouillard",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de rénovation de l'éclairage public",
+        "date_heure": "2026-08-06T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.741682505777248,
+            48.18924758153507
+          ],
+          [
+            -1.741675917776312,
+            48.18917604601818
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 47 Nantillère",
+        "commune": "35059 - la Chapelle-des-Fougeretz",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de génie civil",
+        "date_heure": "2026-08-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.628933145319621,
+            48.17289252260324
+          ],
+          [
+            -1.628910820672627,
+            48.172831474564354
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "11 les Beuschers",
+        "commune": "35024 - Betton",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création d'un branchement Enedis",
+        "date_heure": "2026-08-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.665011518274482,
+            48.12719140477728
+          ],
+          [
+            -1.664791629244431,
+            48.12719770994724
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.664791629244431,
+            48.12719770994724
+          ],
+          [
+            -1.664505964861456,
+            48.127202302227836
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.664505964861456,
+            48.127202302227836
+          ],
+          [
+            -1.663444451279115,
+            48.127219360660746
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663444451279115,
+            48.127219360660746
+          ],
+          [
+            -1.663156214376966,
+            48.12722318066833
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663156214376966,
+            48.12722318066833
+          ],
+          [
+            -1.662765822956233,
+            48.127231015124515
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Allée de Maurepas, de l'Avenue Général George S. Patton jusqu'à la Rue de la Marbaudais",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-20T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.67939562573274,
+            48.1194971090169
+          ],
+          [
+            -1.679497370099748,
+            48.11952907232019
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "13 Rue Saint-Martin sur une vingtaine de mètres",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "pour la mise en place de conteneurs de tri sélectif",
+        "date_heure": "2026-02-13T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.652619062235914,
+            48.114987312535526
+          ],
+          [
+            -1.651521994616876,
+            48.11523470302501
+          ],
+          [
+            -1.64981179505857,
+            48.115569319730305
+          ],
+          [
+            -1.649485273091067,
+            48.11562063696696
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Jeanne Jugan, de la Rue de Bellevue jusqu'à la Rue de Primauguet",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-08-17T00:00:00+00:00"
       }
     },
     {
@@ -24078,605 +24078,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.689665687539479,
-            48.09174042119951
-          ],
-          [
-            -1.688786756586172,
-            48.091688987342636
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 21 au 25 Rue Robin Foucquet,du 8 au 17 Rue Pierre Lefeuvre",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.689742231399167,
-            48.091686611849894
-          ],
-          [
-            -1.689787344176412,
-            48.09125816287618
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 21 au 25 Rue Robin Foucquet,du 8 au 17 Rue Pierre Lefeuvre",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-15T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678762102535735,
-            48.10322565382017
-          ],
-          [
-            -1.679006121236311,
-            48.1040173205319
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Square Emile Souvestre",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-07-23T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678533809287205,
-            48.106360739792294
-          ],
-          [
-            -1.67847152095913,
-            48.10615590896048
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Emile Souvestre, de la Rue de Plélo jusqu'au n°13",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678533809287205,
-            48.106360739792294
-          ],
-          [
-            -1.678588490036675,
-            48.106261832647284
-          ],
-          [
-            -1.678978965581354,
-            48.10620591760644
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Plélo, de la Rue Emile Souvestre jusqu'au n°14",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.679781234777727,
-            48.10608735701133
-          ],
-          [
-            -1.679460040050835,
-            48.106134824413616
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Plélo, de la Rue Emile Souvestre jusqu'au n°14",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.678978965581354,
-            48.10620591760644
-          ],
-          [
-            -1.679460040050835,
-            48.106134824413616
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Plélo, de la Rue Emile Souvestre jusqu'au n°14",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65950001054002,
-            48.10988144821483
-          ],
-          [
-            -1.659360838231372,
-            48.10988228618668
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "face au n°124 Avenue Sergent Maginot",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-07-31T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.711501662436714,
-            48.03300489560704
-          ],
-          [
-            -1.711465973264922,
-            48.032955349107404
-          ],
-          [
-            -1.711454921065362,
-            48.03293648357917
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "72 Avenue de la Chaussairie",
-        "commune": "35066 - Chartres-de-Bretagne",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-08-10T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.664916710540128,
-            48.088241515224986
-          ],
-          [
-            -1.663700711967848,
-            48.088226100459636
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 67 au 77 Boulevard Louis Volclair en rive sud  dans le sens Ouest Est",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-08-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.705133347874345,
-            48.0411234718791
-          ],
-          [
-            -1.705050842264287,
-            48.04112401171738
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "3 Rue Calarasi",
-        "commune": "35066 - Chartres-de-Bretagne",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-08-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.69136156225987,
-            48.082185589634335
-          ],
-          [
-            -1.691200682750543,
-            48.08204753248671
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue d'Ecosse",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-08-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.691200682750543,
-            48.08204753248671
-          ],
-          [
-            -1.69118827426966,
-            48.08203677542158
-          ],
-          [
-            -1.691094098157042,
-            48.08192537060679
-          ],
-          [
-            -1.690980562504783,
-            48.08183620194364
-          ],
-          [
-            -1.690901168029587,
-            48.08177348317655
-          ],
-          [
-            -1.690831346690073,
-            48.081709562603706
-          ],
-          [
-            -1.690772038947572,
-            48.08163259758222
-          ],
-          [
-            -1.690732051358698,
-            48.081561061413986
-          ],
-          [
-            -1.690717484883438,
-            48.08149254246362
-          ],
-          [
-            -1.690715563274448,
-            48.08141963267176
-          ],
-          [
-            -1.690730221509665,
-            48.08135307459266
-          ],
-          [
-            -1.690756878825675,
-            48.08126570444008
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue d'Ecosse",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de télécommunications",
-        "date_heure": "2026-08-17T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.675167239360667,
-            48.09449468242948
-          ],
-          [
-            -1.674660316954293,
-            48.094536418550916
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "21 et 26 Rue Marcel Sembat",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de terrassement",
-        "date_heure": "2026-07-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742938262566911,
-            48.10578135366982
-          ],
-          [
-            -1.742520685757484,
-            48.105710971125774
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-07-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.742807174349255,
-            48.105067115451405
-          ],
-          [
-            -1.742629751875589,
-            48.10506817704695
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
-        "commune": "35353 - Vezin-le-Coquet",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-07-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.715957388130579,
-            48.107452838455096
-          ],
-          [
-            -1.707402189869332,
-            48.109392178183896
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Quai Eric Tabarly jusqu'au Boulevard Marbeuf",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "du projet Trambus",
-        "date_heure": "2026-08-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.707430742801459,
-            48.109541191772976
-          ],
-          [
-            -1.7161141258349,
-            48.10763344126718
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue de Lorient, du Quai Eric Tabarly jusqu'au Boulevard Marbeuf",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "du projet Trambus",
-        "date_heure": "2026-08-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.699672612007158,
-            48.10373923290417
-          ],
-          [
-            -1.700550919279112,
-            48.10517039253693
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "",
-        "date_heure": "2026-08-07T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.735229878137568,
             48.177377437082356
           ],
@@ -24756,39 +24157,6 @@
         "statut": "Actif",
         "description": "de réfection de chaussée",
         "date_heure": "2026-07-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.690231580125671,
-            48.09472858616911
-          ],
-          [
-            -1.689501141288032,
-            48.09471536048143
-          ],
-          [
-            -1.68560712830424,
-            48.09448147113498
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Georges Clemenceau, de la Rue de Nantes jusqu'à la Rue Le Guen de Kérangal  sens Ouest Est",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de marquage sur chaussée",
-        "date_heure": "2026-08-08T00:00:00+00:00"
       }
     },
     {
@@ -25913,6 +25281,1627 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.735225435288265,
+            48.105231396145264
+          ],
+          [
+            -1.735631062213483,
+            48.10512106034762
+          ],
+          [
+            -1.736132507605877,
+            48.10501002511119
+          ],
+          [
+            -1.736352058813412,
+            48.104974528707395
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.741057205250886,
+            48.10492911612254
+          ],
+          [
+            -1.742038114980656,
+            48.10495342759843
+          ],
+          [
+            -1.742833450023906,
+            48.104966110910276
+          ],
+          [
+            -1.74358457589531,
+            48.10498277469126
+          ],
+          [
+            -1.744473443268704,
+            48.1050127889951
+          ],
+          [
+            -1.745219827745449,
+            48.10503185459484
+          ],
+          [
+            -1.745972064819421,
+            48.10504843897915
+          ],
+          [
+            -1.74716348055188,
+            48.10507989979725
+          ],
+          [
+            -1.747736601054744,
+            48.105083206885205
+          ],
+          [
+            -1.748111230180577,
+            48.10507024273224
+          ],
+          [
+            -1.748403866423418,
+            48.105031557609806
+          ],
+          [
+            -1.748799361134139,
+            48.104959810356426
+          ],
+          [
+            -1.748937939901338,
+            48.104920413569715
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.740107157986285,
+            48.104907377061274
+          ],
+          [
+            -1.741057205250886,
+            48.10492911612254
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.740107157986285,
+            48.104907377061274
+          ],
+          [
+            -1.740108994553319,
+            48.1047922166255
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.749151369552542,
+            48.104937911629676
+          ],
+          [
+            -1.748839623963374,
+            48.10502401054861
+          ],
+          [
+            -1.748542155843837,
+            48.10508349522235
+          ],
+          [
+            -1.748302288536953,
+            48.10511818092365
+          ],
+          [
+            -1.74802975529016,
+            48.10514241588668
+          ],
+          [
+            -1.74782840496984,
+            48.10515545164425
+          ],
+          [
+            -1.747636499269166,
+            48.10515629677106
+          ],
+          [
+            -1.747232847651741,
+            48.10515290746957
+          ],
+          [
+            -1.74616293538412,
+            48.10512510723184
+          ],
+          [
+            -1.745583779446346,
+            48.10511208167397
+          ],
+          [
+            -1.745480201960485,
+            48.10524851660677
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.748664223157985,
+            48.10483457050714
+          ],
+          [
+            -1.74832912878221,
+            48.10490276469963
+          ],
+          [
+            -1.74794169460554,
+            48.1049542301073
+          ],
+          [
+            -1.747639189173273,
+            48.104975588374494
+          ],
+          [
+            -1.747197672897612,
+            48.104975217117236
+          ],
+          [
+            -1.746479007158525,
+            48.104951695676355
+          ],
+          [
+            -1.745334710804896,
+            48.10492079440705
+          ],
+          [
+            -1.744299868905077,
+            48.10489697407395
+          ],
+          [
+            -1.743285382763632,
+            48.104871682841846
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-5",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.737983643794572,
+            48.10486980871626
+          ],
+          [
+            -1.738873448160354,
+            48.10488307652359
+          ],
+          [
+            -1.739811246937944,
+            48.10490060438941
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-6",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.74139592752955,
+            48.10482210784101
+          ],
+          [
+            -1.74075274985432,
+            48.10480937421968
+          ],
+          [
+            -1.740108994553319,
+            48.1047922166255
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-7",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.743285382763632,
+            48.104871682841846
+          ],
+          [
+            -1.743060946268556,
+            48.10486608588344
+          ],
+          [
+            -1.742008537465358,
+            48.104839837500414
+          ],
+          [
+            -1.74139592752955,
+            48.10482210784101
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.736352058813412,
+            48.104974528707395
+          ],
+          [
+            -1.73697540786054,
+            48.10491135665375
+          ],
+          [
+            -1.737483469712749,
+            48.10487601419356
+          ],
+          [
+            -1.737983643794572,
+            48.10486980871626
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.734787848064181,
+            48.10523800988369
+          ],
+          [
+            -1.735008974849795,
+            48.105166492172536
+          ],
+          [
+            -1.735411394906216,
+            48.105047445664816
+          ],
+          [
+            -1.735914080017659,
+            48.10493195203767
+          ],
+          [
+            -1.736309927634473,
+            48.10485722951462
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-10",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.739811246937944,
+            48.10490060438941
+          ],
+          [
+            -1.740107157986285,
+            48.104907377061274
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-11",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.740108994553319,
+            48.1047922166255
+          ],
+          [
+            -1.739806441183871,
+            48.10478415162242
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-12",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.739806441183871,
+            48.10478415162242
+          ],
+          [
+            -1.739085195796214,
+            48.104768448361995
+          ],
+          [
+            -1.738270047704295,
+            48.10475069504392
+          ],
+          [
+            -1.737573674732273,
+            48.10475139025764
+          ],
+          [
+            -1.737220900929989,
+            48.10476592733787
+          ],
+          [
+            -1.736905983610575,
+            48.104784826559296
+          ],
+          [
+            -1.736309927634473,
+            48.10485722951462
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-13",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.748621451889947,
+            48.10477997445598
+          ],
+          [
+            -1.748487215785203,
+            48.10482103159667
+          ],
+          [
+            -1.748326007451757,
+            48.10485419225141
+          ],
+          [
+            -1.748206928242055,
+            48.10487322577772
+          ],
+          [
+            -1.748057440600353,
+            48.104888905813546
+          ],
+          [
+            -1.747916762865429,
+            48.1049022059878
+          ],
+          [
+            -1.747778015484323,
+            48.10491312118677
+          ],
+          [
+            -1.747577138312153,
+            48.104917096005195
+          ],
+          [
+            -1.747398675485593,
+            48.1049169756144
+          ],
+          [
+            -1.747234486029158,
+            48.104913097191954
+          ],
+          [
+            -1.746926564773483,
+            48.104903343295845
+          ],
+          [
+            -1.746724630956469,
+            48.10489583666738
+          ],
+          [
+            -1.746184500113533,
+            48.10487665546702
+          ],
+          [
+            -1.74549257934194,
+            48.10485248876804
+          ],
+          [
+            -1.745016016501878,
+            48.10484148168998
+          ],
+          [
+            -1.744801194321727,
+            48.104842089325736
+          ],
+          [
+            -1.744448752250285,
+            48.10484011552849
+          ],
+          [
+            -1.744132943451104,
+            48.104834269787446
+          ],
+          [
+            -1.743810439816876,
+            48.10483223904872
+          ],
+          [
+            -1.743515468653422,
+            48.10482317173608
+          ],
+          [
+            -1.743152746456527,
+            48.10482052058091
+          ],
+          [
+            -1.743124240958487,
+            48.10481697657954
+          ],
+          [
+            -1.742830751324781,
+            48.104766549762296
+          ],
+          [
+            -1.742431392307987,
+            48.104752346946185
+          ],
+          [
+            -1.742300577257139,
+            48.10474712351073
+          ],
+          [
+            -1.742082055378723,
+            48.10472663926115
+          ],
+          [
+            -1.742015836023634,
+            48.10471521228696
+          ],
+          [
+            -1.741999395831837,
+            48.10470881030136
+          ],
+          [
+            -1.741982729726715,
+            48.104721665592116
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-14",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
+        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-03-30T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.698520412637204,
+            48.08636117324124
+          ],
+          [
+            -1.698791440962682,
+            48.086152977947435
+          ],
+          [
+            -1.698534222155535,
+            48.08591287757624
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 32 au 36 Rue Frédéric Le Guyader dans les deux sens",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'installation de chantier de construction",
+        "date_heure": "2025-10-27T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.714884662411629,
+            48.067499381468295
+          ],
+          [
+            -1.71483201078499,
+            48.06757572345037
+          ],
+          [
+            -1.714814002682864,
+            48.06759903710046
+          ],
+          [
+            -1.7147941916276,
+            48.06762404223182
+          ],
+          [
+            -1.714769906243429,
+            48.06764399824784
+          ],
+          [
+            -1.714743864175736,
+            48.06765855842384
+          ],
+          [
+            -1.714704611383741,
+            48.06767813116062
+          ],
+          [
+            -1.714653236358939,
+            48.06769903219409
+          ],
+          [
+            -1.714594732135494,
+            48.06771562381451
+          ],
+          [
+            -1.714547219517957,
+            48.067733654852375
+          ],
+          [
+            -1.714477151793883,
+            48.06775883994558
+          ],
+          [
+            -1.714441818617766,
+            48.06777644951553
+          ],
+          [
+            -1.714399859749686,
+            48.06779611516765
+          ],
+          [
+            -1.714351679703146,
+            48.067823281012195
+          ],
+          [
+            -1.714294726163439,
+            48.06785985399404
+          ],
+          [
+            -1.714246743424066,
+            48.06789674636773
+          ],
+          [
+            -1.71418298396485,
+            48.06795086020504
+          ],
+          [
+            -1.714127553254205,
+            48.06800740494562
+          ],
+          [
+            -1.71407946202018,
+            48.06807098981527
+          ],
+          [
+            -1.714053060581415,
+            48.068116518534474
+          ],
+          [
+            -1.714031958818173,
+            48.06816004558656
+          ],
+          [
+            -1.714012535293102,
+            48.06822537636981
+          ],
+          [
+            -1.713994337723737,
+            48.06828883660354
+          ],
+          [
+            -1.713982488577192,
+            48.068346792788695
+          ],
+          [
+            -1.713952325214679,
+            48.06843143074205
+          ],
+          [
+            -1.71368270548983,
+            48.068886901142136
+          ],
+          [
+            -1.713647782933714,
+            48.06895038159071
+          ],
+          [
+            -1.713616225494939,
+            48.06906545745736
+          ],
+          [
+            -1.713602697902852,
+            48.06912972891435
+          ],
+          [
+            -1.713596824200612,
+            48.06921945171165
+          ],
+          [
+            -1.7136103192883,
+            48.069394883468696
+          ],
+          [
+            -1.713599855963243,
+            48.069535999112965
+          ],
+          [
+            -1.713559303131796,
+            48.06989931618687
+          ],
+          [
+            -1.713526713878723,
+            48.070099832274195
+          ],
+          [
+            -1.713498781147147,
+            48.070216979659186
+          ],
+          [
+            -1.713467229017358,
+            48.07034244496265
+          ],
+          [
+            -1.713388993114948,
+            48.07056294324536
+          ],
+          [
+            -1.713361342964182,
+            48.0706467560202
+          ],
+          [
+            -1.713350189247755,
+            48.07070503856803
+          ],
+          [
+            -1.713350147590146,
+            48.07077837960055
+          ],
+          [
+            -1.713386603844551,
+            48.0710490012505
+          ],
+          [
+            -1.713404014524735,
+            48.07116459919325
+          ],
+          [
+            -1.713432755139237,
+            48.0713165695808
+          ],
+          [
+            -1.713498161233269,
+            48.07154855349374
+          ],
+          [
+            -1.713626049289278,
+            48.07184509022301
+          ],
+          [
+            -1.713683681894509,
+            48.07196170162138
+          ],
+          [
+            -1.713823428448934,
+            48.072139233518435
+          ],
+          [
+            -1.71408371387347,
+            48.072345210994314
+          ],
+          [
+            -1.714763767170963,
+            48.07283169084198
+          ],
+          [
+            -1.714920998204589,
+            48.07293448440943
+          ],
+          [
+            -1.715090433445978,
+            48.073066508102215
+          ],
+          [
+            -1.715270863323706,
+            48.07322630667012
+          ],
+          [
+            -1.715392445534261,
+            48.07332587604135
+          ],
+          [
+            -1.715552988169871,
+            48.07342856447469
+          ],
+          [
+            -1.715769740999311,
+            48.07353818377304
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Chemin des Landriaux",
+        "commune": "35281 - Saint-Jacques-de-la-Lande",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-08-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.689665687539479,
+            48.09174042119951
+          ],
+          [
+            -1.688786756586172,
+            48.091688987342636
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 21 au 25 Rue Robin Foucquet,du 8 au 17 Rue Pierre Lefeuvre",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.689742231399167,
+            48.091686611849894
+          ],
+          [
+            -1.689787344176412,
+            48.09125816287618
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 21 au 25 Rue Robin Foucquet,du 8 au 17 Rue Pierre Lefeuvre",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678762102535735,
+            48.10322565382017
+          ],
+          [
+            -1.679006121236311,
+            48.1040173205319
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Square Emile Souvestre",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-07-23T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678533809287205,
+            48.106360739792294
+          ],
+          [
+            -1.67847152095913,
+            48.10615590896048
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Emile Souvestre, de la Rue de Plélo jusqu'au n°13",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678533809287205,
+            48.106360739792294
+          ],
+          [
+            -1.678588490036675,
+            48.106261832647284
+          ],
+          [
+            -1.678978965581354,
+            48.10620591760644
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Plélo, de la Rue Emile Souvestre jusqu'au n°14",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.679781234777727,
+            48.10608735701133
+          ],
+          [
+            -1.679460040050835,
+            48.106134824413616
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Plélo, de la Rue Emile Souvestre jusqu'au n°14",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.678978965581354,
+            48.10620591760644
+          ],
+          [
+            -1.679460040050835,
+            48.106134824413616
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Plélo, de la Rue Emile Souvestre jusqu'au n°14",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.65950001054002,
+            48.10988144821483
+          ],
+          [
+            -1.659360838231372,
+            48.10988228618668
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "face au n°124 Avenue Sergent Maginot",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-07-31T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.711501662436714,
+            48.03300489560704
+          ],
+          [
+            -1.711465973264922,
+            48.032955349107404
+          ],
+          [
+            -1.711454921065362,
+            48.03293648357917
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "72 Avenue de la Chaussairie",
+        "commune": "35066 - Chartres-de-Bretagne",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2026-08-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.664916710540128,
+            48.088241515224986
+          ],
+          [
+            -1.663700711967848,
+            48.088226100459636
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 67 au 77 Boulevard Louis Volclair en rive sud  dans le sens Ouest Est",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-08-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.705133347874345,
+            48.0411234718791
+          ],
+          [
+            -1.705050842264287,
+            48.04112401171738
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "3 Rue Calarasi",
+        "commune": "35066 - Chartres-de-Bretagne",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-08-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.69136156225987,
+            48.082185589634335
+          ],
+          [
+            -1.691200682750543,
+            48.08204753248671
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue d'Ecosse",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2026-08-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.691200682750543,
+            48.08204753248671
+          ],
+          [
+            -1.69118827426966,
+            48.08203677542158
+          ],
+          [
+            -1.691094098157042,
+            48.08192537060679
+          ],
+          [
+            -1.690980562504783,
+            48.08183620194364
+          ],
+          [
+            -1.690901168029587,
+            48.08177348317655
+          ],
+          [
+            -1.690831346690073,
+            48.081709562603706
+          ],
+          [
+            -1.690772038947572,
+            48.08163259758222
+          ],
+          [
+            -1.690732051358698,
+            48.081561061413986
+          ],
+          [
+            -1.690717484883438,
+            48.08149254246362
+          ],
+          [
+            -1.690715563274448,
+            48.08141963267176
+          ],
+          [
+            -1.690730221509665,
+            48.08135307459266
+          ],
+          [
+            -1.690756878825675,
+            48.08126570444008
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue d'Ecosse",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de télécommunications",
+        "date_heure": "2026-08-17T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.675167239360667,
+            48.09449468242948
+          ],
+          [
+            -1.674660316954293,
+            48.094536418550916
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "21 et 26 Rue Marcel Sembat",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de terrassement",
+        "date_heure": "2026-07-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742938262566911,
+            48.10578135366982
+          ],
+          [
+            -1.742520685757484,
+            48.105710971125774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-07-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.742807174349255,
+            48.105067115451405
+          ],
+          [
+            -1.742629751875589,
+            48.10506817704695
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 8 au 6 Rue de Montigné, accès au parking fermé, Rue Fontaine de Montigné, accès au parking depuis la Route de Lorient : Fermé",
+        "commune": "35353 - Vezin-le-Coquet",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-07-29T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.715957388130579,
+            48.107452838455096
+          ],
+          [
+            -1.707402189869332,
+            48.109392178183896
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Quai Eric Tabarly jusqu'au Boulevard Marbeuf",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "du projet Trambus",
+        "date_heure": "2026-08-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707430742801459,
+            48.109541191772976
+          ],
+          [
+            -1.7161141258349,
+            48.10763344126718
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Lorient, du Quai Eric Tabarly jusqu'au Boulevard Marbeuf",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "du projet Trambus",
+        "date_heure": "2026-08-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.699672612007158,
+            48.10373923290417
+          ],
+          [
+            -1.700550919279112,
+            48.10517039253693
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Philippe Lebon, de la Rue Champion de Cicé jusqu'au Boulevard Voltaire",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "",
+        "date_heure": "2026-08-07T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.690231580125671,
+            48.09472858616911
+          ],
+          [
+            -1.689501141288032,
+            48.09471536048143
+          ],
+          [
+            -1.68560712830424,
+            48.09448147113498
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Georges Clemenceau, de la Rue de Nantes jusqu'à la Rue Le Guen de Kérangal  sens Ouest Est",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de marquage sur chaussée",
+        "date_heure": "2026-08-08T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.7271124340815,
             48.08525165151193
           ],
@@ -26931,851 +27920,12 @@
         "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
         "date_heure": "2026-02-16T00:00:00+00:00"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.735225435288265,
-            48.105231396145264
-          ],
-          [
-            -1.735631062213483,
-            48.10512106034762
-          ],
-          [
-            -1.736132507605877,
-            48.10501002511119
-          ],
-          [
-            -1.736352058813412,
-            48.104974528707395
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.741057205250886,
-            48.10492911612254
-          ],
-          [
-            -1.742038114980656,
-            48.10495342759843
-          ],
-          [
-            -1.742833450023906,
-            48.104966110910276
-          ],
-          [
-            -1.74358457589531,
-            48.10498277469126
-          ],
-          [
-            -1.744473443268704,
-            48.1050127889951
-          ],
-          [
-            -1.745219827745449,
-            48.10503185459484
-          ],
-          [
-            -1.745972064819421,
-            48.10504843897915
-          ],
-          [
-            -1.74716348055188,
-            48.10507989979725
-          ],
-          [
-            -1.747736601054744,
-            48.105083206885205
-          ],
-          [
-            -1.748111230180577,
-            48.10507024273224
-          ],
-          [
-            -1.748403866423418,
-            48.105031557609806
-          ],
-          [
-            -1.748799361134139,
-            48.104959810356426
-          ],
-          [
-            -1.748937939901338,
-            48.104920413569715
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.740107157986285,
-            48.104907377061274
-          ],
-          [
-            -1.741057205250886,
-            48.10492911612254
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.740107157986285,
-            48.104907377061274
-          ],
-          [
-            -1.740108994553319,
-            48.1047922166255
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.749151369552542,
-            48.104937911629676
-          ],
-          [
-            -1.748839623963374,
-            48.10502401054861
-          ],
-          [
-            -1.748542155843837,
-            48.10508349522235
-          ],
-          [
-            -1.748302288536953,
-            48.10511818092365
-          ],
-          [
-            -1.74802975529016,
-            48.10514241588668
-          ],
-          [
-            -1.74782840496984,
-            48.10515545164425
-          ],
-          [
-            -1.747636499269166,
-            48.10515629677106
-          ],
-          [
-            -1.747232847651741,
-            48.10515290746957
-          ],
-          [
-            -1.74616293538412,
-            48.10512510723184
-          ],
-          [
-            -1.745583779446346,
-            48.10511208167397
-          ],
-          [
-            -1.745480201960485,
-            48.10524851660677
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.748664223157985,
-            48.10483457050714
-          ],
-          [
-            -1.74832912878221,
-            48.10490276469963
-          ],
-          [
-            -1.74794169460554,
-            48.1049542301073
-          ],
-          [
-            -1.747639189173273,
-            48.104975588374494
-          ],
-          [
-            -1.747197672897612,
-            48.104975217117236
-          ],
-          [
-            -1.746479007158525,
-            48.104951695676355
-          ],
-          [
-            -1.745334710804896,
-            48.10492079440705
-          ],
-          [
-            -1.744299868905077,
-            48.10489697407395
-          ],
-          [
-            -1.743285382763632,
-            48.104871682841846
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.737983643794572,
-            48.10486980871626
-          ],
-          [
-            -1.738873448160354,
-            48.10488307652359
-          ],
-          [
-            -1.739811246937944,
-            48.10490060438941
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.74139592752955,
-            48.10482210784101
-          ],
-          [
-            -1.74075274985432,
-            48.10480937421968
-          ],
-          [
-            -1.740108994553319,
-            48.1047922166255
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.743285382763632,
-            48.104871682841846
-          ],
-          [
-            -1.743060946268556,
-            48.10486608588344
-          ],
-          [
-            -1.742008537465358,
-            48.104839837500414
-          ],
-          [
-            -1.74139592752955,
-            48.10482210784101
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.736352058813412,
-            48.104974528707395
-          ],
-          [
-            -1.73697540786054,
-            48.10491135665375
-          ],
-          [
-            -1.737483469712749,
-            48.10487601419356
-          ],
-          [
-            -1.737983643794572,
-            48.10486980871626
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.734787848064181,
-            48.10523800988369
-          ],
-          [
-            -1.735008974849795,
-            48.105166492172536
-          ],
-          [
-            -1.735411394906216,
-            48.105047445664816
-          ],
-          [
-            -1.735914080017659,
-            48.10493195203767
-          ],
-          [
-            -1.736309927634473,
-            48.10485722951462
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.739811246937944,
-            48.10490060438941
-          ],
-          [
-            -1.740107157986285,
-            48.104907377061274
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-11",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.740108994553319,
-            48.1047922166255
-          ],
-          [
-            -1.739806441183871,
-            48.10478415162242
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-12",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.739806441183871,
-            48.10478415162242
-          ],
-          [
-            -1.739085195796214,
-            48.104768448361995
-          ],
-          [
-            -1.738270047704295,
-            48.10475069504392
-          ],
-          [
-            -1.737573674732273,
-            48.10475139025764
-          ],
-          [
-            -1.737220900929989,
-            48.10476592733787
-          ],
-          [
-            -1.736905983610575,
-            48.104784826559296
-          ],
-          [
-            -1.736309927634473,
-            48.10485722951462
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-13",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.748621451889947,
-            48.10477997445598
-          ],
-          [
-            -1.748487215785203,
-            48.10482103159667
-          ],
-          [
-            -1.748326007451757,
-            48.10485419225141
-          ],
-          [
-            -1.748206928242055,
-            48.10487322577772
-          ],
-          [
-            -1.748057440600353,
-            48.104888905813546
-          ],
-          [
-            -1.747916762865429,
-            48.1049022059878
-          ],
-          [
-            -1.747778015484323,
-            48.10491312118677
-          ],
-          [
-            -1.747577138312153,
-            48.104917096005195
-          ],
-          [
-            -1.747398675485593,
-            48.1049169756144
-          ],
-          [
-            -1.747234486029158,
-            48.104913097191954
-          ],
-          [
-            -1.746926564773483,
-            48.104903343295845
-          ],
-          [
-            -1.746724630956469,
-            48.10489583666738
-          ],
-          [
-            -1.746184500113533,
-            48.10487665546702
-          ],
-          [
-            -1.74549257934194,
-            48.10485248876804
-          ],
-          [
-            -1.745016016501878,
-            48.10484148168998
-          ],
-          [
-            -1.744801194321727,
-            48.104842089325736
-          ],
-          [
-            -1.744448752250285,
-            48.10484011552849
-          ],
-          [
-            -1.744132943451104,
-            48.104834269787446
-          ],
-          [
-            -1.743810439816876,
-            48.10483223904872
-          ],
-          [
-            -1.743515468653422,
-            48.10482317173608
-          ],
-          [
-            -1.743152746456527,
-            48.10482052058091
-          ],
-          [
-            -1.743124240958487,
-            48.10481697657954
-          ],
-          [
-            -1.742830751324781,
-            48.104766549762296
-          ],
-          [
-            -1.742431392307987,
-            48.104752346946185
-          ],
-          [
-            -1.742300577257139,
-            48.10474712351073
-          ],
-          [
-            -1.742082055378723,
-            48.10472663926115
-          ],
-          [
-            -1.742015836023634,
-            48.10471521228696
-          ],
-          [
-            -1.741999395831837,
-            48.10470881030136
-          ],
-          [
-            -1.741982729726715,
-            48.104721665592116
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-14",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Lorient (RN24), section comprise entre la limite d'agglomération côté Ouest RN24  et la limite d'agglomération côté Est Rennes, sur la Commune de Vezin le Coquet",
-        "commune": "35240 - le Rheu, 35353 - Vezin-le-Coquet",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur voirie",
-        "date_heure": "2026-03-30T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.698520412637204,
-            48.08636117324124
-          ],
-          [
-            -1.698791440962682,
-            48.086152977947435
-          ],
-          [
-            -1.698534222155535,
-            48.08591287757624
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 32 au 36 Rue Frédéric Le Guyader dans les deux sens",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "d'installation de chantier de construction",
-        "date_heure": "2025-10-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.653925436404612,
-            48.12267524276497
-          ],
-          [
-            -1.651436436924502,
-            48.122247286946475
-          ],
-          [
-            -1.651328345348821,
-            48.12221984149714
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Victor et Ilona Basch, Rue Joseph Turmel",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654370995040515,
-            48.12120069908527
-          ],
-          [
-            -1.652615169890643,
-            48.121747458293044
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Victor et Ilona Basch, Rue Joseph Turmel",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.652615169890643,
-            48.121747458293044
-          ],
-          [
-            -1.651314244581672,
-            48.12215189565104
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Victor et Ilona Basch, Rue Joseph Turmel",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réaménagement de voirie",
-        "date_heure": "2026-07-06T00:00:00+00:00"
-      }
     }
   ],
   "metadata": {
-    "generated": "2026-08-18T08:35:52.028Z",
+    "generated": "2026-08-18T09:32:36.479Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 390,
+    "total_count": 388,
     "sources": {
       "grist_35": 91,
       "cd44": 21,
