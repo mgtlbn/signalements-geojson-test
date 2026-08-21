@@ -16623,7 +16623,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "18-08-2026 09:00:56 +0200"
+        "date_heure": "21-08-2026 12:58:49 +0200"
       }
     },
     {
@@ -16646,7 +16646,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
-        "date_heure": "18-08-2026 09:00:56 +0200"
+        "date_heure": "21-08-2026 12:58:49 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3742084343331853,
+          47.36009258601754
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D48 / Saint-Lyphard",
+        "commune": "Commune",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "21-08-2026 12:58:49 +0200"
       }
     },
     {
@@ -16877,29 +16900,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "07-08-2026 17:35:11 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.3742084343331853,
-          47.36009258601754
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D48 / Saint-Lyphard",
-        "commune": "Commune",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "03-08-2026 11:55:43 +0200"
       }
     },
     {
@@ -35352,7 +35352,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-21T10:29:39.727Z",
+    "generated": "2026-08-21T10:59:09.225Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 627,
     "sources": {
