@@ -16976,75 +16976,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1878699348533792,
-          47.391153235828874
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux- D923 / Ancenis",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "21-08-2026 12:58:49 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1878574619868747,
-          47.39113054230624
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D923 / Ancenis",
-        "commune": "Commune",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "21-08-2026 12:58:49 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.3742084343331853,
-          47.36009258601754
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D48 / Saint-Lyphard",
-        "commune": "Commune",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "21-08-2026 12:58:49 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3756513319272592,
           47.41094865289247
         ]
@@ -29577,12 +29508,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-23T21:46:03.494Z",
+    "generated": "2026-08-23T22:20:35.997Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 468,
+    "total_count": 465,
     "sources": {
       "grist_35": 90,
-      "cd44": 37,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
