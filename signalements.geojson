@@ -16608,6 +16608,98 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.0381183650767019,
+          47.400263998364295
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D28 / Loireauxence",
+        "commune": "Loireauxence / Vair-sur-Loire",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "24-08-2026 08:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0350788371691797,
+          47.38670955390413
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "24-08-2026 08:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.044240790469465,
+          47.41374950289394
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D28 / Loireauxence",
+        "commune": "Maumusson / Loireauxence",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "24-08-2026 08:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0350788371691797,
+          47.38670955390413
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux sur réseaux",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "24-08-2026 08:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.615716927162072,
           46.88339523703054
         ]
@@ -16640,7 +16732,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D753 / Legé",
-        "commune": "Commune",
+        "commune": "Corcoué-sur-Logne / Legé",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16686,7 +16778,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D323 / Oudon",
-        "commune": "Commune",
+        "commune": "Oudon / Couffé",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16755,7 +16847,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D13 / Machecoul-Saint-Même",
-        "commune": "Commune",
+        "commune": "Paulx / Machecoul-Saint-Même",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16801,7 +16893,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D37 / Le Landreau",
-        "commune": "Commune",
+        "commune": "Le Loroux-Bottereau / Le Landreau",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16847,7 +16939,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D86 / Saint-Viaud",
-        "commune": "Commune",
+        "commune": "Paimboeuf / Saint-Viaud",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16870,7 +16962,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D51 / Guérande",
-        "commune": "Commune",
+        "commune": "Saint-Lyphard / Guérande",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16916,7 +17008,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D263 / Corcoué-sur-Logne",
-        "commune": "Commune",
+        "commune": "Saint-Etienne / Corcoué",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16962,7 +17054,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D772 / Rougé",
-        "commune": "Commune",
+        "commune": "Ruffigné / Rougé",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17008,7 +17100,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D9 / Mouzeil",
-        "commune": "Commune",
+        "commune": "Mouzeil / Ligné",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17031,7 +17123,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Commune",
+        "commune": "Ligné vers Le Cellier",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17054,7 +17146,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Commune",
+        "commune": "Le Cellier vers Ligné",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17100,105 +17192,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Vair-sur-Loire",
-        "commune": "Commune",
+        "commune": "Vair-sur-Loire / La Roche-Blanche",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "07-08-2026 17:36:23 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0350788371691797,
-          47.38670955390413
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "07-08-2026 17:35:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.044240790469465,
-          47.41374950289394
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D28 / Loireauxence",
-        "commune": "Commune",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "07-08-2026 17:35:54 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0350788371691797,
-          47.38670955390413
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "07-08-2026 17:35:14 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0381183650767019,
-          47.400263998364295
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D28 / Loireauxence",
-        "commune": "Commune",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "07-08-2026 17:35:11 +0200"
       }
     },
     {
@@ -17215,7 +17215,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Commune",
+        "commune": "Corcoué-sur-Logne / Legé",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17261,7 +17261,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Couffé",
-        "commune": "Commune",
+        "commune": "Mésanger / Couffé",
         "type_coupure": "Manifestation sportive",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17284,7 +17284,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D31 / Saint-Mars-du-Désert",
-        "commune": "Commune",
+        "commune": "St-Mars-du-Désert / Mauves/Loire",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17307,7 +17307,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D17 / Cordemais",
-        "commune": "Commune",
+        "commune": "Cordemais / St-Etienne-de-Montluc",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17330,7 +17330,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Commune",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -17353,7 +17353,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Bouaye vers Bouguenais",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -17376,7 +17376,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -29508,7 +29508,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-24T05:37:25.876Z",
+    "generated": "2026-08-24T06:57:15.542Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 465,
     "sources": {
