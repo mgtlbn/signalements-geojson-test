@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3654399393542356,
+          47.18277935069071
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D135 / La Chapelle-Heulin",
+        "commune": "La Chapelle-Heulin / Haute-Goulaine",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "26-08-2026 16:46:44 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1868983856634412,
+          47.03808920880738
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D60 / Boussay",
+        "commune": "Boussay / Gétigné",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "26-08-2026 16:46:34 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.4694262196072714,
           47.760673648454286
         ]
@@ -32105,12 +32151,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-26T14:10:50.399Z",
+    "generated": "2026-08-26T15:59:04.018Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 568,
+    "total_count": 570,
     "sources": {
       "grist_35": 89,
-      "cd44": 41,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
