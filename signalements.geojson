@@ -16708,75 +16708,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Commune",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "27-08-2026 21:30:49 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4751192785961633,
-          47.764726499794754
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur ouvrage d'art / D244",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "27-08-2026 16:43:44 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.4694262196072714,
-          47.760673648454286
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D772 / Rougé",
-        "commune": "Commune",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "27-08-2026 16:43:44 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.815084336208852,
           47.057391003098644
         ]
@@ -30006,12 +29937,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-08-30T21:23:51.367Z",
+    "generated": "2026-08-30T23:42:19.744Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 495,
+    "total_count": 492,
     "sources": {
       "grist_35": 89,
-      "cd44": 56,
+      "cd44": 53,
       "rennes_metropole": 100
     }
   }
