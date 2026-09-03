@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.535953410381744,
+          47.11445911488877
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Pont-Saint-Martin",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "03-09-2026 17:11:07 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1766350799348295,
           47.29377674482418
         ]
@@ -17045,29 +17068,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
-        "date_heure": "24-08-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0350788371691797,
-          47.38670955390413
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
         "date_heure": "24-08-2026 08:00:56 +0200"
       }
     },
@@ -32241,7 +32241,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-03T11:31:39.965Z",
+    "generated": "2026-09-03T15:54:02.896Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 522,
     "sources": {
