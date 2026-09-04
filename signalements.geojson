@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6329437639188102,
+          47.16351770202352
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D723 / Bouguenais",
+        "commune": "Bouaye / Bouguenais",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "04-09-2026 16:52:06 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.535953410381744,
+          47.11445911488877
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Pont-Saint-Martin",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "04-09-2026 16:51:53 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7534205040926696,
           47.20451320069573
         ]
@@ -17091,29 +17137,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux sur réseaux",
-        "date_heure": "24-08-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0350788371691797,
-          47.38670955390413
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
         "date_heure": "24-08-2026 08:00:56 +0200"
       }
     },
@@ -30765,12 +30788,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-04T12:50:54.954Z",
+    "generated": "2026-09-04T16:44:57.417Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 482,
+    "total_count": 483,
     "sources": {
       "grist_35": 89,
-      "cd44": 54,
+      "cd44": 55,
       "rennes_metropole": 100
     }
   }
