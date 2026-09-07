@@ -16547,52 +16547,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3620181072152917,
-          47.6922008447844
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D41 / Erbray",
-        "commune": "Châteaubriant / Erbray",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "07-09-2026 13:43:45 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.382907993532015,
-          47.706322632598194
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D771 / Châteaubriant",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "07-09-2026 13:43:45 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.0837515063381788,
           47.58268273815511
         ]
@@ -27809,12 +27763,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-07T20:42:31.574Z",
+    "generated": "2026-09-07T23:17:51.566Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 412,
+    "total_count": 410,
     "sources": {
       "grist_35": 89,
-      "cd44": 51,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
