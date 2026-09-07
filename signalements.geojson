@@ -16639,29 +16639,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.327953750926424,
-          47.28876213605255
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de St Nazaire",
-        "commune": "St Brévin / St Nazaire",
-        "type_coupure": "VL en panne",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Véhicule en panne",
-        "date_heure": "04-09-2026 08:02:28 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.245109176322205,
           47.52579170943376
         ]
@@ -27832,12 +27809,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-07T11:44:12.822Z",
+    "generated": "2026-09-07T17:21:56.823Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 413,
+    "total_count": 412,
     "sources": {
       "grist_35": 89,
-      "cd44": 52,
+      "cd44": 51,
       "rennes_metropole": 100
     }
   }
