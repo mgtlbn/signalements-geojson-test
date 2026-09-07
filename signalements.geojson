@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.395796085698658,
+          47.34890211811484
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D51 / Guérande",
+        "commune": "Saint-Lyphard / Guérande",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "07-09-2026 07:30:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3656306842401704,
           47.182827066401856
         ]
@@ -17345,29 +17368,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "21-08-2026 13:07:13 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.395796085698658,
-          47.34890211811484
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D51 / Guérande",
-        "commune": "Saint-Lyphard / Guérande",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "21-08-2026 13:00:19 +0200"
       }
     },
     {
@@ -33588,7 +33588,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-07T00:43:13.681Z",
+    "generated": "2026-09-07T05:43:40.260Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 585,
     "sources": {
