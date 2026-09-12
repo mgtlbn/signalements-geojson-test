@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3056089658682506,
+          47.21268558785932
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Le Landreau",
+        "commune": "Le Loroux-Bottereau / Le Landreau",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "13-09-2026 00:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3054969042403783,
+          47.204441090638994
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D307 / Le Landreau",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "13-09-2026 00:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -16540,75 +16586,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "11-09-2026 05:41:51 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0283343978011856,
-          47.46788646988751
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D723 / Vair-sur-Loire",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "11-09-2026 05:41:29 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1470907934606076,
-          47.48652828211911
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D18 / Pannecé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "11-09-2026 05:41:29 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2395740061704403,
-          47.485425816830244
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Pannecé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "11-09-2026 05:41:29 +0200"
       }
     },
     {
@@ -17023,52 +17000,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "10-09-2026 06:43:28 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0095811296880526,
-          47.27466931426823
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D98 / Saint-Père-en-Retz",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-09-2026 06:40:30 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0098068264047377,
-          47.27218319697692
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D86 / Saint-Viaud",
-        "commune": "Paimboeuf / Saint-Viaud",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "10-09-2026 06:40:30 +0200"
       }
     },
     {
@@ -17690,52 +17621,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "21-08-2026 13:08:05 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3054969042403783,
-          47.204441090638994
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D307 / Le Landreau",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "21-08-2026 13:07:36 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3056089658682506,
-          47.21268558785932
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Le Landreau",
-        "commune": "Le Loroux-Bottereau / Le Landreau",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "21-08-2026 13:07:33 +0200"
       }
     },
     {
@@ -31381,12 +31266,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-12T20:47:38.330Z",
+    "generated": "2026-09-12T22:51:31.086Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 498,
+    "total_count": 493,
     "sources": {
       "grist_35": 89,
-      "cd44": 66,
+      "cd44": 61,
       "rennes_metropole": 100
     }
   }
