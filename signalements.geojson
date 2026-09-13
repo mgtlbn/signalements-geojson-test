@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5460996322949458,
+          47.61075262259474
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D771 / Treffieux",
+        "commune": "Nozay / Treffieux",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "13-09-2026 15:57:26 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3056089658682506,
           47.21268558785932
         ]
@@ -29801,12 +29824,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-13T11:12:05.347Z",
+    "generated": "2026-09-13T14:58:46.275Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 458,
+    "total_count": 459,
     "sources": {
       "grist_35": 89,
-      "cd44": 60,
+      "cd44": 61,
       "rennes_metropole": 100
     }
   }
