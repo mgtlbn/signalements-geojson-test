@@ -16501,52 +16501,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3756513319272592,
-          47.41094865289247
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux de réfection de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "14-09-2026 11:47:37 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3343887460986776,
-          47.43018444457572
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D9 / Mouzeil",
-        "commune": "Mouzeil / Ligné",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "14-09-2026 11:47:37 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5679906815024554,
           47.063152450447085
         ]
@@ -16616,75 +16570,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.245109176322205,
-          47.52579170943376
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Bonnoeuvre",
-        "commune": "Bonnoeuvre / Riaillé",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "14-09-2026 08:19:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2914258407858576,
-          47.516084773412516
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Aménagement de chaussée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "14-09-2026 08:19:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.238571516698477,
-          47.52772057135582
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D26 / Saint-Sulpice-des-Landes",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "14-09-2026 08:19:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3054969042403783,
           47.204441090638994
         ]
@@ -16724,29 +16609,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "14-09-2026 08:17:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.395796085698658,
-          47.34890211811484
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D51 / Guérande",
-        "commune": "Saint-Lyphard / Guérande",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "14-09-2026 08:12:54 +0200"
       }
     },
     {
@@ -16800,29 +16662,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1766350799348295,
-          47.29377674482418
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "11-09-2026 11:14:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3777145183175077,
           47.28674452242831
         ]
@@ -16839,29 +16678,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "11-09-2026 05:41:51 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1791981794712252,
-          47.461248846626795
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D923 / Pouillé-les-Côteaux",
-        "commune": "Maumusson / Pouillé-les-Côteaux",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "11-09-2026 05:41:29 +0200"
       }
     },
     {
@@ -29857,12 +29673,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-14T19:03:03.230Z",
+    "generated": "2026-09-14T22:38:32.088Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 474,
+    "total_count": 466,
     "sources": {
       "grist_35": 89,
-      "cd44": 60,
+      "cd44": 52,
       "rennes_metropole": 100
     }
   }
