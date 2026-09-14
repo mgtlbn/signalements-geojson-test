@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7959150365480534,
+          46.989596073881486
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D13 / Machecoul-Saint-Même",
+        "commune": "Paulx / Machecoul-Saint-Même",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "14-09-2026 21:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7963679908834174,
+          46.98977631542837
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D64 / Machecoul",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "14-09-2026 21:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3756513319272592,
           47.41094865289247
         ]
@@ -17552,52 +17598,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "21-08-2026 13:08:28 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7963679908834174,
-          46.98977631542837
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D64 / Machecoul",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "21-08-2026 13:08:08 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7959150365480534,
-          46.989596073881486
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D13 / Machecoul-Saint-Même",
-        "commune": "Paulx / Machecoul-Saint-Même",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "21-08-2026 13:08:05 +0200"
       }
     },
     {
@@ -29857,7 +29857,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-14T13:41:22.730Z",
+    "generated": "2026-09-14T19:03:03.230Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 474,
     "sources": {
