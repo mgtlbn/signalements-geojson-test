@@ -16708,52 +16708,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3054969042403783,
-          47.204441090638994
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D307 / Le Landreau",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "14-09-2026 08:17:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3056089658682506,
-          47.21268558785932
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Le Landreau",
-        "commune": "Le Loroux-Bottereau / Le Landreau",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "14-09-2026 08:17:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3777145183175077,
           47.28674452242831
         ]
@@ -28442,12 +28396,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-16T20:22:56.736Z",
+    "generated": "2026-09-16T23:09:42.340Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 415,
+    "total_count": 413,
     "sources": {
       "grist_35": 89,
-      "cd44": 52,
+      "cd44": 50,
       "rennes_metropole": 100
     }
   }
