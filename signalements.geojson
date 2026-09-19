@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Brume",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Brume",
+        "date_heure": "19-09-2026 12:58:59 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3777145183175077,
           47.28674452242831
         ]
@@ -32865,12 +32888,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-19T08:15:05.081Z",
+    "generated": "2026-09-19T12:37:27.123Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 536,
+    "total_count": 537,
     "sources": {
       "grist_35": 89,
-      "cd44": 57,
+      "cd44": 58,
       "rennes_metropole": 100
     }
   }
