@@ -16455,22 +16455,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7534205040926696,
-          47.20451320069573
+          -1.3654399393542356,
+          47.18277935069071
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Brume",
-        "cause": "Bacs de Loire",
+        "route": "D135 / La Chapelle-Heulin",
+        "commune": "La Chapelle-Heulin / Haute-Goulaine",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Risque d'arrêt cause Brume",
-        "date_heure": "19-09-2026 12:58:59 +0200"
+        "description": "Autres",
+        "date_heure": "20-09-2026 08:00:56 +0200"
       }
     },
     {
@@ -16493,7 +16493,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Autres",
-        "date_heure": "19-09-2026 08:00:56 +0200"
+        "date_heure": "20-09-2026 07:40:30 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Brume",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Risque d'arrêt cause Brume",
+        "date_heure": "19-09-2026 12:58:59 +0200"
       }
     },
     {
@@ -17322,29 +17345,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "27-08-2026 15:36:35 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3654399393542356,
-          47.18277935069071
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D135 / La Chapelle-Heulin",
-        "commune": "La Chapelle-Heulin / Haute-Goulaine",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "26-08-2026 16:46:44 +0200"
       }
     },
     {
@@ -32865,7 +32865,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-20T01:24:13.315Z",
+    "generated": "2026-09-20T06:42:34.876Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 536,
     "sources": {
