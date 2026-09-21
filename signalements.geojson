@@ -16869,75 +16869,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0350788371691797,
-          47.38670955390413
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "18-09-2026 17:05:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.044240790469465,
-          47.41374950289394
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D28 / Loireauxence",
-        "commune": "Maumusson / Loireauxence",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "18-09-2026 17:05:48 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1868983856634412,
-          47.03808920880738
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D60 / Boussay",
-        "commune": "Boussay / Gétigné",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "18-09-2026 16:33:34 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.342829522930231,
           47.3246331926598
         ]
@@ -16984,52 +16915,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.4045149053092156,
-          47.36088632694511
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D31 / Saint-Mars-du-Désert",
-        "commune": "St-Mars-du-Désert / Mauves/Loire",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "18-09-2026 15:39:10 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Autre",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause travaux",
-        "date_heure": "18-09-2026 10:41:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.290785744162547,
           47.513965131612565
         ]
@@ -17046,52 +16931,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "18-09-2026 08:37:09 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7963679908834174,
-          46.98977631542837
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D64 / Machecoul",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "18-09-2026 07:59:41 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7959150365480534,
-          46.989596073881486
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D13 / Machecoul-Saint-Même",
-        "commune": "Paulx / Machecoul-Saint-Même",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "18-09-2026 07:59:41 +0200"
       }
     },
     {
@@ -31435,12 +31274,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-21T19:05:26.189Z",
+    "generated": "2026-09-21T22:43:34.135Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 480,
+    "total_count": 473,
     "sources": {
       "grist_35": 89,
-      "cd44": 52,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
