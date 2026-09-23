@@ -16464,6 +16464,144 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "23-09-2026 17:56:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "23-09-2026 17:55:32 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7534205040926696,
+          47.20451320069573
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "23-09-2026 17:29:37 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5799364362634467,
+          46.961995714578926
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D263 / Corcoué-sur-Logne",
+        "commune": "Commune",
+        "type_coupure": "VL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "23-09-2026 17:22:15 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5894069238427486,
+          46.953685225471276
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Corcoué-sur-Logne",
+        "commune": "Corcoué-sur-Logne / Legé",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "23-09-2026 17:21:59 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5894069238427486,
+          46.953685225471276
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Corcoué-sur-Logne",
+        "commune": "Corcoué-sur-Logne / Legé",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "23-09-2026 15:53:01 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
         "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
@@ -16563,29 +16701,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "23-09-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "22-09-2026 17:40:57 +0200"
       }
     },
     {
@@ -17414,29 +17529,6 @@
         "statut": "Actif",
         "description": "Travaux sur réseaux",
         "date_heure": "07-08-2026 17:36:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5894069238427486,
-          46.953685225471276
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Corcoué-sur-Logne / Legé",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "24-07-2026 17:00:05 +0200"
       }
     },
     {
@@ -29273,12 +29365,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-23T12:55:22.978Z",
+    "generated": "2026-09-23T17:44:15.763Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 432,
+    "total_count": 436,
     "sources": {
       "grist_35": 89,
-      "cd44": 47,
+      "cd44": 51,
       "rennes_metropole": 100
     }
   }
