@@ -17076,52 +17076,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3654399393542356,
-          47.18277935069071
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D135 / La Chapelle-Heulin",
-        "commune": "La Chapelle-Heulin / Haute-Goulaine",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "20-09-2026 19:48:34 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3777145183175077,
-          47.28674452242831
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D53 / Divatte-sur-Loire",
-        "commune": "Mauves-sur-Loire / Divatte",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "20-09-2026 07:40:30 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.342829522930231,
           47.3246331926598
         ]
@@ -29365,12 +29319,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-23T21:10:11.212Z",
+    "generated": "2026-09-23T23:52:00.821Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 436,
+    "total_count": 434,
     "sources": {
       "grist_35": 89,
-      "cd44": 51,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
