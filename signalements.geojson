@@ -16455,6 +16455,581 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.8310107855950426,
+          47.62495178208208
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D775 / Avessac",
+        "commune": "Commune",
+        "type_coupure": "PL",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:05:04 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8332586088165785,
+          47.628047465674804
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D3 / Guémené-Penfao",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 16:04:48 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1886574727764938,
+          47.52398239563379
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D1878 / Saint-Mars-la-Jaille",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:03:53 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1752786855151787,
+          47.5250974928745
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D878 / Saint-Mars-la-Jaille",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 16:03:26 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1838198235028368,
+          47.520171553928975
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D228 / Maumusson",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:02:57 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.182484212225038,
+          47.520141389413794
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D28 / Saint-Mars-la-Jaille",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 16:02:39 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7490249381797691,
+          47.5202314455794
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D2 / Plessé",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:02:27 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7677984707346486,
+          47.55807375303382
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D42 / Le Gâvre",
+        "commune": "Commune",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "25-09-2026 16:02:14 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6163055649057914,
+          47.32776243657878
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D326 / Grandchamps-des-Fontaines",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:02:01 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6197016873439587,
+          47.335011152048814
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D26 / Grandchamps-des-Fontaines",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 16:01:42 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6053092353110736,
+          47.3734491147473
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D37 / Casson",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:01:21 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6140426566419628,
+          47.40490986519441
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D39 / Héric",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 16:01:00 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6780152749456032,
+          47.596017533749006
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D2 / Nozay",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:00:42 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6800050959555308,
+          47.595676031505405
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D44 / Marsac-sur-Don",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 16:00:15 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7012918003312525,
+          47.554590951702984
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D44 / Vay",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 16:00:02 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.678883951294091,
+          47.59602304417205
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D124 / Marsac-sur-Don",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 15:59:45 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9997961269466162,
+          47.5902995251203
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D2 / Plessé",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 15:59:27 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.898682382953556,
+          47.543159385932796
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D35 / Plessé",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 15:59:10 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9274570669390991,
+          47.53762387362874
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D46 / Avessac",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 15:58:55 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9534857547141038,
+          47.55360192023749
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D773 / Fégréac",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 15:58:37 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.006514927744457,
+          47.58927816384278
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D124 / Fégréac",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 15:58:22 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5549761486947178,
+          47.375727533407435
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Casson",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 15:58:06 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5596833325413988,
+          47.3858964839721
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D69 / Nort-sur-Erdre",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 15:57:49 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00515759634582,
+          47.58834860747511
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D773 / Fégréac",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "25-09-2026 15:57:29 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0058682446690246,
+          47.58883615979318
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D164 / Fégréac",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "25-09-2026 15:56:54 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6638857632355537,
           46.996689399698425
         ]
@@ -16464,7 +17039,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D87 / La Limouzinière",
-        "commune": "La Limouzinière / La Marne",
+        "commune": "Commune",
         "type_coupure": "Accident",
         "cause": "Accident",
         "priorite": "Moyenne",
@@ -16487,7 +17062,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D95 / Machecoul-Saint-Même",
-        "commune": "Sainte-Pazanne / Machecoul",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16556,7 +17131,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Corcoué-sur-Logne / Legé",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16579,7 +17154,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
+        "commune": "Commune",
         "type_coupure": "Ravitaillement",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -16602,7 +17177,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Ravitaillement",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -16648,7 +17223,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Corcoué-sur-Logne / Legé",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16671,7 +17246,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Autre",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -16694,7 +17269,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D14 / Riaillé",
-        "commune": "Riaillé / Teillé",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16717,7 +17292,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D323 / Oudon",
-        "commune": "Couffé / Oudon",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16763,7 +17338,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D25 / Mésanger",
-        "commune": "Mésanger / Mouzeil",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16855,7 +17430,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D95 / Sainte-Pazanne",
-        "commune": "Port-Saint-Père / Sainte-Pazanne",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16924,7 +17499,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D937 / Geneston",
-        "commune": "Saint-Colomban / Geneston",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16970,7 +17545,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D18 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / La Roche-Blanche",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17062,7 +17637,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Mésanger",
-        "commune": "Pannecé / Mésanger",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17108,7 +17683,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Le Cellier / Mauves-sur-Loire",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17154,7 +17729,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D86 / Saint-Viaud",
-        "commune": "Frossay / Saint-Viaud",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17200,7 +17775,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D164 / Ancenis",
-        "commune": "Mésanger / Ancenis",
+        "commune": "Commune",
         "type_coupure": "Entretien courant",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17246,7 +17821,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D6 / Chauvé",
-        "commune": "Chaumes-en-Retz / Chauvé",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17292,7 +17867,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D23 / Saint-Géréon",
-        "commune": "Saint-Géréon / Couffé",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17338,7 +17913,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D39 / Héric",
-        "commune": "Saffré / Héric",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17361,7 +17936,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D32 / Vritz",
-        "commune": "Vritz / Le Pin",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17430,7 +18005,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D753 / Legé",
-        "commune": "Corcoué-sur-Logne / Legé",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17453,7 +18028,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Ligné vers Le Cellier",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17476,7 +18051,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D68 / Le Cellier",
-        "commune": "Le Cellier vers Ligné",
+        "commune": "Commune",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17499,7 +18074,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D17 / Cordemais",
-        "commune": "Cordemais / St-Etienne-de-Montluc",
+        "commune": "Commune",
         "type_coupure": "Réfection de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17522,7 +18097,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -17545,7 +18120,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -17568,7 +18143,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -31124,12 +31699,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-25T11:18:15.459Z",
+    "generated": "2026-09-25T15:52:57.873Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 499,
+    "total_count": 524,
     "sources": {
       "grist_35": 89,
-      "cd44": 49,
+      "cd44": 74,
       "rennes_metropole": 100
     }
   }
