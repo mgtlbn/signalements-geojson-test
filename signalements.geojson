@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6638857632355537,
+          46.996689399698425
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D87 / La Limouzinière",
+        "commune": "La Limouzinière / La Marne",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "25-09-2026 07:48:53 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8152770777615193,
           47.03954833274025
         ]
@@ -32999,12 +33022,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-25T00:40:19.913Z",
+    "generated": "2026-09-25T05:53:46.142Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 528,
+    "total_count": 529,
     "sources": {
       "grist_35": 89,
-      "cd44": 48,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
