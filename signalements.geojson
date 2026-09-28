@@ -16455,22 +16455,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.535953410381744,
-          47.11445911488877
+          -1.6743617405076974,
+          47.19644470749437
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
-        "type_coupure": "Bouchon",
-        "cause": "Bouchon",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Bouchon",
-        "date_heure": "28-09-2026 17:50:21 +0200"
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "28-09-2026 21:30:23 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2105652686489694,
+          47.37996026794174
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D21 / Couffé",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "28-09-2026 20:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2136974594458318,
+          47.36849551507903
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D23 / Saint-Géréon",
+        "commune": "Saint-Géréon / Couffé",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "28-09-2026 20:00:56 +0200"
       }
     },
     {
@@ -17099,75 +17145,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6638857632355537,
-          46.996689399698425
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D87 / La Limouzinière",
-        "commune": "La Limouzinière / La Marne",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "25-09-2026 09:59:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8152770777615193,
-          47.03954833274025
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D95 / Machecoul-Saint-Même",
-        "commune": "Sainte-Pazanne / Machecoul",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "24-09-2026 16:22:37 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.815084336208852,
-          47.057391003098644
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux de réfection de chaussée -",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "24-09-2026 16:22:37 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5766150620845243,
           46.96375876704008
         ]
@@ -17230,29 +17207,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Ravitaillement",
         "date_heure": "23-09-2026 17:56:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "23-09-2026 17:55:32 +0200"
       }
     },
     {
@@ -17874,52 +17828,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "10-09-2026 06:46:14 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2105652686489694,
-          47.37996026794174
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D21 / Couffé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-09-2026 06:45:46 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2136974594458318,
-          47.36849551507903
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D23 / Saint-Géréon",
-        "commune": "Saint-Géréon / Couffé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "10-09-2026 06:45:42 +0200"
       }
     },
     {
@@ -33121,12 +33029,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-28T16:54:02.861Z",
+    "generated": "2026-09-28T22:25:03.155Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 560,
+    "total_count": 556,
     "sources": {
       "grist_35": 89,
-      "cd44": 75,
+      "cd44": 71,
       "rennes_metropole": 100
     }
   }
