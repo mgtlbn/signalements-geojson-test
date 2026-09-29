@@ -16777,29 +16777,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Autre",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Evénement Sportif",
-        "date_heure": "26-09-2026 10:44:52 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6053092353110736,
           47.3734491147473
         ]
@@ -29516,12 +29493,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-09-29T20:07:55.310Z",
+    "generated": "2026-09-29T23:53:00.472Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 457,
+    "total_count": 456,
     "sources": {
       "grist_35": 89,
-      "cd44": 62,
+      "cd44": 61,
       "rennes_metropole": 100
     }
   }
