@@ -16455,6 +16455,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.535953410381744,
+          47.11445911488877
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D178 / Pont-Saint-Martin",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "type_coupure": "Bouchon",
+        "cause": "Bouchon",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Bouchon",
+        "date_heure": "02-10-2026 16:45:02 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2105652686489694,
+          47.37996026794174
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D21 / Couffé",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "02-10-2026 14:23:22 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2136974594458318,
+          47.36849551507903
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D23 / Saint-Géréon",
+        "commune": "Saint-Géréon / Couffé",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "02-10-2026 14:23:22 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8143664141618614,
           47.28709623865569
         ]
@@ -16793,52 +16862,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "30-09-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2105652686489694,
-          47.37996026794174
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D21 / Couffé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "28-09-2026 20:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2136974594458318,
-          47.36849551507903
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D23 / Saint-Géréon",
-        "commune": "Saint-Géréon / Couffé",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "28-09-2026 20:00:56 +0200"
       }
     },
     {
@@ -30875,12 +30898,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-02T10:39:34.397Z",
+    "generated": "2026-10-02T16:30:48.611Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 494,
+    "total_count": 495,
     "sources": {
       "grist_35": 89,
-      "cd44": 65,
+      "cd44": 66,
       "rennes_metropole": 100
     }
   }
