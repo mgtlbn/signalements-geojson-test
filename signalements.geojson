@@ -16892,75 +16892,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8143664141618614,
-          47.28709623865569
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D17 / Cordemais",
-        "commune": "Cordemais / St-Etienne-de-Montluc",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "01-10-2026 15:00:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7490249381797691,
-          47.5202314455794
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D2 / Plessé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "01-10-2026 15:00:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7677984707346486,
-          47.55807375303382
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D42 / Le Gâvre",
-        "commune": "Guémené-Penfao / Le Gâvre",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "01-10-2026 15:00:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2436978910135597,
           47.237030468998086
         ]
@@ -17046,29 +16977,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "01-10-2026 14:59:05 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "01-10-2026 14:36:56 +0200"
       }
     },
     {
@@ -30921,12 +30829,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-03T19:01:45.497Z",
+    "generated": "2026-10-03T22:18:43.840Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 496,
+    "total_count": 492,
     "sources": {
       "grist_35": 89,
-      "cd44": 67,
+      "cd44": 63,
       "rennes_metropole": 100
     }
   }
