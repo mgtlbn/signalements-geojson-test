@@ -16961,29 +16961,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2436978910135597,
-          47.237030468998086
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D108 / La Remaudière",
-        "commune": "Commune",
-        "type_coupure": "Chaussée glissante",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Chaussée glissante",
-        "date_heure": "01-10-2026 15:00:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2229721507892646,
           47.14187706800004
         ]
@@ -31214,12 +31191,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-04T21:14:31.386Z",
+    "generated": "2026-10-05T00:04:03.418Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 493,
+    "total_count": 492,
     "sources": {
       "grist_35": 89,
-      "cd44": 65,
+      "cd44": 64,
       "rennes_metropole": 100
     }
   }
