@@ -16470,7 +16470,53 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
-        "date_heure": "06-10-2026 10:59:17 +0200"
+        "date_heure": "06-10-2026 17:36:26 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.882551014970783,
+          47.32798187194317
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "PN en panne / D90 / Bouée",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "06-10-2026 16:47:04 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8928154781761206,
+          47.32465761352483
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D90 / Bouée",
+        "commune": "Malville / Bouée",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "06-10-2026 16:47:04 +0200"
       }
     },
     {
@@ -16747,52 +16793,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "05-10-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.882551014970783,
-          47.32798187194317
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "PN en panne / D90 / Bouée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "04-10-2026 13:12:15 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8928154781761206,
-          47.32465761352483
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D90 / Bouée",
-        "commune": "Malville / Bouée",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "04-10-2026 13:12:12 +0200"
       }
     },
     {
@@ -31172,7 +31172,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-06T09:13:31.285Z",
+    "generated": "2026-10-06T16:07:21.198Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 489,
     "sources": {
