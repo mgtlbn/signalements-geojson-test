@@ -16846,29 +16846,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3513692235923827,
-          47.34125969757644
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D68 / Le Cellier",
-        "commune": "Le Cellier vers Ligné",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "03-10-2026 17:09:37 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.1200426914207546,
           47.417155179760336
         ]
@@ -31172,12 +31149,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-06T21:06:39.578Z",
+    "generated": "2026-10-07T00:54:30.984Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 489,
+    "total_count": 488,
     "sources": {
       "grist_35": 89,
-      "cd44": 50,
+      "cd44": 49,
       "rennes_metropole": 100
     }
   }
