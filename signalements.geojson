@@ -16708,29 +16708,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1623766927722596,
-          47.26940924115929
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Pont de Saint Nazaire",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "05-10-2026 18:19:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0152318969109495,
           47.18917378148069
         ]
@@ -30752,12 +30729,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-08T19:40:53.842Z",
+    "generated": "2026-10-09T00:09:21.636Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 467,
+    "total_count": 466,
     "sources": {
       "grist_35": 89,
-      "cd44": 49,
+      "cd44": 48,
       "rennes_metropole": 100
     }
   }
