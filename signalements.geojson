@@ -16478,52 +16478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3494646345109766,
-          47.340062471274976
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D68 / Le Cellier",
-        "commune": "Ligné vers Le Cellier",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "07-10-2026 05:47:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0358499494784528,
-          47.39060566322516
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D28 / Loireauxence",
-        "commune": "Loireauxence / Vair-sur-Loire",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "07-10-2026 05:47:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.8152309140250205,
           47.057127054842624
         ]
@@ -16540,29 +16494,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "06-10-2026 21:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "St-Brevin vers Saint-Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "06-10-2026 17:36:26 +0200"
       }
     },
     {
@@ -27062,12 +26993,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-09T19:17:04.253Z",
+    "generated": "2026-10-09T23:24:12.341Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 407,
+    "total_count": 404,
     "sources": {
       "grist_35": 89,
-      "cd44": 48,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
