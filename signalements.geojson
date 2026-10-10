@@ -16662,75 +16662,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.162196258990624,
-          47.26880052912811
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "08-10-2026 07:00:00 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.882551014970783,
-          47.32798187194317
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "PN en panne / D90 / Bouée",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "06-10-2026 16:47:04 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8928154781761206,
-          47.32465761352483
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D90 / Bouée",
-        "commune": "Malville / Bouée",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "06-10-2026 16:47:04 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.615716927162072,
           46.88339523703054
         ]
@@ -28443,12 +28374,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-10T19:49:41.998Z",
+    "generated": "2026-10-10T23:16:59.501Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 438,
+    "total_count": 435,
     "sources": {
       "grist_35": 89,
-      "cd44": 45,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
