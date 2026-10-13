@@ -16685,121 +16685,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0949236580970472,
-          47.40718844327185
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur réseaux",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-10-2026 10:11:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.107805713136486,
-          47.413484865929895
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / Vair-sur-Loire",
-        "commune": "Vair-sur-Loire / La Roche-Blanche",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "10-10-2026 10:11:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2314111796886826,
-          47.43216910301201
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux t / D164 / Couffé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-10-2026 10:10:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2007986947285076,
-          47.38916130795663
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D164 / Ancenis",
-        "commune": "Mésanger / Ancenis",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "10-10-2026 10:10:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.8152309140250205,
-          47.057127054842624
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D95 / Sainte-Pazanne",
-        "commune": "Ste-Pazanne / Machecoul-Saint-Même",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "10-10-2026 10:09:53 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.615716927162072,
           46.88339523703054
         ]
@@ -30567,12 +30452,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-12T21:34:41.940Z",
+    "generated": "2026-10-13T02:51:05.202Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 478,
+    "total_count": 473,
     "sources": {
       "grist_35": 89,
-      "cd44": 43,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
