@@ -16470,6 +16470,29 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux d'entretien courant",
+        "date_heure": "14-10-2026 06:16:16 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1766350799348295,
+          47.29377674482418
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Nazaire",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
         "date_heure": "13-10-2026 16:48:54 +0200"
       }
     },
@@ -29133,12 +29156,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-14T01:19:17.310Z",
+    "generated": "2026-10-14T06:30:24.340Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 444,
+    "total_count": 445,
     "sources": {
       "grist_35": 89,
-      "cd44": 39,
+      "cd44": 40,
       "rennes_metropole": 100
     }
   }
