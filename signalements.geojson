@@ -16984,52 +16984,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6800050959555308,
-          47.595676031505405
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D44 / Marsac-sur-Don",
-        "commune": "Marsac-sur-Don / Vay",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "15-10-2026 08:03:29 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6780152749456032,
-          47.596017533749006
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D2 / Nozay",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "15-10-2026 08:03:29 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.1766350799348295,
           47.29377674482418
         ]
@@ -29817,12 +29771,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-17T21:36:12.656Z",
+    "generated": "2026-10-17T23:47:07.755Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 476,
+    "total_count": 474,
     "sources": {
       "grist_35": 89,
-      "cd44": 45,
+      "cd44": 43,
       "rennes_metropole": 100
     }
   }
