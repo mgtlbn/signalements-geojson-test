@@ -16470,7 +16470,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Autres",
-        "date_heure": "17-10-2026 20:00:56 +0200"
+        "date_heure": "18-10-2026 18:35:34 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0179454687278646,
+          47.28319532730366
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux / D98 / Saint-Viaud",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "18-10-2026 18:32:33 +0200"
       }
     },
     {
@@ -16977,52 +17000,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "16-10-2026 08:05:46 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1766350799348295,
-          47.29377674482418
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Nazaire",
-        "commune": "Saint-Brevin vers Saint-Nazaire",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "14-10-2026 09:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0179454687278646,
-          47.28319532730366
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux / D98 / Saint-Viaud",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "12-10-2026 20:30:56 +0200"
       }
     },
     {
@@ -28113,12 +28090,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-18T16:22:42.758Z",
+    "generated": "2026-10-18T18:47:13.685Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 424,
+    "total_count": 423,
     "sources": {
       "grist_35": 89,
-      "cd44": 43,
+      "cd44": 42,
       "rennes_metropole": 100
     }
   }
