@@ -16455,6 +16455,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.171656736314873,
+          47.28643868250721
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "19-10-2026 18:20:39 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1784591914895355,
+          47.2981180521444
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de Saint Nazaire",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "19-10-2026 14:05:16 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1784591914895355,
+          47.2981180521444
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de Saint Nazaire",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "19-10-2026 13:59:34 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -27679,12 +27748,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-19T09:38:15.942Z",
+    "generated": "2026-10-19T16:48:46.323Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 420,
+    "total_count": 423,
     "sources": {
       "grist_35": 89,
-      "cd44": 42,
+      "cd44": 45,
       "rennes_metropole": 100
     }
   }
