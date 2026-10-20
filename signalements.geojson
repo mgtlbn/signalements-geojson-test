@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1828651078775683,
+          47.304101968645895
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D971 / Montoir-de-Bretagne",
+        "commune": "Montoir-de-Bretagne / Saint-Nazaire",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "20-10-2026 20:30:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.181418925411808,
+          47.305126458700244
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D971 / Saint-Nazaire",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "20-10-2026 20:30:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1784591914895355,
           47.2981180521444
         ]
@@ -16816,52 +16862,6 @@
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
         "date_heure": "16-10-2026 09:04:25 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.181418925411808,
-          47.305126458700244
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D971 / Saint-Nazaire",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "16-10-2026 09:04:00 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1828651078775683,
-          47.304101968645895
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D971 / Montoir-de-Bretagne",
-        "commune": "Montoir-de-Bretagne / Saint-Nazaire",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "16-10-2026 09:03:39 +0200"
       }
     },
     {
@@ -18826,6 +18826,151 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.678433163135208,
+            48.03956797041254
+          ],
+          [
+            -1.67847770778332,
+            48.03956173212445
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "7 Rue Lavoisier 14 rue des potiers, rue de saint Erblon,rond point de la petite Saudrais et rue de Rennes",
+        "commune": "35206 - Noyal-Châtillon-sur-Seiche",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "scellement et montage de mobiliers urbains publicitaire et d'information",
+        "date_heure": "2026-09-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.66750321498227,
+            48.09361603512973
+          ],
+          [
+            -1.667332502114348,
+            48.093677107264796
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 34 au 44 Boulevard Emile Combes",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-09-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.667332502114348,
+            48.093677107264796
+          ],
+          [
+            -1.666601152316299,
+            48.09395603789088
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 34 au 44 Boulevard Emile Combes",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-09-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666601152316299,
+            48.09395603789088
+          ],
+          [
+            -1.666227167114536,
+            48.09410178756006
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 34 au 44 Boulevard Emile Combes",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-09-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666227167114536,
+            48.09410178756006
+          ],
+          [
+            -1.666169921682585,
+            48.09412351165071
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 34 au 44 Boulevard Emile Combes",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de gaz",
+        "date_heure": "2026-09-28T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.673399545305475,
             47.9931199437873
           ],
@@ -18847,6 +18992,35 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages électriques",
         "date_heure": "2026-10-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.682883463615108,
+            48.11207986030957
+          ],
+          [
+            -1.682869376514958,
+            48.11213351127665
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "4 Rue Saint-Guillaume",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de refection de couverture",
+        "date_heure": "2026-10-08T00:00:00+00:00"
       }
     },
     {
@@ -19710,6 +19884,35 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.672152353740931,
+            48.11977496720832
+          ],
+          [
+            -1.672158583678846,
+            48.11972907045319
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Rue du Bois Rondel et de la Rue Brizeux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-14T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.696047999011076,
             48.077753317522884
           ],
@@ -20525,6 +20728,35 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.65752945215725,
+            48.12752700125644
+          ],
+          [
+            -1.655647712136155,
+            48.127561436190874
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue d'Exeter",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de couverture",
+        "date_heure": "2026-09-28T00:00:00+00:00"
       }
     },
     {
@@ -25164,238 +25396,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.678433163135208,
-            48.03956797041254
-          ],
-          [
-            -1.67847770778332,
-            48.03956173212445
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "7 Rue Lavoisier 14 rue des potiers, rue de saint Erblon,rond point de la petite Saudrais et rue de Rennes",
-        "commune": "35206 - Noyal-Châtillon-sur-Seiche",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "scellement et montage de mobiliers urbains publicitaire et d'information",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.66750321498227,
-            48.09361603512973
-          ],
-          [
-            -1.667332502114348,
-            48.093677107264796
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 34 au 44 Boulevard Emile Combes",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.667332502114348,
-            48.093677107264796
-          ],
-          [
-            -1.666601152316299,
-            48.09395603789088
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 34 au 44 Boulevard Emile Combes",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666601152316299,
-            48.09395603789088
-          ],
-          [
-            -1.666227167114536,
-            48.09410178756006
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 34 au 44 Boulevard Emile Combes",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.666227167114536,
-            48.09410178756006
-          ],
-          [
-            -1.666169921682585,
-            48.09412351165071
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 34 au 44 Boulevard Emile Combes",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de gaz",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.682883463615108,
-            48.11207986030957
-          ],
-          [
-            -1.682869376514958,
-            48.11213351127665
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "4 Rue Saint-Guillaume",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de refection de couverture",
-        "date_heure": "2026-10-08T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.672152353740931,
-            48.11977496720832
-          ],
-          [
-            -1.672158583678846,
-            48.11972907045319
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Rue du Bois Rondel et de la Rue Brizeux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-14T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.65752945215725,
-            48.12752700125644
-          ],
-          [
-            -1.655647712136155,
-            48.127561436190874
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue d'Exeter",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de couverture",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.586819443871327,
             48.15982855305644
           ],
@@ -27224,7 +27224,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-20T15:36:45.863Z",
+    "generated": "2026-10-20T19:50:43.260Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 401,
     "sources": {
