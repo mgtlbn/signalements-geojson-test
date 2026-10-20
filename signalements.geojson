@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1784591914895355,
+          47.2981180521444
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de Saint Nazaire",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "20-10-2026 22:00:56 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1828651078775683,
           47.304101968645895
         ]
@@ -16517,29 +16540,6 @@
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
         "date_heure": "19-10-2026 14:05:16 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1784591914895355,
-          47.2981180521444
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "19-10-2026 13:59:34 +0200"
       }
     },
     {
@@ -16655,29 +16655,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "19-10-2026 08:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.341753286525298,
-          47.327200206431606
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D68 / Le Cellier",
-        "commune": "Le Cellier / Mauves-sur-Loire",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "18-10-2026 18:35:34 +0200"
       }
     },
     {
@@ -27224,12 +27201,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-20T19:50:43.260Z",
+    "generated": "2026-10-20T22:57:13.413Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 401,
+    "total_count": 400,
     "sources": {
       "grist_35": 89,
-      "cd44": 32,
+      "cd44": 31,
       "rennes_metropole": 100
     }
   }
