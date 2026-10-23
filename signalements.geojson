@@ -16455,6 +16455,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5878981820022735,
+          47.44427334878599
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D39 / Héric",
+        "commune": "Saffré / Héric",
+        "type_coupure": "Tranchée / raccordement",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur réseaux",
+        "date_heure": "23-10-2026 20:41:21 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5788229757599388,
+          47.50124161644604
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux- D164 / Nort-sur-Erdre",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "23-10-2026 20:41:21 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.181418925411808,
+          47.305126458700244
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "- D971 / Saint-Nazaire",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "23-10-2026 20:40:20 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -16494,29 +16563,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Vent fort",
         "date_heure": "23-10-2026 16:02:10 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1663731961055563,
-          47.27978205156331
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint-Nazaire",
-        "commune": "dans les 2 sens",
-        "type_coupure": "Vent",
-        "cause": "Vent",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Vent > 80km/h",
-        "date_heure": "23-10-2026 12:00:09 +0200"
       }
     },
     {
@@ -16793,29 +16839,6 @@
         "statut": "Actif",
         "description": "Travaux sur ouvrage d'art",
         "date_heure": "21-10-2026 08:06:12 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.181418925411808,
-          47.305126458700244
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D971 / Saint-Nazaire",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "20-10-2026 20:30:56 +0200"
       }
     },
     {
@@ -17184,52 +17207,6 @@
         "statut": "Actif",
         "description": "Déviation",
         "date_heure": "21-09-2026 19:00:56 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5788229757599388,
-          47.50124161644604
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux- D164 / Nort-sur-Erdre",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-09-2026 06:43:32 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5878981820022735,
-          47.44427334878599
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D39 / Héric",
-        "commune": "Saffré / Héric",
-        "type_coupure": "Tranchée / raccordement",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur réseaux",
-        "date_heure": "10-09-2026 06:43:28 +0200"
       }
     },
     {
@@ -26666,12 +26643,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-23T16:37:53.796Z",
+    "generated": "2026-10-23T20:12:40.655Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 385,
+    "total_count": 384,
     "sources": {
       "grist_35": 89,
-      "cd44": 39,
+      "cd44": 38,
       "rennes_metropole": 100
     }
   }
