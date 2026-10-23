@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Vent fort",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Vent fort",
+        "date_heure": "23-10-2026 06:00:00 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Vent fort",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Vent fort",
+        "date_heure": "23-10-2026 05:30:00 +0200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.1663731961055563,
           47.27978205156331
         ]
@@ -16469,8 +16515,8 @@
         "cause": "Vent",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Vent > 80km/h",
-        "date_heure": "22-10-2026 22:41:36 +0200"
+        "description": "Vent > 120km/h",
+        "date_heure": "23-10-2026 04:53:08 +0200"
       }
     },
     {
@@ -16639,29 +16685,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Vent fort",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Vent fort",
-        "date_heure": "22-10-2026 12:04:13 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.9997961269466162,
           47.5902995251203
         ]
@@ -16724,29 +16747,6 @@
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
         "date_heure": "21-10-2026 12:47:43 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Vent fort",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Risque d'arrêt cause Vent fort",
-        "date_heure": "21-10-2026 12:18:55 +0200"
       }
     },
     {
@@ -25587,7 +25587,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-23T01:15:16.342Z",
+    "generated": "2026-10-23T06:18:46.943Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 362,
     "sources": {
