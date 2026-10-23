@@ -16455,22 +16455,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1663731961055563,
-          47.27978205156331
+          -1.6743617405076974,
+          47.19644470749437
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint-Nazaire",
-        "commune": "dans les 2 sens",
-        "type_coupure": "Vent",
-        "cause": "Vent",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Vent fort",
+        "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Vent > 80km/h",
-        "date_heure": "23-10-2026 12:00:09 +0200"
+        "description": "Arrêt cause Vent fort",
+        "date_heure": "23-10-2026 17:04:48 +0200"
       }
     },
     {
@@ -16493,7 +16493,7 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Arrêt cause Vent fort",
-        "date_heure": "23-10-2026 06:00:00 +0200"
+        "date_heure": "23-10-2026 16:02:10 +0200"
       }
     },
     {
@@ -16501,22 +16501,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
+          -2.1663731961055563,
+          47.27978205156331
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Vent fort",
-        "cause": "Bacs de Loire",
+        "route": "D213 / Pont de Saint-Nazaire",
+        "commune": "dans les 2 sens",
+        "type_coupure": "Vent",
+        "cause": "Vent",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Vent fort",
-        "date_heure": "23-10-2026 05:30:00 +0200"
+        "description": "Vent > 80km/h",
+        "date_heure": "23-10-2026 12:00:09 +0200"
       }
     },
     {
@@ -26666,7 +26666,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-23T11:55:41.091Z",
+    "generated": "2026-10-23T16:37:53.796Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 385,
     "sources": {
