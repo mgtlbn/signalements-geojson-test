@@ -16501,29 +16501,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.181418925411808,
-          47.305126458700244
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D971 / Saint-Nazaire",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "23-10-2026 20:40:20 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -16724,75 +16701,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "22-10-2026 12:55:04 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9997961269466162,
-          47.5902995251203
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "- D2 / Plessé",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "21-10-2026 17:13:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.898682382953556,
-          47.543159385932796
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D35 / Plessé",
-        "commune": "Plessé / Fégréac",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "21-10-2026 17:13:40 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1828651078775683,
-          47.304101968645895
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D971 / Montoir-de-Bretagne",
-        "commune": "Montoir-de-Bretagne / Saint-Nazaire",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "21-10-2026 12:47:43 +0200"
       }
     },
     {
@@ -26919,12 +26827,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-24T21:03:29.964Z",
+    "generated": "2026-10-24T23:31:59.797Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 392,
+    "total_count": 388,
     "sources": {
       "grist_35": 89,
-      "cd44": 38,
+      "cd44": 34,
       "rennes_metropole": 100
     }
   }
