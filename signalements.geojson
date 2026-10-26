@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1817344778400303,
+          47.30380595391281
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Montoir-de-Bretagne",
+        "commune": "saint Brévin=>st Naizaire",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "26-10-2026 06:29:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5878981820022735,
           47.44427334878599
         ]
@@ -25529,12 +25552,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-26T00:33:31.883Z",
+    "generated": "2026-10-26T05:48:03.027Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 356,
+    "total_count": 357,
     "sources": {
       "grist_35": 89,
-      "cd44": 31,
+      "cd44": 32,
       "rennes_metropole": 100
     }
   }
