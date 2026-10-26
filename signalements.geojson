@@ -16547,29 +16547,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.165767545276446,
-          47.278828313055016
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Saint-Brevin-les-Pins",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "22-10-2026 16:45:58 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2282991922758502,
           47.44911907462922
         ]
@@ -16585,29 +16562,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "22-10-2026 16:10:45 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.180571569155055,
-          47.302389401571546
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
         "date_heure": "22-10-2026 16:10:45 +0200"
       }
     },
@@ -16724,29 +16678,6 @@
         "statut": "Actif",
         "description": "Bac de réserve",
         "date_heure": "21-10-2026 10:25:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1784591914895355,
-          47.2981180521444
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "21-10-2026 08:06:12 +0200"
       }
     },
     {
@@ -25598,12 +25529,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-25T22:19:27.391Z",
+    "generated": "2026-10-26T00:33:31.883Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 359,
+    "total_count": 356,
     "sources": {
       "grist_35": 89,
-      "cd44": 34,
+      "cd44": 31,
       "rennes_metropole": 100
     }
   }
