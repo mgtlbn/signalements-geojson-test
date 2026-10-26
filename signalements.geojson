@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1784591914895355,
+          47.2981180521444
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Pont de Saint Nazaire",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "26-10-2026 22:00:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7483279058994141,
           47.52000788389994
         ]
@@ -16487,7 +16510,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Vay",
-        "commune": "Commune",
+        "commune": "Vay / Le Gâvre",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16533,7 +16556,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Le Gâvre",
-        "commune": "Commune",
+        "commune": "Le Gâvre / Plessé",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16556,7 +16579,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D39 / Héric",
-        "commune": "Commune",
+        "commune": "Saffré / Héric",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16602,7 +16625,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Vent fort",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -16625,7 +16648,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Couëron / Le Pellerin",
         "type_coupure": "Vent fort",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -16694,7 +16717,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D65 / Saint-Philbert-de-Grand-Lieu",
-        "commune": "Commune",
+        "commune": "SPGL / La Limouzinière",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16763,36 +16786,13 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Commune",
+        "commune": "Liaison : Basse-Indre / Indret",
         "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Bac de réserve",
         "date_heure": "21-10-2026 10:25:57 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1784591914895355,
-          47.2981180521444
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint Nazaire",
-        "commune": "Commune",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "19-10-2026 14:05:16 +0200"
       }
     },
     {
@@ -16809,7 +16809,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Vair-sur-Loire",
-        "commune": "Commune",
+        "commune": "Ancenis / Vair-sur-Loire",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16878,7 +16878,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D21 / Mésanger",
-        "commune": "Commune",
+        "commune": "Pannecé / Mésanger",
         "type_coupure": "Tranchée / raccordement",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16901,7 +16901,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D51 / La Chapelle-des-Marais",
-        "commune": "Commune",
+        "commune": "La Chapelle/ Saint-Joachim",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16924,7 +16924,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D37 / Vallet",
-        "commune": "Commune",
+        "commune": "Vallet / Mouzillon",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16970,7 +16970,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Commune",
+        "commune": "Corcoué-sur-Logne / Legé",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17016,7 +17016,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Commune",
+        "commune": "Corcoué-sur-Logne / Legé",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17062,7 +17062,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D32 / Vritz",
-        "commune": "Commune",
+        "commune": "Vritz / Le Pin",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -17108,7 +17108,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Commune",
+        "commune": "Les Sorinières / Pont-Saint-Martin",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -17131,7 +17131,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Bouaye vers Bouguenais",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -17154,7 +17154,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Commune",
+        "commune": "Pornic vers Nantes",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -24589,7 +24589,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-26T18:48:08.797Z",
+    "generated": "2026-10-26T23:02:05.276Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 344,
     "sources": {
