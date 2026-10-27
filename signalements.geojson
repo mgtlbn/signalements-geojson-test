@@ -19595,35 +19595,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.674341839940545,
-            48.08905146032613
-          ],
-          [
-            -1.674206741038203,
-            48.09201361008597
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Henri Fréville, du Boulevard Albert 1er jusqu'au Boulevard de l'Yser sens SUD NORD",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-08-31T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.638071249367936,
             48.04597018090813
           ],
@@ -20227,6 +20198,595 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'éclairage public",
         "date_heure": "2026-10-05T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.685113037949185,
+            48.08962176993008
+          ],
+          [
+            -1.683565875945098,
+            48.089431398585596
+          ],
+          [
+            -1.682697685921551,
+            48.08949774937479
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Albert 1er, de la Rue de Belgique jusqu'au Rond-point des Forces Françaises de l'ONU",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-10-12T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.799576939263558,
+            48.088183337771795
+          ],
+          [
+            -1.799363990961117,
+            48.08823948069911
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Route départementale 224 et de la Route départementale 334",
+        "commune": "35196 - Mordelles",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.799340886341169,
+            48.08816695097089
+          ],
+          [
+            -1.799342041570625,
+            48.088170577457426
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "à l'intersection de la Route départementale 224 et de la Route départementale 334",
+        "commune": "35196 - Mordelles",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.672590421027921,
+            48.13150454825286
+          ],
+          [
+            -1.672793716972758,
+            48.1314996481541
+          ],
+          [
+            -1.673310311281782,
+            48.13145147960544
+          ],
+          [
+            -1.673617156218521,
+            48.13139888638807
+          ],
+          [
+            -1.676485986676083,
+            48.1307209197843
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard d'Armorique, de l'Avenue des Monts d'Arrée jusqu'à la Rue de la Taurellerie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.672590472021364,
+            48.13138217406325
+          ],
+          [
+            -1.672943161245827,
+            48.13125266686727
+          ],
+          [
+            -1.672986735909012,
+            48.13128841979566
+          ],
+          [
+            -1.673164792378669,
+            48.13127518226947
+          ],
+          [
+            -1.673379716837045,
+            48.13124843984794
+          ],
+          [
+            -1.67365538746882,
+            48.13119971532516
+          ],
+          [
+            -1.676393478005762,
+            48.13055557429258
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard d'Armorique, de l'Avenue des Monts d'Arrée jusqu'à la Rue de la Taurellerie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.672590472021364,
+            48.13138217406325
+          ],
+          [
+            -1.672780798677854,
+            48.13137659246963
+          ],
+          [
+            -1.673289199037769,
+            48.13134526619084
+          ],
+          [
+            -1.67356176120758,
+            48.13129645555562
+          ],
+          [
+            -1.676423070654776,
+            48.13061617647649
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard d'Armorique, de l'Avenue des Monts d'Arrée jusqu'à la Rue de la Taurellerie",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.674338329478171,
+            48.110657846881836
+          ],
+          [
+            -1.674160530510724,
+            48.11067313946672
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Kléber, de la Place Pasteur jusqu'à la Rue du Sergent Guihard",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.674160530510724,
+            48.11067313946672
+          ],
+          [
+            -1.673894714684781,
+            48.110672231116396
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Kléber, de la Place Pasteur jusqu'à la Rue du Sergent Guihard",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.673894714684781,
+            48.110672231116396
+          ],
+          [
+            -1.672444168677181,
+            48.11066207372933
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Kléber, de la Place Pasteur jusqu'à la Rue du Sergent Guihard",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.660332465564814,
+            48.12858441194102
+          ],
+          [
+            -1.66036178370374,
+            48.128583762868374
+          ],
+          [
+            -1.660428382351231,
+            48.12851823308362
+          ],
+          [
+            -1.661083497954608,
+            48.12849786439533
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 28 au 34 Rue Martha Desrumaux",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.767818574063881,
+            48.14849382378066
+          ],
+          [
+            -1.767836237673065,
+            48.148593765178234
+          ],
+          [
+            -1.766910033875604,
+            48.14845261900944
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "2 Rue Michel Gérard",
+        "commune": "35210 - Pacé",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.767818574063881,
+            48.14849382378066
+          ],
+          [
+            -1.767836237673065,
+            48.148593765178234
+          ],
+          [
+            -1.766910033875604,
+            48.14845261900944
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "2 Rue Michel Gérard",
+        "commune": "35210 - Pacé",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.729723421212868,
+            48.12326027102726
+          ],
+          [
+            -1.729133176987968,
+            48.12310760129029
+          ],
+          [
+            -1.728489682327874,
+            48.12296194894599
+          ],
+          [
+            -1.726657138388349,
+            48.12260799288359
+          ],
+          [
+            -1.725810605676348,
+            48.122398131686
+          ],
+          [
+            -1.725040470546472,
+            48.12219062242885
+          ],
+          [
+            -1.724603356707177,
+            48.12202042999507
+          ],
+          [
+            -1.724252291166911,
+            48.12184634077783
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.73010953780893,
+            48.123378240830384
+          ],
+          [
+            -1.729723421212868,
+            48.12326027102726
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.724252291166911,
+            48.12184634077783
+          ],
+          [
+            -1.724109378702515,
+            48.12175351516818
+          ],
+          [
+            -1.724031036874032,
+            48.12169359102402
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.723970605262706,
+            48.1216474272175
+          ],
+          [
+            -1.724057550419259,
+            48.12157693510242
+          ],
+          [
+            -1.724222636725829,
+            48.12121271731143
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.674341839940545,
+            48.08905146032613
+          ],
+          [
+            -1.674206741038203,
+            48.09201361008597
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue Henri Fréville, du Boulevard Albert 1er jusqu'au Boulevard de l'Yser sens SUD NORD",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
+        "date_heure": "2026-08-31T00:00:00+00:00"
       }
     },
     {
@@ -20935,566 +21495,6 @@
         "statut": "Actif",
         "description": "sur réseaux ou ouvrages d'éclairage public",
         "date_heure": "2026-10-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.685113037949185,
-            48.08962176993008
-          ],
-          [
-            -1.683565875945098,
-            48.089431398585596
-          ],
-          [
-            -1.682697685921551,
-            48.08949774937479
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard Albert 1er, de la Rue de Belgique jusqu'au Rond-point des Forces Françaises de l'ONU",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-10-12T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.799576939263558,
-            48.088183337771795
-          ],
-          [
-            -1.799363990961117,
-            48.08823948069911
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Route départementale 224 et de la Route départementale 334",
-        "commune": "35196 - Mordelles",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.799340886341169,
-            48.08816695097089
-          ],
-          [
-            -1.799342041570625,
-            48.088170577457426
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "à l'intersection de la Route départementale 224 et de la Route départementale 334",
-        "commune": "35196 - Mordelles",
-        "type_coupure": "Mise en impasse",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-19T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.672590421027921,
-            48.13150454825286
-          ],
-          [
-            -1.672793716972758,
-            48.1314996481541
-          ],
-          [
-            -1.673310311281782,
-            48.13145147960544
-          ],
-          [
-            -1.673617156218521,
-            48.13139888638807
-          ],
-          [
-            -1.676485986676083,
-            48.1307209197843
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard d'Armorique, de l'Avenue des Monts d'Arrée jusqu'à la Rue de la Taurellerie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.672590472021364,
-            48.13138217406325
-          ],
-          [
-            -1.672943161245827,
-            48.13125266686727
-          ],
-          [
-            -1.672986735909012,
-            48.13128841979566
-          ],
-          [
-            -1.673164792378669,
-            48.13127518226947
-          ],
-          [
-            -1.673379716837045,
-            48.13124843984794
-          ],
-          [
-            -1.67365538746882,
-            48.13119971532516
-          ],
-          [
-            -1.676393478005762,
-            48.13055557429258
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard d'Armorique, de l'Avenue des Monts d'Arrée jusqu'à la Rue de la Taurellerie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.672590472021364,
-            48.13138217406325
-          ],
-          [
-            -1.672780798677854,
-            48.13137659246963
-          ],
-          [
-            -1.673289199037769,
-            48.13134526619084
-          ],
-          [
-            -1.67356176120758,
-            48.13129645555562
-          ],
-          [
-            -1.676423070654776,
-            48.13061617647649
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Boulevard d'Armorique, de l'Avenue des Monts d'Arrée jusqu'à la Rue de la Taurellerie",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.674338329478171,
-            48.110657846881836
-          ],
-          [
-            -1.674160530510724,
-            48.11067313946672
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Kléber, de la Place Pasteur jusqu'à la Rue du Sergent Guihard",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.674160530510724,
-            48.11067313946672
-          ],
-          [
-            -1.673894714684781,
-            48.110672231116396
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Kléber, de la Place Pasteur jusqu'à la Rue du Sergent Guihard",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.673894714684781,
-            48.110672231116396
-          ],
-          [
-            -1.672444168677181,
-            48.11066207372933
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Kléber, de la Place Pasteur jusqu'à la Rue du Sergent Guihard",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Mesure libre circulation",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de réfection de chaussée",
-        "date_heure": "2026-10-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.660332465564814,
-            48.12858441194102
-          ],
-          [
-            -1.66036178370374,
-            48.128583762868374
-          ],
-          [
-            -1.660428382351231,
-            48.12851823308362
-          ],
-          [
-            -1.661083497954608,
-            48.12849786439533
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 28 au 34 Rue Martha Desrumaux",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.767818574063881,
-            48.14849382378066
-          ],
-          [
-            -1.767836237673065,
-            48.148593765178234
-          ],
-          [
-            -1.766910033875604,
-            48.14845261900944
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "2 Rue Michel Gérard",
-        "commune": "35210 - Pacé",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.767818574063881,
-            48.14849382378066
-          ],
-          [
-            -1.767836237673065,
-            48.148593765178234
-          ],
-          [
-            -1.766910033875604,
-            48.14845261900944
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "2 Rue Michel Gérard",
-        "commune": "35210 - Pacé",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.729723421212868,
-            48.12326027102726
-          ],
-          [
-            -1.729133176987968,
-            48.12310760129029
-          ],
-          [
-            -1.728489682327874,
-            48.12296194894599
-          ],
-          [
-            -1.726657138388349,
-            48.12260799288359
-          ],
-          [
-            -1.725810605676348,
-            48.122398131686
-          ],
-          [
-            -1.725040470546472,
-            48.12219062242885
-          ],
-          [
-            -1.724603356707177,
-            48.12202042999507
-          ],
-          [
-            -1.724252291166911,
-            48.12184634077783
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.73010953780893,
-            48.123378240830384
-          ],
-          [
-            -1.729723421212868,
-            48.12326027102726
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.724252291166911,
-            48.12184634077783
-          ],
-          [
-            -1.724109378702515,
-            48.12175351516818
-          ],
-          [
-            -1.724031036874032,
-            48.12169359102402
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.723970605262706,
-            48.1216474272175
-          ],
-          [
-            -1.724057550419259,
-            48.12157693510242
-          ],
-          [
-            -1.724222636725829,
-            48.12121271731143
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
       }
     },
     {
@@ -24781,425 +24781,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.679848092647175,
-            48.09423884555715
-          ],
-          [
-            -1.679187661113758,
-            48.09418688838907
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "face au 85 Boulevard Georges Clemenceau",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.68271765365606,
-            48.070426419164036
-          ],
-          [
-            -1.682606605218444,
-            48.070445343721474
-          ],
-          [
-            -1.682435405784855,
-            48.07045232125541
-          ],
-          [
-            -1.682245488203107,
-            48.070460061380054
-          ],
-          [
-            -1.682118057520064,
-            48.070476052365855
-          ],
-          [
-            -1.681975071718165,
-            48.07049807731231
-          ],
-          [
-            -1.681631298554177,
-            48.070526483755714
-          ],
-          [
-            -1.681463099037278,
-            48.070536937415824
-          ],
-          [
-            -1.681329348833023,
-            48.07054238731823
-          ],
-          [
-            -1.681062408800125,
-            48.070501035170096
-          ],
-          [
-            -1.680710503726338,
-            48.07043978340201
-          ],
-          [
-            -1.68013016063965,
-            48.07034644337502
-          ],
-          [
-            -1.679874320590832,
-            48.07030827225114
-          ],
-          [
-            -1.67967020861506,
-            48.07030758720044
-          ],
-          [
-            -1.679571233417754,
-            48.07031161861491
-          ],
-          [
-            -1.679410344974148,
-            48.07028723568066
-          ],
-          [
-            -1.679280555712331,
-            48.07024752900766
-          ],
-          [
-            -1.67900022959314,
-            48.070176158070254
-          ],
-          [
-            -1.678816705097898,
-            48.070165634861084
-          ],
-          [
-            -1.677801087522542,
-            48.070144054947974
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "la Reboursais et le bois de Lancé",
-        "commune": "35206 - Noyal-Châtillon-sur-Seiche",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.683019915120153,
-            48.06800700826163
-          ],
-          [
-            -1.682831650770376,
-            48.068009000088246
-          ],
-          [
-            -1.682134730823025,
-            48.06788746116101
-          ],
-          [
-            -1.682022507571054,
-            48.06789697816758
-          ],
-          [
-            -1.681921422552714,
-            48.06792087120476
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "la Reboursais et le bois de Lancé",
-        "commune": "35206 - Noyal-Châtillon-sur-Seiche",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.683019915120153,
-            48.06800700826163
-          ],
-          [
-            -1.682960089644144,
-            48.068100941399
-          ],
-          [
-            -1.682947471204541,
-            48.068204879717
-          ],
-          [
-            -1.682936433270591,
-            48.06865021835793
-          ],
-          [
-            -1.682905805610083,
-            48.06922383928459
-          ],
-          [
-            -1.68287072059029,
-            48.06964717398632
-          ],
-          [
-            -1.682850789767892,
-            48.069938759536406
-          ],
-          [
-            -1.682816348467738,
-            48.07028819418311
-          ],
-          [
-            -1.682773697845351,
-            48.07038514850464
-          ],
-          [
-            -1.68271765365606,
-            48.070426419164036
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "la Reboursais et le bois de Lancé",
-        "commune": "35206 - Noyal-Châtillon-sur-Seiche",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-04-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.825247277564644,
-            48.134525298015205
-          ],
-          [
-            -1.825126849862324,
-            48.13450278105773
-          ],
-          [
-            -1.8243667347321,
-            48.13427613403711
-          ],
-          [
-            -1.823605906778942,
-            48.13402707830071
-          ],
-          [
-            -1.823418103055368,
-            48.133971726470605
-          ],
-          [
-            -1.823306366660313,
-            48.13396657655772
-          ],
-          [
-            -1.823217373983553,
-            48.13398014369245
-          ],
-          [
-            -1.823144725716241,
-            48.13403377203997
-          ],
-          [
-            -1.823121607429973,
-            48.13410077953504
-          ],
-          [
-            -1.8230971940456,
-            48.13422123324335
-          ],
-          [
-            -1.823049826018449,
-            48.13458989039046
-          ],
-          [
-            -1.823023215417148,
-            48.13483505064237
-          ],
-          [
-            -1.822985627720672,
-            48.135083916258964
-          ],
-          [
-            -1.822929067402089,
-            48.13521976888454
-          ],
-          [
-            -1.822819045163976,
-            48.13530025452999
-          ],
-          [
-            -1.822689675425327,
-            48.13535345080841
-          ],
-          [
-            -1.822445039387002,
-            48.135408668702695
-          ],
-          [
-            -1.822205628679243,
-            48.135452427553226
-          ],
-          [
-            -1.821964908095585,
-            48.13548218969489
-          ],
-          [
-            -1.821745192386765,
-            48.135494354962965
-          ],
-          [
-            -1.821528254164602,
-            48.13550906905689
-          ],
-          [
-            -1.821318246499257,
-            48.13555299756618
-          ],
-          [
-            -1.821095090461462,
-            48.13561916079109
-          ],
-          [
-            -1.821045321255154,
-            48.135644196011
-          ],
-          [
-            -1.821026681771338,
-            48.135680263567394
-          ],
-          [
-            -1.821028839467115,
-            48.13592457310671
-          ],
-          [
-            -1.821019952428307,
-            48.13605669619064
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de la Bretonnière",
-        "commune": "35131 - l'Hermitage, 35210 - Pacé",
-        "type_coupure": "Circulation alternée",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-09-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.654186954302772,
-            48.1037279931197
-          ],
-          [
-            -1.654184390875019,
-            48.10365966928933
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 5 au 3 Allée Maurice Ravel",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.537617135583884,
-            48.13388657126532
-          ],
-          [
-            -1.537348016243172,
-            48.13391126365951
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "23  Avenue de l'Abbé Barbedet",
-        "commune": "35001 - Acigné",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de création d'un abris bus",
-        "date_heure": "2026-10-28T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.643007017883891,
             48.111407234406336
           ],
@@ -25383,138 +24964,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.69291753747086,
-            48.13328959512795
-          ],
-          [
-            -1.693652420087328,
-            48.13234699592424
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Amiral Gaspard de Coligny, du Boulevard de la Robiquette jusqu'à l'Avenue Germaine Dulac",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de construction de bâtiment",
-        "date_heure": "2025-10-09T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.693652420087328,
-            48.13234699592424
-          ],
-          [
-            -1.693754551487008,
-            48.13225199940359
-          ],
-          [
-            -1.693886365636467,
-            48.13217994052599
-          ],
-          [
-            -1.694231181489816,
-            48.13208336614454
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Amiral Gaspard de Coligny, du Boulevard de la Robiquette jusqu'à l'Avenue Germaine Dulac",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de construction de bâtiment",
-        "date_heure": "2025-10-09T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.694231181489816,
-            48.13208336614454
-          ],
-          [
-            -1.695139386218564,
-            48.131900048675426
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Rue Amiral Gaspard de Coligny, du Boulevard de la Robiquette jusqu'à l'Avenue Germaine Dulac",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de construction de bâtiment",
-        "date_heure": "2025-10-09T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.655268144332264,
-            48.15073919650297
-          ],
-          [
-            -1.654293360423476,
-            48.15112778455311
-          ],
-          [
-            -1.653548786341963,
-            48.15145637028861
-          ],
-          [
-            -1.652978265937455,
-            48.15175538692255
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Route de Thorigné-Fouillard section comprise entre l'Avenue de la Libération et la Touche Aury",
-        "commune": "35278 - Saint-Grégoire",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "de suppression du passage à niveau n°4",
-        "date_heure": "2026-03-23T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -1.742938262566911,
             48.10578135366982
           ],
@@ -25565,134 +25014,6 @@
         "statut": "Actif",
         "description": "sur voirie",
         "date_heure": "2026-07-29T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.674418485108964,
-            48.08906242241331
-          ],
-          [
-            -1.674290748629109,
-            48.09201300957491
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Avenue Henri Fréville, du Boulevard Albert 1er jusqu'au Boulevard de l'Yser sens SUD NORD",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Circulation interdite",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages de transport ou distribution de chaleur",
-        "date_heure": "2026-08-31T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.701016601260824,
-            48.01360239622821
-          ],
-          [
-            -1.700580754653916,
-            48.012871203294736
-          ],
-          [
-            -1.700222245062643,
-            48.012390278157625
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "39 Rue de Tellé",
-        "commune": "35363 - Pont-Péan",
-        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-09-21T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.817317589806195,
-            48.12770086382935
-          ],
-          [
-            -1.816830146697541,
-            48.1277068214797
-          ],
-          [
-            -1.816372976052295,
-            48.12768817619171
-          ],
-          [
-            -1.815612584265667,
-            48.12760664455667
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit du château d'eau après le 19 Rue Jacques Cartier",
-        "commune": "35131 - l'Hermitage",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-09-22T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.815612584265667,
-            48.12760664455667
-          ],
-          [
-            -1.815210816304707,
-            48.12757210869278
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit du château d'eau après le 19 Rue Jacques Cartier",
-        "commune": "35131 - l'Hermitage",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-09-22T00:00:00+00:00"
       }
     },
     {
@@ -25759,68 +25080,6 @@
         "statut": "Actif",
         "description": "de mise en place de securisation",
         "date_heure": "2026-10-01T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.765118351392991,
-            48.15933956995761
-          ],
-          [
-            -1.765583231538616,
-            48.159786018097435
-          ],
-          [
-            -1.765985591402903,
-            48.16016598048285
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "17 Rue de Bréhat",
-        "commune": "35210 - Pacé",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-10-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.765985591402903,
-            48.16016598048285
-          ],
-          [
-            -1.766287801151016,
-            48.16044940721259
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "17 Rue de Bréhat",
-        "commune": "35210 - Pacé",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'éclairage public",
-        "date_heure": "2026-10-05T00:00:00+00:00"
       }
     },
     {
@@ -26212,20 +25471,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.757609671714917,
-            48.11723385400111
+            -1.667816851326843,
+            48.095573835858566
           ],
           [
-            -1.757649537251614,
-            48.1172180063788
-          ],
-          [
-            -1.757679403527602,
-            48.11715647782085
-          ],
-          [
-            -1.757623123328098,
-            48.11708581930778
+            -1.668016169066153,
+            48.09517819121429
           ]
         ]
       },
@@ -26233,14 +25484,14 @@
         "id": "rm-undefined-0",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
       }
     },
     {
@@ -26249,12 +25500,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.756742776602747,
-            48.11683155583813
+            -1.666792883786168,
+            48.098724823440236
           ],
           [
-            -1.756206018247169,
-            48.11698975437498
+            -1.666879546210653,
+            48.09806288797086
           ]
         ]
       },
@@ -26262,14 +25513,14 @@
         "id": "rm-undefined-1",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
       }
     },
     {
@@ -26278,12 +25529,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.757623123328098,
-            48.11708581930778
+            -1.667607275929128,
+            48.0959527761941
           ],
           [
-            -1.757472237985373,
-            48.11709141227296
+            -1.667816851326843,
+            48.095573835858566
           ]
         ]
       },
@@ -26291,14 +25542,14 @@
         "id": "rm-undefined-2",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
       }
     },
     {
@@ -26307,20 +25558,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.758304889569113,
-            48.117017816600416
+            -1.668016169066153,
+            48.09517819121429
           ],
           [
-            -1.758032137954758,
-            48.11700019184079
-          ],
-          [
-            -1.75786370088188,
-            48.11700716129999
-          ],
-          [
-            -1.757623123328098,
-            48.11708581930778
+            -1.668359009313647,
+            48.094522525026576
           ]
         ]
       },
@@ -26328,14 +25571,14 @@
         "id": "rm-undefined-3",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
       }
     },
     {
@@ -26344,16 +25587,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.757471316824785,
-            48.117228325808256
+            -1.667281387964565,
+            48.09656855432632
           ],
           [
-            -1.757538709517888,
-            48.117249565304
-          ],
-          [
-            -1.757609671714917,
-            48.11723385400111
+            -1.667607275929128,
+            48.0959527761941
           ]
         ]
       },
@@ -26361,14 +25600,14 @@
         "id": "rm-undefined-4",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
       }
     },
     {
@@ -26377,12 +25616,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.757204052243674,
-            48.116684410129935
+            -1.666955643389359,
+            48.0972504112299
           ],
           [
-            -1.756742776602747,
-            48.11683155583813
+            -1.666982170281238,
+            48.09713873549774
           ]
         ]
       },
@@ -26390,14 +25629,14 @@
         "id": "rm-undefined-5",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
       }
     },
     {
@@ -26406,16 +25645,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.757204052243674,
-            48.116684410129935
+            -1.666982170281238,
+            48.09713873549774
           ],
           [
-            -1.757429994257978,
-            48.117027302691405
-          ],
-          [
-            -1.757472237985373,
-            48.11709141227296
+            -1.667281387964565,
+            48.09656855432632
           ]
         ]
       },
@@ -26423,14 +25658,14 @@
         "id": "rm-undefined-6",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
       }
     },
     {
@@ -26439,20 +25674,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -1.757472237985373,
-            48.11709141227296
+            -1.666654035147199,
+            48.099526585274845
           ],
           [
-            -1.757416215356537,
-            48.11715467354152
+            -1.666647065171578,
+            48.0994999055378
           ],
           [
-            -1.757463053221011,
-            48.1172257219014
-          ],
-          [
-            -1.757471316824785,
-            48.117228325808256
+            -1.666792883786168,
+            48.098724823440236
           ]
         ]
       },
@@ -26460,21 +25691,927 @@
         "id": "rm-undefined-7",
         "source": "Rennes Métropole",
         "gestionnaire": "Rennes Métropole",
-        "route": "14 Rue du Clos Perrigault",
-        "commune": "35353 - Vezin-le-Coquet",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
         "type_coupure": "Interdiction de stationnement",
         "cause": "Travaux",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eaux pluviales",
-        "date_heure": "2026-10-07T00:00:00+00:00"
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.666884072455961,
+            48.0980216062692
+          ],
+          [
+            -1.666945205868052,
+            48.09731055655217
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-8",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.668359009313647,
+            48.094522525026576
+          ],
+          [
+            -1.668857615790667,
+            48.093571181039295
+          ],
+          [
+            -1.668824282821751,
+            48.0934694668253
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-9",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Bigot de Préameneu",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.664386357566035,
+            48.09929528704661
+          ],
+          [
+            -1.664196458553716,
+            48.09893175146988
+          ],
+          [
+            -1.664055997901187,
+            48.09859973048544
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 57 au 100 Rue de Riaval",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.664055997901187,
+            48.09859973048544
+          ],
+          [
+            -1.663906805340252,
+            48.098444853032106
+          ],
+          [
+            -1.663395495962164,
+            48.097987570046904
+          ],
+          [
+            -1.663339463071389,
+            48.09790422890579
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 57 au 100 Rue de Riaval",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663137244346456,
+            48.09779166441962
+          ],
+          [
+            -1.663207128818534,
+            48.09784254638504
+          ],
+          [
+            -1.663296007329421,
+            48.09787261811598
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 57 au 100 Rue de Riaval",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.663137244346456,
+            48.09779166441962
+          ],
+          [
+            -1.662576070752807,
+            48.0973722328103
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 57 au 100 Rue de Riaval",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.662576070752807,
+            48.0973722328103
+          ],
+          [
+            -1.661511835411265,
+            48.09657384331908
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 57 au 100 Rue de Riaval",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de création de jardinières",
+        "date_heure": "2026-10-15T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.660436119848255,
+            48.1188859112672
+          ],
+          [
+            -1.66035570251013,
+            48.118784843208594
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 67 au 63 Boulevard de Metz",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.659934474025305,
+            48.118242534309786
+          ],
+          [
+            -1.660223466056933,
+            48.11861459732167
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 67 au 63 Boulevard de Metz",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.537003632121724,
+            48.13399555610382
+          ],
+          [
+            -1.53928676008062,
+            48.13374782069104
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue de l'Abbé Barbedet section comprise entre la rue de l'Ancien Porche et la Rue du Calvaire",
+        "commune": "35001 - Acigné",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur voirie",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.660475516052084,
+            48.118935424004626
+          ],
+          [
+            -1.66035570251013,
+            48.118784843208594
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard de Metz, du 80 jusqu'à la Rue La Fontaine",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.793471524858096,
+            48.0894509064587
+          ],
+          [
+            -1.798959974547007,
+            48.088264365617704
+          ],
+          [
+            -1.800498773110303,
+            48.08781710160912
+          ],
+          [
+            -1.802884390400974,
+            48.087075341570525
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Route départementale 224, depuis le rond point de la Croix Verte vers et jusqu'à La Godelais",
+        "commune": "35196 - Mordelles, 35240 - le Rheu",
+        "type_coupure": "Mise en impasse",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.671585520908588,
+            47.991052725297
+          ],
+          [
+            -1.67147035806309,
+            47.99110324918324
+          ],
+          [
+            -1.671402571735089,
+            47.99116439581837
+          ],
+          [
+            -1.671332987422919,
+            47.99125634461462
+          ],
+          [
+            -1.671273777544393,
+            47.99136169993173
+          ],
+          [
+            -1.671215812517926,
+            47.99148083264923
+          ],
+          [
+            -1.671132806814409,
+            47.99160078764502
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse de la Métrie",
+        "commune": "35208 - Orgères",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.672307290192754,
+            47.99177021780451
+          ],
+          [
+            -1.672207431080716,
+            47.991737577288845
+          ],
+          [
+            -1.671680278376463,
+            47.99165917604223
+          ],
+          [
+            -1.671132806814409,
+            47.99160078764502
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse de la Métrie",
+        "commune": "35208 - Orgères",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.672545229195145,
+            47.99074292371405
+          ],
+          [
+            -1.672487287007621,
+            47.99069461368552
+          ],
+          [
+            -1.672381249164772,
+            47.99066205746747
+          ],
+          [
+            -1.672247474934357,
+            47.990652141729775
+          ],
+          [
+            -1.672137566043079,
+            47.99067812917244
+          ],
+          [
+            -1.672020531271726,
+            47.990752036607255
+          ],
+          [
+            -1.671782659777787,
+            47.9909338103414
+          ],
+          [
+            -1.671605571575556,
+            47.99104392871057
+          ],
+          [
+            -1.671585520908588,
+            47.991052725297
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse de la Métrie",
+        "commune": "35208 - Orgères",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.671585520908588,
+            47.991052725297
+          ],
+          [
+            -1.67059063355478,
+            47.990988040623996
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse de la Métrie",
+        "commune": "35208 - Orgères",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.671132806814409,
+            47.99160078764502
+          ],
+          [
+            -1.670859651470874,
+            47.99164571280502
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-4",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse de la Métrie",
+        "commune": "35208 - Orgères",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-19T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.655322977235657,
+            48.11008053342411
+          ],
+          [
+            -1.653371186948094,
+            48.11012492049136
+          ],
+          [
+            -1.652065537274853,
+            48.110264305163575
+          ],
+          [
+            -1.650691663510209,
+            48.11060261725542
+          ],
+          [
+            -1.648988152194855,
+            48.11101194102898
+          ],
+          [
+            -1.643697379908415,
+            48.112311629921734
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue François Château, du Boulevard de Strasbourg jusqu'au Chemin de Baud",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.655322977235657,
+            48.11008053342411
+          ],
+          [
+            -1.653371186948094,
+            48.11012492049136
+          ],
+          [
+            -1.652065537274853,
+            48.110264305163575
+          ],
+          [
+            -1.650691663510209,
+            48.11060261725542
+          ],
+          [
+            -1.648988152194855,
+            48.11101194102898
+          ],
+          [
+            -1.643697379908415,
+            48.112311629921734
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Avenue François Château, du Boulevard de Strasbourg jusqu'au Chemin de Baud",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Mesure libre circulation",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "de réfection de chaussée",
+        "date_heure": "2026-10-21T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.81504427858976,
+            48.12589107692861
+          ],
+          [
+            -1.814705620684619,
+            48.12583203517334
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue Du Guesclin, de la Rue du Rocher jusqu'au 4",
+        "commune": "35131 - l'Hermitage",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eaux usées / assainissement",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.707595930874103,
+            48.109458980745856
+          ],
+          [
+            -1.707412722639644,
+            48.10951216569837
+          ],
+          [
+            -1.706628967530028,
+            48.109686446691946
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Marbeuf, de la Rue de Lorient jusqu'à la Rue Kerviler et seulement dans le sens Ouest-Est",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Trambus",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.706628967530028,
+            48.109686446691946
+          ],
+          [
+            -1.706167175770511,
+            48.10978797994087
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Boulevard Marbeuf, de la Rue de Lorient jusqu'à la Rue Kerviler et seulement dans le sens Ouest-Est",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Trambus",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.729723421212868,
+            48.12326027102726
+          ],
+          [
+            -1.729133176987968,
+            48.12310760129029
+          ],
+          [
+            -1.728489682327874,
+            48.12296194894599
+          ],
+          [
+            -1.726657138388349,
+            48.12260799288359
+          ],
+          [
+            -1.725810605676348,
+            48.122398131686
+          ],
+          [
+            -1.725040470546472,
+            48.12219062242885
+          ],
+          [
+            -1.724603356707177,
+            48.12202042999507
+          ],
+          [
+            -1.724252291166911,
+            48.12184634077783
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.73010953780893,
+            48.123378240830384
+          ],
+          [
+            -1.729723421212868,
+            48.12326027102726
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.724252291166911,
+            48.12184634077783
+          ],
+          [
+            -1.724109378702515,
+            48.12175351516818
+          ],
+          [
+            -1.724031036874032,
+            48.12169359102402
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.723970605262706,
+            48.1216474272175
+          ],
+          [
+            -1.724057550419259,
+            48.12157693510242
+          ],
+          [
+            -1.724222636725829,
+            48.12121271731143
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "22 Rue du Pont-Lagot",
+        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
+        "type_coupure": "Interdiction de stationnement",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-10-26T00:00:00+00:00"
       }
     }
   ],
   "metadata": {
-    "generated": "2026-10-27T14:48:13.043Z",
+    "generated": "2026-10-27T19:50:27.413Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 377,
+    "total_count": 386,
     "sources": {
       "grist_35": 89,
       "cd44": 28,
