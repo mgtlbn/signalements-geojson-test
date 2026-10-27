@@ -16455,6 +16455,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.1791981794712252,
+          47.461248846626795
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D19 / Maumusson",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "27-10-2026 12:55:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.124855485257296,
+          47.441849392659975
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D18 / La Roche-Blanche",
+        "commune": "Commune",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "27-10-2026 12:55:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0358499494784528,
+          47.39060566322516
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D28 / Loireauxence",
+        "commune": "Commune",
+        "type_coupure": "Réfection de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux de réfection de chaussée",
+        "date_heure": "27-10-2026 12:55:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -16464,7 +16533,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Ravitaillement",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -16510,7 +16579,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D32 / Vritz",
-        "commune": "Vritz / Le Pin",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16533,7 +16602,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D213 / Pont de Saint Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16579,7 +16648,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Vay",
-        "commune": "Vay / Le Gâvre",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16625,7 +16694,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D2 / Le Gâvre",
-        "commune": "Le Gâvre / Plessé",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16671,7 +16740,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D65 / Saint-Philbert-de-Grand-Lieu",
-        "commune": "SPGL / La Limouzinière",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16740,7 +16809,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
+        "commune": "Commune",
         "type_coupure": "Bac de réserve",
         "cause": "Bacs de Loire",
         "priorite": "Moyenne",
@@ -16763,7 +16832,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Vair-sur-Loire",
-        "commune": "Ancenis / Vair-sur-Loire",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16809,7 +16878,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D51 / La Chapelle-des-Marais",
-        "commune": "La Chapelle/ Saint-Joachim",
+        "commune": "Commune",
         "type_coupure": "Aménagement de chaussée",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16832,7 +16901,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D37 / Vallet",
-        "commune": "Vallet / Mouzillon",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16878,7 +16947,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Corcoué-sur-Logne / Legé",
+        "commune": "Commune",
         "type_coupure": "Autres",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16924,7 +16993,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Corcoué-sur-Logne",
-        "commune": "Corcoué-sur-Logne / Legé",
+        "commune": "Commune",
         "type_coupure": "Ouvrage d'art",
         "cause": "Chantier",
         "priorite": "Moyenne",
@@ -16970,7 +17039,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D178 / Pont-Saint-Martin",
-        "commune": "Les Sorinières / Pont-Saint-Martin",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -16993,7 +17062,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Bouaye vers Bouguenais",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -17016,7 +17085,7 @@
         "source": "CD44",
         "gestionnaire": "CD44",
         "route": "D723 / Bouguenais",
-        "commune": "Pornic vers Nantes",
+        "commune": "Commune",
         "type_coupure": "Bouchon",
         "cause": "Bouchon",
         "priorite": "Moyenne",
@@ -26403,12 +26472,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-27T08:12:59.551Z",
+    "generated": "2026-10-27T14:48:13.043Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 374,
+    "total_count": 377,
     "sources": {
       "grist_35": 89,
-      "cd44": 25,
+      "cd44": 28,
       "rennes_metropole": 100
     }
   }
