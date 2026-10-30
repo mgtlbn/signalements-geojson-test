@@ -16455,22 +16455,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
+          -2.1784591914895355,
+          47.2981180521444
         ]
       },
       "properties": {
         "id": "cd44-undefined",
         "source": "CD44",
         "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
+        "route": "D213 / Pont de Saint Nazaire",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
         "priorite": "Moyenne",
         "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "29-10-2026 21:30:30"
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "30-10-2026 06:24:11"
       }
     },
     {
@@ -16493,7 +16493,30 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Travaux de réfection de chaussée",
-        "date_heure": "29-10-2026 08:00:56"
+        "date_heure": "30-10-2026 06:23:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "29-10-2026 21:30:30"
       }
     },
     {
@@ -16609,29 +16632,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "27-10-2026 12:55:23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1784591914895355,
-          47.2981180521444
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "26-10-2026 22:00:56"
       }
     },
     {
@@ -28563,7 +28563,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-30T00:08:17.290Z",
+    "generated": "2026-10-30T06:13:25.778Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 442,
     "sources": {
