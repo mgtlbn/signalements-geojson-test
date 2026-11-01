@@ -16547,75 +16547,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1784591914895355,
-          47.2981180521444
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint Nazaire",
-        "commune": "Saint-Nazaire vers Saint-Brevin",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "30-10-2026 06:24:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0358499494784528,
-          47.39060566322516
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D28 / Loireauxence",
-        "commune": "Loireauxence / Vair-sur-Loire",
-        "type_coupure": "Réfection de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux de réfection de chaussée",
-        "date_heure": "30-10-2026 06:23:11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "29-10-2026 21:30:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -28480,12 +28411,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-01T20:15:09.240Z",
+    "generated": "2026-11-01T23:45:58.155Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 443,
+    "total_count": 440,
     "sources": {
       "grist_35": 89,
-      "cd44": 29,
+      "cd44": 26,
       "rennes_metropole": 100
     }
   }
