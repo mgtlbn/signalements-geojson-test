@@ -16639,29 +16639,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Commune",
-        "type_coupure": "Brume",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Brume",
-        "date_heure": "28-10-2026 07:54:04"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.1791981794712252,
           47.461248846626795
         ]
@@ -29351,12 +29328,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-10-31T22:43:17.576Z",
+    "generated": "2026-11-01T01:54:00.646Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 464,
+    "total_count": 463,
     "sources": {
       "grist_35": 89,
-      "cd44": 30,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
