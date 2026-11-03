@@ -16593,52 +16593,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1200426914207546,
-          47.417155179760336
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux sur ouvrage d'ar",
-        "commune": "Commune",
-        "type_coupure": "VL",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "31-10-2026 09:30:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1282965960717055,
-          47.37807917248528
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D723 / Vair-sur-Loire",
-        "commune": "Ancenis / Vair-sur-Loire",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "31-10-2026 09:30:48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -30011,12 +29965,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-02T22:24:48.216Z",
+    "generated": "2026-11-03T03:36:32.662Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 490,
+    "total_count": 488,
     "sources": {
       "grist_35": 89,
-      "cd44": 31,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
