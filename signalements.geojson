@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Basse-Indre / Indret",
+        "type_coupure": "Ravitaillement",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Ravitaillement",
+        "date_heure": "03-11-2026 21:30:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.174169522286495,
           47.289615250923106
         ]
@@ -16609,52 +16632,6 @@
         "statut": "Actif",
         "description": "Arrêt cause Exercice Sécurité",
         "date_heure": "01-11-2026 10:15:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Incident",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Incident",
-        "date_heure": "31-10-2026 07:27:13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Basse-Indre / Indret",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "28-10-2026 12:00:31"
       }
     },
     {
@@ -29299,12 +29276,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-03T19:09:05.157Z",
+    "generated": "2026-11-04T00:05:19.611Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 472,
+    "total_count": 471,
     "sources": {
       "grist_35": 89,
-      "cd44": 30,
+      "cd44": 29,
       "rennes_metropole": 100
     }
   }
