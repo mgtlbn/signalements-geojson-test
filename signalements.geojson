@@ -16455,29 +16455,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0372487358550937,
-          47.58332266918435
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D773 / Fégréac",
-        "commune": "Fégréac / Sévérac",
-        "type_coupure": "Obstacle",
-        "cause": "Autre danger",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Obstacle sur la chaussée",
-        "date_heure": "06-11-2026 11:36:20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.5097812876261123,
           47.13172317442644
         ]
@@ -30884,12 +30861,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-06T11:50:58.211Z",
+    "generated": "2026-11-06T18:57:11.922Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 513,
+    "total_count": 512,
     "sources": {
       "grist_35": 89,
-      "cd44": 28,
+      "cd44": 27,
       "rennes_metropole": 100
     }
   }
