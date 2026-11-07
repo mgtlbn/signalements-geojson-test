@@ -16455,6 +16455,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.718851828940023,
+          47.55528336765861
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D2 / Vay",
+        "commune": "Vay / Le Gâvre",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "07-11-2026 10:59:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7678181413461735,
+          47.55879380965181
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D2 / Le Gâvre",
+        "commune": "Le Gâvre / Plessé",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "07-11-2026 10:59:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.378151576658287,
+          47.29007568991637
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D31 / Divatte-sur-Loire",
+        "commune": "Mauves-sur-Loire / Divatte",
+        "type_coupure": "Aménagement de chaussée",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Aménagement de chaussée",
+        "date_heure": "07-11-2026 10:59:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.5097812876261123,
           47.13172317442644
         ]
@@ -16570,29 +16639,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.378151576658287,
-          47.29007568991637
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D31 / Divatte-sur-Loire",
-        "commune": "Mauves-sur-Loire / Divatte",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "02-11-2026 08:29:12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6593034574981314,
           46.99709027842735
         ]
@@ -16685,29 +16731,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.718851828940023,
-          47.55528336765861
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D2 / Vay",
-        "commune": "Vay / Le Gâvre",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "26-10-2026 08:00:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7033672964542492,
           47.5538046095133
         ]
@@ -16723,29 +16746,6 @@
         "priorite": "Moyenne",
         "statut": "Actif",
         "description": "Déviation",
-        "date_heure": "26-10-2026 08:00:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7678181413461735,
-          47.55879380965181
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D2 / Le Gâvre",
-        "commune": "Le Gâvre / Plessé",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
         "date_heure": "26-10-2026 08:00:56"
       }
     },
@@ -30815,7 +30815,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-07T04:54:30.637Z",
+    "generated": "2026-11-07T11:31:44.323Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 510,
     "sources": {
