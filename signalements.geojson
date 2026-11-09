@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.7593436408027985,
+          47.31934455044007
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D49 / Vigneux-de-Bretagne",
+        "commune": "Vigneux-de-B / Le Temple-de-B",
+        "type_coupure": "Accident",
+        "cause": "Accident",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Accident",
+        "date_heure": "09-11-2026 19:02:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7622403132356907,
+          47.31897544442074
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Accident / D49 -",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "09-11-2026 17:26:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6423553673563267,
           47.031041445969265
         ]
@@ -25710,6 +25756,323 @@
         "type": "LineString",
         "coordinates": [
           [
+            -1.819633647806674,
+            48.12067887094209
+          ],
+          [
+            -1.819619476555433,
+            48.12074138105734
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse de la Noë Boucher",
+        "commune": "35131 - l'Hermitage",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-11-09T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.819619476555433,
+            48.12074138105734
+          ],
+          [
+            -1.819577974297275,
+            48.12088921375349
+          ],
+          [
+            -1.819558886369657,
+            48.12122221387646
+          ],
+          [
+            -1.819678370481276,
+            48.12124804432988
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Impasse de la Noë Boucher",
+        "commune": "35131 - l'Hermitage",
+        "type_coupure": "MESURE DVPNO - MJC + OR",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-11-09T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.686486410307658,
+            48.12691661076295
+          ],
+          [
+            -1.685996278817026,
+            48.12625451502381
+          ],
+          [
+            -1.685715877148525,
+            48.12574031056274
+          ],
+          [
+            -1.685257275771233,
+            48.12480785622176
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "Rue de Saint-Malo, de l'Avenue Charles et Raymonde Tillon jusqu'à la Rue Barthélémy Pocquet et seulement dans le sens entrant donc Nord-Sud",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation interdite",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages d'eau potable",
+        "date_heure": "2026-11-04T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.661375066185034,
+            48.12489370211287
+          ],
+          [
+            -1.661368556502961,
+            48.12489912054102
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 26 au 30 Rue de Trégain",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-11-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.661368556502961,
+            48.12489912054102
+          ],
+          [
+            -1.661247943861992,
+            48.1250038631797
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 26 au 30 Rue de Trégain",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-11-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.660393374583198,
+            48.125755359956706
+          ],
+          [
+            -1.660727370124164,
+            48.12560457300057
+          ],
+          [
+            -1.660814762021797,
+            48.1255162472713
+          ],
+          [
+            -1.66090791482552,
+            48.125410484967084
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-2",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 26 au 30 Rue de Trégain",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-11-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.661247943861992,
+            48.1250038631797
+          ],
+          [
+            -1.661228046944833,
+            48.12502114204743
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-3",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "du 26 au 30 Rue de Trégain",
+        "commune": "35238 - Rennes",
+        "type_coupure": "Circulation alternée",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "d'aménagement de chaussée",
+        "date_heure": "2026-11-10T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.56266642039007,
+            48.01183780512363
+          ],
+          [
+            -1.562661038576628,
+            48.01188304711915
+          ],
+          [
+            -1.562669957353847,
+            48.011948663676534
+          ],
+          [
+            -1.562738578055113,
+            48.01231872711197
+          ],
+          [
+            -1.562779066424663,
+            48.01249408772273
+          ],
+          [
+            -1.562820555917145,
+            48.0126146495697
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-0",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "l'Erable",
+        "commune": "35250 - Saint-Armel",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-11-09T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.56596934650067,
+            48.01241944692717
+          ],
+          [
+            -1.565299848917244,
+            48.01229439627214
+          ],
+          [
+            -1.563827720211548,
+            48.01202744369541
+          ],
+          [
+            -1.563656872614603,
+            48.01199646086266
+          ],
+          [
+            -1.562904064304353,
+            48.01186170160215
+          ],
+          [
+            -1.56266642039007,
+            48.01183780512363
+          ]
+        ]
+      },
+      "properties": {
+        "id": "rm-undefined-1",
+        "source": "Rennes Métropole",
+        "gestionnaire": "Rennes Métropole",
+        "route": "l'Erable",
+        "commune": "35250 - Saint-Armel",
+        "type_coupure": "Rétrécissement temporaire de largeur de voie - PLATEFORMES",
+        "cause": "Travaux",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "sur réseaux ou ouvrages électriques",
+        "date_heure": "2026-11-09T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             -1.679281308015099,
             48.11726058054757
           ],
@@ -30746,697 +31109,15 @@
         "description": "sur réseaux ou ouvrages d'eau potable",
         "date_heure": "2026-11-04T00:00:00+00:00"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.729723421212868,
-            48.12326027102726
-          ],
-          [
-            -1.729133176987968,
-            48.12310760129029
-          ],
-          [
-            -1.728489682327874,
-            48.12296194894599
-          ],
-          [
-            -1.726657138388349,
-            48.12260799288359
-          ],
-          [
-            -1.725810605676348,
-            48.122398131686
-          ],
-          [
-            -1.725040470546472,
-            48.12219062242885
-          ],
-          [
-            -1.724603356707177,
-            48.12202042999507
-          ],
-          [
-            -1.724252291166911,
-            48.12184634077783
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.73010953780893,
-            48.123378240830384
-          ],
-          [
-            -1.729723421212868,
-            48.12326027102726
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.724252291166911,
-            48.12184634077783
-          ],
-          [
-            -1.724109378702515,
-            48.12175351516818
-          ],
-          [
-            -1.724031036874032,
-            48.12169359102402
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.723970605262706,
-            48.1216474272175
-          ],
-          [
-            -1.724057550419259,
-            48.12157693510242
-          ],
-          [
-            -1.724222636725829,
-            48.12121271731143
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "22 Rue du Pont-Lagot",
-        "commune": "35238 - Rennes, 35353 - Vezin-le-Coquet",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-10-26T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.642105696256362,
-            48.110682100773076
-          ],
-          [
-            -1.642567702539654,
-            48.11068367933156
-          ],
-          [
-            -1.642768327893155,
-            48.11101411325076
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Chemin de Baud, du 9 jusqu'à la Rue Jean-Marie Huchet",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-11-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.642768327893155,
-            48.11101411325076
-          ],
-          [
-            -1.643007017883891,
-            48.111407234406336
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "Chemin de Baud, du 9 jusqu'à la Rue Jean-Marie Huchet",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages électriques",
-        "date_heure": "2026-11-04T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.682792821410874,
-            48.1149826306399
-          ],
-          [
-            -1.683176562019957,
-            48.11503978693103
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "du 8 au 12 Rue d'Echange",
-        "commune": "35238 - Rennes",
-        "type_coupure": "Interdiction de stationnement",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "sur réseaux ou ouvrages d'eau potable",
-        "date_heure": "2026-10-27T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931381589782387,
-            48.28807468501204
-          ],
-          [
-            -1.930654779717688,
-            48.28815152013773
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-0",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931726613303865,
-            48.29155434443434
-          ],
-          [
-            -1.931486064624259,
-            48.29152409805953
-          ],
-          [
-            -1.93130054060896,
-            48.29145291304624
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-1",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.9323882839866,
-            48.29489452606366
-          ],
-          [
-            -1.932318522768039,
-            48.295267763242684
-          ],
-          [
-            -1.932245458184448,
-            48.295674748038024
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-2",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931866383948188,
-            48.29087989100611
-          ],
-          [
-            -1.931884476440699,
-            48.291068374176426
-          ],
-          [
-            -1.931862702388418,
-            48.29121459182237
-          ],
-          [
-            -1.931795756488871,
-            48.291416195462155
-          ],
-          [
-            -1.931726613303865,
-            48.29155434443434
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-3",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931999991602716,
-            48.29076810751079
-          ],
-          [
-            -1.931913035088847,
-            48.290809365160925
-          ],
-          [
-            -1.931866383948188,
-            48.29087989100611
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-4",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931381589782387,
-            48.28807468501204
-          ],
-          [
-            -1.931466804086161,
-            48.28866523440159
-          ],
-          [
-            -1.931552721333382,
-            48.289253772786466
-          ],
-          [
-            -1.931649379658347,
-            48.28985409055088
-          ],
-          [
-            -1.931778644424551,
-            48.290345819474716
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-5",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.932887486812857,
-            48.292694365411215
-          ],
-          [
-            -1.932899260056907,
-            48.29295611408371
-          ],
-          [
-            -1.932864705025619,
-            48.29317648659139
-          ],
-          [
-            -1.932750699740809,
-            48.29355792099648
-          ],
-          [
-            -1.932630319677151,
-            48.29393752876529
-          ],
-          [
-            -1.932484562489919,
-            48.29446697227682
-          ],
-          [
-            -1.9323882839866,
-            48.29489452606366
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-6",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931726613303865,
-            48.29155434443434
-          ],
-          [
-            -1.931668174927137,
-            48.29167110446476
-          ],
-          [
-            -1.931517997776793,
-            48.29189765874057
-          ],
-          [
-            -1.93148007586259,
-            48.29199702521426
-          ],
-          [
-            -1.93146204595332,
-            48.2920886578967
-          ],
-          [
-            -1.931503869755278,
-            48.29216704015355
-          ],
-          [
-            -1.931601316719274,
-            48.292257867238284
-          ],
-          [
-            -1.931814077720561,
-            48.29238919568764
-          ],
-          [
-            -1.932043046790338,
-            48.292474400351246
-          ],
-          [
-            -1.932360776908665,
-            48.292559939452154
-          ],
-          [
-            -1.932887486812857,
-            48.292694365411215
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-7",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931999991602716,
-            48.29076810751079
-          ],
-          [
-            -1.932053452663481,
-            48.29085942301751
-          ],
-          [
-            -1.932349203419718,
-            48.291333541325635
-          ],
-          [
-            -1.932698352941137,
-            48.29197713098126
-          ],
-          [
-            -1.932817258469816,
-            48.292291441314305
-          ],
-          [
-            -1.932843576312731,
-            48.29237615120924
-          ],
-          [
-            -1.932887486812857,
-            48.292694365411215
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-8",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931266666947268,
-            48.287151609866484
-          ],
-          [
-            -1.93129259936927,
-            48.28749004856334
-          ],
-          [
-            -1.931375432975859,
-            48.28803202027532
-          ],
-          [
-            -1.931381589782387,
-            48.28807468501204
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-9",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.931778644424551,
-            48.290345819474716
-          ],
-          [
-            -1.931793832377122,
-            48.29050404843814
-          ],
-          [
-            -1.931866383948188,
-            48.29087989100611
-          ]
-        ]
-      },
-      "properties": {
-        "id": "rm-undefined-10",
-        "source": "Rennes Métropole",
-        "gestionnaire": "Rennes Métropole",
-        "route": "au droit de\" les Marcades\"",
-        "commune": "35180 - Miniac-sous-Bécherel",
-        "type_coupure": "MESURE DVPNO - MJC + OR",
-        "cause": "Travaux",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "remplacement du point incendie",
-        "date_heure": "2026-11-05T00:00:00+00:00"
-      }
     }
   ],
   "metadata": {
-    "generated": "2026-11-09T10:05:33.075Z",
+    "generated": "2026-11-09T20:57:14.068Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 522,
+    "total_count": 515,
     "sources": {
       "grist_35": 89,
-      "cd44": 25,
+      "cd44": 27,
       "rennes_metropole": 100
     }
   }
