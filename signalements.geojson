@@ -16570,121 +16570,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.718851828940023,
-          47.55528336765861
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D2 / Vay",
-        "commune": "Vay / Le Gâvre",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "07-11-2026 10:59:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7678181413461735,
-          47.55879380965181
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D2 / Le Gâvre",
-        "commune": "Le Gâvre / Plessé",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "07-11-2026 10:59:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.378151576658287,
-          47.29007568991637
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D31 / Divatte-sur-Loire",
-        "commune": "Mauves-sur-Loire / Divatte",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "07-11-2026 10:59:06"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5097812876261123,
-          47.13172317442644
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D137 / Les Sorinières",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "06-11-2026 07:27:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5197892074353174,
-          47.130372661517875
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D178 / Les Sorinières",
-        "commune": "Commune",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "06-11-2026 07:27:18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.2856879739099136,
           47.346558869775826
         ]
@@ -31112,12 +30997,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-09T20:57:14.068Z",
+    "generated": "2026-11-10T03:20:05.168Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 515,
+    "total_count": 510,
     "sources": {
       "grist_35": 89,
-      "cd44": 27,
+      "cd44": 22,
       "rennes_metropole": 100
     }
   }
