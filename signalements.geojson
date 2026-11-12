@@ -16501,29 +16501,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7622403132356907,
-          47.31897544442074
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Accident / D49 -",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "10-11-2026 06:51:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.7593436408027985,
           47.31934455044007
         ]
@@ -28806,12 +28783,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-12T18:42:27.981Z",
+    "generated": "2026-11-12T23:58:23.358Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 449,
+    "total_count": 448,
     "sources": {
       "grist_35": 89,
-      "cd44": 21,
+      "cd44": 20,
       "rennes_metropole": 100
     }
   }
