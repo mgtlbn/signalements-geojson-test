@@ -16455,6 +16455,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.124855485257296,
+          47.441849392659975
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D18 / La Roche-Blanche",
+        "commune": "Vair-sur-Loire / La Roche-Blanche",
+        "type_coupure": "Autres",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Autres",
+        "date_heure": "14-11-2026 17:00:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1791981794712252,
+          47.461248846626795
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Autres / D19 / Maumusson",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "14-11-2026 17:00:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.183503647772379,
           47.30521331755172
         ]
@@ -16609,52 +16655,6 @@
         "statut": "Actif",
         "description": "Autres",
         "date_heure": "02-11-2026 08:28:50"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1791981794712252,
-          47.461248846626795
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Autres / D19 / Maumusson",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "27-10-2026 12:55:26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.124855485257296,
-          47.441849392659975
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D18 / La Roche-Blanche",
-        "commune": "Vair-sur-Loire / La Roche-Blanche",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "27-10-2026 12:55:23"
       }
     },
     {
@@ -31681,7 +31681,7 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-14T15:35:46.985Z",
+    "generated": "2026-11-14T20:27:32.499Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
     "total_count": 520,
     "sources": {
