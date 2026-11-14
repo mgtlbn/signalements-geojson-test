@@ -16501,29 +16501,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7593436408027985,
-          47.31934455044007
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D49 / Vigneux-de-Bretagne",
-        "commune": "Vigneux-de-B / Le Temple-de-B",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "10-11-2026 06:51:30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6423553673563267,
           47.031041445969265
         ]
@@ -31704,12 +31681,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-13T21:12:52.033Z",
+    "generated": "2026-11-14T01:35:20.215Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 521,
+    "total_count": 520,
     "sources": {
       "grist_35": 89,
-      "cd44": 20,
+      "cd44": 19,
       "rennes_metropole": 100
     }
   }
