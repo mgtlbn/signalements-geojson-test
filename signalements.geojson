@@ -16501,98 +16501,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6743617405076974,
-          47.19644470749437
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Bacs de Loire",
-        "commune": "Liaison : Couëron / Le Pellerin",
-        "type_coupure": "Ravitaillement",
-        "cause": "Bacs de Loire",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Arrêt cause Ravitaillement",
-        "date_heure": "16-11-2026 21:30:39"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2856879739099136,
-          47.346558869775826
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D323 / Oudon",
-        "commune": "Oudon / Le Cellier",
-        "type_coupure": "Autres",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Autres",
-        "date_heure": "16-11-2026 20:19:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.434589729614415,
-          47.49881412090276
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D33 / Joué-sur-Erdre",
-        "commune": "Joué-sur-Erdre / Nort-sur-Erdre",
-        "type_coupure": "Aménagement de chaussée",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Aménagement de chaussée",
-        "date_heure": "16-11-2026 20:19:57"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.168944744851105,
-          47.28307164621211
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Montoir-de-Bretagne",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "16-11-2026 18:02:47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.3518723034313447,
           47.54669086321222
         ]
@@ -31845,12 +31753,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-19T16:20:55.054Z",
+    "generated": "2026-11-19T23:08:47.907Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 504,
+    "total_count": 500,
     "sources": {
       "grist_35": 89,
-      "cd44": 25,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
