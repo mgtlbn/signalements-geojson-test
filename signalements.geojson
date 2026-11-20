@@ -16455,6 +16455,121 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1829134697908406,
+          47.30482668110326
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Nazaire",
+        "commune": "Saint-Nazaire vers Saint-Brevin",
+        "type_coupure": "Obstacle",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Obstacle sur la chaussée",
+        "date_heure": "20-11-2026 22:03:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1661269624533466,
+          47.279411325729086
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D213 / Saint-Brevin-les-Pins",
+        "commune": "Saint-Brevin vers Saint-Nazaire",
+        "type_coupure": "VL en panne",
+        "cause": "Autre danger",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Véhicule en panne",
+        "date_heure": "20-11-2026 19:59:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2229721507892646,
+          47.14187706800004
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D37 / Vallet",
+        "commune": "Vallet / Mouzillon",
+        "type_coupure": "Ouvrage d'art",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux sur ouvrage d'art",
+        "date_heure": "20-11-2026 16:36:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3518723034313447,
+          47.54669086321222
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Travaux d'entretien courant",
+        "commune": "Commune",
+        "type_coupure": "Tous les véhicules",
+        "cause": "Déviation",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Déviation",
+        "date_heure": "20-11-2026 16:36:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.351953920713002,
+          47.54626012140017
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "D41 / Riaillé",
+        "commune": "Riaillé / Joué-sur-Erdre",
+        "type_coupure": "Entretien courant",
+        "cause": "Chantier",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Travaux d'entretien courant",
+        "date_heure": "20-11-2026 16:36:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.6743617405076974,
           47.19644470749437
         ]
@@ -16517,52 +16632,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "18-11-2026 08:00:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.3518723034313447,
-          47.54669086321222
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "Travaux d'entretien courant",
-        "commune": "Commune",
-        "type_coupure": "Tous les véhicules",
-        "cause": "Déviation",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Déviation",
-        "date_heure": "16-11-2026 08:30:56"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.351953920713002,
-          47.54626012140017
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D41 / Riaillé",
-        "commune": "Riaillé / Joué-sur-Erdre",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "16-11-2026 08:30:56"
       }
     },
     {
@@ -16747,29 +16816,6 @@
         "statut": "Actif",
         "description": "Aménagement de chaussée",
         "date_heure": "16-10-2026 09:06:39 +0200"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.2229721507892646,
-          47.14187706800004
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D37 / Vallet",
-        "commune": "Vallet / Mouzillon",
-        "type_coupure": "Ouvrage d'art",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux sur ouvrage d'art",
-        "date_heure": "12-10-2026 08:00:56 +0200"
       }
     },
     {
@@ -26567,12 +26613,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-20T13:26:05.467Z",
+    "generated": "2026-11-20T21:25:50.788Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 376,
+    "total_count": 378,
     "sources": {
       "grist_35": 89,
-      "cd44": 22,
+      "cd44": 24,
       "rennes_metropole": 100
     }
   }
