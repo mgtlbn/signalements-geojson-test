@@ -16455,6 +16455,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.6743617405076974,
+          47.19644470749437
+        ]
+      },
+      "properties": {
+        "id": "cd44-undefined",
+        "source": "CD44",
+        "gestionnaire": "CD44",
+        "route": "Bacs de Loire",
+        "commune": "Liaison : Couëron / Le Pellerin",
+        "type_coupure": "Autre",
+        "cause": "Bacs de Loire",
+        "priorite": "Moyenne",
+        "statut": "Actif",
+        "description": "Arrêt cause Manoeuvre SDIS",
+        "date_heure": "25-11-2026 10:09:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.0036339284317655,
           47.1116673089484
         ]
@@ -30489,12 +30512,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-25T08:13:58.861Z",
+    "generated": "2026-11-25T18:45:20.073Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 474,
+    "total_count": 475,
     "sources": {
       "grist_35": 89,
-      "cd44": 20,
+      "cd44": 21,
       "rennes_metropole": 100
     }
   }
