@@ -16478,52 +16478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0036339284317655,
-          47.1116673089484
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D751 / Pornic",
-        "commune": "Chaumes-en-Retz / Pornic",
-        "type_coupure": "Accident",
-        "cause": "Accident",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Accident",
-        "date_heure": "24-11-2026 19:46:34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.1766350799348295,
-          47.29377674482418
-        ]
-      },
-      "properties": {
-        "id": "cd44-undefined",
-        "source": "CD44",
-        "gestionnaire": "CD44",
-        "route": "D213 / Pont de Saint-Nazaire",
-        "commune": "Saint-Nazaire / Saint-Brevin",
-        "type_coupure": "Entretien courant",
-        "cause": "Chantier",
-        "priorite": "Moyenne",
-        "statut": "Actif",
-        "description": "Travaux d'entretien courant",
-        "date_heure": "24-11-2026 07:20:58"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.6760774213110385,
           46.89848538410476
         ]
@@ -27085,12 +27039,12 @@
     }
   ],
   "metadata": {
-    "generated": "2026-11-27T21:50:53.455Z",
+    "generated": "2026-11-28T03:43:47.469Z",
     "source": "Fusion Grist 35 + CD44 + Rennes Métropole",
-    "total_count": 400,
+    "total_count": 398,
     "sources": {
       "grist_35": 89,
-      "cd44": 21,
+      "cd44": 19,
       "rennes_metropole": 100
     }
   }
